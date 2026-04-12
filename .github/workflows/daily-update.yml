@@ -1,6 +1,9 @@
 name: Update Sales Dashboard
 
 on:
+  push:
+    paths:
+      - '.github/workflows/daily-update.yml'
   schedule:
     # Runs daily at 9pm UTC (5am AWST next day)
     - cron: '0 21 * * *'
