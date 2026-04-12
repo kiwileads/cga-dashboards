@@ -1,0 +1,9 @@
+{
+  "name": "cga-dashboards",
+  "version": "1.0.0",
+  "description": "CGA Growers Association - Sales Pipeline Dashboards",
+  "scripts": {
+    "update": "node scripts/update-dashboard.js"
+  },
+  "private": true
+}
