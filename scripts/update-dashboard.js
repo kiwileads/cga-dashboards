@@ -73,12 +73,79 @@ function extractOpp(opp) {
   const isNewField = opp.customFields?.find((f) => f.id === CUSTOM_FIELD_IS_NEW);
   const notesField = opp.customFields?.find((f) => f.id === CUSTOM_FIELD_NOTES);
   return {
+    id: opp.id,
     name: opp.name || "Unnamed",
     company: opp.contact?.companyName || "",
     amount: opp.monetaryValue || 0,
+    status: opp.status || "open",
     isNew: isNewField?.fieldValueString || null,
     notes: (notesField?.fieldValueString || "").replace(/\\/g, "\\\\").replace(/`/g, "\\`").replace(/\$/g, "\\$"),
   };
+}
+
+const SNAPSHOT_PATH = path.join(__dirname, "..", "data", "snapshot.json");
+const AUDIT_LOG_PATH = path.join(__dirname, "..", "data", "audit-log.json");
+const MAX_AUDIT_ENTRIES = 500;
+
+function loadSnapshot() {
+  try { return JSON.parse(fs.readFileSync(SNAPSHOT_PATH, "utf8")); }
+  catch { return null; }
+}
+
+function loadAuditLog() {
+  try { return JSON.parse(fs.readFileSync(AUDIT_LOG_PATH, "utf8")); }
+  catch { return []; }
+}
+
+function generateAuditEntries(prevSnapshot, newSnapshot, timestamp) {
+  if (!prevSnapshot) return [{ date: timestamp, type: "init", message: "Dashboard initialized - first data pull" }];
+
+  const entries = [];
+  const prevOpps = {};
+  const newOpps = {};
+
+  prevSnapshot.forEach(p => p.opps.forEach(o => { prevOpps[o.id] = { ...o, pipeline: p.pipelineName }; }));
+  newSnapshot.forEach(p => p.opps.forEach(o => { newOpps[o.id] = { ...o, pipeline: p.pipelineName }; }));
+
+  // New opportunities
+  for (const [id, opp] of Object.entries(newOpps)) {
+    if (!prevOpps[id]) {
+      entries.push({ date: timestamp, type: "added", pipeline: opp.pipeline, name: opp.name, company: opp.company, amount: opp.amount, status: opp.status, message: `New opportunity: ${opp.name} (${opp.pipeline}) - $${opp.amount.toFixed(2)}` });
+    }
+  }
+
+  // Removed opportunities
+  for (const [id, opp] of Object.entries(prevOpps)) {
+    if (!newOpps[id]) {
+      entries.push({ date: timestamp, type: "removed", pipeline: opp.pipeline, name: opp.name, company: opp.company, amount: opp.amount, status: opp.status, message: `Removed: ${opp.name} (${opp.pipeline}) - $${opp.amount.toFixed(2)}` });
+    }
+  }
+
+  // Changed opportunities
+  for (const [id, opp] of Object.entries(newOpps)) {
+    const prev = prevOpps[id];
+    if (!prev) continue;
+
+    if (prev.amount !== opp.amount) {
+      const diff = opp.amount - prev.amount;
+      const arrow = diff > 0 ? "+" : "";
+      entries.push({ date: timestamp, type: "value_change", pipeline: opp.pipeline, name: opp.name, company: opp.company, amount: opp.amount, prevAmount: prev.amount, message: `${opp.name}: value changed $${prev.amount.toFixed(2)} -> $${opp.amount.toFixed(2)} (${arrow}${diff.toFixed(2)})` });
+    }
+
+    if (prev.status !== opp.status) {
+      entries.push({ date: timestamp, type: "status_change", pipeline: opp.pipeline, name: opp.name, company: opp.company, amount: opp.amount, prevStatus: prev.status, newStatus: opp.status, message: `${opp.name}: status changed ${prev.status} -> ${opp.status}` });
+    }
+
+    if (prev.isNew !== opp.isNew) {
+      entries.push({ date: timestamp, type: "field_change", pipeline: opp.pipeline, name: opp.name, company: opp.company, amount: opp.amount, message: `${opp.name}: "New Business" changed ${prev.isNew || "Not Set"} -> ${opp.isNew || "Not Set"}` });
+    }
+
+    if (prev.name !== opp.name) {
+      entries.push({ date: timestamp, type: "renamed", pipeline: opp.pipeline, name: opp.name, company: opp.company, amount: opp.amount, message: `Renamed: "${prev.name}" -> "${opp.name}"` });
+    }
+  }
+
+  return entries;
 }
 
 function escapeForJS(str) {
@@ -96,7 +163,7 @@ function pipelineToJS(pipeline, opps) {
   return `      { name: "${pipeline.name}", fullName: "${pipeline.fullName}", value: ${value}, color: "${pipeline.color}", opportunities: [\n${oppLines}\n      ]}`;
 }
 
-function generateHTML(wonData, openData, updatedDate) {
+function generateHTML(wonData, openData, auditData, updatedDate) {
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,6 +193,8 @@ ${wonData}
     const OPEN_DATA = [
 ${openData}
     ];
+
+    const AUDIT_LOG = ${auditData};
 
     function polarToCartesian(cx, cy, r, a) { const rad=((a-90)*Math.PI)/180; return {x:cx+r*Math.cos(rad),y:cy+r*Math.sin(rad)}; }
     function describeArc(cx,cy,r,s,e) { const st=polarToCartesian(cx,cy,r,e),en=polarToCartesian(cx,cy,r,s),l=e-s>180?1:0; return \`M \${cx} \${cy} L \${st.x} \${st.y} A \${r} \${r} 0 \${l} 0 \${en.x} \${en.y} Z\`; }
@@ -289,6 +358,58 @@ ${openData}
       );
     }
 
+    const AUDIT_ICONS = { added: "+", removed: "-", value_change: "$", status_change: "~", field_change: "F", renamed: "R", init: "i" };
+    const AUDIT_COLORS = { added: "#4ade80", removed: "#f87171", value_change: "#60a5fa", status_change: "#facc15", field_change: "#c084fc", renamed: "#fb923c", init: "#8b949e" };
+
+    function AuditLog() {
+      const [expanded, setExpanded] = React.useState(false);
+      if (!AUDIT_LOG || AUDIT_LOG.length === 0) return null;
+
+      const grouped = {};
+      AUDIT_LOG.forEach(e => {
+        const day = new Date(e.date).toLocaleDateString("en-AU", { day: "numeric", month: "short", year: "numeric" });
+        if (!grouped[day]) grouped[day] = [];
+        grouped[day].push(e);
+      });
+      const days = Object.keys(grouped);
+      const displayDays = expanded ? days : days.slice(0, 5);
+
+      return (
+        <div style={{marginTop:50}}>
+          <h2 style={{textAlign:"center",fontSize:20,fontWeight:700,color:"#fff",marginBottom:6}}>Change Log</h2>
+          <p style={{textAlign:"center",fontSize:13,color:"#6e7681",marginBottom:20}}>What changed between each daily update</p>
+          <div style={{background:"#161920",borderRadius:12,border:"1px solid #21262d",maxWidth:900,margin:"0 auto",padding:"0"}}>
+            {displayDays.map((day, di) => (
+              <div key={day}>
+                <div style={{padding:"12px 20px",background:"#1c1f26",borderBottom:"1px solid #21262d",borderTop:di>0?"1px solid #21262d":"none",display:"flex",justifyContent:"space-between",alignItems:"center"}}>
+                  <span style={{fontSize:13,fontWeight:700,color:"#e1e4e8"}}>{day}</span>
+                  <span style={{fontSize:12,color:"#6e7681"}}>{grouped[day].length} change{grouped[day].length!==1?"s":""}</span>
+                </div>
+                {grouped[day].map((entry, i) => (
+                  <div key={i} style={{padding:"8px 20px",borderBottom:"1px solid #161920",display:"flex",alignItems:"flex-start",gap:10}}>
+                    <div style={{width:22,height:22,borderRadius:6,background:AUDIT_COLORS[entry.type]+"20",color:AUDIT_COLORS[entry.type],display:"flex",alignItems:"center",justifyContent:"center",fontSize:12,fontWeight:700,flexShrink:0,marginTop:1}}>
+                      {AUDIT_ICONS[entry.type]}
+                    </div>
+                    <div style={{flex:1,minWidth:0}}>
+                      <div style={{fontSize:12,color:"#e1e4e8"}}>{entry.message}</div>
+                      {entry.pipeline && <span style={{fontSize:10,color:"#484f58"}}>{entry.pipeline}</span>}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ))}
+            {days.length > 5 && (
+              <div style={{padding:"12px 20px",textAlign:"center",borderTop:"1px solid #21262d"}}>
+                <button onClick={()=>setExpanded(!expanded)} style={{background:"none",border:"1px solid #30363d",borderRadius:6,color:"#8b949e",cursor:"pointer",fontSize:12,padding:"6px 16px"}}>
+                  {expanded ? "Show less" : \`Show all \${days.length} days\`}
+                </button>
+              </div>
+            )}
+          </div>
+        </div>
+      );
+    }
+
     function Dashboard() {
       return (
         <div>
@@ -299,6 +420,7 @@ ${openData}
             <DonutChart data={OPEN_DATA} title="Open Opportunities" subtitle="deals in progress" centerLabel="Total Open"/>
           </div>
           <BusinessTypeTable title="Open Opportunities - New vs Existing Business" allData={OPEN_DATA}/>
+          <AuditLog />
         </div>
       );
     }
@@ -353,13 +475,31 @@ async function main() {
     return bVal - aVal;
   });
 
+  // --- Audit Log ---
+  const now = new Date();
+  const timestamp = now.toISOString();
+  const allNewData = [
+    ...openPipelines.map(p => ({ pipelineName: p.pipeline.name, status: "open", opps: p.opps })),
+    ...wonPipelines.map(p => ({ pipelineName: p.pipeline.name, status: "won", opps: p.opps })),
+  ];
+
+  const prevSnapshot = loadSnapshot();
+  const auditEntries = generateAuditEntries(prevSnapshot, allNewData, timestamp);
+  const existingLog = loadAuditLog();
+  const updatedLog = [...auditEntries, ...existingLog].slice(0, MAX_AUDIT_ENTRIES);
+
+  fs.writeFileSync(SNAPSHOT_PATH, JSON.stringify(allNewData, null, 2));
+  fs.writeFileSync(AUDIT_LOG_PATH, JSON.stringify(updatedLog, null, 2));
+  console.log(`  Audit: ${auditEntries.length} changes detected`);
+
+  // --- Build HTML ---
   const wonJS = wonPipelines.map((p) => pipelineToJS(p.pipeline, p.opps)).join(",\n");
   const openJS = openPipelines.map((p) => pipelineToJS(p.pipeline, p.opps)).join(",\n");
+  const auditJS = JSON.stringify(updatedLog.slice(0, 200));
 
-  const now = new Date();
   const updatedDate = now.toLocaleDateString("en-AU", { day: "numeric", month: "long", year: "numeric" });
 
-  const html = generateHTML(wonJS, openJS, updatedDate);
+  const html = generateHTML(wonJS, openJS, auditJS, updatedDate);
 
   const outputPath = path.join(__dirname, "..", "index.html");
   fs.writeFileSync(outputPath, html);
