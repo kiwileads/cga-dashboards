@@ -28,7 +28,7 @@ Automated sales pipeline dashboards for CGA Growers Association, pulling live da
 - scripts/update-dashboard.js calls GHL API directly
 - Rebuilds index.html with fresh data
 - Commits and pushes automatically
-- GitHub Pages serves it at dashboards.hortxp.com
+- GitHub Pages serves it at dashboards.cga.org.au
 
 ## Commands
 - Manual update: `node scripts/update-dashboard.js` (needs GHL_API_KEY env var)
