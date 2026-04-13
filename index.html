@@ -22,121 +22,124 @@
 
     const WON_DATA = [
       { name: "CHEMICALS", fullName: "SALES - CHEMICALS", value: 54807, color: "#4ade80", opportunities: [
-          { name: "KARYN WIGGINS", company: "Hi-Way Plantation", amount: 12690, isNew: null, notes: "OPPORTUNITY PRICE BASED ON \\$1410+GST PER BOTTLE" },
-          { name: "NXKD FAMILY TRUST", company: "NXKD FAMILY TRUST", amount: 14100, isNew: null, notes: "OPPORTUNITY PRICE BASED \\$1410+GST PER BOTTLE" },
-          { name: "Denis Durmanich", company: "ACE PRODUCE", amount: 28017, isNew: null, notes: "OPPORTUNITY VALUE BASED ON \\$1273.50+GST PER BOTTLE" }
+          { name: "KARYN WIGGINS", company: "Hi-Way Plantation", amount: 12690, stage: "CLOSED", isNew: null, notes: "OPPORTUNITY PRICE BASED ON \\$1410+GST PER BOTTLE" },
+          { name: "NXKD FAMILY TRUST", company: "NXKD FAMILY TRUST", amount: 14100, stage: "CLOSED", isNew: null, notes: "OPPORTUNITY PRICE BASED \\$1410+GST PER BOTTLE" },
+          { name: "Denis Durmanich", company: "ACE PRODUCE", amount: 28017, stage: "CLOSED", isNew: null, notes: "OPPORTUNITY VALUE BASED ON \\$1273.50+GST PER BOTTLE" }
       ]},
       { name: "CUSTOM BOXES", fullName: "SALES - CUSTOM BOXES", value: 45000, color: "#60a5fa", opportunities: [
-          { name: "Duc Nguyen", company: "NGUYEN & HUYNH & CHIN", amount: 45000, isNew: null, notes: "" }
+          { name: "Duc Nguyen", company: "NGUYEN & HUYNH & CHIN", amount: 45000, stage: "CLOSED", isNew: null, notes: "" }
       ]},
       { name: "FERTILIZER", fullName: "SALES - FERTILIZER", value: 21052.54, color: "#f472b6", opportunities: [
-          { name: "Kevin & Karina Sullivan", company: "Sulli Bros Plantation", amount: 13996.54, isNew: null, notes: "8 x 25kg genfarm mancozeb\n8 x 20lt copper guard\n192 (4plt) yaramila complex\nQU-04015> INV-444498 DELIVERY 10/3/2026" },
-          { name: "Al Holtham", company: "Janna", amount: 7056, isNew: null, notes: "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst" }
+          { name: "Kevin & Karina Sullivan", company: "Sulli Bros Plantation", amount: 13996.54, stage: "CLOSED", isNew: null, notes: "8 x 25kg genfarm mancozeb\n8 x 20lt copper guard\n192 (4plt) yaramila complex\nQU-04015> INV-444498 DELIVERY 10/3/2026" },
+          { name: "Al Holtham", company: "Janna", amount: 7056, stage: "CLOSED", isNew: null, notes: "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst" }
       ]},
       { name: "IRRIGATION", fullName: "SALES - IRRIGATION", value: 11172, color: "#facc15", opportunities: [
-          { name: "Marko Borich", company: "BORICH AND SONS", amount: 5372, isNew: "Yes", notes: "1PLT OF 508-20-500 T-TAPE\nQU-04016\nSOLD ON 11/3/2026 INV-444593" },
-          { name: "Ray Elaine Skender", company: "SKENDER PTY LTD", amount: 5800, isNew: null, notes: "ON INVOICE 444301" }
+          { name: "Marko Borich", company: "BORICH AND SONS", amount: 5372, stage: "CLOSED", isNew: "Yes", notes: "1PLT OF 508-20-500 T-TAPE\nQU-04016\nSOLD ON 11/3/2026 INV-444593" },
+          { name: "Ray Elaine Skender", company: "SKENDER PTY LTD", amount: 5800, stage: "CLOSED", isNew: null, notes: "ON INVOICE 444301" }
       ]},
       { name: "GENERAL MERCH", fullName: "SALES - GENERAL MERCH", value: 6200, color: "#c084fc", opportunities: [
-          { name: "Jack Morel", company: "JACK MOREL", amount: 6200, isNew: null, notes: "PINE POST 2.4MTR 100MM -125MM\nREFER TO QU-0400" }
+          { name: "Jack Morel", company: "JACK MOREL", amount: 6200, stage: "CLOSED", isNew: null, notes: "PINE POST 2.4MTR 100MM -125MM\nREFER TO QU-0400" }
       ]}
     ];
 
     const OPEN_DATA = [
       { name: "CUSTOM BOXES", fullName: "SALES - CUSTOM BOXES", value: 293000, color: "#60a5fa", opportunities: [
-          { name: "Kevin Burkett", company: "KF & PD BURKETT", amount: 0, isNew: null, notes: "Keving is holding a Mango board meeting this week.\nrequesting price from opal and visy for old size mango box and liner" },
-          { name: "Dennis Mark David Bumbak", company: "BUMBAK & SONS", amount: 173600, isNew: null, notes: "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE" },
-          { name: "Al Holtham", company: "Janna", amount: 37200, isNew: null, notes: "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE" },
-          { name: "LUKE SKENDER", company: "GLENDALE PLANTATION", amount: 37200, isNew: null, notes: "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE" },
-          { name: "Quoc Su Thi Thanh Tran Dinh", company: "TRAN & DINH", amount: 45000, isNew: null, notes: "OPPORTUNITY VALUE BASED ON \\$1.49+GST" }
+          { name: "Kevin Burkett", company: "KF & PD BURKETT", amount: 0, stage: "NEW LEAD", isNew: null, notes: "Keving is holding a Mango board meeting this week.\nrequesting price from opal and visy for old size mango box and liner" },
+          { name: "Dennis Mark David Bumbak", company: "BUMBAK & SONS", amount: 173600, stage: "CONTACTED", isNew: null, notes: "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE" },
+          { name: "Al Holtham", company: "Janna", amount: 37200, stage: "CONTACTED", isNew: null, notes: "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE" },
+          { name: "LUKE SKENDER", company: "GLENDALE PLANTATION", amount: 37200, stage: "CONTACTED", isNew: null, notes: "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE" },
+          { name: "Quoc Su Thi Thanh Tran Dinh", company: "TRAN & DINH", amount: 45000, stage: "PROPOSAL SENT", isNew: null, notes: "OPPORTUNITY VALUE BASED ON \\$1.49+GST" }
       ]},
       { name: "FERTILIZER", fullName: "SALES - FERTILIZER", value: 128722.08, color: "#f472b6", opportunities: [
-          { name: "SERGOMIL L60", company: "GLENDALE PLANTATION", amount: 606, isNew: null, notes: "1 X 20LT SERGOMIL L60" },
-          { name: "SERGOMIL L60", company: "Janna", amount: 0, isNew: "Yes", notes: "QUOTE \n1000LT OF SERGOMIL\n20LT OF SERGOMIL\nQUOTED ON 8/4/26 ON QU-04049" },
-          { name: "LOW BURITE UREA", company: "BUMBAK & SONS", amount: 0, isNew: "Yes", notes: "10 BAGS LOW BURIE UREA\n\nEMAILED IVY AND NINO AT NUTRIEN. 8/4/26" },
-          { name: "MANGO FERTILISER", company: "A & N Gugich Plantation", amount: 8104.64, isNew: "No", notes: "96 X YARAMILA COMPLEX\n108 X NEUTROG BOUNCE BACK\nON QU-03985" },
-          { name: "ECO PRIME", company: "BORICH & SONS", amount: 7956, isNew: "Yes", notes: "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL." },
-          { name: "ECO RED", company: "DOUBLE UP FARMS PTY LTD", amount: 2500, isNew: "Yes", notes: "1 PLT ECO RED" },
-          { name: "BACCHUS 30KG", company: "Janna", amount: 3062.2, isNew: "Yes", notes: "30 KG OF BACCHUS.\nOPPORTUNITY LOST DUE TO CLIENT GOING TO SMALLER PACK FROM STOCK." },
-          { name: "YEARLY FERTILISER", company: "GIULIANO CONDO", amount: 36500, isNew: "Yes", notes: "192 X 25KG EPSOM SALT\n144 X 25KG HAIFA POT NITRATE- 2 PLTS (96) TAKEN ON INV-445059\n147 X 25KG POT SULPHATE - 2PLTS (98) TAKEN ON INV-445059\n5 X 1000LT FLEXI N\n144 X 25KG CACIUM NITRATE - 2PLS (96) TAKEN ON INV-445059\n10 X 25KG ZINK SULPHATE \n10 X 5KG MANGANESE SULPHATE\n96 X 25KG PEKACID\n48 X HAIFA POLYFEED L/K\nQU-04032\n" },
-          { name: "FERTILISER", company: "P SHAIN", amount: 7549.8, isNew: "Yes", notes: "1x plt urea\n1x plt potassium nitrate\n1x 1000lt metham sodium\n2 x 20lt pool chlorine \nON QU-04030.\n\n\n" },
-          { name: "ECO PRIME BULK", company: "BORICH AND SONS", amount: 3978.44, isNew: "Yes", notes: "2 X BULK BAG ECO PRIME" },
-          { name: "FERTILISER", company: "NXKD FAMILY TRUST", amount: 26000, isNew: null, notes: "240 X POTASSIUM NITRATE \n240 X CALCIUM NITRATE\n144 EPSOM SLAT" },
-          { name: "ECO PRIME", company: "Hi-Way Plantation", amount: 20000, isNew: "Yes", notes: "8 X 1000KG ECO PRIME BULK BAGS" },
-          { name: "ECO PRIME BULK", company: "Janna", amount: 3979.44, isNew: "Yes", notes: "2X 1000KG BULK BAGS eco prime" },
-          { name: "ECO PRIME BULK", company: "GLENDALE PLANTATION", amount: 1989.72, isNew: "Yes", notes: "1 X 1000KG BULK BAGS" },
-          { name: "ECO PRIME 20KG BAGS", company: "A & N Gugich Plantation", amount: 2516.4, isNew: "Yes", notes: "54 X 20KG BAGS\nOPPORTUNITY LOST DUE TO CLIENT BUYING YARAMILA COMPLEX" },
-          { name: "ECO PRIME", company: "ACE PRODUCE", amount: 3979.44, isNew: "Yes", notes: "2 X 1000KG BULK BAGS" },
-          { name: "GRANULAR POT SULPHATE", company: "GLENDALE PLANTATION", amount: 0, isNew: null, notes: "BULK BAG GRANULAR POTASSIUM SULPHATE\nOPORTUNITY LOST DUE TO GOING DIFFERENT DIRRECTION." }
+          { name: "SERGOMIL L60", company: "GLENDALE PLANTATION", amount: 606, stage: "PROPOSAL SENT", isNew: null, notes: "1 X 20LT SERGOMIL L60" },
+          { name: "SERGOMIL L60", company: "Janna", amount: 0, stage: "PROPOSAL SENT", isNew: "Yes", notes: "QUOTE \n1000LT OF SERGOMIL\n20LT OF SERGOMIL\nQUOTED ON 8/4/26 ON QU-04049" },
+          { name: "LOW BURITE UREA", company: "BUMBAK & SONS", amount: 0, stage: "NEW LEAD", isNew: "Yes", notes: "10 BAGS LOW BURIE UREA\n\nEMAILED IVY AND NINO AT NUTRIEN. 8/4/26" },
+          { name: "MANGO FERTILISER", company: "A & N Gugich Plantation", amount: 8104.64, stage: "PROPOSAL SENT", isNew: "No", notes: "96 X YARAMILA COMPLEX\n108 X NEUTROG BOUNCE BACK\nON QU-03985" },
+          { name: "ECO PRIME", company: "BORICH & SONS", amount: 7956, stage: "PROPOSAL SENT", isNew: "Yes", notes: "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL." },
+          { name: "ECO RED", company: "DOUBLE UP FARMS PTY LTD", amount: 2500, stage: "CLOSED", isNew: "Yes", notes: "1 PLT ECO RED" },
+          { name: "BACCHUS 30KG", company: "Janna", amount: 3062.2, stage: "LOST", isNew: "Yes", notes: "30 KG OF BACCHUS.\nOPPORTUNITY LOST DUE TO CLIENT GOING TO SMALLER PACK FROM STOCK." },
+          { name: "YEARLY FERTILISER", company: "GIULIANO CONDO", amount: 36500, stage: "PROPOSAL SENT", isNew: "Yes", notes: "192 X 25KG EPSOM SALT\n144 X 25KG HAIFA POT NITRATE- 2 PLTS (96) TAKEN ON INV-445059\n147 X 25KG POT SULPHATE - 2PLTS (98) TAKEN ON INV-445059\n5 X 1000LT FLEXI N\n144 X 25KG CACIUM NITRATE - 2PLS (96) TAKEN ON INV-445059\n10 X 25KG ZINK SULPHATE \n10 X 5KG MANGANESE SULPHATE\n96 X 25KG PEKACID\n48 X HAIFA POLYFEED L/K\nQU-04032\n" },
+          { name: "FERTILISER", company: "P SHAIN", amount: 7549.8, stage: "PROPOSAL SENT", isNew: "Yes", notes: "1x plt urea\n1x plt potassium nitrate\n1x 1000lt metham sodium\n2 x 20lt pool chlorine \nON QU-04030.\n\n\n" },
+          { name: "ECO PRIME BULK", company: "BORICH AND SONS", amount: 3978.44, stage: "CLOSED", isNew: "Yes", notes: "2 X BULK BAG ECO PRIME" },
+          { name: "FERTILISER", company: "NXKD FAMILY TRUST", amount: 26000, stage: "CLOSED", isNew: null, notes: "240 X POTASSIUM NITRATE \n240 X CALCIUM NITRATE\n144 EPSOM SLAT" },
+          { name: "ECO PRIME", company: "Hi-Way Plantation", amount: 20000, stage: "PROPOSAL SENT", isNew: "Yes", notes: "8 X 1000KG ECO PRIME BULK BAGS" },
+          { name: "ECO PRIME BULK", company: "Janna", amount: 3979.44, stage: "CLOSED", isNew: "Yes", notes: "2X 1000KG BULK BAGS eco prime" },
+          { name: "ECO PRIME BULK", company: "GLENDALE PLANTATION", amount: 1989.72, stage: "CLOSED", isNew: "Yes", notes: "1 X 1000KG BULK BAGS" },
+          { name: "ECO PRIME 20KG BAGS", company: "A & N Gugich Plantation", amount: 2516.4, stage: "LOST", isNew: "Yes", notes: "54 X 20KG BAGS\nOPPORTUNITY LOST DUE TO CLIENT BUYING YARAMILA COMPLEX" },
+          { name: "ECO PRIME", company: "ACE PRODUCE", amount: 3979.44, stage: "CLOSED", isNew: "Yes", notes: "2 X 1000KG BULK BAGS" },
+          { name: "GRANULAR POT SULPHATE", company: "GLENDALE PLANTATION", amount: 0, stage: "LOST", isNew: null, notes: "BULK BAG GRANULAR POTASSIUM SULPHATE\nOPORTUNITY LOST DUE TO GOING DIFFERENT DIRRECTION." }
       ]},
-      { name: "CHEMICALS", fullName: "SALES - CHEMICALS", value: 94373.92, color: "#4ade80", opportunities: [
-          { name: "Oscar Leca", company: "J & M LECA", amount: 9306, isNew: "No", notes: "6 X 90KG STRIKE 60\nON SALES ORD-478579" },
-          { name: "Al Holtham", company: "Janna", amount: 7741.35, isNew: "Yes", notes: "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538" },
-          { name: "FRANK PAULINO", company: "M. F PAULINO & TTF A.F PAULINO ESTATE", amount: 7569.32, isNew: null, notes: "40 X 10LT DORMEX - ORD-478385" },
-          { name: "Andrew Durmanich", company: "V & M Durmanich", amount: 13246.31, isNew: null, notes: "70 X 10LT DORMEX -ORD-478470" },
-          { name: "OSCAR LECA", company: "J & M LECA", amount: 9461.65, isNew: "No", notes: "50 X 10LT DORMEX\nON SALES ORDER ORD-478473" },
-          { name: "JUANITO GORGONIO", company: "GOR", amount: 8601.5, isNew: "No", notes: "50 X 10LT DORMEX ON SALES ORDER ORD-478481" },
-          { name: "Julian Condo", company: "GIULIANO CONDO", amount: 20284.66, isNew: "No", notes: "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472" },
-          { name: "Luke Skender - GLENDALE PLANTATION", company: "GLENDALE PLANTATION", amount: 4163.13, isNew: "Yes", notes: "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026" },
-          { name: "Nxkd Family Trust", company: "NXKD FAMILY TRUST", amount: 14000, isNew: null, notes: "5 x stike 60 inline 140kg" }
+      { name: "CHEMICALS", fullName: "SALES - CHEMICALS", value: 93557.42, color: "#4ade80", opportunities: [
+          { name: "ROUNDUP", company: "Shire of Upper Gascoyne", amount: 0, stage: "PROPOSAL SENT", isNew: "Yes", notes: "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER." },
+          { name: "STRIKE 60 90KG", company: "J & M LECA", amount: 9306, stage: "INVOICED/BOOKED OUT", isNew: "No", notes: "6 X 90KG STRIKE 60\nON SALES ORD-478579\nINCOICED ON THE 26/3/26 ON INV-445251" },
+          { name: "DORMEX GRAPES 26", company: "Janna", amount: 7741.35, stage: "PROPOSAL SENT", isNew: "Yes", notes: "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538" },
+          { name: "DORMEX GRAPES 26", company: "M. F PAULINO & TTF A.F PAULINO ESTATE", amount: 7569.32, stage: "PROPOSAL SENT", isNew: null, notes: "40 X 10LT DORMEX - ORD-478385" },
+          { name: "DORMEX GRAPES 26", company: "V & M Durmanich", amount: 13246.31, stage: "PROPOSAL SENT", isNew: null, notes: "70 X 10LT DORMEX -ORD-478470" },
+          { name: "DORMEX GRAPES 26", company: "J & M LECA", amount: 9461.65, stage: "PROPOSAL SENT", isNew: "No", notes: "50 X 10LT DORMEX\nON SALES ORDER ORD-478473" },
+          { name: "DORMEX GRAPES 26", company: "GOR", amount: 8601.5, stage: "PROPOSAL SENT", isNew: "No", notes: "50 X 10LT DORMEX ON SALES ORDER ORD-478481" },
+          { name: "DORMEX GRAPES 26", company: "GIULIANO CONDO", amount: 20284.66, stage: "PROPOSAL SENT", isNew: "No", notes: "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472" },
+          { name: "DORMEX GRAPES 26", company: "GLENDALE PLANTATION", amount: 4163.13, stage: "PROPOSAL SENT", isNew: "Yes", notes: "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026" },
+          { name: "STRIKE 60 DRIP 140KG", company: "NXKD FAMILY TRUST", amount: 13183.5, stage: "INVOICED/BOOKED OUT", isNew: "Yes", notes: "5 x stike 60 inline 140kg\nINVOICED ON 11/3/26 ON INV-44610 AND DELIVERED." }
       ]},
       { name: "GENERAL MERCH", fullName: "SALES - GENERAL MERCH", value: 80358.88, color: "#c084fc", opportunities: [
-          { name: "GENERAL MERCH", company: "DAVENPORT PRODUCE (LED)", amount: 0, isNew: "Yes", notes: "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO AMEILED TO LUKE." },
-          { name: "PINE POLES 3.6M 100-125MM", company: "JACK MOREL", amount: 0, isNew: "Yes", notes: "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS" },
-          { name: "BLUE STRING", company: "GIANG TRAN FAMILY TRUST", amount: 1958.88, isNew: null, notes: "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE" },
-          { name: "PINE POLES", company: "V & M Durmanich", amount: 16500, isNew: "Yes", notes: "400 X 2.4M 125-150MM PINE POLES\nON QU-04031" },
-          { name: "SORGHUM SEED", company: "DOUBLE UP FARMS PTY LTD", amount: 0, isNew: "Yes", notes: "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046" },
-          { name: "DIESEL TANKS", company: "DOUBLE UP FARMS PTY LTD", amount: 9500, isNew: "Yes", notes: "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED" },
-          { name: "Dennis Durmanich", company: "DOUBLE UP FARMS PTY LTD", amount: 8500, isNew: "No", notes: "10 X 5000 SANDOR" },
-          { name: "Richard B Arends - RACHEAL", company: "", amount: 2500, isNew: "Yes", notes: "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS" },
-          { name: "Ellen Arscott", company: "Monique", amount: 400, isNew: "No", notes: "10kg x BORLOTTI BEANS" },
-          { name: "Andrew Durmanich", company: "V & M Durmanich", amount: 17000, isNew: "Yes", notes: "PINE POST 2.4 METER 150-175MM" },
-          { name: "Al Holtham", company: "Janna", amount: 24000, isNew: null, notes: "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST" }
+          { name: "GENERAL MERCH", company: "DAVENPORT PRODUCE (LED)", amount: 0, stage: "PROPOSAL SENT", isNew: "Yes", notes: "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO AMEILED TO LUKE." },
+          { name: "PINE POLES 3.6M 100-125MM", company: "JACK MOREL", amount: 0, stage: "INVOICED/BOOKED OUT", isNew: "Yes", notes: "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS" },
+          { name: "BLUE STRING", company: "GIANG TRAN FAMILY TRUST", amount: 1958.88, stage: "LOST", isNew: null, notes: "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE" },
+          { name: "PINE POLES", company: "V & M Durmanich", amount: 16500, stage: "PROPOSAL SENT", isNew: "Yes", notes: "400 X 2.4M 125-150MM PINE POLES\nON QU-04031" },
+          { name: "SORGHUM SEED", company: "DOUBLE UP FARMS PTY LTD", amount: 0, stage: "PROPOSAL SENT", isNew: "Yes", notes: "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046" },
+          { name: "DIESEL TANKS", company: "DOUBLE UP FARMS PTY LTD", amount: 9500, stage: "PROPOSAL SENT", isNew: "Yes", notes: "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED" },
+          { name: "Dennis Durmanich", company: "DOUBLE UP FARMS PTY LTD", amount: 8500, stage: "PROPOSAL SENT", isNew: "No", notes: "10 X 5000 SANDOR" },
+          { name: "Richard B Arends - RACHEAL", company: "", amount: 2500, stage: "NEW LEAD", isNew: "Yes", notes: "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS" },
+          { name: "Ellen Arscott", company: "Monique", amount: 400, stage: "PROPOSAL SENT", isNew: "No", notes: "10kg x BORLOTTI BEANS" },
+          { name: "Andrew Durmanich", company: "V & M Durmanich", amount: 17000, stage: "PROPOSAL SENT", isNew: "Yes", notes: "PINE POST 2.4 METER 150-175MM" },
+          { name: "Al Holtham", company: "Janna", amount: 24000, stage: "PROPOSAL SENT", isNew: null, notes: "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST" }
       ]},
       { name: "ROB's CUSTOM", fullName: "SALES - ROB'S CUSTOM ORDERS", value: 49837.64000000001, color: "#2dd4bf", opportunities: [
-          { name: "DOSING PUMP", company: "CORAL COAST PLUMBING PTY LTD", amount: 0, isNew: null, notes: "QU-04048 - 08.04.26" },
-          { name: "SAFETY GEAR", company: "SHIRE OF CARNARVON", amount: 2046.96, isNew: null, notes: "QU-04047 - 07.04.26 - EMAILED TO LOCKIE.S@CARNARVON.WA.GOV.AU" },
-          { name: "CRI 5-12-A (MECHANICAL SEAL DOSING PUMP)", company: "SORICO PLANTATION", amount: 370, isNew: null, notes: "PLEASE SOURCE PART FOR ROB SCOTT" },
-          { name: "FITTINGS - LAKE MCLEOD", company: "LEICHARDT", amount: 209.01, isNew: null, notes: "QU-04044\nINV-445562/445564" },
-          { name: "SOUG - MULTISTAGE PUMP - WPF-MHQP-MINI", company: "Shire of Upper Gascoyne", amount: 2041.88, isNew: "Yes", notes: "QU-04042 / QU-04041" },
-          { name: "Sean Walker", company: "Shire of Upper Gascoyne", amount: 2042, isNew: "No", notes: "Purchase Order P70278\no/n 10029\n1 x Variable Speed Pump" },
-          { name: "Leichardt Scott Medhurst", company: "LEICHARDT", amount: 0, isNew: "No", notes: "QUOTE ON \n1 X KEYSTONE SWING TYPE WAFER CHECK VALVE \n100MM \nREFER TO EMAIL FROM WARREN HATT  ON TUESDAY 7/4/26 @7:31AM\n\n" },
-          { name: "DEGREASER 200 LT - HORIZON POWER", company: "HORIZON POWER", amount: 1633.5, isNew: "Yes", notes: "P/O P70268 - 31.03.26\nQU-04033\n" },
-          { name: "Leichardt Scott Medhurst", company: "LEICHARDT", amount: 962.5, isNew: "No", notes: "P70258 - 02.04.26 - #1071130795\nP/O LMC 33501495\n2 x #WPG-96688081   40L Tank PE2TRANSP./BLACK\nCONTACT Des CCP when arrives. \nDESPATCHED 7/04/26. Arrived." },
-          { name: "Warren Schmidt", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 0, isNew: "Yes", notes: "PLEASE QUOTE GPS ON\n3 X 200 METER COILS OF 32MM BLUELINE POLY PN20" },
-          { name: "NMC PRO - LEXAN", company: "J & P CONSTANTINE", amount: 525.25, isNew: "No", notes: "P70244 - 26.03.26 - CALL JULIAN ONCE IN - A/C - CON" },
-          { name: "TRAN2 - DARK BLUE TWINE", company: "CRNARVON GROWERS", amount: 9402.62, isNew: null, notes: "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK" },
-          { name: "Duc Nguyen", company: "NGUYEN & HUYNH & CHIN", amount: 2369.4, isNew: "Yes", notes: "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n" },
-          { name: "HDPE S/S REPAIR CLAMP x 2", company: "", amount: 559.9, isNew: null, notes: "P70232\nOUR CODE #MISCTYCWBUM" },
-          { name: "STARLINE PUMP x 3", company: "M RASO'S CONTRACTING", amount: 11880, isNew: "Yes", notes: "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit." },
-          { name: "KIN SANG CHIN", company: "KINSANG FRESH PTY LTD", amount: 1876.6, isNew: "No", notes: "Honda Pump GX160 with reduction box 6:1 for Crawler." },
-          { name: "Kevin & Karina Sullivan", company: "Sulli Bros Plantation", amount: 2500, isNew: "No", notes: "Originally wanted a price on a pump. Kevin did mention that he had 3 pumps at home and the motors were stuffed. I gave him a price on motors only and he ordered 2 motors to suit the pumps." },
-          { name: "JASON & KYLIE CHAPLIN", company: "CORAL COAST PLUMBING PTY LTD", amount: 1070, isNew: "Yes", notes: "Business taken off competitor due to lag. Steve approached me and I sorted it out straight away." },
-          { name: "Dennis Durmanich", company: "DOUBLE UP FARMS PTY LTD", amount: 615.12, isNew: "Yes", notes: "Dorot Valve 2\" float Flanged for Oasis Caravan Park" },
-          { name: "THE PHUONG TRINH", company: "PHUONG & BE BA", amount: 251.5, isNew: "Yes", notes: "2 x silvan spraybar 3060mm long x 7 jets - SIL038-172\n1 X DIAPHRAGM PUMP 70-80 BAR 6 SPLINE SINGLE OR THRU SHAFT" },
-          { name: "Christopher Leca", company: "199 North River Road", amount: 2369.4, isNew: "No", notes: "WARRANTY ON VOLUMEX MOTOR PURCHASED LASTYEAR.\n\nPURCHASED VIA NUTRIEN BUT SILVAN PRODUCT CHECK YOU EMAILS FOR THE REST OF THE DETAILS.\n\nNEW MOTOR PICKED UP 24/3/26 STILL NOT WORKING. VIDE SENT VIAN WHATSAPP." },
-          { name: "BYRON & SARA SUTCLIFFE", company: "Sutcliffe plantation", amount: 0, isNew: "Yes", notes: "1 X 100METER X 90MM X 3MM WALL THICKNESS BLUELINE POLY (ACUTECH)\n1 X 100 METER FLEXNET 80MM X 3METER SPACING (NETAFIM). TRY 1MTR SPACINGS\nRUNNING PRESSURE 2 BAR. SUPPLY CHARTS THURSDAY.\n\n23/3/26\nSpoke to Byron Sutcliffe and advised that Dura-pol has landed into Fremantle and going through quarantine. Will call him when it arrives to cga." },
-          { name: "Dennis Durmanich - Irrigation setup", company: "DOUBLE UP FARMS PTY LTD", amount: 7112, isNew: "Yes", notes: "This is a trial. If it works prospect of another 4 units in addition." }
+          { name: "DOSING PUMP", company: "CORAL COAST PLUMBING PTY LTD", amount: 0, stage: "PROCUREMENT UNDERWAY", isNew: null, notes: "QU-04048 - 08.04.26" },
+          { name: "SAFETY GEAR", company: "SHIRE OF CARNARVON", amount: 2046.96, stage: "PROCUREMENT UNDERWAY", isNew: null, notes: "QU-04047 - 07.04.26 - EMAILED TO LOCKIE.S@CARNARVON.WA.GOV.AU" },
+          { name: "CRI 5-12-A (MECHANICAL SEAL DOSING PUMP)", company: "SORICO PLANTATION", amount: 370, stage: "COLLECTED/INVOICED", isNew: null, notes: "PLEASE SOURCE PART FOR ROB SCOTT" },
+          { name: "FITTINGS - LAKE MCLEOD", company: "LEICHARDT", amount: 209.01, stage: "COLLECTED/INVOICED", isNew: null, notes: "QU-04044\nINV-445562/445564" },
+          { name: "SOUG - MULTISTAGE PUMP - WPF-MHQP-MINI", company: "Shire of Upper Gascoyne", amount: 2041.88, stage: "P/O GENERATED", isNew: "Yes", notes: "QU-04042 / QU-04041" },
+          { name: "Sean Walker", company: "Shire of Upper Gascoyne", amount: 2042, stage: "DELIVERY ON SCHEDULE", isNew: "No", notes: "Purchase Order P70278\no/n 10029\n1 x Variable Speed Pump" },
+          { name: "Leichardt Scott Medhurst", company: "LEICHARDT", amount: 0, stage: "NEW ORDER/JOB", isNew: "No", notes: "QUOTE ON \n1 X KEYSTONE SWING TYPE WAFER CHECK VALVE \n100MM \nREFER TO EMAIL FROM WARREN HATT  ON TUESDAY 7/4/26 @7:31AM\n\n" },
+          { name: "DEGREASER 200 LT - HORIZON POWER", company: "HORIZON POWER", amount: 1633.5, stage: "SHIPPING CONFIRMED", isNew: "Yes", notes: "P/O P70268 - 31.03.26\nQU-04033\n" },
+          { name: "Leichardt Scott Medhurst", company: "LEICHARDT", amount: 962.5, stage: "COLLECTED/INVOICED", isNew: "No", notes: "P70258 - 02.04.26 - #1071130795\nP/O LMC 33501495\n2 x #WPG-96688081   40L Tank PE2TRANSP./BLACK\nCONTACT Des CCP when arrives. \nDESPATCHED 7/04/26. Arrived." },
+          { name: "Warren Schmidt", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 0, stage: "NEW ORDER/JOB", isNew: "Yes", notes: "PLEASE QUOTE GPS ON\n3 X 200 METER COILS OF 32MM BLUELINE POLY PN20" },
+          { name: "NMC PRO - LEXAN", company: "J & P CONSTANTINE", amount: 525.25, stage: "DELIVERY DELAYED", isNew: "No", notes: "P70244 - 26.03.26 - CALL JULIAN ONCE IN - A/C - CON" },
+          { name: "TRAN2 - DARK BLUE TWINE", company: "CRNARVON GROWERS", amount: 9402.62, stage: "ARRIVED AT CGA", isNew: null, notes: "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK" },
+          { name: "Duc Nguyen", company: "NGUYEN & HUYNH & CHIN", amount: 2369.4, stage: "PROCUREMENT UNDERWAY", isNew: "Yes", notes: "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n" },
+          { name: "HDPE S/S REPAIR CLAMP x 2", company: "", amount: 559.9, stage: "ARRIVED AT CGA", isNew: null, notes: "P70232\nOUR CODE #MISCTYCWBUM" },
+          { name: "STARLINE PUMP x 3", company: "M RASO'S CONTRACTING", amount: 11880, stage: "ARRIVED AT CGA", isNew: "Yes", notes: "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit." },
+          { name: "KIN SANG CHIN", company: "KINSANG FRESH PTY LTD", amount: 1876.6, stage: "DELIVERY DELAYED", isNew: "No", notes: "Honda Pump GX160 with reduction box 6:1 for Crawler." },
+          { name: "Kevin & Karina Sullivan", company: "Sulli Bros Plantation", amount: 2500, stage: "COLLECTED/INVOICED", isNew: "No", notes: "Originally wanted a price on a pump. Kevin did mention that he had 3 pumps at home and the motors were stuffed. I gave him a price on motors only and he ordered 2 motors to suit the pumps." },
+          { name: "JASON & KYLIE CHAPLIN", company: "CORAL COAST PLUMBING PTY LTD", amount: 1070, stage: "ARRIVED AT CGA", isNew: "Yes", notes: "Business taken off competitor due to lag. Steve approached me and I sorted it out straight away." },
+          { name: "Dennis Durmanich", company: "DOUBLE UP FARMS PTY LTD", amount: 615.12, stage: "COLLECTED/INVOICED", isNew: "Yes", notes: "Dorot Valve 2\" float Flanged for Oasis Caravan Park" },
+          { name: "THE PHUONG TRINH", company: "PHUONG & BE BA", amount: 251.5, stage: "DELIVERY DELAYED", isNew: "Yes", notes: "2 x silvan spraybar 3060mm long x 7 jets - SIL038-172\n1 X DIAPHRAGM PUMP 70-80 BAR 6 SPLINE SINGLE OR THRU SHAFT" },
+          { name: "Christopher Leca", company: "199 North River Road", amount: 2369.4, stage: "COLLECTED/INVOICED", isNew: "No", notes: "WARRANTY ON VOLUMEX MOTOR PURCHASED LASTYEAR.\n\nPURCHASED VIA NUTRIEN BUT SILVAN PRODUCT CHECK YOU EMAILS FOR THE REST OF THE DETAILS.\n\nNEW MOTOR PICKED UP 24/3/26 STILL NOT WORKING. VIDE SENT VIAN WHATSAPP." },
+          { name: "BYRON & SARA SUTCLIFFE", company: "Sutcliffe plantation", amount: 0, stage: "NEW ORDER/JOB", isNew: "Yes", notes: "1 X 100METER X 90MM X 3MM WALL THICKNESS BLUELINE POLY (ACUTECH)\n1 X 100 METER FLEXNET 80MM X 3METER SPACING (NETAFIM). TRY 1MTR SPACINGS\nRUNNING PRESSURE 2 BAR. SUPPLY CHARTS THURSDAY.\n\n23/3/26\nSpoke to Byron Sutcliffe and advised that Dura-pol has landed into Fremantle and going through quarantine. Will call him when it arrives to cga." },
+          { name: "Dennis Durmanich - Irrigation setup", company: "DOUBLE UP FARMS PTY LTD", amount: 7112, stage: "ARRIVED AT CGA", isNew: "Yes", notes: "This is a trial. If it works prospect of another 4 units in addition." }
       ]},
-      { name: "IRRIGATION", fullName: "SALES - IRRIGATION", value: 37386.99, color: "#facc15", opportunities: [
-          { name: "WARREN SCHMIDT", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 1649.47, isNew: "Yes", notes: "40 X POLY - COPPER 32MMX20MM COUPLING\n2 X BLUELINE POLY 32MM PN12.5 200MTR \n2 X BLUELINE POLY 32MM PN12.5 50MTR" },
-          { name: "PVC PIPE", company: "Janna", amount: 2000, isNew: "Yes", notes: "17 X PVC PIPE #9 80MM\n2 BOX OF 15MM COBRA CLIPS\n2 BOX OF 20MM COBRA CLIPS\nQUOTE excepted" },
-          { name: "Peter Arscott", company: "", amount: 12000, isNew: "Yes", notes: "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim" },
-          { name: "Kevin & Karina Sullivan", company: "Sulli Bros Plantation", amount: 12000, isNew: "Yes", notes: "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim" },
-          { name: "D5000 DRIP PIPE", company: "GLENDALE PLANTATION", amount: 6500, isNew: "Yes", notes: "UPGRADED OF FARM IRRIGATION TO D5000 DRIP\n14000 meters 35 ROLLS\n\nSTOCK ARRIVED TO CGA ON 01/04/26\nHOLD TILL AFTER EASTER LONG WEEKEND\n\n8/4/26 INVOICED ON INV-445628 AND DELIVERED\n" },
-          { name: "D5000 DRIPLINE", company: "Janna", amount: 3237.52, isNew: "Yes", notes: "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED" }
+      { name: "IRRIGATION", fullName: "SALES - IRRIGATION", value: 36507.52, color: "#facc15", opportunities: [
+          { name: "REDUCING HEX NIPPLE 150 x 100", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 0, stage: "NEW LEAD", isNew: null, notes: "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100" },
+          { name: "POLY ELBOWS x 20", company: "Shire of Upper Gascoyne", amount: 0, stage: "NEW LEAD", isNew: null, notes: "20 x poly elbow 15mm barb to 20mm male thread" },
+          { name: "PLASSON POLY TO COPPER FITTING", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 770, stage: "INVOICED/BOOKED OUT", isNew: "Yes", notes: "40 X POLY - COPPER 32MMX20MM COUPLING\nINVOICE ON THE 9/4/26 ON INV-445738\n" },
+          { name: "PVC PIPE", company: "Janna", amount: 2000, stage: "INVOICED/BOOKED OUT", isNew: "Yes", notes: "17 X PVC PIPE #9 80MM\n2 BOX OF 15MM COBRA CLIPS\n2 BOX OF 20MM COBRA CLIPS\nQUOTE EXCEPTED\n\nCOBRA CLIPS ON INV-445431 ON THE 2/04/26\nPVC PIPE ON INV-444933 ON THE 18/3/26\n\n" },
+          { name: "Peter Arscott", company: "", amount: 12000, stage: "NEW LEAD", isNew: "Yes", notes: "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim" },
+          { name: "Kevin & Karina Sullivan", company: "Sulli Bros Plantation", amount: 12000, stage: "NEW LEAD", isNew: "Yes", notes: "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim" },
+          { name: "D5000 DRIP PIPE", company: "GLENDALE PLANTATION", amount: 6500, stage: "INVOICED/BOOKED OUT", isNew: "Yes", notes: "UPGRADED OF FARM IRRIGATION TO D5000 DRIP\n14000 meters 35 ROLLS\n\nSTOCK ARRIVED TO CGA ON 01/04/26\nHOLD TILL AFTER EASTER LONG WEEKEND\n\n8/4/26 INVOICED ON INV-445628 AND DELIVERED\n" },
+          { name: "D5000 DRIPLINE", company: "Janna", amount: 3237.52, stage: "INVOICED/BOOKED OUT", isNew: "Yes", notes: "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED" }
       ]},
       { name: "BIANCA's ORDERS", fullName: "SALES - BIANCA'S ORDERS", value: 7763.41, color: "#f59e0b", opportunities: [
-          { name: "PINE POSTS - 2.1 100-125MM x 100", company: "CASH CUSTOMER", amount: 1398.1, isNew: "Yes", notes: "P70267 - 02.04.26 - BISHOPS TRANSPORT" },
-          { name: "PINE POSTS - 2.4M 100-125MM x 50", company: "GOR", amount: 915, isNew: null, notes: "P70267 - 02.04.26 - BISHOPS TRANSPORT" },
-          { name: "PINE POSTS - 2.4 - 100-125MM", company: "BQ LUU & TNT PHAM", amount: 915, isNew: "Yes", notes: "50 x 2.4 - 100-125MM\nP70267 - 02.04.26" },
-          { name: "Giang T Tran", company: "GIANG TRAN FAMILY TRUST", amount: 2200, isNew: null, notes: "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253" },
-          { name: "DAVEY PUMP - HM60-06T", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 1426.83, isNew: "Yes", notes: "QU-04039 - 25.03.26 - HM60-06T\nP70249 - 31.03.26" },
-          { name: "DAVEY PUMP - HP45-05T", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 908.48, isNew: "Yes", notes: "QU-04040 - 26.03.26 - HP45-05T\nINV-445268 - TO BE COLLECTED - SITTING IN THE PICK-UP BAY" }
+          { name: "PINE POSTS - 2.1 100-125MM x 100", company: "CASH CUSTOMER", amount: 1398.1, stage: "SHIPPING CONFIRMED", isNew: "Yes", notes: "P70267 - 02.04.26 - BISHOPS TRANSPORT" },
+          { name: "PINE POSTS - 2.4M 100-125MM x 50", company: "GOR", amount: 915, stage: "SHIPPING CONFIRMED", isNew: null, notes: "P70267 - 02.04.26 - BISHOPS TRANSPORT" },
+          { name: "PINE POSTS - 2.4 - 100-125MM", company: "BQ LUU & TNT PHAM", amount: 915, stage: "SHIPPING CONFIRMED", isNew: "Yes", notes: "50 x 2.4 - 100-125MM\nP70267 - 02.04.26" },
+          { name: "Giang T Tran", company: "GIANG TRAN FAMILY TRUST", amount: 2200, stage: "P/O GENERATED", isNew: null, notes: "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253" },
+          { name: "DAVEY PUMP - HM60-06T", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 1426.83, stage: "P/O GENERATED", isNew: "Yes", notes: "QU-04039 - 25.03.26 - HM60-06T\nP70249 - 31.03.26" },
+          { name: "DAVEY PUMP - HP45-05T", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 908.48, stage: "COLLECTED/INVOICED", isNew: "Yes", notes: "QU-04040 - 26.03.26 - HP45-05T\nINV-445268 - TO BE COLLECTED - SITTING IN THE PICK-UP BAY" }
       ]}
     ];
 
-    const AUDIT_LOG = [{"date":"2026-04-12T14:59:34.002Z","type":"init","message":"Dashboard initialized - first data pull"}];
+    const AUDIT_LOG = [{"date":"2026-04-13T02:02:13.493Z","type":"added","pipeline":"CHEMICALS","name":"ROUNDUP","company":"Shire of Upper Gascoyne","amount":0,"status":"open","message":"New opportunity: ROUNDUP (CHEMICALS) - $0.00"},{"date":"2026-04-13T02:02:13.493Z","type":"added","pipeline":"IRRIGATION","name":"REDUCING HEX NIPPLE 150 x 100","company":"GASCOYNE PLUMBING SOLUTIONS PTY LTD","amount":0,"status":"open","message":"New opportunity: REDUCING HEX NIPPLE 150 x 100 (IRRIGATION) - $0.00"},{"date":"2026-04-13T02:02:13.493Z","type":"added","pipeline":"IRRIGATION","name":"POLY ELBOWS x 20","company":"Shire of Upper Gascoyne","amount":0,"status":"open","message":"New opportunity: POLY ELBOWS x 20 (IRRIGATION) - $0.00"},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"STRIKE 60 90KG","company":"J & M LECA","amount":9306,"message":"Renamed: \"Oscar Leca\" -> \"STRIKE 60 90KG\""},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"DORMEX GRAPES 26","company":"Janna","amount":7741.35,"message":"Renamed: \"Al Holtham\" -> \"DORMEX GRAPES 26\""},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"DORMEX GRAPES 26","company":"M. F PAULINO & TTF A.F PAULINO ESTATE","amount":7569.32,"message":"Renamed: \"FRANK PAULINO\" -> \"DORMEX GRAPES 26\""},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"DORMEX GRAPES 26","company":"V & M Durmanich","amount":13246.31,"message":"Renamed: \"Andrew Durmanich\" -> \"DORMEX GRAPES 26\""},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"DORMEX GRAPES 26","company":"J & M LECA","amount":9461.65,"message":"Renamed: \"OSCAR LECA\" -> \"DORMEX GRAPES 26\""},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"DORMEX GRAPES 26","company":"GOR","amount":8601.5,"message":"Renamed: \"JUANITO GORGONIO\" -> \"DORMEX GRAPES 26\""},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"DORMEX GRAPES 26","company":"GIULIANO CONDO","amount":20284.66,"message":"Renamed: \"Julian Condo\" -> \"DORMEX GRAPES 26\""},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"DORMEX GRAPES 26","company":"GLENDALE PLANTATION","amount":4163.13,"message":"Renamed: \"Luke Skender - GLENDALE PLANTATION\" -> \"DORMEX GRAPES 26\""},{"date":"2026-04-13T02:02:13.493Z","type":"value_change","pipeline":"CHEMICALS","name":"STRIKE 60 DRIP 140KG","company":"NXKD FAMILY TRUST","amount":13183.5,"prevAmount":14000,"message":"STRIKE 60 DRIP 140KG: value changed $14000.00 -> $13183.50 (-816.50)"},{"date":"2026-04-13T02:02:13.493Z","type":"field_change","pipeline":"CHEMICALS","name":"STRIKE 60 DRIP 140KG","company":"NXKD FAMILY TRUST","amount":13183.5,"message":"STRIKE 60 DRIP 140KG: \"New Business\" changed Not Set -> Yes"},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"CHEMICALS","name":"STRIKE 60 DRIP 140KG","company":"NXKD FAMILY TRUST","amount":13183.5,"message":"Renamed: \"Nxkd Family Trust\" -> \"STRIKE 60 DRIP 140KG\""},{"date":"2026-04-13T02:02:13.493Z","type":"value_change","pipeline":"IRRIGATION","name":"PLASSON POLY TO COPPER FITTING","company":"GASCOYNE PLUMBING SOLUTIONS PTY LTD","amount":770,"prevAmount":1649.47,"message":"PLASSON POLY TO COPPER FITTING: value changed $1649.47 -> $770.00 (-879.47)"},{"date":"2026-04-13T02:02:13.493Z","type":"renamed","pipeline":"IRRIGATION","name":"PLASSON POLY TO COPPER FITTING","company":"GASCOYNE PLUMBING SOLUTIONS PTY LTD","amount":770,"message":"Renamed: \"WARREN SCHMIDT\" -> \"PLASSON POLY TO COPPER FITTING\""},{"date":"2026-04-12T14:59:34.002Z","type":"init","message":"Dashboard initialized - first data pull"}];
 
     function polarToCartesian(cx, cy, r, a) { const rad=((a-90)*Math.PI)/180; return {x:cx+r*Math.cos(rad),y:cy+r*Math.sin(rad)}; }
     function describeArc(cx,cy,r,s,e) { const st=polarToCartesian(cx,cy,r,e),en=polarToCartesian(cx,cy,r,s),l=e-s>180?1:0; return `M ${cx} ${cy} L ${st.x} ${st.y} A ${r} ${r} 0 ${l} 0 ${en.x} ${en.y} Z`; }
@@ -300,6 +303,87 @@
       );
     }
 
+    function StageExplorer({allData}) {
+      const [selectedStage, setSelectedStage] = React.useState(null);
+      const [selectedPipeline, setSelectedPipeline] = React.useState("all");
+
+      const allOpps = [];
+      allData.forEach(p => p.opportunities.forEach(o => allOpps.push({...o, pipeline: p.name, pipelineFullName: p.fullName, pipelineColor: p.color})));
+
+      // Get unique pipelines
+      const pipelines = [...new Set(allData.map(p => p.name))];
+
+      // Filter by pipeline first
+      const pipelineFiltered = selectedPipeline === "all" ? allOpps : allOpps.filter(o => o.pipeline === selectedPipeline);
+
+      // Get unique stages from filtered opps
+      const stages = [...new Set(pipelineFiltered.map(o => o.stage))].sort();
+
+      // Filter by stage
+      const filtered = selectedStage ? pipelineFiltered.filter(o => o.stage === selectedStage) : pipelineFiltered;
+      const totalValue = filtered.reduce((s, o) => s + o.amount, 0);
+
+      // Stage counts for badges
+      const stageCounts = {};
+      pipelineFiltered.forEach(o => { stageCounts[o.stage] = (stageCounts[o.stage] || 0) + 1; });
+
+      return (
+        <div style={{marginTop:50}}>
+          <h2 style={{textAlign:"center",fontSize:20,fontWeight:700,color:"#fff",marginBottom:6}}>Stage Explorer</h2>
+          <p style={{textAlign:"center",fontSize:13,color:"#6e7681",marginBottom:20}}>Find opportunities by pipeline stage</p>
+
+          {/* Pipeline filter */}
+          <div style={{display:"flex",justifyContent:"center",gap:8,marginBottom:12,flexWrap:"wrap"}}>
+            <button onClick={()=>{setSelectedPipeline("all");setSelectedStage(null);}} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:selectedPipeline==="all"?"#60a5fa50":"#30363d",background:selectedPipeline==="all"?"#1a2332":"#161920",color:selectedPipeline==="all"?"#60a5fa":"#8b949e",cursor:"pointer",fontSize:12,fontWeight:selectedPipeline==="all"?600:400}}>All Pipelines</button>
+            {pipelines.map(p => {
+              const pData = allData.find(d => d.name === p);
+              return <button key={p} onClick={()=>{setSelectedPipeline(p);setSelectedStage(null);}} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:selectedPipeline===p?pData.color+"50":"#30363d",background:selectedPipeline===p?"#1c1f26":"#161920",color:selectedPipeline===p?pData.color:"#8b949e",cursor:"pointer",fontSize:12,fontWeight:selectedPipeline===p?600:400}}>{p}</button>;
+            })}
+          </div>
+
+          {/* Stage buttons */}
+          <div style={{display:"flex",justifyContent:"center",gap:8,marginBottom:20,flexWrap:"wrap"}}>
+            <button onClick={()=>setSelectedStage(null)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:!selectedStage?"#facc1550":"#30363d",background:!selectedStage?"#2d2a14":"#161920",color:!selectedStage?"#facc15":"#8b949e",cursor:"pointer",fontSize:12,fontWeight:!selectedStage?600:400}}>
+              All Stages ({pipelineFiltered.length})
+            </button>
+            {stages.map(stage => (
+              <button key={stage} onClick={()=>setSelectedStage(stage)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:selectedStage===stage?"#facc1550":"#30363d",background:selectedStage===stage?"#2d2a14":"#161920",color:selectedStage===stage?"#facc15":"#8b949e",cursor:"pointer",fontSize:12,fontWeight:selectedStage===stage?600:400}}>
+                {stage} ({stageCounts[stage]||0})
+              </button>
+            ))}
+          </div>
+
+          {/* Results table */}
+          <div style={{background:"#161920",borderRadius:12,border:"1px solid #21262d",overflow:"hidden",maxWidth:1000,margin:"0 auto"}}>
+            <div style={{display:"grid",gridTemplateColumns:"1fr 130px 140px 100px 110px",padding:"12px 20px",background:"#1c1f26",borderBottom:"1px solid #21262d",fontSize:11,fontWeight:600,color:"#8b949e",textTransform:"uppercase",letterSpacing:"0.05em"}}>
+              <span>Opportunity</span><span>Pipeline</span><span>Stage</span><span>Status</span><span style={{textAlign:"right"}}>Value</span>
+            </div>
+            <div style={{maxHeight:450,overflowY:"auto"}}>
+              {filtered.sort((a,b)=>b.amount-a.amount).map((opp,i) => (
+                <div key={i} style={{display:"grid",gridTemplateColumns:"1fr 130px 140px 100px 110px",padding:"10px 20px",borderBottom:"1px solid #21262d",alignItems:"center"}}>
+                  <div>
+                    <OppName opp={opp}/>
+                    {opp.company && <div style={{fontSize:11,color:"#6e7681"}}>{opp.company}</div>}
+                  </div>
+                  <div style={{display:"flex",alignItems:"center",gap:6}}>
+                    <div style={{width:8,height:8,borderRadius:2,background:opp.pipelineColor}}/>
+                    <span style={{fontSize:12,color:"#8b949e"}}>{opp.pipeline}</span>
+                  </div>
+                  <span style={{fontSize:12,color:"#e1e4e8"}}>{opp.stage}</span>
+                  <NewBadge isNew={opp.isNew}/>
+                  <div style={{textAlign:"right",fontSize:13,fontWeight:600,color:opp.amount>0?"#fff":"#484f58"}}>{formatCurrency(opp.amount)}</div>
+                </div>
+              ))}
+            </div>
+            <div style={{display:"grid",gridTemplateColumns:"1fr 130px 140px 100px 110px",padding:"12px 20px",background:"#1c1f26",borderTop:"1px solid #30363d"}}>
+              <span style={{fontSize:13,fontWeight:700,color:"#fff"}}>{filtered.length} opportunities</span><span/><span/><span/>
+              <span style={{textAlign:"right",fontSize:13,fontWeight:700,color:"#fff"}}>{formatCurrency(totalValue)}</span>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
     const AUDIT_ICONS = { added: "+", removed: "-", value_change: "$", status_change: "~", field_change: "F", renamed: "R", init: "i" };
     const AUDIT_COLORS = { added: "#4ade80", removed: "#f87171", value_change: "#60a5fa", status_change: "#facc15", field_change: "#c084fc", renamed: "#fb923c", init: "#8b949e" };
 
@@ -356,12 +440,13 @@
       return (
         <div>
           <h1 style={{textAlign:"center",fontSize:28,fontWeight:800,color:"#fff",marginBottom:4}}>Sales Pipeline Dashboard</h1>
-          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:40}}>CGA Growers Association &mdash; Updated 12 April 2026</p>
+          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:40}}>CGA Growers Association &mdash; Updated 13 April 2026</p>
           <div style={{display:"flex",gap:50,flexWrap:"wrap",justifyContent:"center"}}>
             <DonutChart data={WON_DATA} title="Won Opportunities" subtitle="deals closed" centerLabel="Total Won"/>
             <DonutChart data={OPEN_DATA} title="Open Opportunities" subtitle="deals in progress" centerLabel="Total Open"/>
           </div>
           <BusinessTypeTable title="Open Opportunities - New vs Existing Business" allData={OPEN_DATA}/>
+          <StageExplorer allData={OPEN_DATA}/>
           <AuditLog />
         </div>
       );

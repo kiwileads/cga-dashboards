@@ -1,5 +1,154 @@
 [
   {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "ROUNDUP",
+    "company": "Shire of Upper Gascoyne",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: ROUNDUP (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "REDUCING HEX NIPPLE 150 x 100",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: REDUCING HEX NIPPLE 150 x 100 (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "POLY ELBOWS x 20",
+    "company": "Shire of Upper Gascoyne",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: POLY ELBOWS x 20 (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "STRIKE 60 90KG",
+    "company": "J & M LECA",
+    "amount": 9306,
+    "message": "Renamed: \"Oscar Leca\" -> \"STRIKE 60 90KG\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "Janna",
+    "amount": 7741.35,
+    "message": "Renamed: \"Al Holtham\" -> \"DORMEX GRAPES 26\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+    "amount": 7569.32,
+    "message": "Renamed: \"FRANK PAULINO\" -> \"DORMEX GRAPES 26\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "V & M Durmanich",
+    "amount": 13246.31,
+    "message": "Renamed: \"Andrew Durmanich\" -> \"DORMEX GRAPES 26\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "J & M LECA",
+    "amount": 9461.65,
+    "message": "Renamed: \"OSCAR LECA\" -> \"DORMEX GRAPES 26\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "GOR",
+    "amount": 8601.5,
+    "message": "Renamed: \"JUANITO GORGONIO\" -> \"DORMEX GRAPES 26\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "GIULIANO CONDO",
+    "amount": 20284.66,
+    "message": "Renamed: \"Julian Condo\" -> \"DORMEX GRAPES 26\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "GLENDALE PLANTATION",
+    "amount": 4163.13,
+    "message": "Renamed: \"Luke Skender - GLENDALE PLANTATION\" -> \"DORMEX GRAPES 26\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "value_change",
+    "pipeline": "CHEMICALS",
+    "name": "STRIKE 60 DRIP 140KG",
+    "company": "NXKD FAMILY TRUST",
+    "amount": 13183.5,
+    "prevAmount": 14000,
+    "message": "STRIKE 60 DRIP 140KG: value changed $14000.00 -> $13183.50 (-816.50)"
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "field_change",
+    "pipeline": "CHEMICALS",
+    "name": "STRIKE 60 DRIP 140KG",
+    "company": "NXKD FAMILY TRUST",
+    "amount": 13183.5,
+    "message": "STRIKE 60 DRIP 140KG: \"New Business\" changed Not Set -> Yes"
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "CHEMICALS",
+    "name": "STRIKE 60 DRIP 140KG",
+    "company": "NXKD FAMILY TRUST",
+    "amount": 13183.5,
+    "message": "Renamed: \"Nxkd Family Trust\" -> \"STRIKE 60 DRIP 140KG\""
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "PLASSON POLY TO COPPER FITTING",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 770,
+    "prevAmount": 1649.47,
+    "message": "PLASSON POLY TO COPPER FITTING: value changed $1649.47 -> $770.00 (-879.47)"
+  },
+  {
+    "date": "2026-04-13T02:02:13.493Z",
+    "type": "renamed",
+    "pipeline": "IRRIGATION",
+    "name": "PLASSON POLY TO COPPER FITTING",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 770,
+    "message": "Renamed: \"WARREN SCHMIDT\" -> \"PLASSON POLY TO COPPER FITTING\""
+  },
+  {
     "date": "2026-04-12T14:59:34.002Z",
     "type": "init",
     "message": "Dashboard initialized - first data pull"

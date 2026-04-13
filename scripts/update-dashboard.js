@@ -20,6 +20,9 @@ const SALES_PIPELINES = [
 const CUSTOM_FIELD_IS_NEW = "oMSSLYDRjcnx8j3tWxU9";
 const CUSTOM_FIELD_NOTES = "w7wlP9VMBOH9Hr15pHiZ";
 
+// Will be populated at runtime from GHL API
+let STAGE_LOOKUP = {};
+
 function apiRequest(path) {
   return new Promise((resolve, reject) => {
     const options = {
@@ -69,6 +72,19 @@ async function searchOpportunities(pipelineId, status) {
   return allOpps;
 }
 
+async function fetchPipelineStages() {
+  const result = await apiRequest(`/opportunities/pipelines?locationId=${LOCATION_ID}`);
+  const lookup = {};
+  if (result.pipelines) {
+    result.pipelines.forEach(p => {
+      if (p.stages) {
+        p.stages.forEach(s => { lookup[s.id] = s.name; });
+      }
+    });
+  }
+  return lookup;
+}
+
 function extractOpp(opp) {
   const isNewField = opp.customFields?.find((f) => f.id === CUSTOM_FIELD_IS_NEW);
   const notesField = opp.customFields?.find((f) => f.id === CUSTOM_FIELD_NOTES);
@@ -78,6 +94,7 @@ function extractOpp(opp) {
     company: opp.contact?.companyName || "",
     amount: opp.monetaryValue || 0,
     status: opp.status || "open",
+    stage: STAGE_LOOKUP[opp.pipelineStageId] || "Unknown",
     isNew: isNewField?.fieldValueString || null,
     notes: (notesField?.fieldValueString || "").replace(/\\/g, "\\\\").replace(/`/g, "\\`").replace(/\$/g, "\\$"),
   };
@@ -154,7 +171,7 @@ function escapeForJS(str) {
 
 function oppToJS(opp) {
   const isNewStr = opp.isNew ? `"${opp.isNew}"` : "null";
-  return `          { name: "${escapeForJS(opp.name)}", company: "${escapeForJS(opp.company)}", amount: ${opp.amount}, isNew: ${isNewStr}, notes: "${escapeForJS(opp.notes)}" }`;
+  return `          { name: "${escapeForJS(opp.name)}", company: "${escapeForJS(opp.company)}", amount: ${opp.amount}, stage: "${escapeForJS(opp.stage)}", isNew: ${isNewStr}, notes: "${escapeForJS(opp.notes)}" }`;
 }
 
 function pipelineToJS(pipeline, opps) {
@@ -358,6 +375,87 @@ ${openData}
       );
     }
 
+    function StageExplorer({allData}) {
+      const [selectedStage, setSelectedStage] = React.useState(null);
+      const [selectedPipeline, setSelectedPipeline] = React.useState("all");
+
+      const allOpps = [];
+      allData.forEach(p => p.opportunities.forEach(o => allOpps.push({...o, pipeline: p.name, pipelineFullName: p.fullName, pipelineColor: p.color})));
+
+      // Get unique pipelines
+      const pipelines = [...new Set(allData.map(p => p.name))];
+
+      // Filter by pipeline first
+      const pipelineFiltered = selectedPipeline === "all" ? allOpps : allOpps.filter(o => o.pipeline === selectedPipeline);
+
+      // Get unique stages from filtered opps
+      const stages = [...new Set(pipelineFiltered.map(o => o.stage))].sort();
+
+      // Filter by stage
+      const filtered = selectedStage ? pipelineFiltered.filter(o => o.stage === selectedStage) : pipelineFiltered;
+      const totalValue = filtered.reduce((s, o) => s + o.amount, 0);
+
+      // Stage counts for badges
+      const stageCounts = {};
+      pipelineFiltered.forEach(o => { stageCounts[o.stage] = (stageCounts[o.stage] || 0) + 1; });
+
+      return (
+        <div style={{marginTop:50}}>
+          <h2 style={{textAlign:"center",fontSize:20,fontWeight:700,color:"#fff",marginBottom:6}}>Stage Explorer</h2>
+          <p style={{textAlign:"center",fontSize:13,color:"#6e7681",marginBottom:20}}>Find opportunities by pipeline stage</p>
+
+          {/* Pipeline filter */}
+          <div style={{display:"flex",justifyContent:"center",gap:8,marginBottom:12,flexWrap:"wrap"}}>
+            <button onClick={()=>{setSelectedPipeline("all");setSelectedStage(null);}} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:selectedPipeline==="all"?"#60a5fa50":"#30363d",background:selectedPipeline==="all"?"#1a2332":"#161920",color:selectedPipeline==="all"?"#60a5fa":"#8b949e",cursor:"pointer",fontSize:12,fontWeight:selectedPipeline==="all"?600:400}}>All Pipelines</button>
+            {pipelines.map(p => {
+              const pData = allData.find(d => d.name === p);
+              return <button key={p} onClick={()=>{setSelectedPipeline(p);setSelectedStage(null);}} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:selectedPipeline===p?pData.color+"50":"#30363d",background:selectedPipeline===p?"#1c1f26":"#161920",color:selectedPipeline===p?pData.color:"#8b949e",cursor:"pointer",fontSize:12,fontWeight:selectedPipeline===p?600:400}}>{p}</button>;
+            })}
+          </div>
+
+          {/* Stage buttons */}
+          <div style={{display:"flex",justifyContent:"center",gap:8,marginBottom:20,flexWrap:"wrap"}}>
+            <button onClick={()=>setSelectedStage(null)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:!selectedStage?"#facc1550":"#30363d",background:!selectedStage?"#2d2a14":"#161920",color:!selectedStage?"#facc15":"#8b949e",cursor:"pointer",fontSize:12,fontWeight:!selectedStage?600:400}}>
+              All Stages ({pipelineFiltered.length})
+            </button>
+            {stages.map(stage => (
+              <button key={stage} onClick={()=>setSelectedStage(stage)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid",borderColor:selectedStage===stage?"#facc1550":"#30363d",background:selectedStage===stage?"#2d2a14":"#161920",color:selectedStage===stage?"#facc15":"#8b949e",cursor:"pointer",fontSize:12,fontWeight:selectedStage===stage?600:400}}>
+                {stage} ({stageCounts[stage]||0})
+              </button>
+            ))}
+          </div>
+
+          {/* Results table */}
+          <div style={{background:"#161920",borderRadius:12,border:"1px solid #21262d",overflow:"hidden",maxWidth:1000,margin:"0 auto"}}>
+            <div style={{display:"grid",gridTemplateColumns:"1fr 130px 140px 100px 110px",padding:"12px 20px",background:"#1c1f26",borderBottom:"1px solid #21262d",fontSize:11,fontWeight:600,color:"#8b949e",textTransform:"uppercase",letterSpacing:"0.05em"}}>
+              <span>Opportunity</span><span>Pipeline</span><span>Stage</span><span>Status</span><span style={{textAlign:"right"}}>Value</span>
+            </div>
+            <div style={{maxHeight:450,overflowY:"auto"}}>
+              {filtered.sort((a,b)=>b.amount-a.amount).map((opp,i) => (
+                <div key={i} style={{display:"grid",gridTemplateColumns:"1fr 130px 140px 100px 110px",padding:"10px 20px",borderBottom:"1px solid #21262d",alignItems:"center"}}>
+                  <div>
+                    <OppName opp={opp}/>
+                    {opp.company && <div style={{fontSize:11,color:"#6e7681"}}>{opp.company}</div>}
+                  </div>
+                  <div style={{display:"flex",alignItems:"center",gap:6}}>
+                    <div style={{width:8,height:8,borderRadius:2,background:opp.pipelineColor}}/>
+                    <span style={{fontSize:12,color:"#8b949e"}}>{opp.pipeline}</span>
+                  </div>
+                  <span style={{fontSize:12,color:"#e1e4e8"}}>{opp.stage}</span>
+                  <NewBadge isNew={opp.isNew}/>
+                  <div style={{textAlign:"right",fontSize:13,fontWeight:600,color:opp.amount>0?"#fff":"#484f58"}}>{formatCurrency(opp.amount)}</div>
+                </div>
+              ))}
+            </div>
+            <div style={{display:"grid",gridTemplateColumns:"1fr 130px 140px 100px 110px",padding:"12px 20px",background:"#1c1f26",borderTop:"1px solid #30363d"}}>
+              <span style={{fontSize:13,fontWeight:700,color:"#fff"}}>{filtered.length} opportunities</span><span/><span/><span/>
+              <span style={{textAlign:"right",fontSize:13,fontWeight:700,color:"#fff"}}>{formatCurrency(totalValue)}</span>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
     const AUDIT_ICONS = { added: "+", removed: "-", value_change: "$", status_change: "~", field_change: "F", renamed: "R", init: "i" };
     const AUDIT_COLORS = { added: "#4ade80", removed: "#f87171", value_change: "#60a5fa", status_change: "#facc15", field_change: "#c084fc", renamed: "#fb923c", init: "#8b949e" };
 
@@ -420,6 +518,7 @@ ${openData}
             <DonutChart data={OPEN_DATA} title="Open Opportunities" subtitle="deals in progress" centerLabel="Total Open"/>
           </div>
           <BusinessTypeTable title="Open Opportunities - New vs Existing Business" allData={OPEN_DATA}/>
+          <StageExplorer allData={OPEN_DATA}/>
           <AuditLog />
         </div>
       );
@@ -436,6 +535,10 @@ async function main() {
     console.error("ERROR: GHL_API_KEY environment variable not set");
     process.exit(1);
   }
+
+  console.log("Fetching pipeline stages from GHL...");
+  STAGE_LOOKUP = await fetchPipelineStages();
+  console.log(`  Loaded ${Object.keys(STAGE_LOOKUP).length} stage definitions`);
 
   console.log("Fetching pipeline data from GHL...");
 
