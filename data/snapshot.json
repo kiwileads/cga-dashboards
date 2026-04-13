@@ -241,9 +241,9 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "INVOICED/BOOKED OUT",
         "isNew": "Yes",
-        "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER."
+        "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER.\nP/O RECEIVED FROM SEAN - 10073 - INVOICED - INV-445842"
       },
       {
         "id": "vQGo4a0wnmEsyqjGdj5A",
@@ -341,6 +341,36 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "x6TW3ohUs2U1nhBWW0vx",
+        "name": "7000 VITALIS BEAN SEED",
+        "company": "TIPTON",
+        "amount": 0,
+        "status": "open",
+        "stage": "CONTACTED",
+        "isNew": "No",
+        "notes": "7 X 1000 VITALIS BEAN SEEDS"
+      },
+      {
+        "id": "5tRh8zD4AptNAeVSUgD8",
+        "name": "VITALIS BEAN",
+        "company": "TIPTON",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "No",
+        "notes": "3 X 1000 VITALIS BEAN SEED\n\nORDERED ON THE 8/4/26 ON P70285"
+      },
+      {
+        "id": "OM0jgnpNth6euWMRwnML",
+        "name": "VITALIS",
+        "company": "TIPTON",
+        "amount": 250,
+        "status": "open",
+        "stage": "PROPOSAL SENT",
+        "isNew": "No",
+        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285"
+      },
       {
         "id": "Kqjaw6ACX6TtbpKfikHs",
         "name": "GENERAL MERCH",
@@ -701,7 +731,7 @@
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": null,
-        "notes": "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100"
+        "notes": "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100\n13.04.26 - EMAIL SENT TO AAP TO OBTAIN PRICE"
       },
       {
         "id": "LstDnHJSePuN51Sr6Lrk",
@@ -709,9 +739,9 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": null,
-        "notes": "20 x poly elbow 15mm barb to 20mm male thread"
+        "stage": "INVOICED/BOOKED OUT",
+        "isNew": "No",
+        "notes": "20 x poly elbow 15mm barb to 20mm male thread\nQUOTED ON THE 13/4/26 ON QU-04058 AND EMAILED\n13.04.26 - P/O RECEIVED #10074 - INVOICED AND READY FOR COLLECTION - INV-445847"
       },
       {
         "id": "SHB5ArMjiWkTbxzO70h4",
@@ -815,9 +845,9 @@
         "company": "GIANG TRAN FAMILY TRUST",
         "amount": 2200,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
-        "notes": "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253"
+        "notes": "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253\nCALLED - 13.04.26 - NO ANSWER - SEEDS IN BACK FRIDGE FOR COLLECTION - NOT YET INVOICED"
       },
       {
         "id": "1CssW2BMcnvO0B5nv3qG",
