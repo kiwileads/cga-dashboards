@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-14T21:51:50.183Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "TRAN & DINH",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PINE POLES (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-04-14T21:51:50.183Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "COMPRESSION FITTINGS",
+    "company": "LEICHHARDT",
+    "amount": 249.48,
+    "status": "open",
+    "message": "New opportunity: COMPRESSION FITTINGS (IRRIGATION) - $249.48"
+  },
+  {
+    "date": "2026-04-14T21:51:50.183Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "COMPRESSION COUPLING",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: COMPRESSION COUPLING (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-04-14T21:51:50.183Z",
+    "type": "removed",
+    "pipeline": "GENERAL MERCH",
+    "name": "VITALIS BEAN",
+    "company": "TIPTON",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: VITALIS BEAN (GENERAL MERCH) - $0.00"
+  },
+  {
     "date": "2026-04-13T21:49:31.295Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",

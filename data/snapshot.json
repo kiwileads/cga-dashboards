@@ -342,24 +342,24 @@
     "status": "open",
     "opps": [
       {
+        "id": "M5wX8zEDpOcBJ0RD2Gf6",
+        "name": "PINE POLES",
+        "company": "TRAN & DINH",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "10 X 4.5M 220-250MM"
+      },
+      {
         "id": "x6TW3ohUs2U1nhBWW0vx",
         "name": "7000 VITALIS BEAN SEED",
         "company": "TIPTON",
         "amount": 0,
         "status": "open",
-        "stage": "CONTACTED",
+        "stage": "PROPOSAL SENT",
         "isNew": "No",
         "notes": "7 X 1000 VITALIS BEAN SEEDS"
-      },
-      {
-        "id": "5tRh8zD4AptNAeVSUgD8",
-        "name": "VITALIS BEAN",
-        "company": "TIPTON",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "No",
-        "notes": "3 X 1000 VITALIS BEAN SEED\n\nORDERED ON THE 8/4/26 ON P70285"
       },
       {
         "id": "OM0jgnpNth6euWMRwnML",
@@ -723,6 +723,26 @@
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
+      {
+        "id": "epFTfvBbzppAI5DLqavw",
+        "name": "COMPRESSION FITTINGS",
+        "company": "LEICHHARDT",
+        "amount": 249.48,
+        "status": "open",
+        "stage": "INVOICED/BOOKED OUT",
+        "isNew": "No",
+        "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
+      },
+      {
+        "id": "V135bmohARR8RQUP2QBT",
+        "name": "COMPRESSION COUPLING",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "No",
+        "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING"
+      },
       {
         "id": "1tWWv8w6Q5iSAAgDvomj",
         "name": "REDUCING HEX NIPPLE 150 x 100",
