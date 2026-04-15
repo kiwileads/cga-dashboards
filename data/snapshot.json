@@ -241,9 +241,9 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "INVOICED/BOOKED OUT",
         "isNew": "Yes",
-        "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER."
+        "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER.\nP/O RECEIVED FROM SEAN - 10073 - INVOICED - INV-445842"
       },
       {
         "id": "vQGo4a0wnmEsyqjGdj5A",
@@ -342,6 +342,36 @@
     "status": "open",
     "opps": [
       {
+        "id": "M5wX8zEDpOcBJ0RD2Gf6",
+        "name": "PINE POLES",
+        "company": "TRAN & DINH",
+        "amount": 0,
+        "status": "open",
+        "stage": "CONTACTED",
+        "isNew": "Yes",
+        "notes": "10 X 4.5M 220-250MM"
+      },
+      {
+        "id": "x6TW3ohUs2U1nhBWW0vx",
+        "name": "7000 VITALIS BEAN SEED",
+        "company": "TIPTON",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT",
+        "isNew": "No",
+        "notes": "7 X 1000 VITALIS BEAN SEEDS"
+      },
+      {
+        "id": "OM0jgnpNth6euWMRwnML",
+        "name": "VITALIS",
+        "company": "TIPTON",
+        "amount": 250,
+        "status": "open",
+        "stage": "PROPOSAL SENT",
+        "isNew": "No",
+        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26"
+      },
+      {
         "id": "Kqjaw6ACX6TtbpKfikHs",
         "name": "GENERAL MERCH",
         "company": "DAVENPORT PRODUCE (LED)",
@@ -399,17 +429,17 @@
         "status": "open",
         "stage": "PROPOSAL SENT",
         "isNew": "Yes",
-        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED"
+        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26"
       },
       {
         "id": "0BzT8TheI4agQ4TD3csN",
-        "name": "Dennis Durmanich",
+        "name": "SANDOR SEEDS",
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 8500,
         "status": "open",
         "stage": "PROPOSAL SENT",
         "isNew": "No",
-        "notes": "10 X 5000 SANDOR"
+        "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
       },
       {
         "id": "dCjsEaMsMHEYcjhFLA3Z",
@@ -423,13 +453,13 @@
       },
       {
         "id": "xBs0niD3ICiqmWp7h2Fm",
-        "name": "Ellen Arscott",
+        "name": "BERLOTTI BEANS",
         "company": "Monique",
-        "amount": 400,
+        "amount": 385,
         "status": "open",
-        "stage": "PROPOSAL SENT",
-        "isNew": "No",
-        "notes": "10kg x BORLOTTI BEANS"
+        "stage": "INVOICED/BOOKED OUT",
+        "isNew": "Yes",
+        "notes": "10kg x BORLOTTI BEANS\n15/4/26\nTAKEN ON THE 2/4/26 ON INV-445467"
       },
       {
         "id": "UBdxWDnJAmbu5O1jyW5k",
@@ -457,6 +487,36 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
+      {
+        "id": "BCryI9HftzGObZBNqQi2",
+        "name": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70278 - 07.04.26 - ORDER FOR SOUG - SEAN"
+      },
+      {
+        "id": "cVIhtdmdN38meqDVK83g",
+        "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
+        "company": "MATTHEW HOLLA",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70289 - 10.04.26 - FIS\nDAVEY IMPELLER KIT TO SUIT SLS200-1/SLL200 PUMP x 2\nNECK RING SILENSOR x 2\nO-RING CASING SILENCOR x 2"
+      },
+      {
+        "id": "hwpjpaJ9H0tDVSuwCwkr",
+        "name": "YELLOW SUCTION FILTER",
+        "company": "NUTRIEN AG SOLUTIONS",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70290 - 10.04.26 - AIRBAG\nXDM0003574"
+      },
       {
         "id": "rUs9OG8MocFlOFFyEenl",
         "name": "DOSING PUMP",
@@ -694,14 +754,44 @@
     "status": "open",
     "opps": [
       {
+        "id": "c4ffzKHi85LhP66vRQpn",
+        "name": "GYPSOM IRRIGATION",
+        "company": "LEICHHARDT",
+        "amount": 7861.7,
+        "status": "open",
+        "stage": "PROPOSAL SENT",
+        "isNew": "Yes",
+        "notes": "\n3 X 100m roll of heavy duty red layflat\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp\n300 X 40-60/12 W3 Norma worm drive SS hose clamp\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG"
+      },
+      {
+        "id": "epFTfvBbzppAI5DLqavw",
+        "name": "COMPRESSION FITTINGS",
+        "company": "LEICHHARDT",
+        "amount": 249.48,
+        "status": "open",
+        "stage": "INVOICED/BOOKED OUT",
+        "isNew": "No",
+        "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
+      },
+      {
+        "id": "V135bmohARR8RQUP2QBT",
+        "name": "COMPRESSION COUPLING",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 552,
+        "status": "open",
+        "stage": "PROPOSAL SENT",
+        "isNew": "No",
+        "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING\n\n15/4/26\nQUOTED ON QU-04161 EMAILED TO DEAN ANDREOLI"
+      },
+      {
         "id": "1tWWv8w6Q5iSAAgDvomj",
         "name": "REDUCING HEX NIPPLE 150 x 100",
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT",
         "isNew": null,
-        "notes": "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100"
+        "notes": "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100\n13.04.26 - EMAIL SENT TO AAP TO OBTAIN PRICE"
       },
       {
         "id": "LstDnHJSePuN51Sr6Lrk",
@@ -709,9 +799,9 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": null,
-        "notes": "20 x poly elbow 15mm barb to 20mm male thread"
+        "stage": "INVOICED/BOOKED OUT",
+        "isNew": "No",
+        "notes": "20 x poly elbow 15mm barb to 20mm male thread\nQUOTED ON THE 13/4/26 ON QU-04058 AND EMAILED\n13.04.26 - P/O RECEIVED #10074 - INVOICED AND READY FOR COLLECTION - INV-445847"
       },
       {
         "id": "SHB5ArMjiWkTbxzO70h4",
@@ -780,12 +870,22 @@
     "status": "open",
     "opps": [
       {
+        "id": "ctpd9OIDBzmYwO7cAjgS",
+        "name": "PINE POSTS - PHAM",
+        "company": "NUTRIEN AG SOLUTIONS",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "150 PINE POSTS - P70309 - BISHOPS TRANSPORT - XDM0003575\nUSE SALES ORDER WHEN INVOICING PLEASE"
+      },
+      {
         "id": "WqwbA5p6Dz9PWFRe70Sg",
         "name": "PINE POSTS - 2.1 100-125MM x 100",
         "company": "CASH CUSTOMER",
         "amount": 1398.1,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "P70267 - 02.04.26 - BISHOPS TRANSPORT"
       },
@@ -795,7 +895,7 @@
         "company": "GOR",
         "amount": 915,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
         "notes": "P70267 - 02.04.26 - BISHOPS TRANSPORT"
       },
@@ -805,7 +905,7 @@
         "company": "BQ LUU & TNT PHAM",
         "amount": 915,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "50 x 2.4 - 100-125MM\nP70267 - 02.04.26"
       },
@@ -815,9 +915,9 @@
         "company": "GIANG TRAN FAMILY TRUST",
         "amount": 2200,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
-        "notes": "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253"
+        "notes": "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253\nCALLED - 13.04.26 - NO ANSWER - SEEDS IN BACK FRIDGE FOR COLLECTION - NOT YET INVOICED"
       },
       {
         "id": "1CssW2BMcnvO0B5nv3qG",
@@ -825,7 +925,7 @@
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
         "amount": 1426.83,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "QU-04039 - 25.03.26 - HM60-06T\nP70249 - 31.03.26"
       },

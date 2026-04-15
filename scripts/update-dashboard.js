@@ -375,9 +375,15 @@ ${openData}
       );
     }
 
-    function StageExplorer({allData}) {
+    function StageExplorer({allData, extPipeline, extStage, stageRef}) {
       const [selectedStage, setSelectedStage] = React.useState(null);
       const [selectedPipeline, setSelectedPipeline] = React.useState("all");
+
+      // Apply external filters from search
+      React.useEffect(() => {
+        if (extPipeline !== undefined) setSelectedPipeline(extPipeline || "all");
+        if (extStage !== undefined) setSelectedStage(extStage || null);
+      }, [extPipeline, extStage]);
 
       const allOpps = [];
       allData.forEach(p => p.opportunities.forEach(o => allOpps.push({...o, pipeline: p.name, pipelineFullName: p.fullName, pipelineColor: p.color})));
@@ -400,7 +406,7 @@ ${openData}
       pipelineFiltered.forEach(o => { stageCounts[o.stage] = (stageCounts[o.stage] || 0) + 1; });
 
       return (
-        <div style={{marginTop:50}}>
+        <div ref={stageRef} style={{marginTop:50}}>
           <h2 style={{textAlign:"center",fontSize:20,fontWeight:700,color:"#fff",marginBottom:6}}>Stage Explorer</h2>
           <p style={{textAlign:"center",fontSize:13,color:"#6e7681",marginBottom:20}}>Find opportunities by pipeline stage</p>
 
@@ -508,17 +514,93 @@ ${openData}
       );
     }
 
+    function SearchBar({allData, onSelect, stageRef}) {
+      const [query, setQuery] = React.useState("");
+      const [focused, setFocused] = React.useState(false);
+      const inputRef = React.useRef(null);
+
+      const allOpps = React.useMemo(() => {
+        const list = [];
+        allData.forEach(p => p.opportunities.forEach(o => list.push({...o, pipeline: p.name, pipelineColor: p.color})));
+        return list;
+      }, [allData]);
+
+      const results = React.useMemo(() => {
+        if (!query || query.length < 2) return [];
+        const q = query.toLowerCase();
+        return allOpps.filter(o =>
+          o.name.toLowerCase().includes(q) ||
+          (o.company && o.company.toLowerCase().includes(q)) ||
+          o.pipeline.toLowerCase().includes(q) ||
+          o.stage.toLowerCase().includes(q)
+        ).slice(0, 12);
+      }, [query, allOpps]);
+
+      const handleSelect = (opp) => {
+        setQuery("");
+        setFocused(false);
+        inputRef.current?.blur();
+        onSelect(opp.pipeline, opp.stage);
+        setTimeout(() => { stageRef.current?.scrollIntoView({behavior:"smooth",block:"start"}); }, 100);
+      };
+
+      return (
+        <div style={{position:"relative",maxWidth:600,margin:"0 auto 40px",zIndex:50}}>
+          <div style={{position:"relative"}}>
+            <input ref={inputRef} type="text" value={query} placeholder="Search opportunities by name, company, pipeline, or stage..."
+              onChange={e=>setQuery(e.target.value)} onFocus={()=>setFocused(true)} onBlur={()=>setTimeout(()=>setFocused(false),200)}
+              style={{width:"100%",padding:"12px 16px 12px 42px",borderRadius:10,border:"1px solid #30363d",background:"#161920",color:"#e1e4e8",fontSize:14,outline:"none",transition:"border-color 0.2s",borderColor:focused?"#60a5fa":"#30363d"}}
+            />
+            <svg style={{position:"absolute",left:14,top:13,width:16,height:16}} viewBox="0 0 24 24" fill="none" stroke="#6e7681" strokeWidth="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          </div>
+          {focused && results.length > 0 && (
+            <div style={{position:"absolute",top:"100%",left:0,right:0,marginTop:4,background:"#1c1f26",border:"1px solid #30363d",borderRadius:10,overflow:"hidden",boxShadow:"0 8px 24px rgba(0,0,0,0.5)"}}>
+              {results.map((opp, i) => (
+                <div key={i} onMouseDown={()=>handleSelect(opp)} style={{padding:"10px 16px",cursor:"pointer",borderBottom:i<results.length-1?"1px solid #21262d":"none",display:"flex",justifyContent:"space-between",alignItems:"center",gap:12}}
+                  onMouseEnter={e=>e.currentTarget.style.background="#21262d"} onMouseLeave={e=>e.currentTarget.style.background="transparent"}>
+                  <div style={{flex:1,minWidth:0}}>
+                    <div style={{fontSize:13,color:"#e1e4e8",fontWeight:500}}>{opp.name}</div>
+                    <div style={{fontSize:11,color:"#6e7681",display:"flex",gap:8,marginTop:2}}>
+                      {opp.company && <span>{opp.company}</span>}
+                      <span style={{display:"flex",alignItems:"center",gap:4}}><span style={{width:6,height:6,borderRadius:2,background:opp.pipelineColor,display:"inline-block"}}/>{opp.pipeline}</span>
+                      <span style={{color:"#484f58"}}>{opp.stage}</span>
+                    </div>
+                  </div>
+                  <span style={{fontSize:13,fontWeight:600,color:opp.amount>0?"#fff":"#484f58",whiteSpace:"nowrap"}}>{formatCurrency(opp.amount)}</span>
+                </div>
+              ))}
+            </div>
+          )}
+          {focused && query.length >= 2 && results.length === 0 && (
+            <div style={{position:"absolute",top:"100%",left:0,right:0,marginTop:4,background:"#1c1f26",border:"1px solid #30363d",borderRadius:10,padding:"16px",textAlign:"center"}}>
+              <span style={{color:"#484f58",fontSize:13}}>No opportunities found for "{query}"</span>
+            </div>
+          )}
+        </div>
+      );
+    }
+
     function Dashboard() {
+      const [extPipeline, setExtPipeline] = React.useState(undefined);
+      const [extStage, setExtStage] = React.useState(undefined);
+      const stageRef = React.useRef(null);
+
+      const handleSearchSelect = (pipeline, stage) => {
+        setExtPipeline(pipeline);
+        setExtStage(stage);
+      };
+
       return (
         <div>
           <h1 style={{textAlign:"center",fontSize:28,fontWeight:800,color:"#fff",marginBottom:4}}>Sales Pipeline Dashboard</h1>
-          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:40}}>CGA Growers Association &mdash; Updated ${updatedDate}</p>
+          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated ${updatedDate}</p>
+          <SearchBar allData={OPEN_DATA} onSelect={handleSearchSelect} stageRef={stageRef}/>
           <div style={{display:"flex",gap:50,flexWrap:"wrap",justifyContent:"center"}}>
             <DonutChart data={WON_DATA} title="Won Opportunities" subtitle="deals closed" centerLabel="Total Won"/>
             <DonutChart data={OPEN_DATA} title="Open Opportunities" subtitle="deals in progress" centerLabel="Total Open"/>
           </div>
           <BusinessTypeTable title="Open Opportunities - New vs Existing Business" allData={OPEN_DATA}/>
-          <StageExplorer allData={OPEN_DATA}/>
+          <StageExplorer allData={OPEN_DATA} extPipeline={extPipeline} extStage={extStage} stageRef={stageRef}/>
           <AuditLog />
         </div>
       );

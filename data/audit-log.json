@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "TRAN & DINH",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PINE POLES (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "7000 VITALIS BEAN SEED",
+    "company": "TIPTON",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: 7000 VITALIS BEAN SEED (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "VITALIS",
+    "company": "TIPTON",
+    "amount": 250,
+    "status": "open",
+    "message": "New opportunity: VITALIS (GENERAL MERCH) - $250.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: MHQP VARI. SPEED MULTISTAGE HORI. PUMP (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
+    "company": "MATTHEW HOLLA",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: DAVEY IMPELLER KIT, NECK RING, O-RING (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "YELLOW SUCTION FILTER",
+    "company": "NUTRIEN AG SOLUTIONS",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: YELLOW SUCTION FILTER (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "GYPSOM IRRIGATION",
+    "company": "LEICHHARDT",
+    "amount": 7861.7,
+    "status": "open",
+    "message": "New opportunity: GYPSOM IRRIGATION (IRRIGATION) - $7861.70"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "COMPRESSION FITTINGS",
+    "company": "LEICHHARDT",
+    "amount": 249.48,
+    "status": "open",
+    "message": "New opportunity: COMPRESSION FITTINGS (IRRIGATION) - $249.48"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "COMPRESSION COUPLING",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 552,
+    "status": "open",
+    "message": "New opportunity: COMPRESSION COUPLING (IRRIGATION) - $552.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "added",
+    "pipeline": "BIANCA's ORDERS",
+    "name": "PINE POSTS - PHAM",
+    "company": "NUTRIEN AG SOLUTIONS",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PINE POSTS - PHAM (BIANCA's ORDERS) - $0.00"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "renamed",
+    "pipeline": "GENERAL MERCH",
+    "name": "SANDOR SEEDS",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 8500,
+    "message": "Renamed: \"Dennis Durmanich\" -> \"SANDOR SEEDS\""
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "BERLOTTI BEANS",
+    "company": "Monique",
+    "amount": 385,
+    "prevAmount": 400,
+    "message": "BERLOTTI BEANS: value changed $400.00 -> $385.00 (-15.00)"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "field_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "BERLOTTI BEANS",
+    "company": "Monique",
+    "amount": 385,
+    "message": "BERLOTTI BEANS: \"New Business\" changed No -> Yes"
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "renamed",
+    "pipeline": "GENERAL MERCH",
+    "name": "BERLOTTI BEANS",
+    "company": "Monique",
+    "amount": 385,
+    "message": "Renamed: \"Ellen Arscott\" -> \"BERLOTTI BEANS\""
+  },
+  {
+    "date": "2026-04-15T12:03:48.149Z",
+    "type": "field_change",
+    "pipeline": "IRRIGATION",
+    "name": "POLY ELBOWS x 20",
+    "company": "Shire of Upper Gascoyne",
+    "amount": 0,
+    "message": "POLY ELBOWS x 20: \"New Business\" changed Not Set -> No"
+  },
+  {
     "date": "2026-04-13T02:02:13.493Z",
     "type": "added",
     "pipeline": "CHEMICALS",
