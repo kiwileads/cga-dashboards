@@ -187,6 +187,7 @@ function generateHTML(wonData, openData, auditData, updatedDate) {
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sales Pipeline - Opportunities Dashboard</title>
+  <link rel="icon" type="image/png" href="https://assets.cdn.filesafe.space/KdQ3HwgUyOT2bXhJRwQ3/media/697322ce10cc27e2704399a4.png" />
   <script src="https://unpkg.com/react@18/umd/react.production.min.js"><\/script>
   <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"><\/script>
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"><\/script>
