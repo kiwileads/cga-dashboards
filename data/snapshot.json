@@ -19,7 +19,7 @@
         "company": "BUMBAK & SONS",
         "amount": 173600,
         "status": "open",
-        "stage": "CONTACTED",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": null,
         "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE"
       },
@@ -29,7 +29,7 @@
         "company": "Janna",
         "amount": 37200,
         "status": "open",
-        "stage": "CONTACTED",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": null,
         "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE"
       },
@@ -39,7 +39,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 37200,
         "status": "open",
-        "stage": "CONTACTED",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": null,
         "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE"
       },
@@ -49,7 +49,7 @@
         "company": "TRAN & DINH",
         "amount": 45000,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": "OPPORTUNITY VALUE BASED ON \\$1.49+GST"
       }
@@ -65,7 +65,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 606,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": "1 X 20LT SERGOMIL L60"
       },
@@ -75,7 +75,7 @@
         "company": "Janna",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "QUOTE \n1000LT OF SERGOMIL\n20LT OF SERGOMIL\nQUOTED ON 8/4/26 ON QU-04049"
       },
@@ -95,7 +95,7 @@
         "company": "A & N Gugich Plantation",
         "amount": 8104.64,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "96 X YARAMILA COMPLEX\n108 X NEUTROG BOUNCE BACK\nON QU-03985"
       },
@@ -105,7 +105,7 @@
         "company": "BORICH & SONS",
         "amount": 7956,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL."
       },
@@ -115,7 +115,7 @@
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 2500,
         "status": "open",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "1 PLT ECO RED"
       },
@@ -135,7 +135,7 @@
         "company": "GIULIANO CONDO",
         "amount": 36500,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "192 X 25KG EPSOM SALT\n144 X 25KG HAIFA POT NITRATE- 2 PLTS (96) TAKEN ON INV-445059\n147 X 25KG POT SULPHATE - 2PLTS (98) TAKEN ON INV-445059\n5 X 1000LT FLEXI N\n144 X 25KG CACIUM NITRATE - 2PLS (96) TAKEN ON INV-445059\n10 X 25KG ZINK SULPHATE \n10 X 5KG MANGANESE SULPHATE\n96 X 25KG PEKACID\n48 X HAIFA POLYFEED L/K\nQU-04032\n"
       },
@@ -145,7 +145,7 @@
         "company": "P SHAIN",
         "amount": 7549.8,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "1x plt urea\n1x plt potassium nitrate\n1x 1000lt metham sodium\n2 x 20lt pool chlorine \nON QU-04030.\n\n\n"
       },
@@ -155,7 +155,7 @@
         "company": "BORICH AND SONS",
         "amount": 3978.44,
         "status": "open",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "2 X BULK BAG ECO PRIME"
       },
@@ -165,7 +165,7 @@
         "company": "NXKD FAMILY TRUST",
         "amount": 26000,
         "status": "open",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "240 X POTASSIUM NITRATE \n240 X CALCIUM NITRATE\n144 EPSOM SLAT"
       },
@@ -175,7 +175,7 @@
         "company": "Hi-Way Plantation",
         "amount": 20000,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "8 X 1000KG ECO PRIME BULK BAGS"
       },
@@ -185,7 +185,7 @@
         "company": "Janna",
         "amount": 3979.44,
         "status": "open",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "2X 1000KG BULK BAGS eco prime"
       },
@@ -195,7 +195,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 1989.72,
         "status": "open",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "1 X 1000KG BULK BAGS"
       },
@@ -215,7 +215,7 @@
         "company": "ACE PRODUCE",
         "amount": 3979.44,
         "status": "open",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "2 X 1000KG BULK BAGS"
       },
@@ -241,7 +241,7 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 0,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER.\nP/O RECEIVED FROM SEAN - 10073 - INVOICED - INV-445842"
       },
@@ -251,7 +251,7 @@
         "company": "J & M LECA",
         "amount": 9306,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "6 X 90KG STRIKE 60\nON SALES ORD-478579\nINCOICED ON THE 26/3/26 ON INV-445251"
       },
@@ -261,7 +261,7 @@
         "company": "Janna",
         "amount": 7741.35,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538"
       },
@@ -271,7 +271,7 @@
         "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
         "amount": 7569.32,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": "40 X 10LT DORMEX - ORD-478385"
       },
@@ -281,7 +281,7 @@
         "company": "V & M Durmanich",
         "amount": 13246.31,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": "70 X 10LT DORMEX -ORD-478470"
       },
@@ -291,7 +291,7 @@
         "company": "J & M LECA",
         "amount": 9461.65,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "50 X 10LT DORMEX\nON SALES ORDER ORD-478473"
       },
@@ -301,7 +301,7 @@
         "company": "GOR",
         "amount": 8601.5,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
       },
@@ -311,7 +311,7 @@
         "company": "GIULIANO CONDO",
         "amount": 20284.66,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472"
       },
@@ -321,7 +321,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 4163.13,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
       },
@@ -331,7 +331,7 @@
         "company": "NXKD FAMILY TRUST",
         "amount": 13183.5,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "5 x stike 60 inline 140kg\nINVOICED ON 11/3/26 ON INV-44610 AND DELIVERED."
       }
@@ -347,7 +347,7 @@
         "company": "TRAN & DINH",
         "amount": 0,
         "status": "open",
-        "stage": "CONTACTED",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "10 X 4.5M 220-250MM"
       },
@@ -357,7 +357,7 @@
         "company": "TIPTON",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "7 X 1000 VITALIS BEAN SEEDS"
       },
@@ -367,7 +367,7 @@
         "company": "TIPTON",
         "amount": 250,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26"
       },
@@ -377,7 +377,7 @@
         "company": "DAVENPORT PRODUCE (LED)",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO AMEILED TO LUKE."
       },
@@ -387,7 +387,7 @@
         "company": "JACK MOREL",
         "amount": 0,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS"
       },
@@ -407,7 +407,7 @@
         "company": "V & M Durmanich",
         "amount": 16500,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "400 X 2.4M 125-150MM PINE POLES\nON QU-04031"
       },
@@ -417,7 +417,7 @@
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046"
       },
@@ -427,7 +427,7 @@
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 9500,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26"
       },
@@ -437,7 +437,7 @@
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 8500,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
       },
@@ -457,7 +457,7 @@
         "company": "Monique",
         "amount": 385,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "10kg x BORLOTTI BEANS\n15/4/26\nTAKEN ON THE 2/4/26 ON INV-445467"
       },
@@ -467,7 +467,7 @@
         "company": "V & M Durmanich",
         "amount": 17000,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "PINE POST 2.4 METER 150-175MM"
       },
@@ -477,7 +477,7 @@
         "company": "Janna",
         "amount": 24000,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST"
       }
@@ -543,7 +543,7 @@
         "company": "SORICO PLANTATION",
         "amount": 370,
         "status": "open",
-        "stage": "COLLECTED/INVOICED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "PLEASE SOURCE PART FOR ROB SCOTT"
       },
@@ -553,7 +553,7 @@
         "company": "LEICHARDT",
         "amount": 209.01,
         "status": "open",
-        "stage": "COLLECTED/INVOICED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "QU-04044\nINV-445562/445564"
       },
@@ -603,7 +603,7 @@
         "company": "LEICHARDT",
         "amount": 962.5,
         "status": "open",
-        "stage": "COLLECTED/INVOICED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "P70258 - 02.04.26 - #1071130795\nP/O LMC 33501495\n2 x #WPG-96688081   40L Tank PE2TRANSP./BLACK\nCONTACT Des CCP when arrives. \nDESPATCHED 7/04/26. Arrived."
       },
@@ -683,7 +683,7 @@
         "company": "Sulli Bros Plantation",
         "amount": 2500,
         "status": "open",
-        "stage": "COLLECTED/INVOICED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "Originally wanted a price on a pump. Kevin did mention that he had 3 pumps at home and the motors were stuffed. I gave him a price on motors only and he ordered 2 motors to suit the pumps."
       },
@@ -703,7 +703,7 @@
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 615.12,
         "status": "open",
-        "stage": "COLLECTED/INVOICED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "Dorot Valve 2\" float Flanged for Oasis Caravan Park"
       },
@@ -723,7 +723,7 @@
         "company": "199 North River Road",
         "amount": 2369.4,
         "status": "open",
-        "stage": "COLLECTED/INVOICED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "WARRANTY ON VOLUMEX MOTOR PURCHASED LASTYEAR.\n\nPURCHASED VIA NUTRIEN BUT SILVAN PRODUCT CHECK YOU EMAILS FOR THE REST OF THE DETAILS.\n\nNEW MOTOR PICKED UP 24/3/26 STILL NOT WORKING. VIDE SENT VIAN WHATSAPP."
       },
@@ -759,9 +759,9 @@
         "company": "LEICHHARDT",
         "amount": 7861.7,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "\n3 X 100m roll of heavy duty red layflat\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp\n300 X 40-60/12 W3 Norma worm drive SS hose clamp\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG"
+        "notes": "\n3 X 100m roll of heavy duty red layflat\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp\n300 X 40-60/12 W3 Norma worm drive SS hose clamp\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239"
       },
       {
         "id": "epFTfvBbzppAI5DLqavw",
@@ -769,7 +769,7 @@
         "company": "LEICHHARDT",
         "amount": 249.48,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
       },
@@ -779,7 +779,7 @@
         "company": "SHIRE OF CARNARVON",
         "amount": 552,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "No",
         "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING\n\n15/4/26\nQUOTED ON QU-04161 EMAILED TO DEAN ANDREOLI"
       },
@@ -789,7 +789,7 @@
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100\n13.04.26 - EMAIL SENT TO AAP TO OBTAIN PRICE"
       },
@@ -799,7 +799,7 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 0,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "20 x poly elbow 15mm barb to 20mm male thread\nQUOTED ON THE 13/4/26 ON QU-04058 AND EMAILED\n13.04.26 - P/O RECEIVED #10074 - INVOICED AND READY FOR COLLECTION - INV-445847"
       },
@@ -809,7 +809,7 @@
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
         "amount": 770,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "40 X POLY - COPPER 32MMX20MM COUPLING\nINVOICE ON THE 9/4/26 ON INV-445738\n"
       },
@@ -819,7 +819,7 @@
         "company": "Janna",
         "amount": 2000,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "17 X PVC PIPE #9 80MM\n2 BOX OF 15MM COBRA CLIPS\n2 BOX OF 20MM COBRA CLIPS\nQUOTE EXCEPTED\n\nCOBRA CLIPS ON INV-445431 ON THE 2/04/26\nPVC PIPE ON INV-444933 ON THE 18/3/26\n\n"
       },
@@ -849,7 +849,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 6500,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "UPGRADED OF FARM IRRIGATION TO D5000 DRIP\n14000 meters 35 ROLLS\n\nSTOCK ARRIVED TO CGA ON 01/04/26\nHOLD TILL AFTER EASTER LONG WEEKEND\n\n8/4/26 INVOICED ON INV-445628 AND DELIVERED\n"
       },
@@ -859,7 +859,7 @@
         "company": "Janna",
         "amount": 3237.52,
         "status": "open",
-        "stage": "INVOICED/BOOKED OUT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED"
       }
@@ -887,7 +887,7 @@
         "status": "open",
         "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
-        "notes": "P70267 - 02.04.26 - BISHOPS TRANSPORT"
+        "notes": "P70267 - 02.04.26 - BISHOPS TRANSPORT\nSPOKE TO ANDREW - 16.04.26 - NO LONGER NEEDED - ADDED TO STOCK"
       },
       {
         "id": "FUw3cnzAR0LxoG7YRKRV",
@@ -925,9 +925,9 @@
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
         "amount": 1426.83,
         "status": "open",
-        "stage": "ARRIVED AT CGA",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
-        "notes": "QU-04039 - 25.03.26 - HM60-06T\nP70249 - 31.03.26"
+        "notes": "QU-04039 - 25.03.26 - HM60-06T\nP70249 - 31.03.26\nINV-446007"
       },
       {
         "id": "MzNiw2axvB0Vu6Lxnrzn",
@@ -935,7 +935,7 @@
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
         "amount": 908.48,
         "status": "open",
-        "stage": "COLLECTED/INVOICED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04040 - 26.03.26 - HP45-05T\nINV-445268 - TO BE COLLECTED - SITTING IN THE PICK-UP BAY"
       }
@@ -951,7 +951,7 @@
         "company": "Hi-Way Plantation",
         "amount": 12690,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "OPPORTUNITY PRICE BASED ON \\$1410+GST PER BOTTLE"
       },
@@ -961,7 +961,7 @@
         "company": "NXKD FAMILY TRUST",
         "amount": 14100,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "OPPORTUNITY PRICE BASED \\$1410+GST PER BOTTLE"
       },
@@ -971,7 +971,7 @@
         "company": "ACE PRODUCE",
         "amount": 28017,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "OPPORTUNITY VALUE BASED ON \\$1273.50+GST PER BOTTLE"
       }
@@ -987,7 +987,7 @@
         "company": "NGUYEN & HUYNH & CHIN",
         "amount": 45000,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": ""
       }
@@ -1003,7 +1003,7 @@
         "company": "Sulli Bros Plantation",
         "amount": 13996.54,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "8 x 25kg genfarm mancozeb\n8 x 20lt copper guard\n192 (4plt) yaramila complex\nQU-04015> INV-444498 DELIVERY 10/3/2026"
       },
@@ -1013,7 +1013,7 @@
         "company": "Janna",
         "amount": 7056,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst"
       }
@@ -1029,7 +1029,7 @@
         "company": "BORICH AND SONS",
         "amount": 5372,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "1PLT OF 508-20-500 T-TAPE\nQU-04016\nSOLD ON 11/3/2026 INV-444593"
       },
@@ -1039,7 +1039,7 @@
         "company": "SKENDER PTY LTD",
         "amount": 5800,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "ON INVOICE 444301"
       }
@@ -1055,7 +1055,7 @@
         "company": "JACK MOREL",
         "amount": 6200,
         "status": "won",
-        "stage": "CLOSED",
+        "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "PINE POST 2.4MTR 100MM -125MM\nREFER TO QU-0400"
       }
