@@ -110,16 +110,6 @@
         "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL."
       },
       {
-        "id": "EwylWwFTeGR2YskgVN3g",
-        "name": "ECO RED",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 2500,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 PLT ECO RED"
-      },
-      {
         "id": "hTPhUtXD3IcQaLQJecbf",
         "name": "BACCHUS 30KG",
         "company": "Janna",
@@ -347,9 +337,9 @@
         "company": "TRAN & DINH",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "10 X 4.5M 220-250MM"
+        "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n"
       },
       {
         "id": "x6TW3ohUs2U1nhBWW0vx",
@@ -367,9 +357,9 @@
         "company": "TIPTON",
         "amount": 250,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "No",
-        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26"
+        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26\n\n16/4/26 \nARRIVED TO CGA BOOKED OUT TO GROWER AND PICKED UP."
       },
       {
         "id": "Kqjaw6ACX6TtbpKfikHs",
@@ -387,7 +377,7 @@
         "company": "JACK MOREL",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS"
       },
@@ -427,7 +417,7 @@
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 9500,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26"
       },
@@ -437,7 +427,7 @@
         "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 8500,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
       },
@@ -457,7 +447,7 @@
         "company": "Monique",
         "amount": 385,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "10kg x BORLOTTI BEANS\n15/4/26\nTAKEN ON THE 2/4/26 ON INV-445467"
       },
@@ -478,8 +468,8 @@
         "amount": 24000,
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": null,
-        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST"
+        "isNew": "Yes",
+        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS."
       }
     ]
   },
@@ -611,11 +601,11 @@
         "id": "olJWdLjCjb3viPWyV96j",
         "name": "Warren Schmidt",
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 0,
+        "amount": 1396,
         "status": "open",
-        "stage": "NEW ORDER/JOB",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
-        "notes": "PLEASE QUOTE GPS ON\n3 X 200 METER COILS OF 32MM BLUELINE POLY PN20"
+        "notes": "QUOTE #QU-04063   GPS \n3 X 200 METER COILS OF 32MM BLUELINE POLY PN20 - REQ'D TO BUY 10 COILS\nHAVE QUOTES 6 X 50MTR ROLLS"
       },
       {
         "id": "RCPNRggN9fddu276PGsf",
@@ -731,11 +721,11 @@
         "id": "FIAeXtn5EUMMuaXUhtol",
         "name": "BYRON & SARA SUTCLIFFE",
         "company": "Sutcliffe plantation",
-        "amount": 0,
+        "amount": 1917.45,
         "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": "Yes",
-        "notes": "1 X 100METER X 90MM X 3MM WALL THICKNESS BLUELINE POLY (ACUTECH)\n1 X 100 METER FLEXNET 80MM X 3METER SPACING (NETAFIM). TRY 1MTR SPACINGS\nRUNNING PRESSURE 2 BAR. SUPPLY CHARTS THURSDAY.\n\n23/3/26\nSpoke to Byron Sutcliffe and advised that Dura-pol has landed into Fremantle and going through quarantine. Will call him when it arrives to cga."
+        "stage": "P/O GENERATED",
+        "isNew": "No",
+        "notes": "QUOTE #QU-04068\nRETICULATION SPARES\n\n"
       },
       {
         "id": "eC9GntEmn2EJNBKOkAgw",
@@ -997,6 +987,16 @@
     "pipelineName": "FERTILIZER",
     "status": "won",
     "opps": [
+      {
+        "id": "EwylWwFTeGR2YskgVN3g",
+        "name": "ECO RED",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 2500,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 PLT ECO RED"
+      },
       {
         "id": "ng9f8uQJ68cxnjcTGhJ5",
         "name": "Kevin & Karina Sullivan",
