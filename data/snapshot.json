@@ -337,7 +337,7 @@
         "company": "TRAN & DINH",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n"
       },
@@ -347,7 +347,7 @@
         "company": "TIPTON",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "7 X 1000 VITALIS BEAN SEEDS"
       },
@@ -390,16 +390,6 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
-      },
-      {
-        "id": "lX1ME26DKHVPVLTFUoID",
-        "name": "PINE POLES",
-        "company": "V & M Durmanich",
-        "amount": 16500,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "400 X 2.4M 125-150MM PINE POLES\nON QU-04031"
       },
       {
         "id": "vr2YQ99s0z0nldSKAegF",
@@ -744,6 +734,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "kgkUOC70WxmrbEE4qMYS",
+        "name": "GRUNDFOS - PUMP CH4-40",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "20.04.26 - PLEASE QUOTE ON \nGRUNDFOS CH4-40 A-W-AEVBE - 3 PHASE - MODEL#44501104"
+      },
+      {
+        "id": "mBSLv4s3vVhkPahZeV0e",
+        "name": "SPRINKLERS/LOW DENSITY POLY",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY"
+      },
+      {
         "id": "c4ffzKHi85LhP66vRQpn",
         "name": "GYPSOM IRRIGATION",
         "company": "LEICHHARDT",
@@ -859,6 +869,16 @@
     "pipelineName": "BIANCA's ORDERS",
     "status": "open",
     "opps": [
+      {
+        "id": "mD33DseSUu21ghHUCzxx",
+        "name": "50MM BLULINE x 2 / 50MM COUPLING",
+        "company": "Shire of Upper Gascoyne",
+        "amount": 0,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": null,
+        "notes": "QU-04069"
+      },
       {
         "id": "ctpd9OIDBzmYwO7cAjgS",
         "name": "PINE POSTS - PHAM",

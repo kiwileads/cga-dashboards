@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-20T21:45:35.588Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "GRUNDFOS - PUMP CH4-40",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: GRUNDFOS - PUMP CH4-40 (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-04-20T21:45:35.588Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "SPRINKLERS/LOW DENSITY POLY",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: SPRINKLERS/LOW DENSITY POLY (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-04-20T21:45:35.588Z",
+    "type": "added",
+    "pipeline": "BIANCA's ORDERS",
+    "name": "50MM BLULINE x 2 / 50MM COUPLING",
+    "company": "Shire of Upper Gascoyne",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: 50MM BLULINE x 2 / 50MM COUPLING (BIANCA's ORDERS) - $0.00"
+  },
+  {
+    "date": "2026-04-20T21:45:35.588Z",
+    "type": "removed",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "V & M Durmanich",
+    "amount": 16500,
+    "status": "open",
+    "message": "Removed: PINE POLES (GENERAL MERCH) - $16500.00"
+  },
+  {
     "date": "2026-04-17T21:40:16.039Z",
     "type": "field_change",
     "pipeline": "GENERAL MERCH",
