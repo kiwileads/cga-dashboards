@@ -60,13 +60,33 @@
     "status": "open",
     "opps": [
       {
+        "id": "F6wV7sZb8EZP4HMNLuQh",
+        "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
+        "company": "BORICH & SONS",
+        "amount": 0,
+        "status": "open",
+        "stage": "WAITING ON SUPPLIER",
+        "isNew": null,
+        "notes": "P70344 - 21.04.26 - BISHOPS\n54 x 20KG EMERALD LAWN \n8 x BULKA BAGS ECO PRIME (4 x BOR)"
+      },
+      {
+        "id": "tt57PK5r5yCKDzs2crWZ",
+        "name": "BUILDERS LIME - BULKA",
+        "company": "J & M LECA",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "BULKA BAG OF BUILDERS LIME"
+      },
+      {
         "id": "lNovjdfE4d7PtsPPm8Bo",
         "name": "SERGOMIL L60",
         "company": "GLENDALE PLANTATION",
         "amount": 606,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": null,
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
         "notes": "1 X 20LT SERGOMIL L60"
       },
       {
@@ -75,7 +95,7 @@
         "company": "Janna",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "QUOTE \n1000LT OF SERGOMIL\n20LT OF SERGOMIL\nQUOTED ON 8/4/26 ON QU-04049"
       },
@@ -85,9 +105,9 @@
         "company": "BUMBAK & SONS",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "LOST",
         "isNew": "Yes",
-        "notes": "10 BAGS LOW BURIE UREA\n\nEMAILED IVY AND NINO AT NUTRIEN. 8/4/26"
+        "notes": "10 BAGS LOW BURIE UREA\n\nEMAILED IVY AND NINO AT NUTRIEN. 8/4/26\n\n22/4/26- LOST DUE TO NOT BEEING ABLE TO GET STOCK FROM SUPPLIERS."
       },
       {
         "id": "mpQPcm8ub2FPTQfGVdov",
@@ -105,9 +125,9 @@
         "company": "BORICH & SONS",
         "amount": 7956,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL."
+        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL.\n\n21.04.26- ORDERED ON P7344"
       },
       {
         "id": "hTPhUtXD3IcQaLQJecbf",
@@ -165,9 +185,9 @@
         "company": "Hi-Way Plantation",
         "amount": 20000,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "LOST",
         "isNew": "Yes",
-        "notes": "8 X 1000KG ECO PRIME BULK BAGS"
+        "notes": "8 X 1000KG ECO PRIME BULK BAGS\n\n22.4.26- PROPOSAL LOST DUE TO CLIENT PURCHASING BOUNCE BACK."
       },
       {
         "id": "6n2sMTrSRmoV5B6Gs1fW",
@@ -226,12 +246,22 @@
     "status": "open",
     "opps": [
       {
+        "id": "ZuJ89Pz5Uo0g37dvkxqO",
+        "name": "METALAXYL 250EC - 10L",
+        "company": "CHINNERY & CHAPMAN",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "1 x 10L OF METALAXYL 250EC"
+      },
+      {
         "id": "AKzYI7B7BRhdv9vGPIw8",
         "name": "ROUNDUP",
         "company": "Shire of Upper Gascoyne",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER.\nP/O RECEIVED FROM SEAN - 10073 - INVOICED - INV-445842"
       },
@@ -241,7 +271,7 @@
         "company": "J & M LECA",
         "amount": 9306,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "6 X 90KG STRIKE 60\nON SALES ORD-478579\nINCOICED ON THE 26/3/26 ON INV-445251"
       },
@@ -321,7 +351,7 @@
         "company": "NXKD FAMILY TRUST",
         "amount": 13183.5,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "5 x stike 60 inline 140kg\nINVOICED ON 11/3/26 ON INV-44610 AND DELIVERED."
       }
@@ -331,6 +361,26 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "e5Fsjew6DLR2REeXg2Yr",
+        "name": "METHAM SODIUM (KENSO) x 1000L",
+        "company": "DELTA AGRI (GRAY)",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "P70341 - 20.04.26 - BISHOPS\nMETHAM SODIUM(KENSO) 1000L x 2\n1 x 10,000 - JAVELIN WATERMELON SEEDS (GUL1)"
+      },
+      {
+        "id": "d8qItWyJJNb6YC5VAVsp",
+        "name": "PINE POSTS - TRAN2",
+        "company": "NUTRIEN AG SOLUTIONS",
+        "amount": 1925,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "P70339 - 20.04.26 - BISHOPS\n10 x PINE POSTS (4.8x225-250mm)"
+      },
       {
         "id": "M5wX8zEDpOcBJ0RD2Gf6",
         "name": "PINE POLES",
@@ -390,6 +440,16 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
+      },
+      {
+        "id": "KRtgLQyPEivHB2Z64bpL",
+        "name": "TRAN2 - DARK BLUE TWINE",
+        "company": "CRNARVON GROWERS",
+        "amount": 9402.62,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": null,
+        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
       },
       {
         "id": "vr2YQ99s0z0nldSKAegF",
@@ -471,29 +531,29 @@
         "id": "BCryI9HftzGObZBNqQi2",
         "name": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP",
         "company": "",
-        "amount": 0,
+        "amount": 2041.87,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
-        "notes": "P70278 - 07.04.26 - ORDER FOR SOUG - SEAN"
+        "notes": "P70278 - 07.04.26 - ORDER FOR SOUG - SEAN\n\n**** DUPLICATED ON PLATFORM ****"
       },
       {
         "id": "cVIhtdmdN38meqDVK83g",
         "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
         "company": "MATTHEW HOLLA",
-        "amount": 0,
+        "amount": 103,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70289 - 10.04.26 - FIS\nDAVEY IMPELLER KIT TO SUIT SLS200-1/SLL200 PUMP x 2\nNECK RING SILENSOR x 2\nO-RING CASING SILENCOR x 2"
       },
       {
         "id": "hwpjpaJ9H0tDVSuwCwkr",
         "name": "YELLOW SUCTION FILTER",
-        "company": "NUTRIEN AG SOLUTIONS",
-        "amount": 0,
+        "company": "BQ LUU & TNT PHAM",
+        "amount": 93,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
         "notes": "P70290 - 10.04.26 - AIRBAG\nXDM0003574"
       },
@@ -501,7 +561,7 @@
         "id": "rUs9OG8MocFlOFFyEenl",
         "name": "DOSING PUMP",
         "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 0,
+        "amount": 1023,
         "status": "open",
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": null,
@@ -513,7 +573,7 @@
         "company": "SHIRE OF CARNARVON",
         "amount": 2046.96,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "P/O GENERATED",
         "isNew": null,
         "notes": "QU-04047 - 07.04.26 - EMAILED TO LOCKIE.S@CARNARVON.WA.GOV.AU"
       },
@@ -543,7 +603,7 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 2041.88,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "QU-04042 / QU-04041"
       },
@@ -553,7 +613,7 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 2042,
         "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
+        "stage": "ARRIVED AT CGA",
         "isNew": "No",
         "notes": "Purchase Order P70278\no/n 10029\n1 x Variable Speed Pump"
       },
@@ -573,7 +633,7 @@
         "company": "HORIZON POWER",
         "amount": 1633.5,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "P/O P70268 - 31.03.26\nQU-04033\n"
       },
@@ -606,16 +666,6 @@
         "stage": "DELIVERY DELAYED",
         "isNew": "No",
         "notes": "P70244 - 26.03.26 - CALL JULIAN ONCE IN - A/C - CON"
-      },
-      {
-        "id": "KRtgLQyPEivHB2Z64bpL",
-        "name": "TRAN2 - DARK BLUE TWINE",
-        "company": "CRNARVON GROWERS",
-        "amount": 9402.62,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": null,
-        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
       },
       {
         "id": "07d7BFN2g8Ld8YUwcBuv",
@@ -693,7 +743,7 @@
         "company": "PHUONG & BE BA",
         "amount": 251.5,
         "status": "open",
-        "stage": "DELIVERY DELAYED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "2 x silvan spraybar 3060mm long x 7 jets - SIL038-172\n1 X DIAPHRAGM PUMP 70-80 BAR 6 SPLINE SINGLE OR THRU SHAFT"
       },
@@ -713,7 +763,7 @@
         "company": "Sutcliffe plantation",
         "amount": 1917.45,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "DELIVERY ON SCHEDULE",
         "isNew": "No",
         "notes": "QUOTE #QU-04068\nRETICULATION SPARES\n\n"
       },
@@ -737,11 +787,11 @@
         "id": "kgkUOC70WxmrbEE4qMYS",
         "name": "GRUNDFOS - PUMP CH4-40",
         "company": "",
-        "amount": 0,
+        "amount": 728,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
-        "notes": "20.04.26 - PLEASE QUOTE ON \nGRUNDFOS CH4-40 A-W-AEVBE - 3 PHASE - MODEL#44501104"
+        "notes": "20.04.26 - PLEASE QUOTE ON \nGRUNDFOS CH4-40 A-W-AEVBE - 3 PHASE - MODEL#44501104 (DISCONTINUED)\nUSE CM5-4\nQU-04074 dated 22/04/26"
       },
       {
         "id": "mBSLv4s3vVhkPahZeV0e",
@@ -749,9 +799,9 @@
         "company": "SHIRE OF CARNARVON",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": null,
-        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY"
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
       },
       {
         "id": "c4ffzKHi85LhP66vRQpn",
@@ -779,7 +829,7 @@
         "company": "SHIRE OF CARNARVON",
         "amount": 552,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING\n\n15/4/26\nQUOTED ON QU-04161 EMAILED TO DEAN ANDREOLI"
       },
