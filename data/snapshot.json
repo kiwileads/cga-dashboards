@@ -281,7 +281,7 @@
         "company": "Janna",
         "amount": 7741.35,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538"
       },
@@ -291,7 +291,7 @@
         "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
         "amount": 7569.32,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": null,
         "notes": "40 X 10LT DORMEX - ORD-478385"
       },
@@ -301,7 +301,7 @@
         "company": "V & M Durmanich",
         "amount": 13246.31,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": null,
         "notes": "70 X 10LT DORMEX -ORD-478470"
       },
@@ -311,7 +311,7 @@
         "company": "J & M LECA",
         "amount": 9461.65,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "50 X 10LT DORMEX\nON SALES ORDER ORD-478473"
       },
@@ -321,7 +321,7 @@
         "company": "GOR",
         "amount": 8601.5,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
       },
@@ -331,7 +331,7 @@
         "company": "GIULIANO CONDO",
         "amount": 20284.66,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472"
       },
@@ -341,7 +341,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 4163.13,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
       },

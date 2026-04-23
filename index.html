@@ -76,13 +76,13 @@
           { name: "METALAXYL 250EC - 10L", company: "CHINNERY & CHAPMAN", amount: 0, stage: "NEW LEAD", isNew: null, notes: "1 x 10L OF METALAXYL 250EC" },
           { name: "ROUNDUP", company: "Shire of Upper Gascoyne", amount: 0, stage: "CLOSED/COMPLETE", isNew: "Yes", notes: "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER.\nP/O RECEIVED FROM SEAN - 10073 - INVOICED - INV-445842" },
           { name: "STRIKE 60 90KG", company: "J & M LECA", amount: 9306, stage: "CLOSED/COMPLETE", isNew: "No", notes: "6 X 90KG STRIKE 60\nON SALES ORD-478579\nINCOICED ON THE 26/3/26 ON INV-445251" },
-          { name: "DORMEX GRAPES 26", company: "Janna", amount: 7741.35, stage: "PROPOSAL SENT TO CLIENT", isNew: "Yes", notes: "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538" },
-          { name: "DORMEX GRAPES 26", company: "M. F PAULINO & TTF A.F PAULINO ESTATE", amount: 7569.32, stage: "PROPOSAL SENT TO CLIENT", isNew: null, notes: "40 X 10LT DORMEX - ORD-478385" },
-          { name: "DORMEX GRAPES 26", company: "V & M Durmanich", amount: 13246.31, stage: "PROPOSAL SENT TO CLIENT", isNew: null, notes: "70 X 10LT DORMEX -ORD-478470" },
-          { name: "DORMEX GRAPES 26", company: "J & M LECA", amount: 9461.65, stage: "PROPOSAL SENT TO CLIENT", isNew: "No", notes: "50 X 10LT DORMEX\nON SALES ORDER ORD-478473" },
-          { name: "DORMEX GRAPES 26", company: "GOR", amount: 8601.5, stage: "PROPOSAL SENT TO CLIENT", isNew: "No", notes: "50 X 10LT DORMEX ON SALES ORDER ORD-478481" },
-          { name: "DORMEX GRAPES 26", company: "GIULIANO CONDO", amount: 20284.66, stage: "PROPOSAL SENT TO CLIENT", isNew: "No", notes: "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472" },
-          { name: "DORMEX GRAPES 26", company: "GLENDALE PLANTATION", amount: 4163.13, stage: "PROPOSAL SENT TO CLIENT", isNew: "Yes", notes: "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026" },
+          { name: "DORMEX GRAPES 26", company: "Janna", amount: 7741.35, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538" },
+          { name: "DORMEX GRAPES 26", company: "M. F PAULINO & TTF A.F PAULINO ESTATE", amount: 7569.32, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: null, notes: "40 X 10LT DORMEX - ORD-478385" },
+          { name: "DORMEX GRAPES 26", company: "V & M Durmanich", amount: 13246.31, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: null, notes: "70 X 10LT DORMEX -ORD-478470" },
+          { name: "DORMEX GRAPES 26", company: "J & M LECA", amount: 9461.65, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "No", notes: "50 X 10LT DORMEX\nON SALES ORDER ORD-478473" },
+          { name: "DORMEX GRAPES 26", company: "GOR", amount: 8601.5, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "No", notes: "50 X 10LT DORMEX ON SALES ORDER ORD-478481" },
+          { name: "DORMEX GRAPES 26", company: "GIULIANO CONDO", amount: 20284.66, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "No", notes: "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472" },
+          { name: "DORMEX GRAPES 26", company: "GLENDALE PLANTATION", amount: 4163.13, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026" },
           { name: "STRIKE 60 DRIP 140KG", company: "NXKD FAMILY TRUST", amount: 13183.5, stage: "CLOSED/COMPLETE", isNew: "Yes", notes: "5 x stike 60 inline 140kg\nINVOICED ON 11/3/26 ON INV-44610 AND DELIVERED." }
       ]},
       { name: "GENERAL MERCH", fullName: "SALES - GENERAL MERCH", value: 75421.5, color: "#c084fc", opportunities: [
@@ -539,7 +539,7 @@
       return (
         <div>
           <h1 style={{textAlign:"center",fontSize:28,fontWeight:800,color:"#fff",marginBottom:4}}>Sales Pipeline Dashboard</h1>
-          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 22 April 2026</p>
+          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 23 April 2026</p>
           <SearchBar allData={OPEN_DATA} onSelect={handleSearchSelect} stageRef={stageRef}/>
           <div style={{display:"flex",gap:50,flexWrap:"wrap",justifyContent:"center"}}>
             <DonutChart data={WON_DATA} title="Won Opportunities" subtitle="deals closed" centerLabel="Total Won"/>
