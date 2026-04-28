@@ -397,9 +397,9 @@
         "company": "TIPTON",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "No",
-        "notes": "7 X 1000 VITALIS BEAN SEEDS"
+        "notes": "7 X 1000 VITALIS BEAN SEEDS\n\n16/4/26 \nARRIVED TO CGA BOOKED OUT TO GROWER AND PICKED UP."
       },
       {
         "id": "OM0jgnpNth6euWMRwnML",
@@ -409,7 +409,7 @@
         "status": "open",
         "stage": "CLOSED/COMPLETE",
         "isNew": "No",
-        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26\n\n16/4/26 \nARRIVED TO CGA BOOKED OUT TO GROWER AND PICKED UP."
+        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26\n\n"
       },
       {
         "id": "Kqjaw6ACX6TtbpKfikHs",
@@ -469,7 +469,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26"
+        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26\n\n16.4.26 - ARRIVED AT CGA"
       },
       {
         "id": "0BzT8TheI4agQ4TD3csN",
