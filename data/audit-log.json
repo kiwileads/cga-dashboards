@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-29T21:58:21.002Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "STOCK TOP UP",
+    "company": "CGA",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: STOCK TOP UP (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-04-29T21:58:21.002Z",
+    "type": "field_change",
+    "pipeline": "FERTILIZER",
+    "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
+    "company": "BORICH & SONS",
+    "amount": 0,
+    "message": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION: \"New Business\" changed Not Set -> Yes"
+  },
+  {
+    "date": "2026-04-29T21:58:21.002Z",
+    "type": "field_change",
+    "pipeline": "CHEMICALS",
+    "name": "METALAXYL 250EC - 10L",
+    "company": "CHINNERY & CHAPMAN",
+    "amount": 0,
+    "message": "METALAXYL 250EC - 10L: \"New Business\" changed Not Set -> Yes"
+  },
+  {
     "date": "2026-04-22T21:50:14.936Z",
     "type": "added",
     "pipeline": "FERTILIZER",

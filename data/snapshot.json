@@ -60,14 +60,24 @@
     "status": "open",
     "opps": [
       {
+        "id": "1NHopTrWYvAWplLBDHr7",
+        "name": "STOCK TOP UP",
+        "company": "CGA",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "10  PALLETS OF ECO RED.\n22.04.26 ORDERED ON P70355\n\n29.04.26 - SPOKE TO DAN TODAY AND WAS TOLD THAT PRICING WILL REMAIN THE SAME ETA OF 6WEEKS.\n"
+      },
+      {
         "id": "F6wV7sZb8EZP4HMNLuQh",
         "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
         "company": "BORICH & SONS",
         "amount": 0,
         "status": "open",
         "stage": "WAITING ON SUPPLIER",
-        "isNew": null,
-        "notes": "P70344 - 21.04.26 - BISHOPS\n54 x 20KG EMERALD LAWN \n8 x BULKA BAGS ECO PRIME (4 x BOR)"
+        "isNew": "Yes",
+        "notes": "P70344 - 21.04.26 - BISHOPS\n54 x 20KG EMERALD LAWN \n8 x BULKA BAGS ECO PRIME (4 x BOR)\n\n29.04.26 - SPOKE TO DAN PRICE HAS GONE UP ON PRIME FROM \\$1775+ PER TONE TO \\$1875+ ETA 5 OF MAY 26\n"
       },
       {
         "id": "tt57PK5r5yCKDzs2crWZ",
@@ -251,9 +261,9 @@
         "company": "CHINNERY & CHAPMAN",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": null,
-        "notes": "1 x 10L OF METALAXYL 250EC"
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 x 10L OF METALAXYL 250EC\n24.04.26 INVOICED ON INV-446426"
       },
       {
         "id": "AKzYI7B7BRhdv9vGPIw8",
@@ -811,7 +821,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "\n3 X 100m roll of heavy duty red layflat\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp\n300 X 40-60/12 W3 Norma worm drive SS hose clamp\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239"
+        "notes": "\n3 X 100m roll of heavy duty red layflat - STOCK\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp P70318\n300 X 40-60/12 W3 Norma worm drive SS hose clamp P70321\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector P70320\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler P70320\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239\n\n"
       },
       {
         "id": "epFTfvBbzppAI5DLqavw",
