@@ -4,6 +4,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "5e91bLpd0KHOPUZeoWrU",
+        "name": "THE MAD MELON BOX",
+        "company": "SKENDER PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS."
+      },
+      {
         "id": "tlga3aEUKbgGFFx5uLLm",
         "name": "Kevin Burkett",
         "company": "KF & PD BURKETT",
@@ -85,7 +95,7 @@
         "company": "J & M LECA",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "WAITING ON SUPPLIER",
         "isNew": null,
         "notes": "BULKA BAG OF BUILDERS LIME"
       },

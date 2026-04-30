@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-04-30T21:55:31.141Z",
+    "type": "added",
+    "pipeline": "CUSTOM BOXES",
+    "name": "THE MAD MELON BOX",
+    "company": "SKENDER PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: THE MAD MELON BOX (CUSTOM BOXES) - $0.00"
+  },
+  {
     "date": "2026-04-29T21:58:21.002Z",
     "type": "added",
     "pipeline": "FERTILIZER",
