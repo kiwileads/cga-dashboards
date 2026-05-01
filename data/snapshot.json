@@ -60,8 +60,8 @@
         "amount": 45000,
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": null,
-        "notes": "OPPORTUNITY VALUE BASED ON \\$1.49+GST"
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE BASED ON \\$1.49+GST\n28.04.26 - SPOKE TO SU TRAN AND WAS ADVISED THAT HE WILL NOT BE USING THESE CHERRY'S THIS SEASON. WILL REVISIT THIS IN 2027.\n"
       }
     ]
   },
@@ -382,6 +382,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "T6uQ2EwZKomDzUqSFLM2",
+        "name": "STONE FRUIT PLIX LINERS",
+        "company": "J & P CONSTANTINE",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
+      },
+      {
         "id": "e5Fsjew6DLR2REeXg2Yr",
         "name": "METHAM SODIUM (KENSO) x 1000L",
         "company": "DELTA AGRI (GRAY)",
@@ -392,16 +402,6 @@
         "notes": "P70341 - 20.04.26 - BISHOPS\nMETHAM SODIUM(KENSO) 1000L x 2\n1 x 10,000 - JAVELIN WATERMELON SEEDS (GUL1)"
       },
       {
-        "id": "d8qItWyJJNb6YC5VAVsp",
-        "name": "PINE POSTS - TRAN2",
-        "company": "NUTRIEN AG SOLUTIONS",
-        "amount": 1925,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": null,
-        "notes": "P70339 - 20.04.26 - BISHOPS\n10 x PINE POSTS (4.8x225-250mm)"
-      },
-      {
         "id": "M5wX8zEDpOcBJ0RD2Gf6",
         "name": "PINE POLES",
         "company": "TRAN & DINH",
@@ -409,7 +409,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n"
+        "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n20.04.26 - ORDERED ON P70339\n"
       },
       {
         "id": "x6TW3ohUs2U1nhBWW0vx",
@@ -544,269 +544,13 @@
     ]
   },
   {
-    "pipelineName": "ROB's CUSTOM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "BCryI9HftzGObZBNqQi2",
-        "name": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP",
-        "company": "",
-        "amount": 2041.87,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": null,
-        "notes": "P70278 - 07.04.26 - ORDER FOR SOUG - SEAN\n\n**** DUPLICATED ON PLATFORM ****"
-      },
-      {
-        "id": "cVIhtdmdN38meqDVK83g",
-        "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
-        "company": "MATTHEW HOLLA",
-        "amount": 103,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": null,
-        "notes": "P70289 - 10.04.26 - FIS\nDAVEY IMPELLER KIT TO SUIT SLS200-1/SLL200 PUMP x 2\nNECK RING SILENSOR x 2\nO-RING CASING SILENCOR x 2"
-      },
-      {
-        "id": "hwpjpaJ9H0tDVSuwCwkr",
-        "name": "YELLOW SUCTION FILTER",
-        "company": "BQ LUU & TNT PHAM",
-        "amount": 93,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": null,
-        "notes": "P70290 - 10.04.26 - AIRBAG\nXDM0003574"
-      },
-      {
-        "id": "rUs9OG8MocFlOFFyEenl",
-        "name": "DOSING PUMP",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 1023,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "QU-04048 - 08.04.26"
-      },
-      {
-        "id": "LLT3modXoDTontW0gnqd",
-        "name": "SAFETY GEAR",
-        "company": "SHIRE OF CARNARVON",
-        "amount": 2046.96,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": null,
-        "notes": "QU-04047 - 07.04.26 - EMAILED TO LOCKIE.S@CARNARVON.WA.GOV.AU"
-      },
-      {
-        "id": "Ata8Yrzrm6EI5FXYl4Vf",
-        "name": "CRI 5-12-A (MECHANICAL SEAL DOSING PUMP)",
-        "company": "SORICO PLANTATION",
-        "amount": 370,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": null,
-        "notes": "PLEASE SOURCE PART FOR ROB SCOTT"
-      },
-      {
-        "id": "dU5r3D9zkk6LXkeOZOBV",
-        "name": "FITTINGS - LAKE MCLEOD",
-        "company": "LEICHARDT",
-        "amount": 209.01,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": null,
-        "notes": "QU-04044\nINV-445562/445564"
-      },
-      {
-        "id": "bacGqfOXS7866eYcrLO8",
-        "name": "SOUG - MULTISTAGE PUMP - WPF-MHQP-MINI",
-        "company": "Shire of Upper Gascoyne",
-        "amount": 2041.88,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "QU-04042 / QU-04041"
-      },
-      {
-        "id": "dsAxqvPQc5lSI3BjXenp",
-        "name": "Sean Walker",
-        "company": "Shire of Upper Gascoyne",
-        "amount": 2042,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "No",
-        "notes": "Purchase Order P70278\no/n 10029\n1 x Variable Speed Pump"
-      },
-      {
-        "id": "F7hQ8YLS5Ub4vIuqjEHz",
-        "name": "Leichardt Scott Medhurst",
-        "company": "LEICHARDT",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": "No",
-        "notes": "QUOTE ON \n1 X KEYSTONE SWING TYPE WAFER CHECK VALVE \n100MM \nREFER TO EMAIL FROM WARREN HATT  ON TUESDAY 7/4/26 @7:31AM\n\n"
-      },
-      {
-        "id": "tKekbBCoYCpp3kZG6TVE",
-        "name": "DEGREASER 200 LT - HORIZON POWER",
-        "company": "HORIZON POWER",
-        "amount": 1633.5,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "P/O P70268 - 31.03.26\nQU-04033\n"
-      },
-      {
-        "id": "FB3cnqyknrBikSln8yTT",
-        "name": "Leichardt Scott Medhurst",
-        "company": "LEICHARDT",
-        "amount": 962.5,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "No",
-        "notes": "P70258 - 02.04.26 - #1071130795\nP/O LMC 33501495\n2 x #WPG-96688081   40L Tank PE2TRANSP./BLACK\nCONTACT Des CCP when arrives. \nDESPATCHED 7/04/26. Arrived."
-      },
-      {
-        "id": "olJWdLjCjb3viPWyV96j",
-        "name": "Warren Schmidt",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 1396,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "QUOTE #QU-04063   GPS \n3 X 200 METER COILS OF 32MM BLUELINE POLY PN20 - REQ'D TO BUY 10 COILS\nHAVE QUOTES 6 X 50MTR ROLLS"
-      },
-      {
-        "id": "RCPNRggN9fddu276PGsf",
-        "name": "NMC PRO - LEXAN",
-        "company": "J & P CONSTANTINE",
-        "amount": 525.25,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "No",
-        "notes": "P70244 - 26.03.26 - CALL JULIAN ONCE IN - A/C - CON"
-      },
-      {
-        "id": "07d7BFN2g8Ld8YUwcBuv",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
-      },
-      {
-        "id": "XjV7d1071kWRlszBb2n1",
-        "name": "HDPE S/S REPAIR CLAMP x 2",
-        "company": "",
-        "amount": 559.9,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": null,
-        "notes": "P70232\nOUR CODE #MISCTYCWBUM"
-      },
-      {
-        "id": "LfFkMX1JFz9bFCoJ0NRk",
-        "name": "STARLINE PUMP x 3",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 11880,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
-      },
-      {
-        "id": "JrMij5xImsKkOJKMeQ0H",
-        "name": "KIN SANG CHIN",
-        "company": "KINSANG FRESH PTY LTD",
-        "amount": 1876.6,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "No",
-        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
-      },
-      {
-        "id": "YVUm0NW2vDXAWs7FNsul",
-        "name": "Kevin & Karina Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 2500,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "No",
-        "notes": "Originally wanted a price on a pump. Kevin did mention that he had 3 pumps at home and the motors were stuffed. I gave him a price on motors only and he ordered 2 motors to suit the pumps."
-      },
-      {
-        "id": "qDHNWX5CLGyxWAdJO4iE",
-        "name": "JASON & KYLIE CHAPLIN",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 1070,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "Business taken off competitor due to lag. Steve approached me and I sorted it out straight away."
-      },
-      {
-        "id": "sWKS7GePfY6Us9CyUhSK",
-        "name": "Dennis Durmanich",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 615.12,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "Dorot Valve 2\" float Flanged for Oasis Caravan Park"
-      },
-      {
-        "id": "LQZ9MS6FNkvqrgZMO3SG",
-        "name": "THE PHUONG TRINH",
-        "company": "PHUONG & BE BA",
-        "amount": 251.5,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "2 x silvan spraybar 3060mm long x 7 jets - SIL038-172\n1 X DIAPHRAGM PUMP 70-80 BAR 6 SPLINE SINGLE OR THRU SHAFT"
-      },
-      {
-        "id": "RWb1RCgNzeizmUXcnXv1",
-        "name": "Christopher Leca",
-        "company": "199 North River Road",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "No",
-        "notes": "WARRANTY ON VOLUMEX MOTOR PURCHASED LASTYEAR.\n\nPURCHASED VIA NUTRIEN BUT SILVAN PRODUCT CHECK YOU EMAILS FOR THE REST OF THE DETAILS.\n\nNEW MOTOR PICKED UP 24/3/26 STILL NOT WORKING. VIDE SENT VIAN WHATSAPP."
-      },
-      {
-        "id": "FIAeXtn5EUMMuaXUhtol",
-        "name": "BYRON & SARA SUTCLIFFE",
-        "company": "Sutcliffe plantation",
-        "amount": 1917.45,
-        "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
-        "isNew": "No",
-        "notes": "QUOTE #QU-04068\nRETICULATION SPARES\n\n"
-      },
-      {
-        "id": "eC9GntEmn2EJNBKOkAgw",
-        "name": "Dennis Durmanich - Irrigation setup",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 7112,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "This is a trial. If it works prospect of another 4 units in addition."
-      }
-    ]
-  },
-  {
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
       {
         "id": "kgkUOC70WxmrbEE4qMYS",
         "name": "GRUNDFOS - PUMP CH4-40",
-        "company": "",
+        "company": "ORP",
         "amount": 728,
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
@@ -936,6 +680,152 @@
     ]
   },
   {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "ktXK6tFhEl46wLb1qq9W",
+        "name": "Irrigation Spares",
+        "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
+        "amount": 2606.92,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "refer quotation # QU-04075 "
+      },
+      {
+        "id": "byA62gsDUdNpX9IeUr2A",
+        "name": "GRUNDFOS CM5-4 SINGLE PHASE",
+        "company": "ORP",
+        "amount": 755.43,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "P70357 - 23.04.25 - F I S\n1 x ORLANDO\n1 x STOCK"
+      },
+      {
+        "id": "wPoIlisrRgbjJSmbRxEW",
+        "name": "GREEN SHADECLOTH",
+        "company": "JACK MOREL",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": "Yes",
+        "notes": "4 X 50 METER ROLLS OF SHADECLOTH\n2.4 METER 70% GREEN WITH EYELETS TO FEED WIRE THROUGH"
+      },
+      {
+        "id": "BCryI9HftzGObZBNqQi2",
+        "name": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP",
+        "company": "",
+        "amount": 2041.87,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": null,
+        "notes": "QU-04042 / QU-04041\nP70278 - 07.04.26 - ORDER FOR SOUG - SEAN\nPUMP HAS ARRIVED IN STORE - CALL DUST UP FOR COLLECTION TO DELIVER TO SOUG\n**** DUPLICATED ON PLATFORM ****"
+      },
+      {
+        "id": "rUs9OG8MocFlOFFyEenl",
+        "name": "DOSING PUMP",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 1023,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QU-04048 - 08.04.26\nAwaiting CCP customer to accept (boss quit on mine site) I have been speaking with Tara 1.5.26 - Rob"
+      },
+      {
+        "id": "LLT3modXoDTontW0gnqd",
+        "name": "SAFETY GEAR",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 2046.96,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": null,
+        "notes": "QU-04047 - 07.04.26 - EMAILED TO LOCKIE.S@CARNARVON.WA.GOV.AU"
+      },
+      {
+        "id": "F7hQ8YLS5Ub4vIuqjEHz",
+        "name": "Leichardt Scott Medhurst",
+        "company": "LEICHARDT",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": "No",
+        "notes": "QUOTE ON \n1 X KEYSTONE SWING TYPE WAFER CHECK VALVE \n100MM \nREFER TO EMAIL FROM WARREN HATT  ON TUESDAY 7/4/26 @7:31AM\n\n"
+      },
+      {
+        "id": "tKekbBCoYCpp3kZG6TVE",
+        "name": "DEGREASER 200 LT - HORIZON POWER",
+        "company": "HORIZON POWER",
+        "amount": 1633.5,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "P/O P70268 - 31.03.26\nQU-04033\n"
+      },
+      {
+        "id": "olJWdLjCjb3viPWyV96j",
+        "name": "Warren Schmidt",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 1396,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QUOTE #QU-04063   GPS \n3 X 200 METER COILS OF 32MM BLUELINE POLY PN20 - REQ'D TO BUY 10 COILS\nHAVE QUOTES 6 X 50MTR ROLLS"
+      },
+      {
+        "id": "07d7BFN2g8Ld8YUwcBuv",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 2369.4,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
+      },
+      {
+        "id": "LfFkMX1JFz9bFCoJ0NRk",
+        "name": "STARLINE PUMP x 3",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 11880,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
+      },
+      {
+        "id": "JrMij5xImsKkOJKMeQ0H",
+        "name": "KIN SANG CHIN",
+        "company": "KINSANG FRESH PTY LTD",
+        "amount": 1876.6,
+        "status": "open",
+        "stage": "DELIVERY DELAYED",
+        "isNew": "No",
+        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
+      },
+      {
+        "id": "FIAeXtn5EUMMuaXUhtol",
+        "name": "BYRON & SARA SUTCLIFFE",
+        "company": "Sutcliffe plantation",
+        "amount": 1917.45,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "No",
+        "notes": "QUOTE #QU-04068 - ACCEPTED\nRETICULATION SPARES\n\n"
+      },
+      {
+        "id": "eC9GntEmn2EJNBKOkAgw",
+        "name": "Dennis Durmanich - Irrigation setup",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 7112,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "This is a trial. If it works prospect of another 4 units in addition."
+      }
+    ]
+  },
+  {
     "pipelineName": "BIANCA's ORDERS",
     "status": "open",
     "opps": [
@@ -965,7 +855,7 @@
         "company": "CASH CUSTOMER",
         "amount": 1398.1,
         "status": "open",
-        "stage": "ARRIVED AT CGA",
+        "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "P70267 - 02.04.26 - BISHOPS TRANSPORT\nSPOKE TO ANDREW - 16.04.26 - NO LONGER NEEDED - ADDED TO STOCK"
       },
@@ -975,7 +865,7 @@
         "company": "GOR",
         "amount": 915,
         "status": "open",
-        "stage": "ARRIVED AT CGA",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70267 - 02.04.26 - BISHOPS TRANSPORT"
       },
@@ -995,9 +885,9 @@
         "company": "GIANG TRAN FAMILY TRUST",
         "amount": 2200,
         "status": "open",
-        "stage": "ARRIVED AT CGA",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
-        "notes": "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253\nCALLED - 13.04.26 - NO ANSWER - SEEDS IN BACK FRIDGE FOR COLLECTION - NOT YET INVOICED"
+        "notes": "6 X 3000 LAILAH ZUCCHINI SEEDS - QCPZL\nORDERED ON 1/04/26 ON P70253\nCALLED - 13.04.26 - NO ANSWER - SEEDS IN BACK FRIDGE FOR COLLECTION - NOT YET INVOICED\nINV-446069 AND INV-446152"
       },
       {
         "id": "1CssW2BMcnvO0B5nv3qG",
@@ -1106,6 +996,142 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst"
+      }
+    ]
+  },
+  {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "won",
+    "opps": [
+      {
+        "id": "Ktq0RMOyi09qD9ldIxaA",
+        "name": "GRUNDFOS PUMPS",
+        "company": "HILL SPRINGS PASTORAL PTY LTD",
+        "amount": 7712.46,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04072 - ACCEPTED\nP70347 - 21.04.26 - F I S\nWPG-96160405 x 1\nWPG-SQF-2.5-2N x 1\nWPG-SQ2-70N x 2\n"
+      },
+      {
+        "id": "cVIhtdmdN38meqDVK83g",
+        "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
+        "company": "MATTHEW HOLLA",
+        "amount": 103,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "P70289 - 10.04.26 - FIS\nDAVEY IMPELLER KIT TO SUIT SLS200-1/SLL200 PUMP x 2\nNECK RING SILENSOR x 2\nO-RING CASING SILENCOR x 2"
+      },
+      {
+        "id": "hwpjpaJ9H0tDVSuwCwkr",
+        "name": "YELLOW SUCTION FILTER",
+        "company": "BQ LUU & TNT PHAM",
+        "amount": 93,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "P70290 - 10.04.26 - AIRBAG\nXDM0003574"
+      },
+      {
+        "id": "Ata8Yrzrm6EI5FXYl4Vf",
+        "name": "CRI 5-12-A (MECHANICAL SEAL DOSING PUMP)",
+        "company": "SORICO PLANTATION",
+        "amount": 370,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "PLEASE SOURCE PART FOR ROB SCOTT"
+      },
+      {
+        "id": "dU5r3D9zkk6LXkeOZOBV",
+        "name": "FITTINGS - LAKE MCLEOD",
+        "company": "LEICHARDT",
+        "amount": 209.01,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "QU-04044\nINV-445562/445564"
+      },
+      {
+        "id": "FB3cnqyknrBikSln8yTT",
+        "name": "Leichardt Scott Medhurst",
+        "company": "LEICHARDT",
+        "amount": 962.5,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "P70258 - 02.04.26 - #1071130795\nP/O LMC 33501495\n2 x #WPG-96688081   40L Tank PE2TRANSP./BLACK\nCONTACT Des CCP when arrives. \nDESPATCHED 7/04/26. Arrived."
+      },
+      {
+        "id": "RCPNRggN9fddu276PGsf",
+        "name": "NMC PRO - LEXAN",
+        "company": "J & P CONSTANTINE",
+        "amount": 573,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "P70244 - 26.03.26 - CALL JULIAN ONCE IN - A/C - CON"
+      },
+      {
+        "id": "XjV7d1071kWRlszBb2n1",
+        "name": "HDPE S/S REPAIR CLAMP x 2",
+        "company": "",
+        "amount": 559.9,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "P70232\nOUR CODE #MISCTYCWBUM\nCOLLECTED BY CUSTOMER INV-445709"
+      },
+      {
+        "id": "YVUm0NW2vDXAWs7FNsul",
+        "name": "Kevin & Karina Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 2500,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "Originally wanted a price on a pump. Kevin did mention that he had 3 pumps at home and the motors were stuffed. I gave him a price on motors only and he ordered 2 motors to suit the pumps."
+      },
+      {
+        "id": "qDHNWX5CLGyxWAdJO4iE",
+        "name": "JASON & KYLIE CHAPLIN",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 1070,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Business taken off competitor due to lag. Steve approached me and I sorted it out straight away."
+      },
+      {
+        "id": "sWKS7GePfY6Us9CyUhSK",
+        "name": "Dennis Durmanich",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 615.12,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Dorot Valve 2\" float Flanged for Oasis Caravan Park"
+      },
+      {
+        "id": "LQZ9MS6FNkvqrgZMO3SG",
+        "name": "THE PHUONG TRINH",
+        "company": "PHUONG & BE BA",
+        "amount": 251.5,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "2 x silvan spraybar 3060mm long x 7 jets - SIL038-172\n1 X DIAPHRAGM PUMP 70-80 BAR 6 SPLINE SINGLE OR THRU SHAFT"
+      },
+      {
+        "id": "RWb1RCgNzeizmUXcnXv1",
+        "name": "Machinery Spares",
+        "company": "199 North River Road",
+        "amount": 2369.4,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "WARRANTY ON VOLUMEX MOTOR PURCHASED LASTYEAR.\n\nPURCHASED VIA NUTRIEN BUT SILVAN PRODUCT CHECK YOU EMAILS FOR THE REST OF THE DETAILS.\n\nNEW MOTOR PICKED UP 24/3/26 STILL NOT WORKING. VIDE SENT VIAN WHATSAPP."
       }
     ]
   },
