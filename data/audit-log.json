@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-05-06T21:55:57.682Z",
+    "type": "added",
+    "pipeline": "BIANCA's ORDERS",
+    "name": "BOOTS - DANE BALLARD",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 209.15,
+    "status": "open",
+    "message": "New opportunity: BOOTS - DANE BALLARD (BIANCA's ORDERS) - $209.15"
+  },
+  {
     "date": "2026-05-01T21:52:30.157Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",
