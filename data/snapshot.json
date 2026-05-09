@@ -548,6 +548,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "u6uHrxOSmkdPzp3aiIGF",
+        "name": "DIESEL & WATER TANK",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 10000,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "1 X DDS5000- DIESEL TANK NO PUMP WITH 1.1/4 FLANGE ON THE BOTTOM\n1 X RT9500- CORRUGATED WATER TANK"
+      },
+      {
         "id": "kgkUOC70WxmrbEE4qMYS",
         "name": "GRUNDFOS - PUMP CH4-40",
         "company": "ORP",

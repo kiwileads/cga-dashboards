@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-05-09T21:41:50.020Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "DIESEL & WATER TANK",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 10000,
+    "status": "open",
+    "message": "New opportunity: DIESEL & WATER TANK (IRRIGATION) - $10000.00"
+  },
+  {
     "date": "2026-05-06T21:55:57.682Z",
     "type": "added",
     "pipeline": "BIANCA's ORDERS",
