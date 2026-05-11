@@ -95,9 +95,9 @@
         "company": "J & M LECA",
         "amount": 0,
         "status": "open",
-        "stage": "WAITING ON SUPPLIER",
-        "isNew": null,
-        "notes": "BULKA BAG OF BUILDERS LIME"
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X PALLETS BULKA OF AG LIME"
       },
       {
         "id": "lNovjdfE4d7PtsPPm8Bo",
@@ -262,39 +262,125 @@
     ]
   },
   {
-    "pipelineName": "CHEMICALS",
+    "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
       {
-        "id": "ZuJ89Pz5Uo0g37dvkxqO",
-        "name": "METALAXYL 250EC - 10L",
-        "company": "CHINNERY & CHAPMAN",
+        "id": "T6uQ2EwZKomDzUqSFLM2",
+        "name": "STONE FRUIT PLIX LINERS",
+        "company": "J & P CONSTANTINE",
         "amount": 0,
         "status": "open",
-        "stage": "CLOSED/COMPLETE",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
-        "notes": "1 x 10L OF METALAXYL 250EC\n24.04.26 INVOICED ON INV-446426"
+        "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
       },
       {
-        "id": "AKzYI7B7BRhdv9vGPIw8",
-        "name": "ROUNDUP",
-        "company": "Shire of Upper Gascoyne",
+        "id": "e5Fsjew6DLR2REeXg2Yr",
+        "name": "METHAM SODIUM (KENSO) x 1000L",
+        "company": "DELTA AGRI (GRAY)",
         "amount": 0,
         "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER.\nP/O RECEIVED FROM SEAN - 10073 - INVOICED - INV-445842"
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "P70341 - 20.04.26 - BISHOPS\nMETHAM SODIUM(KENSO) 1000L x 2\n1 x 10,000 - JAVELIN WATERMELON SEEDS (GUL1)"
       },
       {
-        "id": "vQGo4a0wnmEsyqjGdj5A",
-        "name": "STRIKE 60 90KG",
-        "company": "J & M LECA",
-        "amount": 9306,
+        "id": "Kqjaw6ACX6TtbpKfikHs",
+        "name": "GENERAL MERCH",
+        "company": "DAVENPORT PRODUCE (LED)",
+        "amount": 0,
         "status": "open",
-        "stage": "CLOSED/COMPLETE",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO AMEILED TO LUKE."
+      },
+      {
+        "id": "SSbQzlenrNHtqiN6rVFX",
+        "name": "BLUE STRING",
+        "company": "GIANG TRAN FAMILY TRUST",
+        "amount": 1958.88,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": null,
+        "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
+      },
+      {
+        "id": "KRtgLQyPEivHB2Z64bpL",
+        "name": "TRAN2 - DARK BLUE TWINE",
+        "company": "CRNARVON GROWERS",
+        "amount": 9402.62,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": null,
+        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
+      },
+      {
+        "id": "lX1ME26DKHVPVLTFUoID",
+        "name": "PINE POLES",
+        "company": "V & M Durmanich",
+        "amount": 16500,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "400 X 2.4M 125-150MM PINE POLES\nON QU-04031"
+      },
+      {
+        "id": "vr2YQ99s0z0nldSKAegF",
+        "name": "SORGHUM SEED",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046"
+      },
+      {
+        "id": "0BzT8TheI4agQ4TD3csN",
+        "name": "SANDOR SEEDS",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 8500,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
-        "notes": "6 X 90KG STRIKE 60\nON SALES ORD-478579\nINCOICED ON THE 26/3/26 ON INV-445251"
+        "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
       },
+      {
+        "id": "dCjsEaMsMHEYcjhFLA3Z",
+        "name": "Richard B Arends - RACHEAL",
+        "company": "",
+        "amount": 2500,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS"
+      },
+      {
+        "id": "UBdxWDnJAmbu5O1jyW5k",
+        "name": "Andrew Durmanich",
+        "company": "V & M Durmanich",
+        "amount": 33000,
+        "status": "open",
+        "stage": "WAITING ON SUPPLIER",
+        "isNew": "Yes",
+        "notes": "800 X PINE POST 2.4 METER 150-175MM"
+      },
+      {
+        "id": "wDf7YAn50jpybsFaW0ga",
+        "name": "Al Holtham",
+        "company": "Janna",
+        "amount": 24000,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS."
+      }
+    ]
+  },
+  {
+    "pipelineName": "CHEMICALS",
+    "status": "open",
+    "opps": [
       {
         "id": "Rbjaf3VTo9Z364Y2JhoS",
         "name": "DORMEX GRAPES 26",
@@ -364,182 +450,6 @@
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
-      },
-      {
-        "id": "VAeHdIpGUDyjLkPbcQCl",
-        "name": "STRIKE 60 DRIP 140KG",
-        "company": "NXKD FAMILY TRUST",
-        "amount": 13183.5,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "5 x stike 60 inline 140kg\nINVOICED ON 11/3/26 ON INV-44610 AND DELIVERED."
-      }
-    ]
-  },
-  {
-    "pipelineName": "GENERAL MERCH",
-    "status": "open",
-    "opps": [
-      {
-        "id": "T6uQ2EwZKomDzUqSFLM2",
-        "name": "STONE FRUIT PLIX LINERS",
-        "company": "J & P CONSTANTINE",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
-      },
-      {
-        "id": "e5Fsjew6DLR2REeXg2Yr",
-        "name": "METHAM SODIUM (KENSO) x 1000L",
-        "company": "DELTA AGRI (GRAY)",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "P70341 - 20.04.26 - BISHOPS\nMETHAM SODIUM(KENSO) 1000L x 2\n1 x 10,000 - JAVELIN WATERMELON SEEDS (GUL1)"
-      },
-      {
-        "id": "M5wX8zEDpOcBJ0RD2Gf6",
-        "name": "PINE POLES",
-        "company": "TRAN & DINH",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n20.04.26 - ORDERED ON P70339\n"
-      },
-      {
-        "id": "x6TW3ohUs2U1nhBWW0vx",
-        "name": "7000 VITALIS BEAN SEED",
-        "company": "TIPTON",
-        "amount": 0,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "7 X 1000 VITALIS BEAN SEEDS\n\n16/4/26 \nARRIVED TO CGA BOOKED OUT TO GROWER AND PICKED UP."
-      },
-      {
-        "id": "OM0jgnpNth6euWMRwnML",
-        "name": "VITALIS",
-        "company": "TIPTON",
-        "amount": 250,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26\n\n"
-      },
-      {
-        "id": "Kqjaw6ACX6TtbpKfikHs",
-        "name": "GENERAL MERCH",
-        "company": "DAVENPORT PRODUCE (LED)",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO AMEILED TO LUKE."
-      },
-      {
-        "id": "1cvYX1ilgFUtAYy8NN5l",
-        "name": "PINE POLES 3.6M 100-125MM",
-        "company": "JACK MOREL",
-        "amount": 0,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS"
-      },
-      {
-        "id": "SSbQzlenrNHtqiN6rVFX",
-        "name": "BLUE STRING",
-        "company": "GIANG TRAN FAMILY TRUST",
-        "amount": 1958.88,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": null,
-        "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
-      },
-      {
-        "id": "KRtgLQyPEivHB2Z64bpL",
-        "name": "TRAN2 - DARK BLUE TWINE",
-        "company": "CRNARVON GROWERS",
-        "amount": 9402.62,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": null,
-        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
-      },
-      {
-        "id": "vr2YQ99s0z0nldSKAegF",
-        "name": "SORGHUM SEED",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046"
-      },
-      {
-        "id": "y8pHjtl1pE0ZBzJRM62e",
-        "name": "DIESEL TANKS",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 9500,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26\n\n16.4.26 - ARRIVED AT CGA"
-      },
-      {
-        "id": "0BzT8TheI4agQ4TD3csN",
-        "name": "SANDOR SEEDS",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 8500,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
-      },
-      {
-        "id": "dCjsEaMsMHEYcjhFLA3Z",
-        "name": "Richard B Arends - RACHEAL",
-        "company": "",
-        "amount": 2500,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS"
-      },
-      {
-        "id": "xBs0niD3ICiqmWp7h2Fm",
-        "name": "BERLOTTI BEANS",
-        "company": "Monique",
-        "amount": 385,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "10kg x BORLOTTI BEANS\n15/4/26\nTAKEN ON THE 2/4/26 ON INV-445467"
-      },
-      {
-        "id": "UBdxWDnJAmbu5O1jyW5k",
-        "name": "Andrew Durmanich",
-        "company": "V & M Durmanich",
-        "amount": 17000,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "PINE POST 2.4 METER 150-175MM"
-      },
-      {
-        "id": "wDf7YAn50jpybsFaW0ga",
-        "name": "Al Holtham",
-        "company": "Janna",
-        "amount": 24000,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS."
       }
     ]
   },
@@ -548,12 +458,22 @@
     "status": "open",
     "opps": [
       {
+        "id": "451qI5RMe9ti13As5naN",
+        "name": "JOHN THOMAS IRRIGATION ",
+        "company": "MIZU",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "12.05.26\n1x 80mm Water Meter\n1x 100mm Twin Leader Disc Filter\n104 x PVC Pipe 150mm PN9\n14x PVC pipe 100mm PN9\n10x PVC Pipe 80mm PN12\nBox of PVC Glue 500ml\nBox of Primer 500ml\n17x Bermad IR right angle Hydraulic Valve 80mm   (you have them on the shelf)\n17x flange adaptor for above bermad valve\n19x PVC Flange 80mm\n9x PVC Reducing Tee 150-80mm\n8x PVC Tee 80mm\n17x PVC 90’ Elbow 80mm\n2x PVC Reducing Tee 150-100\n2x PVC Flange 150mm\n68x Nut&Bolts 16x85mm\n150x Gal Washers 16mm\n17x RFG3 Rubber Flange Gasket 80mm\n1x V1BUT150 Butterfly Vave 150mm\n"
+      },
+      {
         "id": "u6uHrxOSmkdPzp3aiIGF",
         "name": "DIESEL & WATER TANK",
         "company": "M RASO'S CONTRACTING",
         "amount": 10000,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "WAITING ON SUPPLIER",
         "isNew": "Yes",
         "notes": "1 X DDS5000- DIESEL TANK NO PUMP WITH 1.1/4 FLANGE ON THE BOTTOM\n1 X RT9500- CORRUGATED WATER TANK"
       },
@@ -588,16 +508,6 @@
         "notes": "\n3 X 100m roll of heavy duty red layflat - STOCK\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp P70318\n300 X 40-60/12 W3 Norma worm drive SS hose clamp P70321\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector P70320\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler P70320\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239\n\n"
       },
       {
-        "id": "epFTfvBbzppAI5DLqavw",
-        "name": "COMPRESSION FITTINGS",
-        "company": "LEICHHARDT",
-        "amount": 249.48,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
-      },
-      {
         "id": "V135bmohARR8RQUP2QBT",
         "name": "COMPRESSION COUPLING",
         "company": "SHIRE OF CARNARVON",
@@ -628,16 +538,6 @@
         "notes": "20 x poly elbow 15mm barb to 20mm male thread\nQUOTED ON THE 13/4/26 ON QU-04058 AND EMAILED\n13.04.26 - P/O RECEIVED #10074 - INVOICED AND READY FOR COLLECTION - INV-445847"
       },
       {
-        "id": "SHB5ArMjiWkTbxzO70h4",
-        "name": "PLASSON POLY TO COPPER FITTING",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 770,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "40 X POLY - COPPER 32MMX20MM COUPLING\nINVOICE ON THE 9/4/26 ON INV-445738\n"
-      },
-      {
         "id": "zAfoEhaddbxC9HIlrHFq",
         "name": "PVC PIPE",
         "company": "Janna",
@@ -666,26 +566,6 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
-      },
-      {
-        "id": "Rg9vk2Xe0uSspQKRo41a",
-        "name": "D5000 DRIP PIPE",
-        "company": "GLENDALE PLANTATION",
-        "amount": 6500,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "UPGRADED OF FARM IRRIGATION TO D5000 DRIP\n14000 meters 35 ROLLS\n\nSTOCK ARRIVED TO CGA ON 01/04/26\nHOLD TILL AFTER EASTER LONG WEEKEND\n\n8/4/26 INVOICED ON INV-445628 AND DELIVERED\n"
-      },
-      {
-        "id": "CGN45BhJ47Zsu75WrvPd",
-        "name": "D5000 DRIPLINE",
-        "company": "Janna",
-        "amount": 3237.52,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED"
       }
     ]
   },
@@ -936,6 +816,46 @@
     "status": "won",
     "opps": [
       {
+        "id": "ZuJ89Pz5Uo0g37dvkxqO",
+        "name": "METALAXYL 250EC - 10L",
+        "company": "CHINNERY & CHAPMAN",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 x 10L OF METALAXYL 250EC\n24.04.26 INVOICED ON INV-446426"
+      },
+      {
+        "id": "AKzYI7B7BRhdv9vGPIw8",
+        "name": "ROUNDUP",
+        "company": "Shire of Upper Gascoyne",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "3 X 20LT ROUND UP\n1 X SILDDP-552A 12V PUMP\nQUOTED ON 13/4/26 ON QU-04057 AND EMAILED TO SEAN WALKER.\nP/O RECEIVED FROM SEAN - 10073 - INVOICED - INV-445842"
+      },
+      {
+        "id": "vQGo4a0wnmEsyqjGdj5A",
+        "name": "STRIKE 60 90KG",
+        "company": "J & M LECA",
+        "amount": 9306,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "6 X 90KG STRIKE 60\nON SALES ORD-478579\nINCOICED ON THE 26/3/26 ON INV-445251"
+      },
+      {
+        "id": "VAeHdIpGUDyjLkPbcQCl",
+        "name": "STRIKE 60 DRIP 140KG",
+        "company": "NXKD FAMILY TRUST",
+        "amount": 13183.5,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "5 x stike 60 inline 140kg\nINVOICED ON 11/3/26 ON INV-44610 AND DELIVERED."
+      },
+      {
         "id": "pyTDZWwTEhaEgB0qfmIs",
         "name": "KARYN WIGGINS",
         "company": "Hi-Way Plantation",
@@ -1016,6 +936,72 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst"
+      }
+    ]
+  },
+  {
+    "pipelineName": "IRRIGATION",
+    "status": "won",
+    "opps": [
+      {
+        "id": "epFTfvBbzppAI5DLqavw",
+        "name": "COMPRESSION FITTINGS",
+        "company": "LEICHHARDT",
+        "amount": 249.48,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
+      },
+      {
+        "id": "SHB5ArMjiWkTbxzO70h4",
+        "name": "PLASSON POLY TO COPPER FITTING",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 770,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "40 X POLY - COPPER 32MMX20MM COUPLING\nINVOICE ON THE 9/4/26 ON INV-445738\n"
+      },
+      {
+        "id": "3vtdDfFSBIqpwWjq1xiC",
+        "name": "Marko Borich",
+        "company": "BORICH AND SONS",
+        "amount": 5372,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1PLT OF 508-20-500 T-TAPE\nQU-04016\nSOLD ON 11/3/2026 INV-444593"
+      },
+      {
+        "id": "oTQDHHwNX398DSTDVgmN",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 5800,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": "ON INVOICE 444301"
+      },
+      {
+        "id": "Rg9vk2Xe0uSspQKRo41a",
+        "name": "D5000 DRIP PIPE",
+        "company": "GLENDALE PLANTATION",
+        "amount": 6500,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "UPGRADED OF FARM IRRIGATION TO D5000 DRIP\n14000 meters 35 ROLLS\n\nSTOCK ARRIVED TO CGA ON 01/04/26\nHOLD TILL AFTER EASTER LONG WEEKEND\n\n8/4/26 INVOICED ON INV-445628 AND DELIVERED\n"
+      },
+      {
+        "id": "CGN45BhJ47Zsu75WrvPd",
+        "name": "D5000 DRIPLINE",
+        "company": "Janna",
+        "amount": 3237.52,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED"
       }
     ]
   },
@@ -1156,35 +1142,69 @@
     ]
   },
   {
-    "pipelineName": "IRRIGATION",
-    "status": "won",
-    "opps": [
-      {
-        "id": "3vtdDfFSBIqpwWjq1xiC",
-        "name": "Marko Borich",
-        "company": "BORICH AND SONS",
-        "amount": 5372,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1PLT OF 508-20-500 T-TAPE\nQU-04016\nSOLD ON 11/3/2026 INV-444593"
-      },
-      {
-        "id": "oTQDHHwNX398DSTDVgmN",
-        "name": "Ray Elaine Skender",
-        "company": "SKENDER PTY LTD",
-        "amount": 5800,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": "ON INVOICE 444301"
-      }
-    ]
-  },
-  {
     "pipelineName": "GENERAL MERCH",
     "status": "won",
     "opps": [
+      {
+        "id": "M5wX8zEDpOcBJ0RD2Gf6",
+        "name": "PINE POLES",
+        "company": "TRAN & DINH",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n20.04.26 - ORDERED ON P70339\n11.04.26 - INVOICED ON INV-447058\n"
+      },
+      {
+        "id": "x6TW3ohUs2U1nhBWW0vx",
+        "name": "7000 VITALIS BEAN SEED",
+        "company": "TIPTON",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "7 X 1000 VITALIS BEAN SEEDS\n\n16/4/26 \nARRIVED TO CGA BOOKED OUT TO GROWER AND PICKED UP."
+      },
+      {
+        "id": "OM0jgnpNth6euWMRwnML",
+        "name": "VITALIS",
+        "company": "TIPTON",
+        "amount": 250,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26\n\n"
+      },
+      {
+        "id": "1cvYX1ilgFUtAYy8NN5l",
+        "name": "PINE POLES 3.6M 100-125MM",
+        "company": "JACK MOREL",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS"
+      },
+      {
+        "id": "y8pHjtl1pE0ZBzJRM62e",
+        "name": "DIESEL TANKS",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 9500,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26\n\n16.4.26 - ARRIVED AT CGA"
+      },
+      {
+        "id": "xBs0niD3ICiqmWp7h2Fm",
+        "name": "BERLOTTI BEANS",
+        "company": "Monique",
+        "amount": 385,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10kg x BORLOTTI BEANS\n15/4/26\nTAKEN ON THE 2/4/26 ON INV-445467"
+      },
       {
         "id": "QpIrd2WTseqNzCciTNAP",
         "name": "Jack Morel",
