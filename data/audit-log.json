@@ -1,5 +1,188 @@
 [
   {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "1000LT ECO LIQUID FISH",
+    "company": "GIANG TRAN FAMILY TRUST",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: 1000LT ECO LIQUID FISH (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES 2.4M X 100-125",
+    "company": "BUMBAK & SONS",
+    "amount": 5877.4,
+    "status": "open",
+    "message": "New opportunity: PINE POLES 2.4M X 100-125 (GENERAL MERCH) - $5877.40"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "NETAFIM DISK FILTERS",
+    "company": "AD BUZZARD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: NETAFIM DISK FILTERS (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "BANANA RETIC UPGRADE",
+    "company": "Gascoyne River plantation",
+    "amount": 2704.75,
+    "status": "won",
+    "message": "New opportunity: BANANA RETIC UPGRADE (IRRIGATION) - $2704.75"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "V & M Durmanich",
+    "amount": 40524,
+    "prevAmount": 33000,
+    "message": "PINE POLES: value changed $33000.00 -> $40524.00 (+7524.00)"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "renamed",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "V & M Durmanich",
+    "amount": 40524,
+    "message": "Renamed: \"Andrew Durmanich\" -> \"PINE POLES\""
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "DIESEL & WATER TANK",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 12388.2,
+    "prevAmount": 10000,
+    "message": "DIESEL & WATER TANK: value changed $10000.00 -> $12388.20 (+2388.20)"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "MANGO FERTILISER",
+    "company": "A & N Gugich Plantation",
+    "amount": 8104.64,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "MANGO FERTILISER: status changed open -> won"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO PRIME BULK",
+    "company": "BORICH AND SONS",
+    "amount": 3978.44,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ECO PRIME BULK: status changed open -> won"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "GRUNDFOS - PUMP CH4-40",
+    "company": "ORP",
+    "amount": 728,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "GRUNDFOS - PUMP CH4-40: status changed open -> won"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "field_change",
+    "pipeline": "IRRIGATION",
+    "name": "GRUNDFOS - PUMP CH4-40",
+    "company": "ORP",
+    "amount": 728,
+    "message": "GRUNDFOS - PUMP CH4-40: \"New Business\" changed Not Set -> Yes"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "REDUCING HEX NIPPLE 150 x 100",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "REDUCING HEX NIPPLE 150 x 100: status changed open -> won"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "field_change",
+    "pipeline": "IRRIGATION",
+    "name": "REDUCING HEX NIPPLE 150 x 100",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 0,
+    "message": "REDUCING HEX NIPPLE 150 x 100: \"New Business\" changed Not Set -> Yes"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "POLY ELBOWS x 20",
+    "company": "Shire of Upper Gascoyne",
+    "amount": 78.1,
+    "prevAmount": 0,
+    "message": "POLY ELBOWS x 20: value changed $0.00 -> $78.10 (+78.10)"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "POLY ELBOWS x 20",
+    "company": "Shire of Upper Gascoyne",
+    "amount": 78.1,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "POLY ELBOWS x 20: status changed open -> won"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "PVC PIPE",
+    "company": "Janna",
+    "amount": 2000,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "PVC PIPE: status changed open -> won"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "METHAM SODIUM (KENSO) x 1000L",
+    "company": "DELTA AGRI (GRAY)",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "METHAM SODIUM (KENSO) x 1000L: status changed open -> won"
+  },
+  {
+    "date": "2026-05-12T22:11:18.615Z",
+    "type": "field_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "METHAM SODIUM (KENSO) x 1000L",
+    "company": "DELTA AGRI (GRAY)",
+    "amount": 0,
+    "message": "METHAM SODIUM (KENSO) x 1000L: \"New Business\" changed Not Set -> No"
+  },
+  {
     "date": "2026-05-11T22:06:57.850Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",
