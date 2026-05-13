@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-13T22:10:29.125Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "VINE GUARDS",
+    "company": "GLENDALE PLANTATION",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: VINE GUARDS (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-05-13T22:10:29.125Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "6V BATTERY ",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: 6V BATTERY  (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-05-13T22:10:29.125Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "COMPRESSION COUPLING",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 552,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "COMPRESSION COUPLING: status changed open -> won"
+  },
+  {
+    "date": "2026-05-13T22:10:29.125Z",
+    "type": "field_change",
+    "pipeline": "IRRIGATION",
+    "name": "COMPRESSION COUPLING",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 552,
+    "message": "COMPRESSION COUPLING: \"New Business\" changed No -> Yes"
+  },
+  {
     "date": "2026-05-12T22:11:18.615Z",
     "type": "added",
     "pipeline": "FERTILIZER",

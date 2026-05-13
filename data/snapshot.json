@@ -9,9 +9,9 @@
         "company": "SKENDER PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
-        "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS."
+        "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS.\n13.05.26 - JACSON SENDING SOME SAMOLE LIDS FOR TRIAL."
       },
       {
         "id": "tlga3aEUKbgGFFx5uLLm",
@@ -256,6 +256,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "GWc3EvmijGt94T8FSgNW",
+        "name": "VINE GUARDS",
+        "company": "GLENDALE PLANTATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "800 X VINE GUARDS - JFVG2"
+      },
+      {
+        "id": "9OWHU2K58Z8rzLqzIch9",
+        "name": "6V BATTERY ",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "No",
+        "notes": "1 X ABN03 6V BATTERY\n12.05.26 ORDERED ON P70434"
+      },
+      {
         "id": "uIYucbkAEdlC2UMcTaU0",
         "name": "PINE POLES 2.4M X 100-125",
         "company": "BUMBAK & SONS",
@@ -453,7 +473,7 @@
         "company": "AD BUZZARD",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "WAITING ON SUPPLIER",
         "isNew": "No",
         "notes": "2 X 80MM DISK FILTER RED 120 MESH\n"
       },
@@ -496,16 +516,6 @@
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "\n3 X 100m roll of heavy duty red layflat - STOCK\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp P70318\n300 X 40-60/12 W3 Norma worm drive SS hose clamp P70321\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector P70320\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler P70320\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239\n\n"
-      },
-      {
-        "id": "V135bmohARR8RQUP2QBT",
-        "name": "COMPRESSION COUPLING",
-        "company": "SHIRE OF CARNARVON",
-        "amount": 552,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING\n\n15/4/26\nQUOTED ON QU-04161 EMAILED TO DEAN\n16.04.26 - ORDER PLACED WITH HR PRODUCTS ON P70320\n05.05.26 - ARRIVED TO CGA\n12.05.26- CONTACTED CLIENT AND ADVISED ITEMS HAVE ARRIVED AND READY FOR COLLECTION.\n\n"
       },
       {
         "id": "z5rqm3Q9bjhtUc0d1iSc",
@@ -942,6 +952,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
+      },
+      {
+        "id": "V135bmohARR8RQUP2QBT",
+        "name": "COMPRESSION COUPLING",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 552,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING\n\n15/4/26\nQUOTED ON QU-04161 EMAILED TO DEAN\n16.04.26 - ORDER PLACED WITH HR PRODUCTS ON P70320\n05.05.26 - ARRIVED TO CGA\n12.05.26- CONTACTED CLIENT AND ADVISED ITEMS HAVE ARRIVED AND READY FOR COLLECTION.\n\n"
       },
       {
         "id": "1tWWv8w6Q5iSAAgDvomj",
