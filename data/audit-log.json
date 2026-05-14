@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-05-14T22:10:12.754Z",
+    "type": "renamed",
+    "pipeline": "ROB's CUSTOM",
+    "name": "HONDA PUMP - GX160",
+    "company": "KINSANG FRESH PTY LTD",
+    "amount": 1876.6,
+    "message": "Renamed: \"KIN SANG CHIN\" -> \"HONDA PUMP - GX160\""
+  },
+  {
     "date": "2026-05-13T22:10:29.125Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",

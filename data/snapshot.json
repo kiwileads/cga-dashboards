@@ -559,7 +559,7 @@
         "company": "ORP",
         "amount": 755.43,
         "status": "open",
-        "stage": "ARRIVED AT CGA",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "P70357 - 23.04.25 - F I S\n1 x ORLANDO\n1 x STOCK"
       },
@@ -619,7 +619,7 @@
         "company": "HORIZON POWER",
         "amount": 1633.5,
         "status": "open",
-        "stage": "STORED/SHELVED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "P/O P70268 - 31.03.26\nQU-04033\n"
       },
@@ -655,7 +655,7 @@
       },
       {
         "id": "JrMij5xImsKkOJKMeQ0H",
-        "name": "KIN SANG CHIN",
+        "name": "HONDA PUMP - GX160",
         "company": "KINSANG FRESH PTY LTD",
         "amount": 1876.6,
         "status": "open",
@@ -669,9 +669,9 @@
         "company": "Sutcliffe plantation",
         "amount": 1917.45,
         "status": "open",
-        "stage": "ARRIVED AT CGA",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
-        "notes": "QUOTE #QU-04068 - ACCEPTED\nRETICULATION SPARES\n\n"
+        "notes": "QUOTE #QU-04068 - ACCEPTED\nRETICULATION SPARES\nINV-446908\n"
       },
       {
         "id": "eC9GntEmn2EJNBKOkAgw",
