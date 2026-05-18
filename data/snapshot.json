@@ -70,14 +70,14 @@
     "status": "open",
     "opps": [
       {
-        "id": "GnMTF9XkwtYusiHIf3UK",
-        "name": "1000LT ECO LIQUID FISH",
-        "company": "GIANG TRAN FAMILY TRUST",
+        "id": "Orq9bBONosjGppIw97bt",
+        "name": "TROFORTE",
+        "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "1 X 1000LT LIQUID FISH\n12.5.26 - ORDERED ON P70433"
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "5 X 1000KG BULK BAG TROFORTE"
       },
       {
         "id": "1NHopTrWYvAWplLBDHr7",
@@ -372,6 +372,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "XHqfoykfSEfZSXdgOe7E",
+        "name": "BLANCKING FLANGE",
+        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "4 INCH TABLE E POLY BLANKING FLANGE."
+      },
+      {
         "id": "FhvDeMrXcRkpIuZ2L2Lo",
         "name": "NETAFIM DISK FILTERS",
         "company": "AD BUZZARD",
@@ -447,6 +457,26 @@
     "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
+      {
+        "id": "CPYZtS4YVvibyR1LFvrP",
+        "name": "KEVIN BARRET",
+        "company": "Carnarvon Accomodation Services",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "2 X 25KG BORAX DECAHYDRATE"
+      },
+      {
+        "id": "IIOSqW0UXEGX7cUQo1iE",
+        "name": "GIANG T TRAN",
+        "company": "GIANG TRAN FAMILY TRUST",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "1 X 5LT PYBO"
+      },
       {
         "id": "Rbjaf3VTo9Z364Y2JhoS",
         "name": "DORMEX GRAPES 26",
@@ -670,6 +700,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "wmjADYducL9x2mxdTJwA",
+        "name": "LOWARA HOUSING SEAL",
+        "company": "ONSLOW AUTO A/C",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "INTERNAL HOUSING SEAL FOR WPL-160-150200"
+      },
+      {
         "id": "jaEV81vRtfwJi5bO5jkh",
         "name": "LOWARA PUMP & CONTOLLER",
         "company": "SUMMERSTAR TOURIST PARK",
@@ -867,6 +907,16 @@
     "pipelineName": "FERTILIZER",
     "status": "won",
     "opps": [
+      {
+        "id": "GnMTF9XkwtYusiHIf3UK",
+        "name": "1000LT ECO LIQUID FISH",
+        "company": "GIANG TRAN FAMILY TRUST",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000LT LIQUID FISH\n12.5.26 - ORDERED ON P70433\n18.05.26 - ARRIVED AT CGA AND INVOICED ON INV-447408"
+      },
       {
         "id": "lNovjdfE4d7PtsPPm8Bo",
         "name": "SERGOMIL L60",
