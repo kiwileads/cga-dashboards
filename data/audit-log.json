@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILISER",
+    "company": "Janna",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: FERTILISER (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "SILVAN PRODUCTS",
+    "company": "REAL FUTURES PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: SILVAN PRODUCTS (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "110MM BLUELINE POLY",
+    "company": "Janna",
+    "amount": 4976.62,
+    "status": "open",
+    "message": "New opportunity: 110MM BLUELINE POLY (IRRIGATION) - $4976.62"
+  },
+  {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "LILLAC POLY PIPE",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: LILLAC POLY PIPE (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "MICROTHIOL",
+    "company": "Sulli Bros Plantation",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: MICROTHIOL (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "75MM BLUELINE POLY",
+    "company": "Janna",
+    "amount": 3072.3,
+    "status": "won",
+    "message": "New opportunity: 75MM BLUELINE POLY (IRRIGATION) - $3072.30"
+  },
+  {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "removed",
+    "pipeline": "CHEMICALS",
+    "name": "GIANG T TRAN",
+    "company": "GIANG TRAN FAMILY TRUST",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: GIANG T TRAN (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-05-19T22:15:32.807Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "TROFORTE",
+    "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
+    "amount": 11844.03,
+    "prevAmount": 0,
+    "message": "TROFORTE: value changed $0.00 -> $11844.03 (+11844.03)"
+  },
+  {
     "date": "2026-05-18T22:01:43.389Z",
     "type": "added",
     "pipeline": "FERTILIZER",

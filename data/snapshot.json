@@ -70,14 +70,24 @@
     "status": "open",
     "opps": [
       {
-        "id": "Orq9bBONosjGppIw97bt",
-        "name": "TROFORTE",
-        "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
+        "id": "GZW9s2QXU9aoSStqu2G1",
+        "name": "FERTILISER",
+        "company": "Janna",
         "amount": 0,
         "status": "open",
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
-        "notes": "5 X 1000KG BULK BAG TROFORTE"
+        "notes": "1 X 1000LT FOLICAL 19\n2 X PALLETS YARA CALCIUM NITRATE"
+      },
+      {
+        "id": "Orq9bBONosjGppIw97bt",
+        "name": "TROFORTE",
+        "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
+        "amount": 11844.03,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "5 X 1000KG BULK BAG TROFORTE\n19.05.26-QUOTED ON QU-04096"
       },
       {
         "id": "1NHopTrWYvAWplLBDHr7",
@@ -127,7 +137,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL.\n\n21.04.26- ORDERED ON P7344"
+        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL.\n\n21.04.26- ORDERED ON P7344\n19.05.26-ARRIVED AT CGA CONTACTED MARCO WILL GRAB SOME NEXT WEEK."
       },
       {
         "id": "hTPhUtXD3IcQaLQJecbf",
@@ -235,6 +245,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "tMbrf9Fdgr5d0oyD6dvi",
+        "name": "SILVAN PRODUCTS",
+        "company": "REAL FUTURES PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2)\n2 X DIESEL TANK 200LT (SQDN200-7\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) "
+      },
       {
         "id": "GWc3EvmijGt94T8FSgNW",
         "name": "VINE GUARDS",
@@ -372,6 +392,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "JMq4XGyANxTvJ4eko2Za",
+        "name": "110MM BLUELINE POLY",
+        "company": "Janna",
+        "amount": 4976.62,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X 100MTR COUL X 110MM BLUELINE POLY PN12.5\n19.05.26-ordered on p70456"
+      },
+      {
+        "id": "LKKcf7YGO2M3Ep1i87PG",
+        "name": "LILLAC POLY PIPE",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "2 X 50 METER COIL LILLAC POLY PIPE\n19.05.26- ORDERED ON P70455"
+      },
+      {
         "id": "XHqfoykfSEfZSXdgOe7E",
         "name": "BLANCKING FLANGE",
         "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
@@ -458,6 +498,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "6pIxZoo5PKZ1CGxsah0A",
+        "name": "MICROTHIOL",
+        "company": "Sulli Bros Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "12 X MICROTHIOL "
+      },
+      {
         "id": "CPYZtS4YVvibyR1LFvrP",
         "name": "KEVIN BARRET",
         "company": "Carnarvon Accomodation Services",
@@ -466,16 +516,6 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "2 X 25KG BORAX DECAHYDRATE"
-      },
-      {
-        "id": "IIOSqW0UXEGX7cUQo1iE",
-        "name": "GIANG T TRAN",
-        "company": "GIANG TRAN FAMILY TRUST",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "1 X 5LT PYBO"
       },
       {
         "id": "Rbjaf3VTo9Z364Y2JhoS",
@@ -993,6 +1033,16 @@
     "pipelineName": "IRRIGATION",
     "status": "won",
     "opps": [
+      {
+        "id": "dHogsBHgDVn0FCPzWtHm",
+        "name": "75MM BLUELINE POLY",
+        "company": "Janna",
+        "amount": 3072.3,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "3 X 75MM BLULINE POLY 100MTR COIL\n19.05.26- INVOICED AND DELIVERED ON INV-447434"
+      },
       {
         "id": "kgkUOC70WxmrbEE4qMYS",
         "name": "GRUNDFOS - PUMP CH4-40",
