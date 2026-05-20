@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-05-20T22:23:17.504Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILISER",
+    "company": "Janna",
+    "amount": 6230.51,
+    "prevAmount": 0,
+    "message": "FERTILISER: value changed $0.00 -> $6230.51 (+6230.51)"
+  },
+  {
     "date": "2026-05-19T22:15:32.807Z",
     "type": "added",
     "pipeline": "FERTILIZER",
