@@ -29,9 +29,9 @@
         "company": "BUMBAK & SONS",
         "amount": 173600,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE"
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
       },
       {
         "id": "UFLS1MguObKgcjbiEWy3",
@@ -39,9 +39,9 @@
         "company": "Janna",
         "amount": 37200,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE"
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE\n\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
       },
       {
         "id": "0IRRKITrDuWuPau2MTwv",
@@ -49,9 +49,9 @@
         "company": "GLENDALE PLANTATION",
         "amount": 37200,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE"
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
       },
       {
         "id": "Fq26yvTcZnuHlHiRP3BX",
@@ -70,6 +70,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "Yr3pJrUYPa5uP8y97P07",
+        "name": "ECO FISH",
+        "company": "VG CUU, CV PHAM & TM QUACH",
+        "amount": 2288,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 1000LT ECOFISH\n"
+      },
+      {
         "id": "GZW9s2QXU9aoSStqu2G1",
         "name": "FERTILISER",
         "company": "Janna",
@@ -77,7 +87,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "1 X 1000LT FOLICAL 19 -ORDERING FROM OMNIA PERTH\n2 X PALLETS YARA CALCIUM NITRATE-FROM STOCK\n20.05.26-QUOTED CLIENT ON QU-04097"
+        "notes": "1 X 1000LT FOLICAL 19 -ORDERING FROM OMNIA PERTH ORDERED ON P70459\n2 X PALLETS YARA CALCIUM NITRATE-FROM STOCK DELIVERED ON INV-447511\n20.05.26-QUOTED CLIENT ON QU-04097"
       },
       {
         "id": "Orq9bBONosjGppIw97bt",
@@ -105,9 +115,9 @@
         "company": "BORICH & SONS",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
-        "notes": "P70344 - 21.04.26 - BISHOPS\n54 x 20KG EMERALD LAWN \n8 x BULKA BAGS ECO PRIME (4 x BOR)\n\n29.04.26 - SPOKE TO DAN PRICE HAS GONE UP ON PRIME FROM \\$1775+ PER TONE TO \\$1875+ ETA 5 OF MAY 26\n"
+        "notes": "P70344 - 21.04.26 - BISHOPS\n54 x 20KG EMERALD LAWN \n8 x BULKA BAGS ECO PRIME (4 x BOR)\n19.05.26-ARRIVED AT CGA CONTACTED CLIENT\n\n29.04.26 - SPOKE TO DAN PRICE HAS GONE UP ON PRIME FROM \\$1775+ PER TONE TO \\$1875+ ETA 5 OF MAY 26\n"
       },
       {
         "id": "tt57PK5r5yCKDzs2crWZ",
@@ -190,26 +200,6 @@
         "notes": "8 X 1000KG ECO PRIME BULK BAGS\n\n22.4.26- PROPOSAL LOST DUE TO CLIENT PURCHASING BOUNCE BACK."
       },
       {
-        "id": "6n2sMTrSRmoV5B6Gs1fW",
-        "name": "ECO PRIME BULK",
-        "company": "Janna",
-        "amount": 3979.44,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "2X 1000KG BULK BAGS eco prime"
-      },
-      {
-        "id": "puTQgeIkYgTQcrXLH0ay",
-        "name": "ECO PRIME BULK",
-        "company": "GLENDALE PLANTATION",
-        "amount": 1989.72,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 X 1000KG BULK BAGS"
-      },
-      {
         "id": "biLO0P1G3vOR38pN8D6H",
         "name": "ECO PRIME 20KG BAGS",
         "company": "A & N Gugich Plantation",
@@ -218,16 +208,6 @@
         "stage": "LOST",
         "isNew": "Yes",
         "notes": "54 X 20KG BAGS\nOPPORTUNITY LOST DUE TO CLIENT BUYING YARAMILA COMPLEX"
-      },
-      {
-        "id": "2GSHymb6Fm93tDBBmo2s",
-        "name": "ECO PRIME",
-        "company": "ACE PRODUCE",
-        "amount": 3979.44,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "2 X 1000KG BULK BAGS"
       },
       {
         "id": "d1NJEhWHS3pcoRX1nbHs",
@@ -253,7 +233,7 @@
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2)\n2 X DIESEL TANK 200LT (SQDN200-7\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) "
+        "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2)\n2 X DIESEL TANK 200LT (SQDN200-7\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) \n\n21.05.26 SILVAN PRODUCTS ORDERED ON P70467"
       },
       {
         "id": "GWc3EvmijGt94T8FSgNW",
@@ -928,22 +908,6 @@
     ]
   },
   {
-    "pipelineName": "CUSTOM BOXES",
-    "status": "won",
-    "opps": [
-      {
-        "id": "kUOfDDbOSqBE5j5DasHr",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 45000,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": ""
-      }
-    ]
-  },
-  {
     "pipelineName": "FERTILIZER",
     "status": "won",
     "opps": [
@@ -1018,6 +982,36 @@
         "notes": "8 x 25kg genfarm mancozeb\n8 x 20lt copper guard\n192 (4plt) yaramila complex\nQU-04015> INV-444498 DELIVERY 10/3/2026"
       },
       {
+        "id": "6n2sMTrSRmoV5B6Gs1fW",
+        "name": "ECO PRIME BULK",
+        "company": "Janna",
+        "amount": 3979.44,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2X 1000KG BULK BAGS eco prime"
+      },
+      {
+        "id": "puTQgeIkYgTQcrXLH0ay",
+        "name": "ECO PRIME BULK",
+        "company": "GLENDALE PLANTATION",
+        "amount": 1989.72,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000KG BULK BAGS"
+      },
+      {
+        "id": "2GSHymb6Fm93tDBBmo2s",
+        "name": "ECO PRIME",
+        "company": "ACE PRODUCE",
+        "amount": 3979.44,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2 X 1000KG BULK BAGS"
+      },
+      {
         "id": "h7O4ANrLfOxq0At7ruGV",
         "name": "Al Holtham",
         "company": "Janna",
@@ -1026,6 +1020,22 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst"
+      }
+    ]
+  },
+  {
+    "pipelineName": "CUSTOM BOXES",
+    "status": "won",
+    "opps": [
+      {
+        "id": "kUOfDDbOSqBE5j5DasHr",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 45000,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": ""
       }
     ]
   },
