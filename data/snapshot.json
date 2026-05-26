@@ -231,7 +231,7 @@
         "company": "REAL FUTURES PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2)\n2 X DIESEL TANK 200LT (SQDN200-7\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) \n\n21.05.26 SILVAN PRODUCTS ORDERED ON P70467"
       },
@@ -477,6 +477,16 @@
     "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
+      {
+        "id": "wkYgrYt1flFlrnN2X6g6",
+        "name": "CHEMICAL",
+        "company": "GLENDALE PLANTATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": ""
+      },
       {
         "id": "6pIxZoo5PKZ1CGxsah0A",
         "name": "MICROTHIOL",
