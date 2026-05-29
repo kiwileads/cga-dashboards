@@ -730,6 +730,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "n1mmYHFJh2Ad3RtKqcYT",
+        "name": "POTTING MIX",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70494 - 29/05/26 - XDM0003644\n1 X PLT POTTING MIX\nDELIVER DIRECT ONCE ARRIVED"
+      },
+      {
         "id": "oZ2NHAGLpAUbm9CHyj55",
         "name": "SIDERMITES - BUG05",
         "company": "JACK MOREL",

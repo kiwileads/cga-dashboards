@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-05-29T22:27:49.307Z",
+    "type": "added",
+    "pipeline": "BIANCA's ORDERS",
+    "name": "POTTING MIX",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: POTTING MIX (BIANCA's ORDERS) - $0.00"
+  },
+  {
     "date": "2026-05-26T22:18:11.368Z",
     "type": "added",
     "pipeline": "CHEMICALS",
