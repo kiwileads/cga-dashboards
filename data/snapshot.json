@@ -29,7 +29,7 @@
         "company": "BUMBAK & SONS",
         "amount": 173600,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
       },
@@ -39,7 +39,7 @@
         "company": "Janna",
         "amount": 37200,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE\n\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
       },
@@ -49,7 +49,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 37200,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.48+GST \nGASSY GOLD PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
       },
@@ -483,7 +483,7 @@
         "company": "GLENDALE PLANTATION",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": ""
       },
@@ -583,6 +583,26 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
+      {
+        "id": "CGeQaGPVoeFBVzouefdm",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 5050.43,
+        "status": "open",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "QU-04104 Dated 2/06/2026\nStill waiting on pricing for Butt Weld units"
+      },
+      {
+        "id": "VLnq6o0sIl99WPSD302u",
+        "name": "Des Williamson",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 1123.98,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "No",
+        "notes": "Quote #QU-04103\n4 x SS2BV080"
+      },
       {
         "id": "nsb3mztbLM2U2MP6dnrH",
         "name": "Sean Walker",
