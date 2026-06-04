@@ -1,5 +1,100 @@
 [
   {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "GRUNDFOS PUMP & CONTROLLER",
+    "company": "Adam Hamersley",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: GRUNDFOS PUMP & CONTROLLER (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "SEAN GAYLARD ACU-TECH",
+    "company": "MIZU",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: SEAN GAYLARD ACU-TECH (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "status_change",
+    "pipeline": "CHEMICALS",
+    "name": "MICROTHIOL",
+    "company": "Sulli Bros Plantation",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "MICROTHIOL: status changed open -> won"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "110MM BLUELINE POLY",
+    "company": "Janna",
+    "amount": 5238.55,
+    "prevAmount": 4976.62,
+    "message": "110MM BLUELINE POLY: value changed $4976.62 -> $5238.55 (+261.93)"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "110MM BLUELINE POLY",
+    "company": "Janna",
+    "amount": 5238.55,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "110MM BLUELINE POLY: status changed open -> won"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "VINE GUARDS",
+    "company": "GLENDALE PLANTATION",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "VINE GUARDS: status changed open -> won"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "6V BATTERY ",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "6V BATTERY : status changed open -> won"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES 2.4M X 100-125",
+    "company": "BUMBAK & SONS",
+    "amount": 5878.4,
+    "prevAmount": 5877.4,
+    "message": "PINE POLES 2.4M X 100-125: value changed $5877.40 -> $5878.40 (+1.00)"
+  },
+  {
+    "date": "2026-06-04T22:20:02.470Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES 2.4M X 100-125",
+    "company": "BUMBAK & SONS",
+    "amount": 5878.4,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "PINE POLES 2.4M X 100-125: status changed open -> won"
+  },
+  {
     "date": "2026-06-03T23:05:06.021Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
