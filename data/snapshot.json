@@ -222,118 +222,108 @@
     ]
   },
   {
-    "pipelineName": "GENERAL MERCH",
+    "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
       {
-        "id": "tMbrf9Fdgr5d0oyD6dvi",
-        "name": "SILVAN PRODUCTS",
-        "company": "REAL FUTURES PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2)\n2 X DIESEL TANK 200LT (SQDN200-7\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) \n\n21.05.26 SILVAN PRODUCTS ORDERED ON P70467"
-      },
-      {
-        "id": "T6uQ2EwZKomDzUqSFLM2",
-        "name": "STONE FRUIT PLIX LINERS",
-        "company": "J & P CONSTANTINE",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
-      },
-      {
-        "id": "Kqjaw6ACX6TtbpKfikHs",
-        "name": "GENERAL MERCH",
-        "company": "DAVENPORT PRODUCE (LED)",
-        "amount": 0,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": "Yes",
-        "notes": "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO EMEILED TO LUKE.\n04.06.26 - CUSTOMER HAS GON IN A DIFFERENT DIRECTION."
-      },
-      {
-        "id": "SSbQzlenrNHtqiN6rVFX",
-        "name": "BLUE STRING",
-        "company": "GIANG TRAN FAMILY TRUST",
-        "amount": 1958.88,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": null,
-        "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
-      },
-      {
-        "id": "KRtgLQyPEivHB2Z64bpL",
-        "name": "TRAN2 - DARK BLUE TWINE",
-        "company": "CRNARVON GROWERS",
-        "amount": 9402.62,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": null,
-        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
-      },
-      {
-        "id": "lX1ME26DKHVPVLTFUoID",
-        "name": "PINE POLES",
-        "company": "V & M Durmanich",
-        "amount": 16500,
+        "id": "wmCxGIR4XqtvZpbLIukY",
+        "name": "SEASONAL CHEM ORDER",
+        "company": "Janna",
+        "amount": 6508.45,
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "400 X 2.4M 125-150MM PINE POLES\nON QU-04031"
+        "notes": "1 X Folpan 5kg \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg\n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n"
       },
       {
-        "id": "vr2YQ99s0z0nldSKAegF",
-        "name": "SORGHUM SEED",
-        "company": "DOUBLE UP FARMS PTY LTD",
+        "id": "wkYgrYt1flFlrnN2X6g6",
+        "name": "CHEMICAL",
+        "company": "GLENDALE PLANTATION",
         "amount": 0,
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046"
+        "isNew": null,
+        "notes": ""
       },
       {
-        "id": "0BzT8TheI4agQ4TD3csN",
-        "name": "SANDOR SEEDS",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 8500,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
-      },
-      {
-        "id": "dCjsEaMsMHEYcjhFLA3Z",
-        "name": "Richard B Arends - RACHEAL",
-        "company": "",
-        "amount": 2500,
+        "id": "CPYZtS4YVvibyR1LFvrP",
+        "name": "KEVIN BARRET",
+        "company": "Carnarvon Accomodation Services",
+        "amount": 0,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS"
+        "notes": "2 X 25KG BORAX DECAHYDRATE"
       },
       {
-        "id": "UBdxWDnJAmbu5O1jyW5k",
-        "name": "PINE POLES",
-        "company": "V & M Durmanich",
-        "amount": 40524,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "800 X PINE POST 2.4 METER 150-175MM\n12.05.26 - QUOTED CUSTOMER ON QU-04087\n"
-      },
-      {
-        "id": "wDf7YAn50jpybsFaW0ga",
-        "name": "Al Holtham",
+        "id": "Rbjaf3VTo9Z364Y2JhoS",
+        "name": "DORMEX GRAPES 26",
         "company": "Janna",
-        "amount": 24000,
+        "amount": 7741.35,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS."
+        "notes": "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538"
+      },
+      {
+        "id": "dfgFQI7aIt7JZXl3Ag6A",
+        "name": "DORMEX GRAPES 26",
+        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+        "amount": 7569.32,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "40 X 10LT DORMEX - ORD-478385"
+      },
+      {
+        "id": "a3lRk8fgqJAngebUoXIb",
+        "name": "DORMEX GRAPES 26",
+        "company": "V & M Durmanich",
+        "amount": 13246.31,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "70 X 10LT DORMEX -ORD-478470"
+      },
+      {
+        "id": "GyOGy8pC72zjv6yNFoL0",
+        "name": "DORMEX GRAPES 26",
+        "company": "J & M LECA",
+        "amount": 9461.65,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "No",
+        "notes": "50 X 10LT DORMEX\nON SALES ORDER ORD-478473"
+      },
+      {
+        "id": "2raTh7KXHxJTXe3dhriQ",
+        "name": "DORMEX GRAPES 26",
+        "company": "GOR",
+        "amount": 8601.5,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "No",
+        "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
+      },
+      {
+        "id": "6ELMI9pgcNPIF0GCVRds",
+        "name": "DORMEX GRAPES 26",
+        "company": "GIULIANO CONDO",
+        "amount": 20284.66,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "No",
+        "notes": "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472"
+      },
+      {
+        "id": "zoOzvervOfanE923SI6V",
+        "name": "DORMEX GRAPES 26",
+        "company": "GLENDALE PLANTATION",
+        "amount": 4163.13,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
       }
     ]
   },
@@ -434,98 +424,108 @@
     ]
   },
   {
-    "pipelineName": "CHEMICALS",
+    "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
       {
-        "id": "wkYgrYt1flFlrnN2X6g6",
-        "name": "CHEMICAL",
-        "company": "GLENDALE PLANTATION",
+        "id": "tMbrf9Fdgr5d0oyD6dvi",
+        "name": "SILVAN PRODUCTS",
+        "company": "REAL FUTURES PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2) INV-448136\n2 X DIESEL TANK 200LT (SQDN200-7-INV-448136\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) \n\n21.05.26 SILVAN PRODUCTS ORDERED ON P70467"
+      },
+      {
+        "id": "T6uQ2EwZKomDzUqSFLM2",
+        "name": "STONE FRUIT PLIX LINERS",
+        "company": "J & P CONSTANTINE",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
+      },
+      {
+        "id": "Kqjaw6ACX6TtbpKfikHs",
+        "name": "GENERAL MERCH",
+        "company": "DAVENPORT PRODUCE (LED)",
+        "amount": 0,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": "Yes",
+        "notes": "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO EMEILED TO LUKE.\n04.06.26 - CUSTOMER HAS GON IN A DIFFERENT DIRECTION."
+      },
+      {
+        "id": "SSbQzlenrNHtqiN6rVFX",
+        "name": "BLUE STRING",
+        "company": "GIANG TRAN FAMILY TRUST",
+        "amount": 1958.88,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": null,
+        "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
+      },
+      {
+        "id": "KRtgLQyPEivHB2Z64bpL",
+        "name": "TRAN2 - DARK BLUE TWINE",
+        "company": "CRNARVON GROWERS",
+        "amount": 9402.62,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": null,
+        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
+      },
+      {
+        "id": "vr2YQ99s0z0nldSKAegF",
+        "name": "SORGHUM SEED",
+        "company": "DOUBLE UP FARMS PTY LTD",
         "amount": 0,
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": null,
-        "notes": ""
+        "isNew": "Yes",
+        "notes": "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046"
       },
       {
-        "id": "CPYZtS4YVvibyR1LFvrP",
-        "name": "KEVIN BARRET",
-        "company": "Carnarvon Accomodation Services",
-        "amount": 0,
+        "id": "0BzT8TheI4agQ4TD3csN",
+        "name": "SANDOR SEEDS",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 8500,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "No",
+        "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
+      },
+      {
+        "id": "dCjsEaMsMHEYcjhFLA3Z",
+        "name": "Richard B Arends - RACHEAL",
+        "company": "",
+        "amount": 2500,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "2 X 25KG BORAX DECAHYDRATE"
+        "notes": "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS"
       },
       {
-        "id": "Rbjaf3VTo9Z364Y2JhoS",
-        "name": "DORMEX GRAPES 26",
-        "company": "Janna",
-        "amount": 7741.35,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538"
-      },
-      {
-        "id": "dfgFQI7aIt7JZXl3Ag6A",
-        "name": "DORMEX GRAPES 26",
-        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
-        "amount": 7569.32,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "40 X 10LT DORMEX - ORD-478385"
-      },
-      {
-        "id": "a3lRk8fgqJAngebUoXIb",
-        "name": "DORMEX GRAPES 26",
+        "id": "UBdxWDnJAmbu5O1jyW5k",
+        "name": "PINE POLES",
         "company": "V & M Durmanich",
-        "amount": 13246.31,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "70 X 10LT DORMEX -ORD-478470"
-      },
-      {
-        "id": "GyOGy8pC72zjv6yNFoL0",
-        "name": "DORMEX GRAPES 26",
-        "company": "J & M LECA",
-        "amount": 9461.65,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "50 X 10LT DORMEX\nON SALES ORDER ORD-478473"
-      },
-      {
-        "id": "2raTh7KXHxJTXe3dhriQ",
-        "name": "DORMEX GRAPES 26",
-        "company": "GOR",
-        "amount": 8601.5,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
-      },
-      {
-        "id": "6ELMI9pgcNPIF0GCVRds",
-        "name": "DORMEX GRAPES 26",
-        "company": "GIULIANO CONDO",
-        "amount": 20284.66,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472"
-      },
-      {
-        "id": "zoOzvervOfanE923SI6V",
-        "name": "DORMEX GRAPES 26",
-        "company": "GLENDALE PLANTATION",
-        "amount": 4163.13,
+        "amount": 16605,
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
+        "notes": "400 X PINE POST 2.4 METER 150-175MM\n12.05.26 - QUOTED CUSTOMER ON QU-04087\n"
+      },
+      {
+        "id": "wDf7YAn50jpybsFaW0ga",
+        "name": "Al Holtham",
+        "company": "Janna",
+        "amount": 24000,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS."
       }
     ]
   },
@@ -533,6 +533,26 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
+      {
+        "id": "tvUW3PcysPxbPij03yBA",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 3640,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": null,
+        "notes": ""
+      },
+      {
+        "id": "7MOQVKLmAXy7X9aapr58",
+        "name": "VALVE BOX",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": "Yes",
+        "notes": "4 X HR906VB 150MM WIDE X 225MM LONG X 215MM DEEP VALVE BOX"
+      },
       {
         "id": "ma4YMBEa0qjmOaO7XpvF",
         "name": "GRUNDFOS PUMP & CONTROLLER",

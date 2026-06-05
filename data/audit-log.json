@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-06-05T22:14:01.751Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "SEASONAL CHEM ORDER",
+    "company": "Janna",
+    "amount": 6508.45,
+    "status": "open",
+    "message": "New opportunity: SEASONAL CHEM ORDER (CHEMICALS) - $6508.45"
+  },
+  {
+    "date": "2026-06-05T22:14:01.751Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 3640,
+    "status": "open",
+    "message": "New opportunity: Robert Ashley Scott (ROB's CUSTOM) - $3640.00"
+  },
+  {
+    "date": "2026-06-05T22:14:01.751Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "VALVE BOX",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: VALVE BOX (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-05T22:14:01.751Z",
+    "type": "removed",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "V & M Durmanich",
+    "amount": 16500,
+    "status": "open",
+    "message": "Removed: PINE POLES (GENERAL MERCH) - $16500.00"
+  },
+  {
+    "date": "2026-06-05T22:14:01.751Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "V & M Durmanich",
+    "amount": 16605,
+    "prevAmount": 40524,
+    "message": "PINE POLES: value changed $40524.00 -> $16605.00 (-23919.00)"
+  },
+  {
     "date": "2026-06-04T22:20:02.470Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
