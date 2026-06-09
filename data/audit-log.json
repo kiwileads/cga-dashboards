@@ -1,5 +1,157 @@
 [
   {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "STOLLER CALCIUM CHELATE",
+    "company": "1040 Northriver road",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: STOLLER CALCIUM CHELATE (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECO RED QUOTE",
+    "company": "FATTY'S FARMS",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: ECO RED QUOTE (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "BLUELINE POLY - DEAN WHITE",
+    "company": "CARNARVON PLUMBING SERVICES",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: BLUELINE POLY - DEAN WHITE (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "FERRARI TRACTOR PARTS",
+    "company": "J PONTE HOLDINGS",
+    "amount": 1069.8,
+    "status": "open",
+    "message": "New opportunity: FERRARI TRACTOR PARTS (GENERAL MERCH) - $1069.80"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PVC PIPE #9 150mm",
+    "company": "CAIDAN PRODUCE PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PVC PIPE #9 150mm (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "AIR RELEASE VALVE 3/4\"",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: AIR RELEASE VALVE 3/4\" (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PARTS - VDNT",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PARTS - VDNT (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "FEED ORDER",
+    "company": "NUTRIEN AG SOLUTIONS",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: FEED ORDER (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PENTAIR PARTS",
+    "company": "SORICO PLANTATION",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PENTAIR PARTS (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PARTS",
+    "company": "SEAN GAYLARD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PARTS (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "BARE-CO PARTS",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: BARE-CO PARTS (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "DAVEY FIREFIGHTER 5.5HP PUMP",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: DAVEY FIREFIGHTER 5.5HP PUMP (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO FISH",
+    "company": "VG CUU, CV PHAM & TM QUACH",
+    "amount": 2288,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ECO FISH: status changed open -> won"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO PRIME",
+    "company": "BORICH & SONS",
+    "amount": 8754.77,
+    "prevAmount": 7956,
+    "message": "ECO PRIME: value changed $7956.00 -> $8754.77 (+798.77)"
+  },
+  {
+    "date": "2026-06-09T22:23:16.004Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO PRIME",
+    "company": "BORICH & SONS",
+    "amount": 8754.77,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ECO PRIME: status changed open -> won"
+  },
+  {
     "date": "2026-06-05T22:14:01.751Z",
     "type": "added",
     "pipeline": "CHEMICALS",

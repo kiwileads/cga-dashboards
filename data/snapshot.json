@@ -70,14 +70,24 @@
     "status": "open",
     "opps": [
       {
-        "id": "Yr3pJrUYPa5uP8y97P07",
-        "name": "ECO FISH",
-        "company": "VG CUU, CV PHAM & TM QUACH",
-        "amount": 2288,
+        "id": "QJuMHvQ1c4I8c2cq1Q5G",
+        "name": "STOLLER CALCIUM CHELATE",
+        "company": "1040 Northriver road",
+        "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "1 X 200LT CALCIUM CHELATE"
+      },
+      {
+        "id": "jHMb6IEYlrp7IY6Dv9I7",
+        "name": "ECO RED QUOTE",
+        "company": "FATTY'S FARMS",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "1 X 1000LT ECOFISH\n"
+        "notes": "QUOTE\n1 X 1/2 TONE BULK BAG ECO RED\n1 X 1 TONE BULK BAG ECO RED"
       },
       {
         "id": "GZW9s2QXU9aoSStqu2G1",
@@ -138,16 +148,6 @@
         "stage": "LOST",
         "isNew": "Yes",
         "notes": "10 BAGS LOW BURIE UREA\n\nEMAILED IVY AND NINO AT NUTRIEN. 8/4/26\n\n22/4/26- LOST DUE TO NOT BEEING ABLE TO GET STOCK FROM SUPPLIERS."
-      },
-      {
-        "id": "WVfpE7n4J4AayhgmcdJB",
-        "name": "ECO PRIME",
-        "company": "BORICH & SONS",
-        "amount": 7956,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL.\n\n21.04.26- ORDERED ON P7344\n19.05.26-ARRIVED AT CGA CONTACTED MARCO WILL GRAB SOME NEXT WEEK."
       },
       {
         "id": "hTPhUtXD3IcQaLQJecbf",
@@ -332,6 +332,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "bakDOJ2qbvydsrYXS8MF",
+        "name": "BLUELINE POLY - DEAN WHITE",
+        "company": "CARNARVON PLUMBING SERVICES",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "1 X 63MM X 100M COIL BLUELINE POLY PN16"
+      },
+      {
         "id": "LKKcf7YGO2M3Ep1i87PG",
         "name": "LILLAC POLY PIPE",
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
@@ -427,6 +437,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "mhHFMjOvW8YNpIMHSfXB",
+        "name": "FERRARI TRACTOR PARTS",
+        "company": "J PONTE HOLDINGS",
+        "amount": 1069.8,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000"
+      },
       {
         "id": "tMbrf9Fdgr5d0oyD6dvi",
         "name": "SILVAN PRODUCTS",
@@ -533,6 +553,86 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
+      {
+        "id": "ocu1LWCN0Fg30o0yYlMC",
+        "name": "PVC PIPE #9 150mm",
+        "company": "CAIDAN PRODUCE PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n99 x PVC PIPE #9 150mm"
+      },
+      {
+        "id": "hORm1hODIKMawagG5SxM",
+        "name": "AIR RELEASE VALVE 3/4\"",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70540 - 06/06/26\n5 x AIR RELEASE VALVE 3/4\"\nHASLEY AG (HAS) - ROLLEY"
+      },
+      {
+        "id": "kdktgm6Tm3Lu20HKc7At",
+        "name": "PARTS - VDNT",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70544 - 07/06/26\nVDNT\n1 x OIL VEIWER ASSY\n1 x FLY NUT 1.1/2 BSP\n1 ELBOW 1.1/2\"x40 TAIL\n"
+      },
+      {
+        "id": "v71ITlQmnXIzYT32FCii",
+        "name": "FEED ORDER",
+        "company": "NUTRIEN AG SOLUTIONS",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70541 - 06/06/26\nXDM0003655/XDM0003654\nOEG - PAMELA\n1 x PLT LAYER PELLETS\n1 x PLT CHICK STARTER"
+      },
+      {
+        "id": "N7dKdTX49CA1XlMYMECb",
+        "name": "PENTAIR PARTS",
+        "company": "SORICO PLANTATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
+      },
+      {
+        "id": "4ZJbHtmHzN2eYefwmh4Y",
+        "name": "PARTS",
+        "company": "SEAN GAYLARD",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70543 - 07/06/26\n17 x BERMAD 100 SERIES 80mm HYD ANGLE VALVE\n17 x 100 SERIES 3\" PLASTIC FLANGE"
+      },
+      {
+        "id": "M8AW3u6dOjMjMZbQyejO",
+        "name": "BARE-CO PARTS",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70525 - 01/06/26\nLUL1\n2 x B7352 - BRAKE COVER SEAL\n4 x B1872 - BANJO PUSH ON\n2 x B1874 - BANJO BOLT STD\n6 x B7296 - FILTER ELEMENT\n1 x B3412 - M/F 90 ELBOW\n1 x B7349OUT AIRFILT"
+      },
+      {
+        "id": "10FqnPzzNda6Kx4bsY7Q",
+        "name": "DAVEY FIREFIGHTER 5.5HP PUMP",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "P70519\n1 x DAVEY FIREFIGHTER 5.5HP PUMP\nBRUCE - WINNING STATION"
+      },
       {
         "id": "tvUW3PcysPxbPij03yBA",
         "name": "Robert Ashley Scott",
@@ -942,6 +1042,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "Yr3pJrUYPa5uP8y97P07",
+        "name": "ECO FISH",
+        "company": "VG CUU, CV PHAM & TM QUACH",
+        "amount": 2288,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000LT ECOFISH\n09.06.26- SOLD ON INV447894\n\n"
+      },
+      {
         "id": "GnMTF9XkwtYusiHIf3UK",
         "name": "1000LT ECO LIQUID FISH",
         "company": "GIANG TRAN FAMILY TRUST",
@@ -980,6 +1090,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "96 X YARAMILA COMPLEX\n108 X NEUTROG BOUNCE BACK\nON QU-03985"
+      },
+      {
+        "id": "WVfpE7n4J4AayhgmcdJB",
+        "name": "ECO PRIME",
+        "company": "BORICH & SONS",
+        "amount": 8754.77,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL.\n\n21.04.26- ORDERED ON P7344\n19.05.26-ARRIVED AT CGA CONTACTED MARCO WILL GRAB SOME NEXT WEEK.\n\n09.06.26- SOLD 1 TONE TO CHRIS LECA ON INV-44702 AND 3 TONE SOLD TO PHAMD ON\n INV-448091 ."
       },
       {
         "id": "EwylWwFTeGR2YskgVN3g",
