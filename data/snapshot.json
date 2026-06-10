@@ -222,112 +222,6 @@
     ]
   },
   {
-    "pipelineName": "CHEMICALS",
-    "status": "open",
-    "opps": [
-      {
-        "id": "wmCxGIR4XqtvZpbLIukY",
-        "name": "SEASONAL CHEM ORDER",
-        "company": "Janna",
-        "amount": 6508.45,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X Folpan 5kg \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg\n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n"
-      },
-      {
-        "id": "wkYgrYt1flFlrnN2X6g6",
-        "name": "CHEMICAL",
-        "company": "GLENDALE PLANTATION",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": null,
-        "notes": ""
-      },
-      {
-        "id": "CPYZtS4YVvibyR1LFvrP",
-        "name": "KEVIN BARRET",
-        "company": "Carnarvon Accomodation Services",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "2 X 25KG BORAX DECAHYDRATE"
-      },
-      {
-        "id": "Rbjaf3VTo9Z364Y2JhoS",
-        "name": "DORMEX GRAPES 26",
-        "company": "Janna",
-        "amount": 7741.35,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538"
-      },
-      {
-        "id": "dfgFQI7aIt7JZXl3Ag6A",
-        "name": "DORMEX GRAPES 26",
-        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
-        "amount": 7569.32,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "40 X 10LT DORMEX - ORD-478385"
-      },
-      {
-        "id": "a3lRk8fgqJAngebUoXIb",
-        "name": "DORMEX GRAPES 26",
-        "company": "V & M Durmanich",
-        "amount": 13246.31,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "70 X 10LT DORMEX -ORD-478470"
-      },
-      {
-        "id": "GyOGy8pC72zjv6yNFoL0",
-        "name": "DORMEX GRAPES 26",
-        "company": "J & M LECA",
-        "amount": 9461.65,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "50 X 10LT DORMEX\nON SALES ORDER ORD-478473"
-      },
-      {
-        "id": "2raTh7KXHxJTXe3dhriQ",
-        "name": "DORMEX GRAPES 26",
-        "company": "GOR",
-        "amount": 8601.5,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
-      },
-      {
-        "id": "6ELMI9pgcNPIF0GCVRds",
-        "name": "DORMEX GRAPES 26",
-        "company": "GIULIANO CONDO",
-        "amount": 20284.66,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "1 x 1000lt IBC OF DORMEX -ORD..\n21 X 10LT DORMEX ORD-478472"
-      },
-      {
-        "id": "zoOzvervOfanE923SI6V",
-        "name": "DORMEX GRAPES 26",
-        "company": "GLENDALE PLANTATION",
-        "amount": 4163.13,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
-      }
-    ]
-  },
-  {
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
@@ -445,7 +339,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000"
+        "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000\n\n10.06.26- 1 TANK AND 1 LID ARRIVED AND SOLD ON INV-448365\n1 x TANK AND 1 LID ON BACKORDER ETA IS"
       },
       {
         "id": "tMbrf9Fdgr5d0oyD6dvi",
@@ -550,6 +444,92 @@
     ]
   },
   {
+    "pipelineName": "CHEMICALS",
+    "status": "open",
+    "opps": [
+      {
+        "id": "wmCxGIR4XqtvZpbLIukY",
+        "name": "SEASONAL CHEM ORDER",
+        "company": "Janna",
+        "amount": 6508.45,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X Folpan 5kg \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg\n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n"
+      },
+      {
+        "id": "wkYgrYt1flFlrnN2X6g6",
+        "name": "CHEMICAL",
+        "company": "GLENDALE PLANTATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": null,
+        "notes": ""
+      },
+      {
+        "id": "CPYZtS4YVvibyR1LFvrP",
+        "name": "KEVIN BARRET",
+        "company": "Carnarvon Accomodation Services",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "2 X 25KG BORAX DECAHYDRATE"
+      },
+      {
+        "id": "dfgFQI7aIt7JZXl3Ag6A",
+        "name": "DORMEX GRAPES 26",
+        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+        "amount": 7569.32,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "40 X 10LT DORMEX - ORD-478385"
+      },
+      {
+        "id": "a3lRk8fgqJAngebUoXIb",
+        "name": "DORMEX GRAPES 26",
+        "company": "V & M Durmanich",
+        "amount": 13246.31,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "70 X 10LT DORMEX -ORD-478470"
+      },
+      {
+        "id": "GyOGy8pC72zjv6yNFoL0",
+        "name": "DORMEX GRAPES 26",
+        "company": "J & M LECA",
+        "amount": 9461.65,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "No",
+        "notes": "50 X 10LT DORMEX\nON SALES ORDER ORD-478473"
+      },
+      {
+        "id": "2raTh7KXHxJTXe3dhriQ",
+        "name": "DORMEX GRAPES 26",
+        "company": "GOR",
+        "amount": 8601.5,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "No",
+        "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
+      },
+      {
+        "id": "zoOzvervOfanE923SI6V",
+        "name": "DORMEX GRAPES 26",
+        "company": "GLENDALE PLANTATION",
+        "amount": 4163.13,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
+      }
+    ]
+  },
+  {
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
@@ -597,10 +577,10 @@
         "id": "N7dKdTX49CA1XlMYMECb",
         "name": "PENTAIR PARTS",
         "company": "SORICO PLANTATION",
-        "amount": 0,
+        "amount": 4004,
         "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": null,
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
         "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
       },
       {
@@ -617,9 +597,9 @@
         "id": "M8AW3u6dOjMjMZbQyejO",
         "name": "BARE-CO PARTS",
         "company": "",
-        "amount": 0,
+        "amount": 203.71,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
         "notes": "P70525 - 01/06/26\nLUL1\n2 x B7352 - BRAKE COVER SEAL\n4 x B1872 - BANJO PUSH ON\n2 x B1874 - BANJO BOLT STD\n6 x B7296 - FILTER ELEMENT\n1 x B3412 - M/F 90 ELBOW\n1 x B7349OUT AIRFILT"
       },
@@ -647,9 +627,9 @@
         "id": "7MOQVKLmAXy7X9aapr58",
         "name": "VALVE BOX",
         "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 0,
+        "amount": 58.08,
         "status": "open",
-        "stage": "NEW ORDER/JOB",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "4 X HR906VB 150MM WIDE X 225MM LONG X 215MM DEEP VALVE BOX"
       },
@@ -689,7 +669,7 @@
         "company": "A & N Gugich Plantation",
         "amount": 5050.43,
         "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "stage": "SHIPPING CONFIRMED",
         "isNew": "Yes",
         "notes": "QU-04104 Dated 2/06/2026\nStill waiting on pricing for Butt Weld units"
       },
@@ -707,11 +687,11 @@
         "id": "nsb3mztbLM2U2MP6dnrH",
         "name": "Sean Walker",
         "company": "Shire of Upper Gascoyne",
-        "amount": 1571.26,
+        "amount": 3157.24,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "SHIPPING CONFIRMED",
         "isNew": "No",
-        "notes": "QU-04102  Dated 1/06/2026\n1 x WPF-94533509\n1 x WPF-SPM1.1\n"
+        "notes": "QU-04102  Dated 1/06/2026\n1 x WPF-94533509\n1 x WPF-SPM1.1\n1 x WPF-94533509-21\n"
       },
       {
         "id": "51nqbYTC9ltyNz3FyfvC",
@@ -759,7 +739,7 @@
         "company": "CORAL COAST PLUMBING PTY LTD",
         "amount": 1023,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "P/O GENERATED",
         "isNew": "Yes",
         "notes": "QU-04048 - 08.04.26\nAwaiting CCP customer to accept (boss quit on mine site) I have been speaking with Tara 1.5.26 - Rob"
       },
@@ -994,6 +974,26 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "6 X 90KG STRIKE 60\nON SALES ORD-478579\nINCOICED ON THE 26/3/26 ON INV-445251"
+      },
+      {
+        "id": "Rbjaf3VTo9Z364Y2JhoS",
+        "name": "DORMEX GRAPES 26",
+        "company": "Janna",
+        "amount": 7741.35,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538\n09.06.26 - SOLD AND PAID FOR ON INV-448332"
+      },
+      {
+        "id": "6ELMI9pgcNPIF0GCVRds",
+        "name": "DORMEX GRAPES 26",
+        "company": "GIULIANO CONDO",
+        "amount": 20284.66,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "1 x 1000lt IBC OF DORMEX -ORD..\n20 X 10LT DORMEX ORD-478472\n\n09.10.26 - SOLD ON INV-448336 IBC ND 10LT ON INV-448337"
       },
       {
         "id": "VAeHdIpGUDyjLkPbcQCl",
