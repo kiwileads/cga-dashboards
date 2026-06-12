@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-12T22:24:21.156Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "LILLAC POLY PIPE",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 359.92,
+    "prevAmount": 0,
+    "message": "LILLAC POLY PIPE: value changed $0.00 -> $359.92 (+359.92)"
+  },
+  {
+    "date": "2026-06-12T22:24:21.156Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "LILLAC POLY PIPE",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 359.92,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "LILLAC POLY PIPE: status changed open -> won"
+  },
+  {
     "date": "2026-06-11T22:49:15.335Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

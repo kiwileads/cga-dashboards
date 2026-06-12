@@ -9,7 +9,7 @@
         "company": "SKENDER PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS.\n13.05.26 - JACSON SENDING SOME SAMOLE LIDS FOR TRIAL."
       },
@@ -236,16 +236,6 @@
         "notes": "1 X 63MM X 100M COIL BLUELINE POLY PN16"
       },
       {
-        "id": "LKKcf7YGO2M3Ep1i87PG",
-        "name": "LILLAC POLY PIPE",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "2 X 50 METER COIL LILLAC POLY PIPE\n19.05.26- ORDERED ON P70455"
-      },
-      {
         "id": "XHqfoykfSEfZSXdgOe7E",
         "name": "BLANCKING FLANGE",
         "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
@@ -387,7 +377,7 @@
         "company": "SORICO PLANTATION",
         "amount": 4004,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
       },
@@ -427,9 +417,9 @@
         "company": "SORICO PLANTATION",
         "amount": 21858.32,
         "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "stage": "P/O GENERATED",
         "isNew": null,
-        "notes": "1 x WPSX-MUEC09J-160  7.5KW Pump\n100 x YP09100HW   PVC Tube\n2 x YBPM90100PN12.5  Poly Pipe\n2 x INEF70640-011020  Filter Assy"
+        "notes": "1 x WPSX-MUEC09J-160  7.5KW Pump - ARRIVED - 12/06/26\n100 x YP09100HW   PVC Tube\n2 x YBPM90100PN12.5  Poly Pipe\n2 x INEF70640-011020  Filter Assy"
       },
       {
         "id": "7MOQVKLmAXy7X9aapr58",
@@ -447,7 +437,7 @@
         "company": "Adam Hamersley",
         "amount": 0,
         "status": "open",
-        "stage": "NEW ORDER/JOB",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "1 X WPG-SQF5-70N (92533526) SUB SOLAR PUMP\n2 X CU202 CONTROLLER ( 92799796)"
       },
@@ -457,7 +447,7 @@
         "company": "MIZU",
         "amount": 0,
         "status": "open",
-        "stage": "NEW ORDER/JOB",
+        "stage": "STORED/SHELVED",
         "isNew": "No",
         "notes": "3x Backing Flange DN100 -  8900040\n3x Stub Flange Long Spigot 110mm – 8194007\n1x Tee Long Spigot 110 - 8103059\n\n "
       },
@@ -467,7 +457,7 @@
         "company": "",
         "amount": 0,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "10 x TAPPING SADDLES - 2\" x 1\""
       },
@@ -497,9 +487,9 @@
         "company": "Shire of Upper Gascoyne",
         "amount": 3157.24,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "STORED/SHELVED",
         "isNew": "No",
-        "notes": "QU-04102  Dated 1/06/2026\n1 x WPF-94533509\n1 x WPF-SPM1.1\n1 x WPF-94533509-21\n"
+        "notes": "QU-04102  Dated 1/06/2026\n1 x WPF-94533509\n1 x WPF-SPM1.1\n1 x WPF-94533509-21\nARRIVED, INVOICED (INV-448477)- CALLED MAIL TRUCK FOR DELIVERY"
       },
       {
         "id": "51nqbYTC9ltyNz3FyfvC",
@@ -613,7 +603,7 @@
         "company": "J PONTE HOLDINGS",
         "amount": 1069.8,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000\n\n10.06.26- 1 TANK AND 1 LID ARRIVED AND SOLD ON INV-448365\n1 x TANK AND 1 LID ON BACKORDER ETA IS"
       },
@@ -731,7 +721,7 @@
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "1 X Folpan 5kg \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg\n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n"
+        "notes": "1 X Folpan 5kg \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg\n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n12.06.26 - CALLED AL PRICE ON QUOTE IS GOOD WILL CONFIRM NEXT WEEK \n"
       },
       {
         "id": "wkYgrYt1flFlrnN2X6g6",
@@ -855,7 +845,7 @@
         "company": "SHIRE OF CARNARVON",
         "amount": 209.15,
         "status": "open",
-        "stage": "NEW ORDER/JOB",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "QU-04082 - SENT TO ILIKE FOR APPROVAL"
       },
@@ -1438,6 +1428,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "3 X 75MM BLULINE POLY 100MTR COIL\n19.05.26- INVOICED AND DELIVERED ON INV-447434"
+      },
+      {
+        "id": "LKKcf7YGO2M3Ep1i87PG",
+        "name": "LILLAC POLY PIPE",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 359.92,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2 X 50 METER COIL LILLAC POLY PIPE\n19.05.26- ORDERED ON P70455\n23.05.26 - SOLD ON INV-447640"
       },
       {
         "id": "kgkUOC70WxmrbEE4qMYS",
