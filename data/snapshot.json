@@ -9,9 +9,9 @@
         "company": "SKENDER PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS.\n13.05.26 - JACSON SENDING SOME SAMOLE LIDS FOR TRIAL."
+        "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS.\n13.05.26 - JACSON SENDING SOME SAMOLE LIDS FOR TRIAL.\n\n16.06.26 - QUOTED ON QU-04119"
       },
       {
         "id": "tlga3aEUKbgGFFx5uLLm",
@@ -222,123 +222,37 @@
     ]
   },
   {
-    "pipelineName": "IRRIGATION",
-    "status": "open",
-    "opps": [
-      {
-        "id": "bakDOJ2qbvydsrYXS8MF",
-        "name": "BLUELINE POLY - DEAN WHITE",
-        "company": "CARNARVON PLUMBING SERVICES",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": null,
-        "notes": "1 X 63MM X 100M COIL BLUELINE POLY PN16"
-      },
-      {
-        "id": "XHqfoykfSEfZSXdgOe7E",
-        "name": "BLANCKING FLANGE",
-        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "4 INCH TABLE E POLY BLANKING FLANGE."
-      },
-      {
-        "id": "FhvDeMrXcRkpIuZ2L2Lo",
-        "name": "NETAFIM DISK FILTERS",
-        "company": "AD BUZZARD",
-        "amount": 637.56,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "2 X 80MM DISK FILTER RED 120 MESH\n13.05.26- QUOTE EMAILED TO CLIENT ON QU-04090\n\n"
-      },
-      {
-        "id": "451qI5RMe9ti13As5naN",
-        "name": "JOHN THOMAS IRRIGATION ",
-        "company": "MIZU",
-        "amount": 32260.64,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "12.05.26\n1x 80mm Water Meter\n1x 100mm Twin Leader Disc Filter\n104 x PVC Pipe 150mm PN9\n14x PVC pipe 100mm PN9\n10x PVC Pipe 80mm PN12\nBox of PVC Glue 500ml\nBox of Primer 500ml\n17x Bermad IR right angle Hydraulic Valve 80mm   (you have them on the shelf)\n17x flange adaptor for above bermad valve\n19x PVC Flange 80mm\n9x PVC Reducing Tee 150-80mm\n8x PVC Tee 80mm\n17x PVC 90’ Elbow 80mm\n2x PVC Reducing Tee 150-100\n2x PVC Flange 150mm\n68x Nut&Bolts 16x85mm\n150x Gal Washers 16mm\n17x RFG3 Rubber Flange Gasket 80mm\n1x V1BUT150 Butterfly Vave 150mm\n\n15.05.26- QUOTE EMAILED TO SEAN ON QU-04092\n"
-      },
-      {
-        "id": "u6uHrxOSmkdPzp3aiIGF",
-        "name": "DIESEL & WATER TANK",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 12388.2,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X DDS5000- DIESEL TANK NO PUMP WITH 1.1/4 FLANGE ON THE BOTTOM\n1 X LF10500- LIQUID FERT TANK\n12.05.26- SENT QUOTE TO MIKE QU-04089\n"
-      },
-      {
-        "id": "mBSLv4s3vVhkPahZeV0e",
-        "name": "SPRINKLERS/LOW DENSITY POLY",
-        "company": "SHIRE OF CARNARVON",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
-      },
-      {
-        "id": "c4ffzKHi85LhP66vRQpn",
-        "name": "GYPSOM IRRIGATION",
-        "company": "LEICHHARDT",
-        "amount": 7861.7,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "\n3 X 100m roll of heavy duty red layflat - STOCK\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp P70318\n300 X 40-60/12 W3 Norma worm drive SS hose clamp P70321\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector P70320\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler P70320\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239\n\n"
-      },
-      {
-        "id": "z5rqm3Q9bjhtUc0d1iSc",
-        "name": "Peter Arscott",
-        "company": "",
-        "amount": 12000,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
-      },
-      {
-        "id": "secRUb4E3em61JFdB7rP",
-        "name": "Kevin & Karina Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 12000,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
-      }
-    ]
-  },
-  {
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
+      {
+        "id": "2fXZi0Rmijhjt0B8TaU4",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 5059.63,
+        "status": "open",
+        "stage": "DELIVERY ON SCHEDULE",
+        "isNew": "Yes",
+        "notes": "QU-04123  dated 16.06.26\nIrrigation Project - From 1 property to the other under the road"
+      },
       {
         "id": "Ehyg3vJM6atYNy4asd8V",
         "name": "David Natasha Mihovilovic",
         "company": "D MIHOVILOVIC & NH MIHOVILOVIC",
         "amount": 2885.35,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "No",
-        "notes": "Quote #QU-04115\n4 x ITI7\n8 x ITISD-DC-3B"
+        "notes": "Quote #QU-04115\n4 x ITI7\n8 x ITISD-DC-3B\nARRIVED - 16/06 - I HAVE NOTIFIED DAVE - STOCK ON THE PICK-UP SHELF - NOT YET BOOKED OUT"
       },
       {
         "id": "ocu1LWCN0Fg30o0yYlMC",
         "name": "PVC PIPE #9 150mm",
         "company": "CAIDAN PRODUCE PTY LTD",
-        "amount": 0,
+        "amount": 39243.8,
         "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": null,
+        "stage": "DELIVERY ON SCHEDULE",
+        "isNew": "Yes",
         "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n99 x PVC PIPE #9 150mm"
       },
       {
@@ -445,9 +359,9 @@
         "id": "LHRJuj6u9e7V8uHS6Ysa",
         "name": "SEAN GAYLARD ACU-TECH",
         "company": "MIZU",
-        "amount": 0,
+        "amount": 323.02,
         "status": "open",
-        "stage": "STORED/SHELVED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "3x Backing Flange DN100 -  8900040\n3x Stub Flange Long Spigot 110mm – 8194007\n1x Tee Long Spigot 110 - 8103059\n\n "
       },
@@ -460,16 +374,6 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "10 x TAPPING SADDLES - 2\" x 1\""
-      },
-      {
-        "id": "CGeQaGPVoeFBVzouefdm",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 5050.43,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "QU-04104 Dated 2/06/2026\nStill waiting on pricing for Butt Weld units"
       },
       {
         "id": "VLnq6o0sIl99WPSD302u",
@@ -590,6 +494,102 @@
         "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "This is a trial. If it works prospect of another 4 units in addition."
+      }
+    ]
+  },
+  {
+    "pipelineName": "IRRIGATION",
+    "status": "open",
+    "opps": [
+      {
+        "id": "bakDOJ2qbvydsrYXS8MF",
+        "name": "BLUELINE POLY - DEAN WHITE",
+        "company": "CARNARVON PLUMBING SERVICES",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "1 X 63MM X 100M COIL BLUELINE POLY PN16"
+      },
+      {
+        "id": "XHqfoykfSEfZSXdgOe7E",
+        "name": "BLANCKING FLANGE",
+        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "4 INCH TABLE E POLY BLANKING FLANGE."
+      },
+      {
+        "id": "FhvDeMrXcRkpIuZ2L2Lo",
+        "name": "NETAFIM DISK FILTERS",
+        "company": "AD BUZZARD",
+        "amount": 637.56,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "2 X 80MM DISK FILTER RED 120 MESH\n13.05.26- QUOTE EMAILED TO CLIENT ON QU-04090\n\n"
+      },
+      {
+        "id": "451qI5RMe9ti13As5naN",
+        "name": "JOHN THOMAS IRRIGATION ",
+        "company": "MIZU",
+        "amount": 32260.64,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "12.05.26\n1x 80mm Water Meter\n1x 100mm Twin Leader Disc Filter\n104 x PVC Pipe 150mm PN9\n14x PVC pipe 100mm PN9\n10x PVC Pipe 80mm PN12\nBox of PVC Glue 500ml\nBox of Primer 500ml\n17x Bermad IR right angle Hydraulic Valve 80mm   (you have them on the shelf)\n17x flange adaptor for above bermad valve\n19x PVC Flange 80mm\n9x PVC Reducing Tee 150-80mm\n8x PVC Tee 80mm\n17x PVC 90’ Elbow 80mm\n2x PVC Reducing Tee 150-100\n2x PVC Flange 150mm\n68x Nut&Bolts 16x85mm\n150x Gal Washers 16mm\n17x RFG3 Rubber Flange Gasket 80mm\n1x V1BUT150 Butterfly Vave 150mm\n\n15.05.26- QUOTE EMAILED TO SEAN ON QU-04092\n"
+      },
+      {
+        "id": "u6uHrxOSmkdPzp3aiIGF",
+        "name": "DIESEL & WATER TANK",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 12388.2,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X DDS5000- DIESEL TANK NO PUMP WITH 1.1/4 FLANGE ON THE BOTTOM\n1 X LF10500- LIQUID FERT TANK\n12.05.26- SENT QUOTE TO MIKE QU-04089\n"
+      },
+      {
+        "id": "mBSLv4s3vVhkPahZeV0e",
+        "name": "SPRINKLERS/LOW DENSITY POLY",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
+      },
+      {
+        "id": "c4ffzKHi85LhP66vRQpn",
+        "name": "GYPSOM IRRIGATION",
+        "company": "LEICHHARDT",
+        "amount": 7861.7,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "\n3 X 100m roll of heavy duty red layflat - STOCK\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp P70318\n300 X 40-60/12 W3 Norma worm drive SS hose clamp P70321\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector P70320\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler P70320\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239\n\n"
+      },
+      {
+        "id": "z5rqm3Q9bjhtUc0d1iSc",
+        "name": "Peter Arscott",
+        "company": "",
+        "amount": 12000,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
+      },
+      {
+        "id": "secRUb4E3em61JFdB7rP",
+        "name": "Kevin & Karina Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 12000,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
       }
     ]
   },
