@@ -281,7 +281,7 @@
         "company": "NUTRIEN AG SOLUTIONS",
         "amount": 0,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
         "notes": "P70541 - 06/06/26\nXDM0003655/XDM0003654\nOEG - PAMELA\n1 x PLT LAYER PELLETS\n1 x PLT CHICK STARTER"
       },
@@ -291,7 +291,7 @@
         "company": "SORICO PLANTATION",
         "amount": 4004,
         "status": "open",
-        "stage": "STORED/SHELVED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
       },
@@ -301,7 +301,7 @@
         "company": "SEAN GAYLARD",
         "amount": 0,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "STORED/SHELVED",
         "isNew": null,
         "notes": "P70543 - 07/06/26\n17 x BERMAD 100 SERIES 80mm HYD ANGLE VALVE\n17 x 100 SERIES 3\" PLASTIC FLANGE"
       },
@@ -321,7 +321,7 @@
         "company": "",
         "amount": 0,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
         "notes": "P70519\n1 x DAVEY FIREFIGHTER 5.5HP PUMP\nBRUCE - WINNING STATION"
       },
@@ -341,7 +341,7 @@
         "company": "CORAL COAST PLUMBING PTY LTD",
         "amount": 58.08,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "4 X HR906VB 150MM WIDE X 225MM LONG X 215MM DEEP VALVE BOX"
       },
@@ -411,7 +411,7 @@
         "company": "CORAL COAST PLUMBING PTY LTD",
         "amount": 887.7,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "QU-04100 Dated 28/5/2026\n20 x IHRPAH & 25 x IHRPSRM04\n"
       },
@@ -441,9 +441,9 @@
         "company": "CORAL COAST PLUMBING PTY LTD",
         "amount": 1023,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "STORED/SHELVED",
         "isNew": "Yes",
-        "notes": "QU-04048 - 08.04.26\nAwaiting CCP customer to accept (boss quit on mine site) I have been speaking with Tara 1.5.26 - Rob"
+        "notes": "QU-04048 - 08.04.26\nAwaiting CCP customer to accept (boss quit on mine site) I have been speaking with Tara 1.5.26 - Rob\n17.06 - ADVISED DES PUMP HAS ARRIVED - ON THE PICK UP SHELF."
       },
       {
         "id": "F7hQ8YLS5Ub4vIuqjEHz",
@@ -805,7 +805,7 @@
         "company": "",
         "amount": 0,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70494 - 29/05/26 - XDM0003644\n1 X PLT POTTING MIX\nDELIVER DIRECT ONCE ARRIVED"
       },
@@ -815,7 +815,7 @@
         "company": "JACK MOREL",
         "amount": 0,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70471 - 25.05.26\nLIVE BUGS - PLEASE CALL JACK AS SOON AS THEY ARE RECEIVED IN."
       },
@@ -865,7 +865,7 @@
         "company": "NUTRIEN AG SOLUTIONS",
         "amount": 0,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "150 PINE POSTS - P70309 - BISHOPS TRANSPORT - XDM0003575\nUSE SALES ORDER WHEN INVOICING PLEASE"
       },
