@@ -1,5 +1,206 @@
 [
   {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "removed",
+    "pipeline": "FERTILIZER",
+    "name": "BUILDERS LIME - BULKA",
+    "company": "J & M LECA",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: BUILDERS LIME - BULKA (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "AIR RELEASE VALVE 3/4\"",
+    "company": "",
+    "amount": 158.12,
+    "prevAmount": 0,
+    "message": "AIR RELEASE VALVE 3/4\": value changed $0.00 -> $158.12 (+158.12)"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PARTS",
+    "company": "SEAN GAYLARD",
+    "amount": 5940.81,
+    "prevAmount": 0,
+    "message": "PARTS: value changed $0.00 -> $5940.81 (+5940.81)"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILISER",
+    "company": "Janna",
+    "amount": 6699,
+    "prevAmount": 6230.51,
+    "message": "FERTILISER: value changed $6230.51 -> $6699.00 (+468.49)"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILISER",
+    "company": "Janna",
+    "amount": 6699,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "FERTILISER: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Severin Gugich",
+    "company": "A & N Gugich Plantation",
+    "amount": 5059.63,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Severin Gugich: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "David Natasha Mihovilovic",
+    "company": "D MIHOVILOVIC & NH MIHOVILOVIC",
+    "amount": 2885.35,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "David Natasha Mihovilovic: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PARTS - VDNT",
+    "company": "",
+    "amount": 104.24,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "PARTS - VDNT: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "FEED ORDER",
+    "company": "NUTRIEN AG SOLUTIONS",
+    "amount": 1371.34,
+    "prevAmount": 0,
+    "message": "FEED ORDER: value changed $0.00 -> $1371.34 (+1371.34)"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "FEED ORDER",
+    "company": "NUTRIEN AG SOLUTIONS",
+    "amount": 1371.34,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "FEED ORDER: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PENTAIR PARTS",
+    "company": "SORICO PLANTATION",
+    "amount": 4004,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "PENTAIR PARTS: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "DAVEY FIREFIGHTER 5.5HP PUMP",
+    "company": "",
+    "amount": 1381.56,
+    "prevAmount": 0,
+    "message": "DAVEY FIREFIGHTER 5.5HP PUMP: value changed $0.00 -> $1381.56 (+1381.56)"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "DAVEY FIREFIGHTER 5.5HP PUMP",
+    "company": "",
+    "amount": 1381.56,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "DAVEY FIREFIGHTER 5.5HP PUMP: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "GRUNDFOS PUMP & CONTROLLER",
+    "company": "Adam Hamersley",
+    "amount": 7223.96,
+    "prevAmount": 0,
+    "message": "GRUNDFOS PUMP & CONTROLLER: value changed $0.00 -> $7223.96 (+7223.96)"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "GRUNDFOS PUMP & CONTROLLER",
+    "company": "Adam Hamersley",
+    "amount": 7223.96,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "GRUNDFOS PUMP & CONTROLLER: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "SEAN GAYLARD ACU-TECH",
+    "company": "MIZU",
+    "amount": 323.02,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "SEAN GAYLARD ACU-TECH: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "TAPPING SADDLES",
+    "company": "",
+    "amount": 83.82,
+    "prevAmount": 0,
+    "message": "TAPPING SADDLES: value changed $0.00 -> $83.82 (+83.82)"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "TAPPING SADDLES",
+    "company": "",
+    "amount": 83.82,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "TAPPING SADDLES: status changed open -> won"
+  },
+  {
+    "date": "2026-06-18T22:55:01.099Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Steve Williamson",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 887.7,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Steve Williamson: status changed open -> won"
+  },
+  {
     "date": "2026-06-16T22:52:18.097Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

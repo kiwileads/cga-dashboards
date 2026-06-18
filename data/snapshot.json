@@ -90,16 +90,6 @@
         "notes": "QUOTE\n1 X 1/2 TONE BULK BAG ECO RED\n1 X 1 TONE BULK BAG ECO RED"
       },
       {
-        "id": "GZW9s2QXU9aoSStqu2G1",
-        "name": "FERTILISER",
-        "company": "Janna",
-        "amount": 6230.51,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X 1000LT FOLICAL 19 -ORDERING FROM OMNIA PERTH ORDERED ON P70459\n2 X PALLETS YARA CALCIUM NITRATE-FROM STOCK DELIVERED ON INV-447511\n20.05.26-QUOTED CLIENT ON QU-04097"
-      },
-      {
         "id": "Orq9bBONosjGppIw97bt",
         "name": "TROFORTE",
         "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
@@ -128,16 +118,6 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "P70344 - 21.04.26 - BISHOPS\n54 x 20KG EMERALD LAWN \n8 x BULKA BAGS ECO PRIME (4 x BOR)\n19.05.26-ARRIVED AT CGA CONTACTED CLIENT\n\n29.04.26 - SPOKE TO DAN PRICE HAS GONE UP ON PRIME FROM \\$1775+ PER TONE TO \\$1875+ ETA 5 OF MAY 26\n"
-      },
-      {
-        "id": "tt57PK5r5yCKDzs2crWZ",
-        "name": "BUILDERS LIME - BULKA",
-        "company": "J & M LECA",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "3 X PALLETS BULKA OF AG LIME"
       },
       {
         "id": "QBOVPadrCilBmBWOeoqY",
@@ -226,32 +206,12 @@
     "status": "open",
     "opps": [
       {
-        "id": "2fXZi0Rmijhjt0B8TaU4",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 5059.63,
-        "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
-        "isNew": "Yes",
-        "notes": "QU-04123  dated 16.06.26\nIrrigation Project - From 1 property to the other under the road"
-      },
-      {
-        "id": "Ehyg3vJM6atYNy4asd8V",
-        "name": "David Natasha Mihovilovic",
-        "company": "D MIHOVILOVIC & NH MIHOVILOVIC",
-        "amount": 2885.35,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "No",
-        "notes": "Quote #QU-04115\n4 x ITI7\n8 x ITISD-DC-3B\nARRIVED - 16/06 - I HAVE NOTIFIED DAVE - STOCK ON THE PICK-UP SHELF - NOT YET BOOKED OUT"
-      },
-      {
         "id": "ocu1LWCN0Fg30o0yYlMC",
         "name": "PVC PIPE #9 150mm",
         "company": "CAIDAN PRODUCE PTY LTD",
         "amount": 39243.8,
         "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n99 x PVC PIPE #9 150mm"
       },
@@ -259,51 +219,21 @@
         "id": "hORm1hODIKMawagG5SxM",
         "name": "AIR RELEASE VALVE 3/4\"",
         "company": "",
-        "amount": 0,
+        "amount": 158.12,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "SHIPPING CONFIRMED",
         "isNew": null,
-        "notes": "P70540 - 06/06/26\n5 x AIR RELEASE VALVE 3/4\"\nHASLEY AG (HAS) - ROLLEY"
-      },
-      {
-        "id": "kdktgm6Tm3Lu20HKc7At",
-        "name": "PARTS - VDNT",
-        "company": "",
-        "amount": 104.24,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "No",
-        "notes": "P70544 - 07/06/26\nVDNT\n1 x OIL VEIWER ASSY\n1 x FLY NUT 1.1/2 BSP\n1 ELBOW 1.1/2\"x40 TAIL\n"
-      },
-      {
-        "id": "v71ITlQmnXIzYT32FCii",
-        "name": "FEED ORDER",
-        "company": "NUTRIEN AG SOLUTIONS",
-        "amount": 0,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": null,
-        "notes": "P70541 - 06/06/26\nXDM0003655/XDM0003654\nOEG - PAMELA\n1 x PLT LAYER PELLETS\n1 x PLT CHICK STARTER"
-      },
-      {
-        "id": "N7dKdTX49CA1XlMYMECb",
-        "name": "PENTAIR PARTS",
-        "company": "SORICO PLANTATION",
-        "amount": 4004,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
+        "notes": "P70540 - 06/06/26\n5 x AIR RELEASE VALVE 3/4\" (INEF70540-001300)\nHASLEY AG (HAS) - ROLLEY"
       },
       {
         "id": "4ZJbHtmHzN2eYefwmh4Y",
         "name": "PARTS",
         "company": "SEAN GAYLARD",
-        "amount": 0,
+        "amount": 5940.81,
         "status": "open",
         "stage": "STORED/SHELVED",
         "isNew": null,
-        "notes": "P70543 - 07/06/26\n17 x BERMAD 100 SERIES 80mm HYD ANGLE VALVE\n17 x 100 SERIES 3\" PLASTIC FLANGE"
+        "notes": "QU-04129  P70543 - 07/06/26\n17 x BERMAD 100 SERIES 80mm HYD ANGLE VALVE\n17 x 100 SERIES 3\" PLASTIC FLANGE\n\n"
       },
       {
         "id": "M8AW3u6dOjMjMZbQyejO",
@@ -316,22 +246,12 @@
         "notes": "P70525 - 01/06/26\nLUL1\n2 x B7352 - BRAKE COVER SEAL\n4 x B1872 - BANJO PUSH ON\n2 x B1874 - BANJO BOLT STD\n6 x B7296 - FILTER ELEMENT\n1 x B3412 - M/F 90 ELBOW\n1 x B7349OUT AIRFILT"
       },
       {
-        "id": "10FqnPzzNda6Kx4bsY7Q",
-        "name": "DAVEY FIREFIGHTER 5.5HP PUMP",
-        "company": "",
-        "amount": 0,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": null,
-        "notes": "P70519\n1 x DAVEY FIREFIGHTER 5.5HP PUMP\nBRUCE - WINNING STATION"
-      },
-      {
         "id": "tvUW3PcysPxbPij03yBA",
         "name": "Robert Ashley Scott",
         "company": "SORICO PLANTATION",
         "amount": 21858.32,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "SHIPPING CONFIRMED",
         "isNew": null,
         "notes": "1 x WPSX-MUEC09J-160  7.5KW Pump - ARRIVED - 12/06/26\n100 x YP09100HW   PVC Tube\n2 x YBPM90100PN12.5  Poly Pipe\n2 x INEF70640-011020  Filter Assy"
       },
@@ -341,39 +261,9 @@
         "company": "CORAL COAST PLUMBING PTY LTD",
         "amount": 58.08,
         "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "stage": "P/O GENERATED",
         "isNew": "Yes",
         "notes": "4 X HR906VB 150MM WIDE X 225MM LONG X 215MM DEEP VALVE BOX"
-      },
-      {
-        "id": "ma4YMBEa0qjmOaO7XpvF",
-        "name": "GRUNDFOS PUMP & CONTROLLER",
-        "company": "Adam Hamersley",
-        "amount": 0,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "1 X WPG-SQF5-70N (92533526) SUB SOLAR PUMP\n2 X CU202 CONTROLLER ( 92799796)"
-      },
-      {
-        "id": "LHRJuj6u9e7V8uHS6Ysa",
-        "name": "SEAN GAYLARD ACU-TECH",
-        "company": "MIZU",
-        "amount": 323.02,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "No",
-        "notes": "3x Backing Flange DN100 -  8900040\n3x Stub Flange Long Spigot 110mm – 8194007\n1x Tee Long Spigot 110 - 8103059\n\n "
-      },
-      {
-        "id": "MUyGgce7J4ukaJga17RJ",
-        "name": "TAPPING SADDLES",
-        "company": "",
-        "amount": 0,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": null,
-        "notes": "10 x TAPPING SADDLES - 2\" x 1\""
       },
       {
         "id": "VLnq6o0sIl99WPSD302u",
@@ -404,16 +294,6 @@
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "No",
         "notes": "Irrigation Job QU-04099 for Des"
-      },
-      {
-        "id": "8ayBcjb3omGIG0w46taD",
-        "name": "Steve Williamson",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 887.7,
-        "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "QU-04100 Dated 28/5/2026\n20 x IHRPAH & 25 x IHRPSRM04\n"
       },
       {
         "id": "ktXK6tFhEl46wLb1qq9W",
@@ -1052,6 +932,16 @@
         "notes": "1 X 1000LT ECOFISH\n09.06.26- SOLD ON INV447894\n\n"
       },
       {
+        "id": "GZW9s2QXU9aoSStqu2G1",
+        "name": "FERTILISER",
+        "company": "Janna",
+        "amount": 6699,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000LT FOLICAL 19 -ORDERING FROM OMNIA PERTH ORDERED ON P70459\n2 X PALLETS YARA CALCIUM NITRATE-FROM STOCK DELIVERED ON INV-447511\n20.05.26-QUOTED CLIENT ON QU-04097\n18.06.26- CALCIUM INVOICED ON INV-447511 ON THE 20.05.26\n18.06.26- FOLICAL INVOICED ON INV-447889 ON THE 29.05.26"
+      },
+      {
         "id": "GnMTF9XkwtYusiHIf3UK",
         "name": "1000LT ECO LIQUID FISH",
         "company": "GIANG TRAN FAMILY TRUST",
@@ -1174,25 +1064,99 @@
     ]
   },
   {
-    "pipelineName": "CUSTOM BOXES",
-    "status": "won",
-    "opps": [
-      {
-        "id": "kUOfDDbOSqBE5j5DasHr",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 45000,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": ""
-      }
-    ]
-  },
-  {
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "2fXZi0Rmijhjt0B8TaU4",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 5059.63,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04123  dated 16.06.26\nIrrigation Project - From 1 property to the other under the road"
+      },
+      {
+        "id": "Ehyg3vJM6atYNy4asd8V",
+        "name": "David Natasha Mihovilovic",
+        "company": "D MIHOVILOVIC & NH MIHOVILOVIC",
+        "amount": 2885.35,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "Quote #QU-04115\n4 x ITI7\n8 x ITISD-DC-3B\nARRIVED - 16/06 - I HAVE NOTIFIED DAVE - STOCK ON THE PICK-UP SHELF - NOT YET BOOKED OUT"
+      },
+      {
+        "id": "kdktgm6Tm3Lu20HKc7At",
+        "name": "PARTS - VDNT",
+        "company": "",
+        "amount": 104.24,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "P70544 - 07/06/26\nVDNT\n1 x OIL VEIWER ASSY\n1 x FLY NUT 1.1/2 BSP\n1 ELBOW 1.1/2\"x40 TAIL\n"
+      },
+      {
+        "id": "v71ITlQmnXIzYT32FCii",
+        "name": "FEED ORDER",
+        "company": "NUTRIEN AG SOLUTIONS",
+        "amount": 1371.34,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "P70541 - 06/06/26\nXDM0003655/XDM0003654\nOEG - PAMELA\n1 x PLT LAYER PELLETS\n1 x PLT CHICK STARTER"
+      },
+      {
+        "id": "N7dKdTX49CA1XlMYMECb",
+        "name": "PENTAIR PARTS",
+        "company": "SORICO PLANTATION",
+        "amount": 4004,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
+      },
+      {
+        "id": "10FqnPzzNda6Kx4bsY7Q",
+        "name": "DAVEY FIREFIGHTER 5.5HP PUMP",
+        "company": "",
+        "amount": 1381.56,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "P70519\n1 x DAVEY FIREFIGHTER 5.5HP PUMP\nBRUCE - WINNING STATION"
+      },
+      {
+        "id": "ma4YMBEa0qjmOaO7XpvF",
+        "name": "GRUNDFOS PUMP & CONTROLLER",
+        "company": "Adam Hamersley",
+        "amount": 7223.96,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 X WPG-SQF5-70N (92533526) SUB SOLAR PUMP\n2 X CU202 CONTROLLER ( 92799796)"
+      },
+      {
+        "id": "LHRJuj6u9e7V8uHS6Ysa",
+        "name": "SEAN GAYLARD ACU-TECH",
+        "company": "MIZU",
+        "amount": 323.02,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "3x Backing Flange DN100 -  8900040\n3x Stub Flange Long Spigot 110mm – 8194007\n1x Tee Long Spigot 110 - 8103059\n\n "
+      },
+      {
+        "id": "MUyGgce7J4ukaJga17RJ",
+        "name": "TAPPING SADDLES",
+        "company": "",
+        "amount": 83.82,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "6 x TAPPING SADDLES - 2\" x 1\""
+      },
       {
         "id": "BLScvPCzigx9LY0uWB5q",
         "name": "Brett Hopkinson",
@@ -1204,12 +1168,22 @@
         "notes": "QU-04072 Dated 22/4/2026\n1 x WPG-96160405\n1 x WPG-SQF2.5-2N \n2 x WPG-SQ2-70N"
       },
       {
+        "id": "8ayBcjb3omGIG0w46taD",
+        "name": "Steve Williamson",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 887.7,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "QU-04100 Dated 28/5/2026\n20 x IHRPAH & 25 x IHRPSRM04\n"
+      },
+      {
         "id": "C8MR9hk6oP9M8F03pMXq",
         "name": "Kevin David Sullivan",
         "company": "Sulli Bros Plantation",
         "amount": 7783.15,
         "status": "won",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04043  Dated 3/04/26\nIrrigation Renewal Project headed by Kerien.\n3\" & 4\" Irrigation gear for Mango Block\n50 x IWFGR10TH still to arrive (\\$3.05 + gst)"
       },
@@ -1319,7 +1293,7 @@
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
         "amount": 1396,
         "status": "won",
-        "stage": "DELIVERY ON SCHEDULE",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QUOTE #QU-04063   GPS \n3 X 200 METER COILS OF 32MM BLUELINE POLY PN20 - REQ'D TO BUY 10 COILS\nHAVE QUOTES 6 X 50MTR ROLLS"
       },
@@ -1402,6 +1376,22 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "QUOTE #QU-04068 - ACCEPTED\nRETICULATION SPARES\nINV-446908\n"
+      }
+    ]
+  },
+  {
+    "pipelineName": "CUSTOM BOXES",
+    "status": "won",
+    "opps": [
+      {
+        "id": "kUOfDDbOSqBE5j5DasHr",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 45000,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": ""
       }
     ]
   },
