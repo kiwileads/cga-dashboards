@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-06-19T22:02:29.119Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 6573.6,
+    "status": "open",
+    "message": "New opportunity: Ray Elaine Skender (ROB's CUSTOM) - $6573.60"
+  },
+  {
     "date": "2026-06-18T22:55:01.099Z",
     "type": "removed",
     "pipeline": "FERTILIZER",

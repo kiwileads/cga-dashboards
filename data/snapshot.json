@@ -206,6 +206,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "n8CF5A4CX0skNK2TOKAh",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 6573.6,
+        "status": "open",
+        "stage": "DELIVERY ON SCHEDULE",
+        "isNew": "Yes",
+        "notes": "QU-04118   dated 13/06/26\n9 x LASP-031"
+      },
+      {
         "id": "ocu1LWCN0Fg30o0yYlMC",
         "name": "PVC PIPE #9 150mm",
         "company": "CAIDAN PRODUCE PTY LTD",
