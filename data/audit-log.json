@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-06-23T22:11:29.489Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Real Futures",
+    "company": "",
+    "amount": 484,
+    "status": "open",
+    "message": "New opportunity: Real Futures (ROB's CUSTOM) - $484.00"
+  },
+  {
+    "date": "2026-06-23T22:11:29.489Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Kevin David Sullivan",
+    "company": "Sulli Bros Plantation",
+    "amount": 2330.52,
+    "status": "open",
+    "message": "New opportunity: Kevin David Sullivan (ROB's CUSTOM) - $2330.52"
+  },
+  {
+    "date": "2026-06-23T22:11:29.489Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 6573.6,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Ray Elaine Skender: status changed open -> won"
+  },
+  {
+    "date": "2026-06-23T22:11:29.489Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "DOSING PUMP",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 1023,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "DOSING PUMP: status changed open -> won"
+  },
+  {
     "date": "2026-06-19T22:02:29.119Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

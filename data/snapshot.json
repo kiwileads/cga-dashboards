@@ -206,14 +206,24 @@
     "status": "open",
     "opps": [
       {
-        "id": "n8CF5A4CX0skNK2TOKAh",
-        "name": "Ray Elaine Skender",
-        "company": "SKENDER PTY LTD",
-        "amount": 6573.6,
+        "id": "wUbBdeMFpfIN744AUP1G",
+        "name": "Real Futures",
+        "company": "",
+        "amount": 484,
         "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
+        "stage": "P/O GENERATED",
         "isNew": "Yes",
-        "notes": "QU-04118   dated 13/06/26\n9 x LASP-031"
+        "notes": "P/O 70618\nQU-04136\n2 x MISCMOTREAL1"
+      },
+      {
+        "id": "71YvPkoE5bwVWQv4SQip",
+        "name": "Kevin David Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 2330.52,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "No",
+        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
       },
       {
         "id": "ocu1LWCN0Fg30o0yYlMC",
@@ -324,16 +334,6 @@
         "stage": "NEW ORDER/JOB",
         "isNew": "Yes",
         "notes": "4 X 50 METER ROLLS OF SHADECLOTH\n2.4 METER 70% GREEN WITH EYELETS TO FEED WIRE THROUGH"
-      },
-      {
-        "id": "rUs9OG8MocFlOFFyEenl",
-        "name": "DOSING PUMP",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 1023,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "QU-04048 - 08.04.26\nAwaiting CCP customer to accept (boss quit on mine site) I have been speaking with Tara 1.5.26 - Rob\n17.06 - ADVISED DES PUMP HAS ARRIVED - ON THE PICK UP SHELF."
       },
       {
         "id": "F7hQ8YLS5Ub4vIuqjEHz",
@@ -928,155 +928,19 @@
     ]
   },
   {
-    "pipelineName": "FERTILIZER",
-    "status": "won",
-    "opps": [
-      {
-        "id": "Yr3pJrUYPa5uP8y97P07",
-        "name": "ECO FISH",
-        "company": "VG CUU, CV PHAM & TM QUACH",
-        "amount": 2288,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 X 1000LT ECOFISH\n09.06.26- SOLD ON INV447894\n\n"
-      },
-      {
-        "id": "GZW9s2QXU9aoSStqu2G1",
-        "name": "FERTILISER",
-        "company": "Janna",
-        "amount": 6699,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 X 1000LT FOLICAL 19 -ORDERING FROM OMNIA PERTH ORDERED ON P70459\n2 X PALLETS YARA CALCIUM NITRATE-FROM STOCK DELIVERED ON INV-447511\n20.05.26-QUOTED CLIENT ON QU-04097\n18.06.26- CALCIUM INVOICED ON INV-447511 ON THE 20.05.26\n18.06.26- FOLICAL INVOICED ON INV-447889 ON THE 29.05.26"
-      },
-      {
-        "id": "GnMTF9XkwtYusiHIf3UK",
-        "name": "1000LT ECO LIQUID FISH",
-        "company": "GIANG TRAN FAMILY TRUST",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 X 1000LT LIQUID FISH\n12.5.26 - ORDERED ON P70433\n18.05.26 - ARRIVED AT CGA AND INVOICED ON INV-447408"
-      },
-      {
-        "id": "lNovjdfE4d7PtsPPm8Bo",
-        "name": "SERGOMIL L60",
-        "company": "GLENDALE PLANTATION",
-        "amount": 609.4,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 X 20LT SERGOMIL L60\n14.05.26-PICKED UP BY CLIENT ON INV-447258"
-      },
-      {
-        "id": "HwwTgccysRGmQSOEbuWs",
-        "name": "SERGOMIL L60",
-        "company": "Janna",
-        "amount": 1218.8,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "QUOTE \n20LT OF SERGOMIL\nQUOTED ON 8/4/26 ON QU-04049\n14.05.26- PICKED UP BY CLIENT ON INV-447249"
-      },
-      {
-        "id": "mpQPcm8ub2FPTQfGVdov",
-        "name": "MANGO FERTILISER",
-        "company": "A & N Gugich Plantation",
-        "amount": 8104.64,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "96 X YARAMILA COMPLEX\n108 X NEUTROG BOUNCE BACK\nON QU-03985"
-      },
-      {
-        "id": "WVfpE7n4J4AayhgmcdJB",
-        "name": "ECO PRIME",
-        "company": "BORICH & SONS",
-        "amount": 8754.77,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL.\n\n21.04.26- ORDERED ON P7344\n19.05.26-ARRIVED AT CGA CONTACTED MARCO WILL GRAB SOME NEXT WEEK.\n\n09.06.26- SOLD 1 TONE TO CHRIS LECA ON INV-44702 AND 3 TONE SOLD TO PHAMD ON\n INV-448091 ."
-      },
-      {
-        "id": "EwylWwFTeGR2YskgVN3g",
-        "name": "ECO RED",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 2500,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 PLT ECO RED"
-      },
-      {
-        "id": "6HtTAsaoZJ6Cr7nvske9",
-        "name": "ECO PRIME BULK",
-        "company": "BORICH AND SONS",
-        "amount": 3978.44,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "2 X BULK BAG ECO PRIME"
-      },
-      {
-        "id": "ng9f8uQJ68cxnjcTGhJ5",
-        "name": "Kevin & Karina Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 13996.54,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": "8 x 25kg genfarm mancozeb\n8 x 20lt copper guard\n192 (4plt) yaramila complex\nQU-04015> INV-444498 DELIVERY 10/3/2026"
-      },
-      {
-        "id": "6n2sMTrSRmoV5B6Gs1fW",
-        "name": "ECO PRIME BULK",
-        "company": "Janna",
-        "amount": 3979.44,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "2X 1000KG BULK BAGS eco prime"
-      },
-      {
-        "id": "puTQgeIkYgTQcrXLH0ay",
-        "name": "ECO PRIME BULK",
-        "company": "GLENDALE PLANTATION",
-        "amount": 1989.72,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1 X 1000KG BULK BAGS"
-      },
-      {
-        "id": "2GSHymb6Fm93tDBBmo2s",
-        "name": "ECO PRIME",
-        "company": "ACE PRODUCE",
-        "amount": 3979.44,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "2 X 1000KG BULK BAGS"
-      },
-      {
-        "id": "h7O4ANrLfOxq0At7ruGV",
-        "name": "Al Holtham",
-        "company": "Janna",
-        "amount": 7056,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst"
-      }
-    ]
-  },
-  {
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "n8CF5A4CX0skNK2TOKAh",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 6573.6,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04118   dated 13/06/26\n9 x LASP-031"
+      },
       {
         "id": "2fXZi0Rmijhjt0B8TaU4",
         "name": "Severin Gugich",
@@ -1248,6 +1112,16 @@
         "notes": "P70290 - 10.04.26 - AIRBAG\nXDM0003574"
       },
       {
+        "id": "rUs9OG8MocFlOFFyEenl",
+        "name": "DOSING PUMP",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 1023,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04048 - 08.04.26\nAwaiting CCP customer to accept (boss quit on mine site) I have been speaking with Tara 1.5.26 - Rob\n17.06 - ADVISED DES PUMP HAS ARRIVED - ON THE PICK UP SHELF."
+      },
+      {
         "id": "LLT3modXoDTontW0gnqd",
         "name": "SAFETY GEAR",
         "company": "SHIRE OF CARNARVON",
@@ -1386,6 +1260,152 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "QUOTE #QU-04068 - ACCEPTED\nRETICULATION SPARES\nINV-446908\n"
+      }
+    ]
+  },
+  {
+    "pipelineName": "FERTILIZER",
+    "status": "won",
+    "opps": [
+      {
+        "id": "Yr3pJrUYPa5uP8y97P07",
+        "name": "ECO FISH",
+        "company": "VG CUU, CV PHAM & TM QUACH",
+        "amount": 2288,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000LT ECOFISH\n09.06.26- SOLD ON INV447894\n\n"
+      },
+      {
+        "id": "GZW9s2QXU9aoSStqu2G1",
+        "name": "FERTILISER",
+        "company": "Janna",
+        "amount": 6699,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000LT FOLICAL 19 -ORDERING FROM OMNIA PERTH ORDERED ON P70459\n2 X PALLETS YARA CALCIUM NITRATE-FROM STOCK DELIVERED ON INV-447511\n20.05.26-QUOTED CLIENT ON QU-04097\n18.06.26- CALCIUM INVOICED ON INV-447511 ON THE 20.05.26\n18.06.26- FOLICAL INVOICED ON INV-447889 ON THE 29.05.26"
+      },
+      {
+        "id": "GnMTF9XkwtYusiHIf3UK",
+        "name": "1000LT ECO LIQUID FISH",
+        "company": "GIANG TRAN FAMILY TRUST",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000LT LIQUID FISH\n12.5.26 - ORDERED ON P70433\n18.05.26 - ARRIVED AT CGA AND INVOICED ON INV-447408"
+      },
+      {
+        "id": "lNovjdfE4d7PtsPPm8Bo",
+        "name": "SERGOMIL L60",
+        "company": "GLENDALE PLANTATION",
+        "amount": 609.4,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 20LT SERGOMIL L60\n14.05.26-PICKED UP BY CLIENT ON INV-447258"
+      },
+      {
+        "id": "HwwTgccysRGmQSOEbuWs",
+        "name": "SERGOMIL L60",
+        "company": "Janna",
+        "amount": 1218.8,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "QUOTE \n20LT OF SERGOMIL\nQUOTED ON 8/4/26 ON QU-04049\n14.05.26- PICKED UP BY CLIENT ON INV-447249"
+      },
+      {
+        "id": "mpQPcm8ub2FPTQfGVdov",
+        "name": "MANGO FERTILISER",
+        "company": "A & N Gugich Plantation",
+        "amount": 8104.64,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "96 X YARAMILA COMPLEX\n108 X NEUTROG BOUNCE BACK\nON QU-03985"
+      },
+      {
+        "id": "WVfpE7n4J4AayhgmcdJB",
+        "name": "ECO PRIME",
+        "company": "BORICH & SONS",
+        "amount": 8754.77,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "4 X BULK ECO PRIME\n\n7/04/26\nCALLED DAN FROM ECOGROWTH AND HE HAS ADVISED PRIME SHOULD BE AVAIABLE BY END OF APRIL.\n\n21.04.26- ORDERED ON P7344\n19.05.26-ARRIVED AT CGA CONTACTED MARCO WILL GRAB SOME NEXT WEEK.\n\n09.06.26- SOLD 1 TONE TO CHRIS LECA ON INV-44702 AND 3 TONE SOLD TO PHAMD ON\n INV-448091 ."
+      },
+      {
+        "id": "EwylWwFTeGR2YskgVN3g",
+        "name": "ECO RED",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 2500,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 PLT ECO RED"
+      },
+      {
+        "id": "6HtTAsaoZJ6Cr7nvske9",
+        "name": "ECO PRIME BULK",
+        "company": "BORICH AND SONS",
+        "amount": 3978.44,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2 X BULK BAG ECO PRIME"
+      },
+      {
+        "id": "ng9f8uQJ68cxnjcTGhJ5",
+        "name": "Kevin & Karina Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 13996.54,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": "8 x 25kg genfarm mancozeb\n8 x 20lt copper guard\n192 (4plt) yaramila complex\nQU-04015> INV-444498 DELIVERY 10/3/2026"
+      },
+      {
+        "id": "6n2sMTrSRmoV5B6Gs1fW",
+        "name": "ECO PRIME BULK",
+        "company": "Janna",
+        "amount": 3979.44,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2X 1000KG BULK BAGS eco prime"
+      },
+      {
+        "id": "puTQgeIkYgTQcrXLH0ay",
+        "name": "ECO PRIME BULK",
+        "company": "GLENDALE PLANTATION",
+        "amount": 1989.72,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 1000KG BULK BAGS"
+      },
+      {
+        "id": "2GSHymb6Fm93tDBBmo2s",
+        "name": "ECO PRIME",
+        "company": "ACE PRODUCE",
+        "amount": 3979.44,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2 X 1000KG BULK BAGS"
+      },
+      {
+        "id": "h7O4ANrLfOxq0At7ruGV",
+        "name": "Al Holtham",
+        "company": "Janna",
+        "amount": 7056,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": "96 BAGS POLYFEED LOW K on inv-444208\n7056.00+gst"
       }
     ]
   },
