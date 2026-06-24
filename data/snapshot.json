@@ -206,6 +206,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "S6jInFylitJsqeBUmNn4",
+        "name": "Desmond Williamson",
+        "company": "CORAL COAST PLUMBING",
+        "amount": 5005,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
+      },
+      {
         "id": "wUbBdeMFpfIN744AUP1G",
         "name": "Real Futures",
         "company": "",
@@ -294,16 +304,6 @@
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "No",
         "notes": "Quote #QU-04103\n4 x SS2BV080"
-      },
-      {
-        "id": "nsb3mztbLM2U2MP6dnrH",
-        "name": "Sean Walker",
-        "company": "Shire of Upper Gascoyne",
-        "amount": 3157.24,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "No",
-        "notes": "QU-04102  Dated 1/06/2026\n1 x WPF-94533509\n1 x WPF-SPM1.1\n1 x WPF-94533509-21\nARRIVED, INVOICED (INV-448477)- CALLED MAIL TRUCK FOR DELIVERY"
       },
       {
         "id": "51nqbYTC9ltyNz3FyfvC",
@@ -495,7 +495,7 @@
         "status": "open",
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
-        "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000\n\n10.06.26- 1 TANK AND 1 LID ARRIVED AND SOLD ON INV-448365\n1 x TANK AND 1 LID ON BACKORDER ETA IS"
+        "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000\n\n10.06.26- 1 TANK AND 1 LID ARRIVED AND SOLD ON INV-448365\n1 x TANK AND 1 LID ON BACKORDER ETA TBA"
       },
       {
         "id": "tMbrf9Fdgr5d0oyD6dvi",
@@ -578,16 +578,6 @@
         "notes": "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS"
       },
       {
-        "id": "UBdxWDnJAmbu5O1jyW5k",
-        "name": "PINE POLES",
-        "company": "V & M Durmanich",
-        "amount": 16605,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "400 X PINE POST 2.4 METER 150-175MM\n12.05.26 - QUOTED CUSTOMER ON QU-04087\n"
-      },
-      {
         "id": "wDf7YAn50jpybsFaW0ga",
         "name": "Al Holtham",
         "company": "Janna",
@@ -634,16 +624,6 @@
         "notes": "2 X 25KG BORAX DECAHYDRATE"
       },
       {
-        "id": "dfgFQI7aIt7JZXl3Ag6A",
-        "name": "DORMEX GRAPES 26",
-        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
-        "amount": 7569.32,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "40 X 10LT DORMEX - ORD-478385"
-      },
-      {
         "id": "a3lRk8fgqJAngebUoXIb",
         "name": "DORMEX GRAPES 26",
         "company": "V & M Durmanich",
@@ -672,16 +652,6 @@
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "No",
         "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
-      },
-      {
-        "id": "zoOzvervOfanE923SI6V",
-        "name": "DORMEX GRAPES 26",
-        "company": "GLENDALE PLANTATION",
-        "amount": 4163.13,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026"
       }
     ]
   },
@@ -876,6 +846,16 @@
         "notes": "45 X 10LT DORMEX\n2 X 20LT AGRAL\nON SALES ORDER - ORD478538\n09.06.26 - SOLD AND PAID FOR ON INV-448332"
       },
       {
+        "id": "dfgFQI7aIt7JZXl3Ag6A",
+        "name": "DORMEX GRAPES 26",
+        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+        "amount": 8141.85,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "40 X 10LT DORMEX - ORD-478385\n26.06.26 - SOLD ON INV-448525"
+      },
+      {
         "id": "6ELMI9pgcNPIF0GCVRds",
         "name": "DORMEX GRAPES 26",
         "company": "GIULIANO CONDO",
@@ -884,6 +864,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "1 x 1000lt IBC OF DORMEX -ORD..\n20 X 10LT DORMEX ORD-478472\n\n09.10.26 - SOLD ON INV-448336 IBC ND 10LT ON INV-448337"
+      },
+      {
+        "id": "zoOzvervOfanE923SI6V",
+        "name": "DORMEX GRAPES 26",
+        "company": "GLENDALE PLANTATION",
+        "amount": 4163.13,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "22 X 10LT OF DORMEX\nON SALES ORDER ORD-478386 11/3/2026\n24.06.26 - SOLD ON INV-448983"
       },
       {
         "id": "VAeHdIpGUDyjLkPbcQCl",
@@ -1030,6 +1020,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "6 x TAPPING SADDLES - 2\" x 1\""
+      },
+      {
+        "id": "nsb3mztbLM2U2MP6dnrH",
+        "name": "Sean Walker",
+        "company": "Shire of Upper Gascoyne",
+        "amount": 3157.24,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "QU-04102  Dated 1/06/2026\n1 x WPF-94533509\n1 x WPF-SPM1.1\n1 x WPF-94533509-21\nARRIVED, INVOICED (INV-448477)- CALLED MAIL TRUCK FOR DELIVERY"
       },
       {
         "id": "BLScvPCzigx9LY0uWB5q",
@@ -1426,6 +1426,132 @@
     ]
   },
   {
+    "pipelineName": "GENERAL MERCH",
+    "status": "won",
+    "opps": [
+      {
+        "id": "GWc3EvmijGt94T8FSgNW",
+        "name": "VINE GUARDS",
+        "company": "GLENDALE PLANTATION",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "800 X VINE GUARDS - JFVG2\n04.06.26-INVOICED AND DELIVERED ON INV-448060"
+      },
+      {
+        "id": "9OWHU2K58Z8rzLqzIch9",
+        "name": "6V BATTERY ",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "1 X ABN03 6V BATTERY\n12.05.26 ORDERED ON P70434\n04.06.26- SOLD ON INV-447862"
+      },
+      {
+        "id": "uIYucbkAEdlC2UMcTaU0",
+        "name": "PINE POLES 2.4M X 100-125",
+        "company": "BUMBAK & SONS",
+        "amount": 5878.4,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "200 X 2.4M X 100-125 PINE POLES YPP24100\n12.5.26 - EMAILED QU-04088\n02.06.26- DELIVERD ON INV-447962\n"
+      },
+      {
+        "id": "e5Fsjew6DLR2REeXg2Yr",
+        "name": "METHAM SODIUM (KENSO) x 1000L",
+        "company": "DELTA AGRI (GRAY)",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "P70341 - 20.04.26 - BISHOPS\nMETHAM SODIUM(KENSO) 1000L x 2\n1 x 10,000 - JAVELIN WATERMELON SEEDS (GUL1)"
+      },
+      {
+        "id": "M5wX8zEDpOcBJ0RD2Gf6",
+        "name": "PINE POLES",
+        "company": "TRAN & DINH",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n20.04.26 - ORDERED ON P70339\n11.04.26 - INVOICED ON INV-447058\n"
+      },
+      {
+        "id": "x6TW3ohUs2U1nhBWW0vx",
+        "name": "7000 VITALIS BEAN SEED",
+        "company": "TIPTON",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "7 X 1000 VITALIS BEAN SEEDS\n\n16/4/26 \nARRIVED TO CGA BOOKED OUT TO GROWER AND PICKED UP."
+      },
+      {
+        "id": "OM0jgnpNth6euWMRwnML",
+        "name": "VITALIS",
+        "company": "TIPTON",
+        "amount": 250,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26\n\n"
+      },
+      {
+        "id": "1cvYX1ilgFUtAYy8NN5l",
+        "name": "PINE POLES 3.6M 100-125MM",
+        "company": "JACK MOREL",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS"
+      },
+      {
+        "id": "y8pHjtl1pE0ZBzJRM62e",
+        "name": "DIESEL TANKS",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 9500,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26\n\n16.4.26 - ARRIVED AT CGA"
+      },
+      {
+        "id": "xBs0niD3ICiqmWp7h2Fm",
+        "name": "BERLOTTI BEANS",
+        "company": "Monique",
+        "amount": 385,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10kg x BORLOTTI BEANS\n15/4/26\nTAKEN ON THE 2/4/26 ON INV-445467"
+      },
+      {
+        "id": "QpIrd2WTseqNzCciTNAP",
+        "name": "Jack Morel",
+        "company": "JACK MOREL",
+        "amount": 6200,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": "PINE POST 2.4MTR 100MM -125MM\nREFER TO QU-0400"
+      },
+      {
+        "id": "UBdxWDnJAmbu5O1jyW5k",
+        "name": "PINE POLES",
+        "company": "V & M Durmanich",
+        "amount": 20262,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "400 X PINE POST 2.4 METER 150-175MM\n12.05.26 - QUOTED CUSTOMER ON QU-04087\n24.06.26 - SOLD ON INV-449030"
+      }
+    ]
+  },
+  {
     "pipelineName": "IRRIGATION",
     "status": "won",
     "opps": [
@@ -1578,122 +1704,6 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED"
-      }
-    ]
-  },
-  {
-    "pipelineName": "GENERAL MERCH",
-    "status": "won",
-    "opps": [
-      {
-        "id": "GWc3EvmijGt94T8FSgNW",
-        "name": "VINE GUARDS",
-        "company": "GLENDALE PLANTATION",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "800 X VINE GUARDS - JFVG2\n04.06.26-INVOICED AND DELIVERED ON INV-448060"
-      },
-      {
-        "id": "9OWHU2K58Z8rzLqzIch9",
-        "name": "6V BATTERY ",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "1 X ABN03 6V BATTERY\n12.05.26 ORDERED ON P70434\n04.06.26- SOLD ON INV-447862"
-      },
-      {
-        "id": "uIYucbkAEdlC2UMcTaU0",
-        "name": "PINE POLES 2.4M X 100-125",
-        "company": "BUMBAK & SONS",
-        "amount": 5878.4,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "200 X 2.4M X 100-125 PINE POLES YPP24100\n12.5.26 - EMAILED QU-04088\n02.06.26- DELIVERD ON INV-447962\n"
-      },
-      {
-        "id": "e5Fsjew6DLR2REeXg2Yr",
-        "name": "METHAM SODIUM (KENSO) x 1000L",
-        "company": "DELTA AGRI (GRAY)",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "P70341 - 20.04.26 - BISHOPS\nMETHAM SODIUM(KENSO) 1000L x 2\n1 x 10,000 - JAVELIN WATERMELON SEEDS (GUL1)"
-      },
-      {
-        "id": "M5wX8zEDpOcBJ0RD2Gf6",
-        "name": "PINE POLES",
-        "company": "TRAN & DINH",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "10 X 4.5M 220-250MM\n\n16/4/26\nQUOTED BY IVE 4.8M 225-250 PINE POST\nCGA BUY: \\$157\nFREIGHT BRIDGETOWN TO BISHOPS: \\$180+\nBISHOPS TO CGA: \\$369.23+\nTOTAL FREIGHT: \\$549.23+/10=\\$55+GST PER POST\n\\$157+10%=\\$172.70+\\$55=\\$227.7+GST\n\n17/4/26\nQUOTED TRAND ON QU-04066\n20.04.26 - ORDERED ON P70339\n11.04.26 - INVOICED ON INV-447058\n"
-      },
-      {
-        "id": "x6TW3ohUs2U1nhBWW0vx",
-        "name": "7000 VITALIS BEAN SEED",
-        "company": "TIPTON",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "7 X 1000 VITALIS BEAN SEEDS\n\n16/4/26 \nARRIVED TO CGA BOOKED OUT TO GROWER AND PICKED UP."
-      },
-      {
-        "id": "OM0jgnpNth6euWMRwnML",
-        "name": "VITALIS",
-        "company": "TIPTON",
-        "amount": 250,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "3 X 1000 VITALIS BEAN SEED.\n\nORDERED ON THE 08/04/26 ON P70285\n1 TAKEN ON THE 14/4/26 INVOICE HAS BEEN FOWARD DATED TO THE 1/5/26\n\n"
-      },
-      {
-        "id": "1cvYX1ilgFUtAYy8NN5l",
-        "name": "PINE POLES 3.6M 100-125MM",
-        "company": "JACK MOREL",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "140 X 3.6M X 100-125MM PINE POST\nDELIVERD TO PROPERTY IN GINGIN BY RL HIABS\n\nPOLES WERE DELIVERED TO PROPERTY IN GINGIN ON THE 2/04/26\nCUSTOMER PAID FREIGHT DIRECT TO RL HIABS"
-      },
-      {
-        "id": "y8pHjtl1pE0ZBzJRM62e",
-        "name": "DIESEL TANKS",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 9500,
-        "status": "won",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X 5000LT DIESEL TANKS + 12V SETUP\nORDERED ON P70121\n\n15/04/26\nCALLED COERCO TO FOLLOW UP ON ABOVE ORDER.\nWAS ADVISED BY TYLORE\nTHAT DIESEL TANK WILL BE ARRIVING ON THE 15/4/26\n\n16.4.26 - ARRIVED AT CGA"
-      },
-      {
-        "id": "xBs0niD3ICiqmWp7h2Fm",
-        "name": "BERLOTTI BEANS",
-        "company": "Monique",
-        "amount": 385,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "10kg x BORLOTTI BEANS\n15/4/26\nTAKEN ON THE 2/4/26 ON INV-445467"
-      },
-      {
-        "id": "QpIrd2WTseqNzCciTNAP",
-        "name": "Jack Morel",
-        "company": "JACK MOREL",
-        "amount": 6200,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": "PINE POST 2.4MTR 100MM -125MM\nREFER TO QU-0400"
       }
     ]
   }

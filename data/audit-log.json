@@ -1,5 +1,88 @@
 [
   {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Desmond Williamson",
+    "company": "CORAL COAST PLUMBING",
+    "amount": 5005,
+    "status": "open",
+    "message": "New opportunity: Desmond Williamson (ROB's CUSTOM) - $5005.00"
+  },
+  {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "value_change",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+    "amount": 8141.85,
+    "prevAmount": 7569.32,
+    "message": "DORMEX GRAPES 26: value changed $7569.32 -> $8141.85 (+572.53)"
+  },
+  {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "status_change",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+    "amount": 8141.85,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "DORMEX GRAPES 26: status changed open -> won"
+  },
+  {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "field_change",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+    "amount": 8141.85,
+    "message": "DORMEX GRAPES 26: \"New Business\" changed Not Set -> No"
+  },
+  {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "status_change",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "GLENDALE PLANTATION",
+    "amount": 4163.13,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "DORMEX GRAPES 26: status changed open -> won"
+  },
+  {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Sean Walker",
+    "company": "Shire of Upper Gascoyne",
+    "amount": 3157.24,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Sean Walker: status changed open -> won"
+  },
+  {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "V & M Durmanich",
+    "amount": 20262,
+    "prevAmount": 16605,
+    "message": "PINE POLES: value changed $16605.00 -> $20262.00 (+3657.00)"
+  },
+  {
+    "date": "2026-06-24T22:16:11.351Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "V & M Durmanich",
+    "amount": 20262,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "PINE POLES: status changed open -> won"
+  },
+  {
     "date": "2026-06-23T22:11:29.489Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
