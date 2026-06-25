@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-06-25T22:20:12.324Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Canh Vo",
+    "company": "488 ROBINSON STREET",
+    "amount": 3302.2,
+    "status": "open",
+    "message": "New opportunity: Canh Vo (ROB's CUSTOM) - $3302.20"
+  },
+  {
+    "date": "2026-06-25T22:20:12.324Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PINE POLES (GENERAL MERCH) - $0.00"
+  },
+  {
     "date": "2026-06-24T22:16:11.351Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

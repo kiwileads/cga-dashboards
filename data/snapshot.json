@@ -206,6 +206,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "LrL4XOw6OOw7IWG3TqZR",
+        "name": "Canh Vo",
+        "company": "488 ROBINSON STREET",
+        "amount": 3302.2,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "1 x ECO GROWTH BIO-CALCIUM 1000L (FEBC1000)"
+      },
+      {
         "id": "S6jInFylitJsqeBUmNn4",
         "name": "Desmond Williamson",
         "company": "CORAL COAST PLUMBING",
@@ -488,6 +498,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "rXQ1YaZoFHIUAkxUlVOj",
+        "name": "PINE POLES",
+        "company": "",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QUOTE ON \n400 X 2.4 METER X 100-125MM PINE POLIS"
+      },
+      {
         "id": "mhHFMjOvW8YNpIMHSfXB",
         "name": "FERRARI TRACTOR PARTS",
         "company": "J PONTE HOLDINGS",
@@ -599,9 +619,9 @@
         "company": "Janna",
         "amount": 6508.45,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "1 X Folpan 5kg \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg\n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n12.06.26 - CALLED AL PRICE ON QUOTE IS GOOD WILL CONFIRM NEXT WEEK \n"
+        "notes": "1 X Folpan 5kg NEED TO ORDER \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg - NEED TO ORDER GENFARM \n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n12.06.26 - CALLED AL PRICE ON QUOTE IS GOOD WILL CONFIRM NEXT WEEK \n25.06.26 - MOST ITEMS FROM STOCK WILL NEED TO ORDER SWITCH AND \n"
       },
       {
         "id": "wkYgrYt1flFlrnN2X6g6",
