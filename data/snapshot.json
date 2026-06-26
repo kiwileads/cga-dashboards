@@ -603,7 +603,7 @@
         "company": "Janna",
         "amount": 24000,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS."
       }
@@ -613,16 +613,6 @@
     "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
-      {
-        "id": "wmCxGIR4XqtvZpbLIukY",
-        "name": "SEASONAL CHEM ORDER",
-        "company": "Janna",
-        "amount": 6508.45,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X Folpan 5kg NEED TO ORDER \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg - NEED TO ORDER GENFARM \n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n12.06.26 - CALLED AL PRICE ON QUOTE IS GOOD WILL CONFIRM NEXT WEEK \n25.06.26 - MOST ITEMS FROM STOCK WILL NEED TO ORDER SWITCH AND \n"
-      },
       {
         "id": "wkYgrYt1flFlrnN2X6g6",
         "name": "CHEMICAL",
@@ -815,6 +805,16 @@
     "pipelineName": "CHEMICALS",
     "status": "won",
     "opps": [
+      {
+        "id": "wmCxGIR4XqtvZpbLIukY",
+        "name": "SEASONAL CHEM ORDER",
+        "company": "Janna",
+        "amount": 6508.45,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X Folpan 5kg NEED TO ORDER \n1 X Belanty 10l \n1 X Cuprofix 20kg \n1 X Vivando 5lt \n1 X Movento 240 SC 3lt\n1 X Miravis Prime 5lt\n1 X Switch/Cyprofludox WG 5kg - NEED TO ORDER GENFARM \n1 X Flute 50EW 5lt\n2 X Verpixo 5lt \n1 X Intervene 2.5kg\n2 X Microthiol Disperss 20kg \n1 X Dithane Rain Sheild 20kg\n05.06.26- EMAILED QU-04107 TO AL.\n12.06.26 - CALLED AL PRICE ON QUOTE IS GOOD WILL CONFIRM NEXT WEEK \n25.06.26 - MOST ITEMS FROM STOCK WILL NEED TO ORDER SWITCH AND \n26.06.26- SOLD ON INV-449072\n"
+      },
       {
         "id": "6pIxZoo5PKZ1CGxsah0A",
         "name": "MICROTHIOL",

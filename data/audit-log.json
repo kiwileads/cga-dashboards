@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-06-26T22:12:13.676Z",
+    "type": "status_change",
+    "pipeline": "CHEMICALS",
+    "name": "SEASONAL CHEM ORDER",
+    "company": "Janna",
+    "amount": 6508.45,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "SEASONAL CHEM ORDER: status changed open -> won"
+  },
+  {
     "date": "2026-06-25T22:20:12.324Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
