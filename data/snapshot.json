@@ -1288,6 +1288,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "q0bH6IYGBgtwTha2Dphh",
+        "name": "LIQUID FERTILIZER",
+        "company": "1040 Northriver road",
+        "amount": 1408.17,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 x 200LT ECO GROWTH BIO CALCIUM\n1 X 200LT MOLLASSES \n26.06.26- FROM STOCK ON INV-449132"
+      },
+      {
         "id": "Yr3pJrUYPa5uP8y97P07",
         "name": "ECO FISH",
         "company": "VG CUU, CV PHAM & TM QUACH",

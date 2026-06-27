@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-06-27T22:01:22.352Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LIQUID FERTILIZER",
+    "company": "1040 Northriver road",
+    "amount": 1408.17,
+    "status": "won",
+    "message": "New opportunity: LIQUID FERTILIZER (FERTILIZER) - $1408.17"
+  },
+  {
     "date": "2026-06-26T22:12:13.676Z",
     "type": "status_change",
     "pipeline": "CHEMICALS",
