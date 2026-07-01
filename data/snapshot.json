@@ -634,16 +634,6 @@
         "notes": "2 X 25KG BORAX DECAHYDRATE"
       },
       {
-        "id": "a3lRk8fgqJAngebUoXIb",
-        "name": "DORMEX GRAPES 26",
-        "company": "V & M Durmanich",
-        "amount": 13246.31,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "70 X 10LT DORMEX -ORD-478470"
-      },
-      {
         "id": "GyOGy8pC72zjv6yNFoL0",
         "name": "DORMEX GRAPES 26",
         "company": "J & M LECA",
@@ -874,6 +864,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "No",
         "notes": "40 X 10LT DORMEX - ORD-478385\n26.06.26 - SOLD ON INV-448525"
+      },
+      {
+        "id": "a3lRk8fgqJAngebUoXIb",
+        "name": "DORMEX GRAPES 26",
+        "company": "V & M Durmanich",
+        "amount": 13246.31,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": "70 X 10LT DORMEX -ORD-478470\n01/07/26 - SOLD ON INV-449262"
       },
       {
         "id": "6ELMI9pgcNPIF0GCVRds",

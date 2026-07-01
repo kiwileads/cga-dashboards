@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-01T22:16:16.398Z",
+    "type": "status_change",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "V & M Durmanich",
+    "amount": 13246.31,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "DORMEX GRAPES 26: status changed open -> won"
+  },
+  {
     "date": "2026-06-27T22:01:22.352Z",
     "type": "added",
     "pipeline": "FERTILIZER",
