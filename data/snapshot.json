@@ -70,14 +70,14 @@
     "status": "open",
     "opps": [
       {
-        "id": "QJuMHvQ1c4I8c2cq1Q5G",
-        "name": "STOLLER CALCIUM CHELATE",
-        "company": "1040 Northriver road",
+        "id": "dlnlziWDH6Hx8w86cfLf",
+        "name": "ECO GROWTH LIQUID FERT",
+        "company": "Hi-Way Plantation",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "1 X 200LT CALCIUM CHELATE"
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 20LT EXPRESS CAL+ B\n1 X 20LT EXPRESS PK\n1 X 20LT EXPRESS NPK\n1 X 20LT EXPRESS TRACE\n1 X 20LT LIQUID KELP\n1 X 20LT ECO VITAL\n2/7/26 EMAILED TO CUSTOMER ON QU-04140"
       },
       {
         "id": "jHMb6IEYlrp7IY6Dv9I7",
@@ -85,9 +85,9 @@
         "company": "FATTY'S FARMS",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "QUOTE\n1 X 1/2 TONE BULK BAG ECO RED\n1 X 1 TONE BULK BAG ECO RED"
+        "notes": "QUOTE\n1 X 1/2 TONE BULK BAG ECO RED\n1 X 1 TONE BULK BAG ECO RED\n1 X 900X1000X30UM BLACK MULCH\n1 X 508-20-500 T-TAPE\n1 X CALCIUM NITRATE\n1 X KRISTALON SPECIAL LK\n1 X POYFEED HIGH K\n\n18/06/26 - EMAILED TO MARCO ON QU-04126"
       },
       {
         "id": "Orq9bBONosjGppIw97bt",
@@ -402,12 +402,22 @@
     "status": "open",
     "opps": [
       {
+        "id": "2zXDxqkmApCqPdvhXJeA",
+        "name": "NETAFIM DOSING SOLINOID",
+        "company": "BUMBAK & SONS",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "NETAFIM\n5 X FIP S12 Dosing Valve 24VAC  50Hz Viton Solenoid [Burkert Replacement]\nP/N: 77540-008480\nCGA COST: 348.50+GST \nCUSTOMERCOST \\$418.20+GST 2 AVAILBE EX MELBOURNE AS OF 2/7/26 \n5 MORE ARRIVING IN TO MELBOURN ON THE 7/7/26\nSPOKE TO DAVID BUMBAK VERBALLY QUOTED AND ADVISED OF AVAILABILITIES AND ETA.\n\n\n "
+      },
+      {
         "id": "bakDOJ2qbvydsrYXS8MF",
         "name": "BLUELINE POLY - DEAN WHITE",
         "company": "CARNARVON PLUMBING SERVICES",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": null,
         "notes": "1 X 63MM X 100M COIL BLUELINE POLY PN16"
       },
@@ -420,16 +430,6 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "4 INCH TABLE E POLY BLANKING FLANGE."
-      },
-      {
-        "id": "FhvDeMrXcRkpIuZ2L2Lo",
-        "name": "NETAFIM DISK FILTERS",
-        "company": "AD BUZZARD",
-        "amount": 637.56,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "2 X 80MM DISK FILTER RED 120 MESH\n13.05.26- QUOTE EMAILED TO CLIENT ON QU-04090\n\n"
       },
       {
         "id": "451qI5RMe9ti13As5naN",
@@ -450,16 +450,6 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "1 X DDS5000- DIESEL TANK NO PUMP WITH 1.1/4 FLANGE ON THE BOTTOM\n1 X LF10500- LIQUID FERT TANK\n12.05.26- SENT QUOTE TO MIKE QU-04089\n"
-      },
-      {
-        "id": "mBSLv4s3vVhkPahZeV0e",
-        "name": "SPRINKLERS/LOW DENSITY POLY",
-        "company": "SHIRE OF CARNARVON",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
       },
       {
         "id": "c4ffzKHi85LhP66vRQpn",
@@ -498,14 +488,34 @@
     "status": "open",
     "opps": [
       {
-        "id": "rXQ1YaZoFHIUAkxUlVOj",
-        "name": "PINE POLES",
-        "company": "",
+        "id": "qmu1jCACDFUNCZElAtjd",
+        "name": "LOWE PRUNERS",
+        "company": "J & M LECA",
         "amount": 0,
         "status": "open",
         "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "10 X ANVIL PRUNER #5\n10 PRO ANVIL PRUNER"
+      },
+      {
+        "id": "N2NygvcIiIk7Sphix2E1",
+        "name": "SEA CONTAINER + FOOTING",
+        "company": "GOLF",
+        "amount": 7089.5,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
-        "notes": "QUOTE ON \n400 X 2.4 METER X 100-125MM PINE POLIS"
+        "notes": "QUOTE FOR \n1 X 20FT SEA CONTAINER\nCYCLONE RATED FOOTING"
+      },
+      {
+        "id": "rXQ1YaZoFHIUAkxUlVOj",
+        "name": "PINE POLES",
+        "company": "",
+        "amount": 13427,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "QUOTE ON \n400 X 2.4 METER X 100-125MM PINE POLIS\n02/07/26 - EMAILED QU-04142 TO JAMIE @ SHIRE AND MARK BUMBACK"
       },
       {
         "id": "mhHFMjOvW8YNpIMHSfXB",
@@ -516,16 +526,6 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000\n\n10.06.26- 1 TANK AND 1 LID ARRIVED AND SOLD ON INV-448365\n1 x TANK AND 1 LID ON BACKORDER ETA TBA"
-      },
-      {
-        "id": "tMbrf9Fdgr5d0oyD6dvi",
-        "name": "SILVAN PRODUCTS",
-        "company": "REAL FUTURES PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2) INV-448136\n2 X DIESEL TANK 200LT (SQDN200-7-INV-448136\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) \n\n21.05.26 SILVAN PRODUCTS ORDERED ON P70467"
       },
       {
         "id": "T6uQ2EwZKomDzUqSFLM2",
@@ -568,26 +568,6 @@
         "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
       },
       {
-        "id": "vr2YQ99s0z0nldSKAegF",
-        "name": "SORGHUM SEED",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "20 x bags of jumbo soeghum\nfor May/June\n\nQUOTED ON THE 7/4/26 ON QU-04046"
-      },
-      {
-        "id": "0BzT8TheI4agQ4TD3csN",
-        "name": "SANDOR SEEDS",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 8500,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "10 X 5000 SANDOR\n16/3/26 \n3 X SANDOR TAKEN ON INV-444808 AND INV-444869\n01/04/26 \n5 X SANDOR TAKEN ON INV-445389"
-      },
-      {
         "id": "dCjsEaMsMHEYcjhFLA3Z",
         "name": "Richard B Arends - RACHEAL",
         "company": "",
@@ -601,11 +581,11 @@
         "id": "wDf7YAn50jpybsFaW0ga",
         "name": "Al Holtham",
         "company": "Janna",
-        "amount": 24000,
+        "amount": 2575.25,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS."
+        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS.\n02/07/26- NEW QU-04141 EMAILED TO JAMIE @ SHIRE AND TO AL"
       }
     ]
   },
@@ -1460,6 +1440,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "tMbrf9Fdgr5d0oyD6dvi",
+        "name": "SILVAN PRODUCTS",
+        "company": "REAL FUTURES PTY LTD",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10 X 15LT SILVAN BACKPACK SPRAYER (KN15D-2) INV-448136\n2 X DIESEL TANK 200LT (SQDN200-7-INV-448136\n1 X 300LT SPRAY TANK SMOOTHFLO PUMP 30MTER HOSE REEL (SQ300-S8-1 -INV-449207\n10 X 20LT DRUM PUMPEZI ACTION (ADP20EZ) \n\n21.05.26 SILVAN PRODUCTS ORDERED ON P70467"
+      },
+      {
         "id": "GWc3EvmijGt94T8FSgNW",
         "name": "VINE GUARDS",
         "company": "GLENDALE PLANTATION",
@@ -1624,6 +1614,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "20.04.26 - PLEASE QUOTE ON \nGRUNDFOS CH4-40 A-W-AEVBE - 3 PHASE - MODEL#44501104 (DISCONTINUED)\nUSE CM5-4\nQU-04074 dated 22/04/26\n12.05.26 - COLLECTED AND INVOICED ON INV-447067"
+      },
+      {
+        "id": "mBSLv4s3vVhkPahZeV0e",
+        "name": "SPRINKLERS/LOW DENSITY POLY",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 646.14,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
       },
       {
         "id": "epFTfvBbzppAI5DLqavw",

@@ -1,5 +1,137 @@
 [
   {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECO GROWTH LIQUID FERT",
+    "company": "Hi-Way Plantation",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: ECO GROWTH LIQUID FERT (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "NETAFIM DOSING SOLINOID",
+    "company": "BUMBAK & SONS",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: NETAFIM DOSING SOLINOID (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "LOWE PRUNERS",
+    "company": "J & M LECA",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: LOWE PRUNERS (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "SEA CONTAINER + FOOTING",
+    "company": "GOLF",
+    "amount": 7089.5,
+    "status": "open",
+    "message": "New opportunity: SEA CONTAINER + FOOTING (GENERAL MERCH) - $7089.50"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "removed",
+    "pipeline": "FERTILIZER",
+    "name": "STOLLER CALCIUM CHELATE",
+    "company": "1040 Northriver road",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: STOLLER CALCIUM CHELATE (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "removed",
+    "pipeline": "IRRIGATION",
+    "name": "NETAFIM DISK FILTERS",
+    "company": "AD BUZZARD",
+    "amount": 637.56,
+    "status": "open",
+    "message": "Removed: NETAFIM DISK FILTERS (IRRIGATION) - $637.56"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "removed",
+    "pipeline": "GENERAL MERCH",
+    "name": "SORGHUM SEED",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: SORGHUM SEED (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "removed",
+    "pipeline": "GENERAL MERCH",
+    "name": "SANDOR SEEDS",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 8500,
+    "status": "open",
+    "message": "Removed: SANDOR SEEDS (GENERAL MERCH) - $8500.00"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "",
+    "amount": 13427,
+    "prevAmount": 0,
+    "message": "PINE POLES: value changed $0.00 -> $13427.00 (+13427.00)"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "Al Holtham",
+    "company": "Janna",
+    "amount": 2575.25,
+    "prevAmount": 24000,
+    "message": "Al Holtham: value changed $24000.00 -> $2575.25 (-21424.75)"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "SILVAN PRODUCTS",
+    "company": "REAL FUTURES PTY LTD",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "SILVAN PRODUCTS: status changed open -> won"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "SPRINKLERS/LOW DENSITY POLY",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 646.14,
+    "prevAmount": 0,
+    "message": "SPRINKLERS/LOW DENSITY POLY: value changed $0.00 -> $646.14 (+646.14)"
+  },
+  {
+    "date": "2026-07-02T22:04:54.210Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "SPRINKLERS/LOW DENSITY POLY",
+    "company": "SHIRE OF CARNARVON",
+    "amount": 646.14,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "SPRINKLERS/LOW DENSITY POLY: status changed open -> won"
+  },
+  {
     "date": "2026-07-01T22:16:16.398Z",
     "type": "status_change",
     "pipeline": "CHEMICALS",
