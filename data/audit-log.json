@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-07-03T22:03:18.033Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "DYNAFLO 3PH PUMP PARTS",
+    "company": "MIZU",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: DYNAFLO 3PH PUMP PARTS (IRRIGATION) - $0.00"
+  },
+  {
     "date": "2026-07-02T22:04:54.210Z",
     "type": "added",
     "pipeline": "FERTILIZER",
