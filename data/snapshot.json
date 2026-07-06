@@ -73,11 +73,11 @@
         "id": "dlnlziWDH6Hx8w86cfLf",
         "name": "ECO GROWTH LIQUID FERT",
         "company": "Hi-Way Plantation",
-        "amount": 0,
+        "amount": 1100,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "1 X 20LT EXPRESS CAL+ B\n1 X 20LT EXPRESS PK\n1 X 20LT EXPRESS NPK\n1 X 20LT EXPRESS TRACE\n1 X 20LT LIQUID KELP\n1 X 20LT ECO VITAL\n2/7/26 EMAILED TO CUSTOMER ON QU-04140"
+        "notes": "1 X 20LT EXPRESS CAL+ B -P70674\n1 X 20LT EXPRESS PK-P70674\n1 X 20LT EXPRESS NPK -SOLD ON INV-449276\n1 X 20LT EXPRESS TRACE-P70674\n1 X 20LT LIQUID KELP - SOLD ON INV-449276\n1 X 20LT ECO VITAL-SOLD ON INV-449276\n2/7/26 EMAILED TO CUSTOMER ON QU-04140"
       },
       {
         "id": "jHMb6IEYlrp7IY6Dv9I7",
@@ -261,7 +261,7 @@
         "company": "",
         "amount": 158.12,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "STORED/SHELVED",
         "isNew": null,
         "notes": "P70540 - 06/06/26\n5 x AIR RELEASE VALVE 3/4\" (INEF70540-001300)\nHASLEY AG (HAS) - ROLLEY"
       },

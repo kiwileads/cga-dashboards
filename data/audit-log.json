@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-07-06T22:12:40.893Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO GROWTH LIQUID FERT",
+    "company": "Hi-Way Plantation",
+    "amount": 1100,
+    "prevAmount": 0,
+    "message": "ECO GROWTH LIQUID FERT: value changed $0.00 -> $1100.00 (+1100.00)"
+  },
+  {
     "date": "2026-07-03T22:03:18.033Z",
     "type": "added",
     "pipeline": "IRRIGATION",
