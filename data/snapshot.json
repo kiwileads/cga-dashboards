@@ -336,16 +336,6 @@
         "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
       },
       {
-        "id": "wPoIlisrRgbjJSmbRxEW",
-        "name": "GREEN SHADECLOTH",
-        "company": "JACK MOREL",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": "Yes",
-        "notes": "4 X 50 METER ROLLS OF SHADECLOTH\n2.4 METER 70% GREEN WITH EYELETS TO FEED WIRE THROUGH"
-      },
-      {
         "id": "F7hQ8YLS5Ub4vIuqjEHz",
         "name": "Leichardt Scott Medhurst",
         "company": "LEICHARDT",
@@ -498,14 +488,24 @@
     "status": "open",
     "opps": [
       {
+        "id": "1MfyR82OihM857XqrDUi",
+        "name": "Karyn Moore",
+        "company": "Hi-Way Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "200 X ROLLS OF MAX BIO TAPE - RYSET THROUGH NUTRIEN\n07/07/26- ORDERED THROUGH NUTRIEN ON P70675/XDM0003696"
+      },
+      {
         "id": "qmu1jCACDFUNCZElAtjd",
         "name": "LOWE PRUNERS",
         "company": "J & M LECA",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "10 X ANVIL PRUNER #5\n10 PRO ANVIL PRUNER"
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "10 X ANVIL PRUNER #5\n10 PRO ANVIL PRUNER\n07/07/26- ORDERED THROUGH NUTRIEN ON P70675/XDM0003696"
       },
       {
         "id": "N2NygvcIiIk7Sphix2E1",
