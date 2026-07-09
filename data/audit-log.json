@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-07-09T22:25:58.872Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Severin Gugich",
+    "company": "A & N Gugich Plantation",
+    "amount": 1485,
+    "status": "open",
+    "message": "New opportunity: Severin Gugich (ROB's CUSTOM) - $1485.00"
+  },
+  {
+    "date": "2026-07-09T22:25:58.872Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Kevin David Sullivan",
+    "company": "Sulli Bros Plantation",
+    "amount": 337.55,
+    "status": "open",
+    "message": "New opportunity: Kevin David Sullivan (ROB's CUSTOM) - $337.55"
+  },
+  {
+    "date": "2026-07-09T22:25:58.872Z",
+    "type": "field_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 21858.32,
+    "message": "Robert Ashley Scott: \"New Business\" changed Not Set -> Yes"
+  },
+  {
     "date": "2026-07-07T22:10:08.982Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",
