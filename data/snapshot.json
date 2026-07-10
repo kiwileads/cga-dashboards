@@ -70,6 +70,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "lYuZYWQcKfqcRBhIZYBN",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 4986.96,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "No",
+        "notes": ""
+      },
+      {
+        "id": "wYFe6H824qLY29G0FqK2",
+        "name": "Dean Andreoli",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 5940,
+        "status": "open",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X WPSX-MUGB12J-246 Starline Pump 15kw\nQU-04133 dated 22/06/26\n"
+      },
+      {
         "id": "4dlpiZTDueW0oiJ1zewH",
         "name": "Severin Gugich",
         "company": "A & N Gugich Plantation",
@@ -88,16 +108,6 @@
         "stage": "P/O GENERATED",
         "isNew": "No",
         "notes": "1 x WPG-98434904  Mech Seal 28mm"
-      },
-      {
-        "id": "LrL4XOw6OOw7IWG3TqZR",
-        "name": "Canh Vo",
-        "company": "488 ROBINSON STREET",
-        "amount": 3302.2,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "1 x ECO GROWTH BIO-CALCIUM 1000L (FEBC1000)"
       },
       {
         "id": "S6jInFylitJsqeBUmNn4",
@@ -140,16 +150,6 @@
         "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
       },
       {
-        "id": "hORm1hODIKMawagG5SxM",
-        "name": "AIR RELEASE VALVE 3/4\"",
-        "company": "",
-        "amount": 158.12,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": null,
-        "notes": "P70540 - 06/06/26\n5 x AIR RELEASE VALVE 3/4\" (INEF70540-001300)\nHASLEY AG (HAS) - ROLLEY"
-      },
-      {
         "id": "4ZJbHtmHzN2eYefwmh4Y",
         "name": "PARTS",
         "company": "SEAN GAYLARD",
@@ -158,16 +158,6 @@
         "stage": "STORED/SHELVED",
         "isNew": null,
         "notes": "QU-04129  P70543 - 07/06/26\n17 x BERMAD 100 SERIES 80mm HYD ANGLE VALVE\n17 x 100 SERIES 3\" PLASTIC FLANGE\n\n"
-      },
-      {
-        "id": "M8AW3u6dOjMjMZbQyejO",
-        "name": "BARE-CO PARTS",
-        "company": "",
-        "amount": 203.71,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": null,
-        "notes": "P70525 - 01/06/26\nLUL1\n2 x B7352 - BRAKE COVER SEAL\n4 x B1872 - BANJO PUSH ON\n2 x B1874 - BANJO BOLT STD\n6 x B7296 - FILTER ELEMENT\n1 x B3412 - M/F 90 ELBOW\n1 x B7349OUT AIRFILT"
       },
       {
         "id": "tvUW3PcysPxbPij03yBA",
@@ -952,6 +942,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "LrL4XOw6OOw7IWG3TqZR",
+        "name": "Canh Vo",
+        "company": "488 ROBINSON STREET",
+        "amount": 3302.2,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x ECO GROWTH BIO-CALCIUM 1000L (FEBC1000)"
+      },
+      {
         "id": "n8CF5A4CX0skNK2TOKAh",
         "name": "Ray Elaine Skender",
         "company": "SKENDER PTY LTD",
@@ -982,6 +982,16 @@
         "notes": "Quote #QU-04115\n4 x ITI7\n8 x ITISD-DC-3B\nARRIVED - 16/06 - I HAVE NOTIFIED DAVE - STOCK ON THE PICK-UP SHELF - NOT YET BOOKED OUT"
       },
       {
+        "id": "hORm1hODIKMawagG5SxM",
+        "name": "AIR RELEASE VALVE 3/4\"",
+        "company": "",
+        "amount": 158.12,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "P70540 - 06/06/26\n5 x AIR RELEASE VALVE 3/4\" (INEF70540-001300)\nHASLEY AG (HAS) - ROLLEY"
+      },
+      {
         "id": "kdktgm6Tm3Lu20HKc7At",
         "name": "PARTS - VDNT",
         "company": "",
@@ -1010,6 +1020,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
+      },
+      {
+        "id": "M8AW3u6dOjMjMZbQyejO",
+        "name": "BARE-CO PARTS",
+        "company": "",
+        "amount": 203.71,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "P70525 - 01/06/26\nLUL1\n2 x B7352 - BRAKE COVER SEAL\n4 x B1872 - BANJO PUSH ON\n2 x B1874 - BANJO BOLT STD\n6 x B7296 - FILTER ELEMENT\n1 x B3412 - M/F 90 ELBOW\n1 x B7349OUT AIRFILT"
       },
       {
         "id": "10FqnPzzNda6Kx4bsY7Q",
