@@ -70,6 +70,36 @@
     "status": "open",
     "opps": [
       {
+        "id": "VZefij3uMRUNj3yGST7Q",
+        "name": "MONARCH MOTOR & SPARES",
+        "company": "J & P CONSTANTINE",
+        "amount": 1000.12,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "QU-04158 dated 16/07/26\n"
+      },
+      {
+        "id": "XrIuVCDRryvqhOmneCcL",
+        "name": "Sean Gaylard - A/C GDO",
+        "company": "SEAN GAYLARD",
+        "amount": 2014.32,
+        "status": "open",
+        "stage": "DELIVERY ON SCHEDULE",
+        "isNew": "Yes",
+        "notes": "7 x INEF40000-012700   Command Tube 8mm\nQU-04156"
+      },
+      {
+        "id": "EqUAxQyxVePouhOPjN8B",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
+      },
+      {
         "id": "lYuZYWQcKfqcRBhIZYBN",
         "name": "Duc Nguyen",
         "company": "NGUYEN & HUYNH & CHIN",
@@ -231,9 +261,9 @@
       },
       {
         "id": "LfFkMX1JFz9bFCoJ0NRk",
-        "name": "STARLINE PUMP x 3",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
         "company": "M RASO'S CONTRACTING",
-        "amount": 11880,
+        "amount": 3960,
         "status": "open",
         "stage": "STORED/SHELVED",
         "isNew": "Yes",
@@ -941,6 +971,16 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "gn8rLp5l7OoWzcpCyA1Y",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
+      },
       {
         "id": "LrL4XOw6OOw7IWG3TqZR",
         "name": "Canh Vo",

@@ -1,5 +1,64 @@
 [
   {
+    "date": "2026-07-16T22:02:26.968Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "MONARCH MOTOR & SPARES",
+    "company": "J & P CONSTANTINE",
+    "amount": 1000.12,
+    "status": "open",
+    "message": "New opportunity: MONARCH MOTOR & SPARES (ROB's CUSTOM) - $1000.12"
+  },
+  {
+    "date": "2026-07-16T22:02:26.968Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Sean Gaylard - A/C GDO",
+    "company": "SEAN GAYLARD",
+    "amount": 2014.32,
+    "status": "open",
+    "message": "New opportunity: Sean Gaylard - A/C GDO (ROB's CUSTOM) - $2014.32"
+  },
+  {
+    "date": "2026-07-16T22:02:26.968Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "STARLINE PUMP x 1  (Total = 3)",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 3960,
+    "status": "open",
+    "message": "New opportunity: STARLINE PUMP x 1  (Total = 3) (ROB's CUSTOM) - $3960.00"
+  },
+  {
+    "date": "2026-07-16T22:02:26.968Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "STARLINE PUMP x 1  (Total = 3)",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 3960,
+    "status": "won",
+    "message": "New opportunity: STARLINE PUMP x 1  (Total = 3) (ROB's CUSTOM) - $3960.00"
+  },
+  {
+    "date": "2026-07-16T22:02:26.968Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "STARLINE PUMP x 1  (Total = 3)",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 3960,
+    "prevAmount": 11880,
+    "message": "STARLINE PUMP x 1  (Total = 3): value changed $11880.00 -> $3960.00 (-7920.00)"
+  },
+  {
+    "date": "2026-07-16T22:02:26.968Z",
+    "type": "renamed",
+    "pipeline": "ROB's CUSTOM",
+    "name": "STARLINE PUMP x 1  (Total = 3)",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 3960,
+    "message": "Renamed: \"STARLINE PUMP x 3\" -> \"STARLINE PUMP x 1  (Total = 3)\""
+  },
+  {
     "date": "2026-07-10T22:00:44.121Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
