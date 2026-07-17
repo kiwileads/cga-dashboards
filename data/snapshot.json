@@ -70,12 +70,42 @@
     "status": "open",
     "opps": [
       {
+        "id": "TRNSvU2YlGyLip8BheQF",
+        "name": "Dennis Durmanich",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 3652,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "5 x LASP-031  Ripper Leg 30\""
+      },
+      {
+        "id": "k9dlP69p9WsScOM24bYB",
+        "name": "Warren Schmidt",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 310.53,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "WSpqKlyK8c1xIqHpJ1Kn",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 3261.5,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core"
+      },
+      {
         "id": "VZefij3uMRUNj3yGST7Q",
         "name": "MONARCH MOTOR & SPARES",
         "company": "J & P CONSTANTINE",
         "amount": 1000.12,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "DELIVERY ON SCHEDULE",
         "isNew": "Yes",
         "notes": "QU-04158 dated 16/07/26\n"
       },
@@ -85,7 +115,7 @@
         "company": "SEAN GAYLARD",
         "amount": 2014.32,
         "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
+        "stage": "DELIVERY DELAYED",
         "isNew": "Yes",
         "notes": "7 x INEF40000-012700   Command Tube 8mm\nQU-04156"
       },
@@ -100,22 +130,12 @@
         "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
       },
       {
-        "id": "lYuZYWQcKfqcRBhIZYBN",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 4986.96,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "No",
-        "notes": ""
-      },
-      {
         "id": "wYFe6H824qLY29G0FqK2",
         "name": "Dean Andreoli",
         "company": "SHIRE OF CARNARVON",
         "amount": 5940,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "DELIVERY DELAYED",
         "isNew": "Yes",
         "notes": "1 X WPSX-MUGB12J-246 Starline Pump 15kw\nQU-04133 dated 22/06/26\nP/O 53838  14/07/26\n"
       },
@@ -128,16 +148,6 @@
         "stage": "P/O GENERATED",
         "isNew": "Yes",
         "notes": ""
-      },
-      {
-        "id": "Kjn3SQxsabb73Ti1emOs",
-        "name": "Kevin David Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 337.55,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "No",
-        "notes": "1 x WPG-98434904  Mech Seal 28mm"
       },
       {
         "id": "S6jInFylitJsqeBUmNn4",
@@ -175,7 +185,7 @@
         "company": "CAIDAN PRODUCE PTY LTD",
         "amount": 39243.8,
         "status": "open",
-        "stage": "ARRIVED AT CGA",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
       },
@@ -235,19 +245,9 @@
         "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
         "amount": 2606.92,
         "status": "open",
-        "stage": "DELIVERY DELAYED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
-      },
-      {
-        "id": "F7hQ8YLS5Ub4vIuqjEHz",
-        "name": "Leichardt Scott Medhurst",
-        "company": "LEICHARDT",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": "No",
-        "notes": "QUOTE ON \n1 X KEYSTONE SWING TYPE WAFER CHECK VALVE \n100MM \nREFER TO EMAIL FROM WARREN HATT  ON TUESDAY 7/4/26 @7:31AM\n\n"
       },
       {
         "id": "07d7BFN2g8Ld8YUwcBuv",
@@ -972,6 +972,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "DP74nBqGJM0nPRinu1n9",
+        "name": "Kevin David Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 5000.14,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
         "id": "gn8rLp5l7OoWzcpCyA1Y",
         "name": "STARLINE PUMP x 1  (Total = 3)",
         "company": "M RASO'S CONTRACTING",
@@ -980,6 +990,26 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
+      },
+      {
+        "id": "lYuZYWQcKfqcRBhIZYBN",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 4986.96,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": ""
+      },
+      {
+        "id": "Kjn3SQxsabb73Ti1emOs",
+        "name": "Kevin David Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 337.55,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "1 x WPG-98434904  Mech Seal 28mm"
       },
       {
         "id": "LrL4XOw6OOw7IWG3TqZR",
