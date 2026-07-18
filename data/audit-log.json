@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-07-18T21:49:41.607Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 1354.1,
+    "status": "open",
+    "message": "New opportunity: Ray Elaine Skender (ROB's CUSTOM) - $1354.10"
+  },
+  {
+    "date": "2026-07-18T21:49:41.607Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Oscar Leca",
+    "company": "J & M LECA",
+    "amount": 5260.2,
+    "status": "open",
+    "message": "New opportunity: Oscar Leca (ROB's CUSTOM) - $5260.20"
+  },
+  {
+    "date": "2026-07-18T21:49:41.607Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "VALVE BOX",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 58.08,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "VALVE BOX: status changed open -> won"
+  },
+  {
     "date": "2026-07-17T21:52:14.656Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

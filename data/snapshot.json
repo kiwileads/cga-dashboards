@@ -70,6 +70,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "b5Y7uT4llNUGEPXCKnnc",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 1354.1,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "QU-04163"
+      },
+      {
+        "id": "WaxljTLcN77jETtg4ds7",
+        "name": "Oscar Leca",
+        "company": "J & M LECA",
+        "amount": 5260.2,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "100 x YPP24150 (2 prices due to current stock of 50)"
+      },
+      {
         "id": "TRNSvU2YlGyLip8BheQF",
         "name": "Dennis Durmanich",
         "company": "DOUBLE UP FARMS PTY LTD",
@@ -165,7 +185,7 @@
         "company": "",
         "amount": 484,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "DELIVERY DELAYED",
         "isNew": "Yes",
         "notes": "P/O 70618\nQU-04136\n2 x MISCMOTREAL1"
       },
@@ -208,16 +228,6 @@
         "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "1 x WPSX-MUEC09J-160  7.5KW Pump - ARRIVED - 12/06/26 - sold\n100 x YP09100HW   PVC Tube\n3 x YBPM90100PN12.5  Poly Pipe\n2 x INEF70640-011020  Filter Assy - sold"
-      },
-      {
-        "id": "7MOQVKLmAXy7X9aapr58",
-        "name": "VALVE BOX",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 58.08,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "4 X HR906VB 150MM WIDE X 225MM LONG X 215MM DEEP VALVE BOX"
       },
       {
         "id": "VLnq6o0sIl99WPSD302u",
@@ -1110,6 +1120,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70519\n1 x DAVEY FIREFIGHTER 5.5HP PUMP\nBRUCE - WINNING STATION"
+      },
+      {
+        "id": "7MOQVKLmAXy7X9aapr58",
+        "name": "VALVE BOX",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 58.08,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "4 X HR906VB 150MM WIDE X 225MM LONG X 215MM DEEP VALVE BOX"
       },
       {
         "id": "ma4YMBEa0qjmOaO7XpvF",
