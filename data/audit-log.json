@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-20T21:58:12.927Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Sean Gaylard",
+    "company": "MIZU",
+    "amount": 1595,
+    "status": "won",
+    "message": "New opportunity: Sean Gaylard (ROB's CUSTOM) - $1595.00"
+  },
+  {
+    "date": "2026-07-20T21:58:12.927Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 1354.1,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Ray Elaine Skender: status changed open -> won"
+  },
+  {
     "date": "2026-07-18T21:49:41.607Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

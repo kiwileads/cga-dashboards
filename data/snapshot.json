@@ -70,16 +70,6 @@
     "status": "open",
     "opps": [
       {
-        "id": "b5Y7uT4llNUGEPXCKnnc",
-        "name": "Ray Elaine Skender",
-        "company": "SKENDER PTY LTD",
-        "amount": 1354.1,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "QU-04163"
-      },
-      {
         "id": "WaxljTLcN77jETtg4ds7",
         "name": "Oscar Leca",
         "company": "J & M LECA",
@@ -981,6 +971,26 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "3UzzGgjci2yNKHS7X83X",
+        "name": "Sean Gaylard",
+        "company": "MIZU",
+        "amount": 1595,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "b5Y7uT4llNUGEPXCKnnc",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 1354.1,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04163"
+      },
       {
         "id": "DP74nBqGJM0nPRinu1n9",
         "name": "Kevin David Sullivan",
