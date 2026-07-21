@@ -169,7 +169,7 @@
           { name: "Irrigation Spares", company: "RIVERSIDE FAMILY ORGANICS PTY LTD", amount: 2606.92, stage: "ARRIVED AT CGA", isNew: "Yes", notes: "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June" },
           { name: "Duc Nguyen", company: "NGUYEN & HUYNH & CHIN", amount: 2369.4, stage: "PROCUREMENT UNDERWAY", isNew: "Yes", notes: "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n" },
           { name: "STARLINE PUMP x 1  (Total = 3)", company: "M RASO'S CONTRACTING", amount: 3960, stage: "STORED/SHELVED", isNew: "Yes", notes: "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit." },
-          { name: "HONDA PUMP - GX160", company: "KINSANG FRESH PTY LTD", amount: 1876.6, stage: "DELIVERY DELAYED", isNew: "No", notes: "Honda Pump GX160 with reduction box 6:1 for Crawler." },
+          { name: "HONDA PUMP - GX160", company: "KINSANG FRESH PTY LTD", amount: 1876.6, stage: "STORED/SHELVED", isNew: "No", notes: "Honda Pump GX160 with reduction box 6:1 for Crawler." },
           { name: "Dennis Durmanich - Irrigation setup", company: "DOUBLE UP FARMS PTY LTD", amount: 7112, stage: "STORED/SHELVED", isNew: "Yes", notes: "This is a trial. If it works prospect of another 4 units in addition." }
       ]},
       { name: "FERTILIZER", fullName: "SALES - FERTILIZER", value: 108572.43, color: "#f472b6", opportunities: [
@@ -616,7 +616,7 @@
       return (
         <div>
           <h1 style={{textAlign:"center",fontSize:28,fontWeight:800,color:"#fff",marginBottom:4}}>Sales Pipeline Dashboard</h1>
-          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 20 July 2026</p>
+          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 21 July 2026</p>
           <SearchBar allData={OPEN_DATA} onSelect={handleSearchSelect} stageRef={stageRef}/>
           <div style={{display:"flex",gap:50,flexWrap:"wrap",justifyContent:"center"}}>
             <DonutChart data={WON_DATA} title="Won Opportunities" subtitle="deals closed" centerLabel="Total Won"/>
