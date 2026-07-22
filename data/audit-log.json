@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: Ray Elaine Skender (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "INSURRANCE GRANT QUOTE",
+    "company": "OWEN and Romeo De Boni",
+    "amount": 9487.38,
+    "status": "open",
+    "message": "New opportunity: INSURRANCE GRANT QUOTE (GENERAL MERCH) - $9487.38"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "removed",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILISER",
+    "company": "P SHAIN",
+    "amount": 7549.8,
+    "status": "open",
+    "message": "Removed: FERTILISER (FERTILIZER) - $7549.80"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO GROWTH LIQUID FERT",
+    "company": "Hi-Way Plantation",
+    "amount": 1100,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ECO GROWTH LIQUID FERT: status changed open -> won"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "TROFORTE",
+    "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
+    "amount": 9973.92,
+    "prevAmount": 11844.03,
+    "message": "TROFORTE: value changed $11844.03 -> $9973.92 (-1870.11)"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "TROFORTE",
+    "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
+    "amount": 9973.92,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "TROFORTE: status changed open -> won"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "STOCK TOP UP",
+    "company": "CGA",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "STOCK TOP UP: status changed open -> won"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
+    "company": "BORICH & SONS",
+    "amount": 5575,
+    "prevAmount": 0,
+    "message": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION: value changed $0.00 -> $5575.00 (+5575.00)"
+  },
+  {
+    "date": "2026-07-22T22:02:11.839Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
+    "company": "BORICH & SONS",
+    "amount": 5575,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION: status changed open -> won"
+  },
+  {
     "date": "2026-07-20T21:58:12.927Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

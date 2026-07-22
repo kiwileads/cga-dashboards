@@ -296,14 +296,14 @@
     "status": "open",
     "opps": [
       {
-        "id": "dlnlziWDH6Hx8w86cfLf",
-        "name": "ECO GROWTH LIQUID FERT",
-        "company": "Hi-Way Plantation",
-        "amount": 1100,
+        "id": "CKhWWYHvLbfW3qzbduZt",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 0,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "1 X 20LT EXPRESS CAL+ B -P70674\n1 X 20LT EXPRESS PK-P70674\n1 X 20LT EXPRESS NPK -SOLD ON INV-449276\n1 X 20LT EXPRESS TRACE-P70674\n1 X 20LT LIQUID KELP - SOLD ON INV-449276\n1 X 20LT ECO VITAL-SOLD ON INV-449276\n2/7/26 EMAILED TO CUSTOMER ON QU-04140"
+        "notes": "22.07/2026 - QUOTE\n24 X 1050-1250-25UM BLACK MULCH\n24 X 1050-1000-30UM B/W MULCH\n24 X 1050-1000-30UM BLACK MULCH\n24 X 508-20-380 MED FLOW T-TAPE\n1 X PLT 25 KG TROFORTE WITH MICROBES\n1 X 1TONE BULKA TROFORT WITH MICROBES\n1 X PLTS YARAMILA COMPLEX\n1 X PLT ECO RED 20KG\n1 X 1/2 TONE BULKA ECO RED\n1 X 1TONE BULKA ECO RED \n\n"
       },
       {
         "id": "jHMb6IEYlrp7IY6Dv9I7",
@@ -314,36 +314,6 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "QUOTE\n1 X 1/2 TONE BULK BAG ECO RED\n1 X 1 TONE BULK BAG ECO RED\n1 X 900X1000X30UM BLACK MULCH\n1 X 508-20-500 T-TAPE\n1 X CALCIUM NITRATE\n1 X KRISTALON SPECIAL LK\n1 X POYFEED HIGH K\n\n18/06/26 - EMAILED TO MARCO ON QU-04126"
-      },
-      {
-        "id": "Orq9bBONosjGppIw97bt",
-        "name": "TROFORTE",
-        "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
-        "amount": 11844.03,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "5 X 1000KG BULK BAG TROFORTE\n19.05.26-QUOTED ON QU-04096"
-      },
-      {
-        "id": "1NHopTrWYvAWplLBDHr7",
-        "name": "STOCK TOP UP",
-        "company": "CGA",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "10  PALLETS OF ECO RED.\n22.04.26 ORDERED ON P70355\n\n29.04.26 - SPOKE TO DAN TODAY AND WAS TOLD THAT PRICING WILL REMAIN THE SAME ETA OF 6WEEKS.\n"
-      },
-      {
-        "id": "F6wV7sZb8EZP4HMNLuQh",
-        "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
-        "company": "BORICH & SONS",
-        "amount": 0,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "P70344 - 21.04.26 - BISHOPS\n54 x 20KG EMERALD LAWN \n8 x BULKA BAGS ECO PRIME (4 x BOR)\n19.05.26-ARRIVED AT CGA CONTACTED CLIENT\n\n29.04.26 - SPOKE TO DAN PRICE HAS GONE UP ON PRIME FROM \\$1775+ PER TONE TO \\$1875+ ETA 5 OF MAY 26\n"
       },
       {
         "id": "QBOVPadrCilBmBWOeoqY",
@@ -374,16 +344,6 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "192 X 25KG EPSOM SALT\n144 X 25KG HAIFA POT NITRATE- 2 PLTS (96) TAKEN ON INV-445059\n147 X 25KG POT SULPHATE - 2PLTS (98) TAKEN ON INV-445059\n5 X 1000LT FLEXI N\n144 X 25KG CACIUM NITRATE - 2PLS (96) TAKEN ON INV-445059\n10 X 25KG ZINK SULPHATE \n10 X 5KG MANGANESE SULPHATE\n96 X 25KG PEKACID\n48 X HAIFA POLYFEED L/K\nQU-04032\n"
-      },
-      {
-        "id": "Hk4kBRbtv9DUKCcqFrJo",
-        "name": "FERTILISER",
-        "company": "P SHAIN",
-        "amount": 7549.8,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "1x plt urea\n1x plt potassium nitrate\n1x 1000lt metham sodium\n2 x 20lt pool chlorine \nON QU-04030.\n\n\n"
       },
       {
         "id": "7A2w0GgYJaoaWfSLH3lS",
@@ -527,6 +487,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "lTim1emgJZVjKrAnwUJI",
+        "name": "INSURRANCE GRANT QUOTE",
+        "company": "OWEN and Romeo De Boni",
+        "amount": 9487.38,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "20 X PIPNE POLE 4.8M X 225-250MM\n3 X 50MTER X 70% BLACK SHADECLOTH\n1000 X BUTTERFLY CLIPS\n1 X WIRE ROLL 2.80MM X 1000MTR HIGH TENSILE\n\n22.07.26- EMAILED OWEN QU-04168"
+      },
       {
         "id": "1MfyR82OihM857XqrDUi",
         "name": "Karyn Moore",
@@ -1418,6 +1388,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "dlnlziWDH6Hx8w86cfLf",
+        "name": "ECO GROWTH LIQUID FERT",
+        "company": "Hi-Way Plantation",
+        "amount": 1100,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 20LT EXPRESS CAL+ B -P70674\n1 X 20LT EXPRESS PK-P70674\n1 X 20LT EXPRESS NPK -SOLD ON INV-449276\n1 X 20LT EXPRESS TRACE-P70674\n1 X 20LT LIQUID KELP - SOLD ON INV-449276\n1 X 20LT ECO VITAL-SOLD ON INV-449276\n2/7/26 EMAILED TO CUSTOMER ON QU-04140"
+      },
+      {
         "id": "q0bH6IYGBgtwTha2Dphh",
         "name": "LIQUID FERTILIZER",
         "company": "1040 Northriver road",
@@ -1448,6 +1428,16 @@
         "notes": "1 X 1000LT FOLICAL 19 -ORDERING FROM OMNIA PERTH ORDERED ON P70459\n2 X PALLETS YARA CALCIUM NITRATE-FROM STOCK DELIVERED ON INV-447511\n20.05.26-QUOTED CLIENT ON QU-04097\n18.06.26- CALCIUM INVOICED ON INV-447511 ON THE 20.05.26\n18.06.26- FOLICAL INVOICED ON INV-447889 ON THE 29.05.26"
       },
       {
+        "id": "Orq9bBONosjGppIw97bt",
+        "name": "TROFORTE",
+        "company": "V NGUYEN, T PHAN & Trustee for PG F/T",
+        "amount": 9973.92,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "5 X 1000KG BULK BAG TROFORTE\n19.05.26-QUOTED ON QU-04096"
+      },
+      {
         "id": "GnMTF9XkwtYusiHIf3UK",
         "name": "1000LT ECO LIQUID FISH",
         "company": "GIANG TRAN FAMILY TRUST",
@@ -1456,6 +1446,26 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "1 X 1000LT LIQUID FISH\n12.5.26 - ORDERED ON P70433\n18.05.26 - ARRIVED AT CGA AND INVOICED ON INV-447408"
+      },
+      {
+        "id": "1NHopTrWYvAWplLBDHr7",
+        "name": "STOCK TOP UP",
+        "company": "CGA",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10  PALLETS OF ECO RED.\n22.04.26 ORDERED ON P70355\n\n29.04.26 - SPOKE TO DAN TODAY AND WAS TOLD THAT PRICING WILL REMAIN THE SAME ETA OF 6WEEKS.\n"
+      },
+      {
+        "id": "F6wV7sZb8EZP4HMNLuQh",
+        "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
+        "company": "BORICH & SONS",
+        "amount": 5575,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "P70344 - 21.04.26 - BISHOPS\n2 x BULKA BAGS ECO PRIME\n19.05.26-ARRIVED AT CGA CONTACTED CLIENT\n\n29.04.26 - SPOKE TO DAN PRICE HAS GONE UP ON PRIME FROM \\$1775+ PER TONE TO \\$1875+ ETA 5 OF MAY 26\n"
       },
       {
         "id": "lNovjdfE4d7PtsPPm8Bo",
