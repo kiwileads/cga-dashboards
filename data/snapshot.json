@@ -66,232 +66,6 @@
     ]
   },
   {
-    "pipelineName": "ROB's CUSTOM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "WaxljTLcN77jETtg4ds7",
-        "name": "Oscar Leca",
-        "company": "J & M LECA",
-        "amount": 5260.2,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "100 x YPP24150 (2 prices due to current stock of 50)"
-      },
-      {
-        "id": "TRNSvU2YlGyLip8BheQF",
-        "name": "Dennis Durmanich",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 3652,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "5 x LASP-031  Ripper Leg 30\""
-      },
-      {
-        "id": "k9dlP69p9WsScOM24bYB",
-        "name": "Warren Schmidt",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 310.53,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": ""
-      },
-      {
-        "id": "WSpqKlyK8c1xIqHpJ1Kn",
-        "name": "Robert Ashley Scott",
-        "company": "SORICO PLANTATION",
-        "amount": 3261.5,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core"
-      },
-      {
-        "id": "VZefij3uMRUNj3yGST7Q",
-        "name": "MONARCH MOTOR & SPARES",
-        "company": "J & P CONSTANTINE",
-        "amount": 1000.12,
-        "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
-        "isNew": "Yes",
-        "notes": "QU-04158 dated 16/07/26\n"
-      },
-      {
-        "id": "XrIuVCDRryvqhOmneCcL",
-        "name": "Sean Gaylard - A/C GDO",
-        "company": "SEAN GAYLARD",
-        "amount": 2014.32,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "Yes",
-        "notes": "7 x INEF40000-012700   Command Tube 8mm\nQU-04156"
-      },
-      {
-        "id": "EqUAxQyxVePouhOPjN8B",
-        "name": "STARLINE PUMP x 1  (Total = 3)",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 3960,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
-      },
-      {
-        "id": "wYFe6H824qLY29G0FqK2",
-        "name": "Dean Andreoli",
-        "company": "SHIRE OF CARNARVON",
-        "amount": 5940,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "Yes",
-        "notes": "1 X WPSX-MUGB12J-246 Starline Pump 15kw\nQU-04133 dated 22/06/26\nP/O 53838  14/07/26\n"
-      },
-      {
-        "id": "4dlpiZTDueW0oiJ1zewH",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 1485,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": ""
-      },
-      {
-        "id": "S6jInFylitJsqeBUmNn4",
-        "name": "Desmond Williamson",
-        "company": "CORAL COAST PLUMBING",
-        "amount": 5005,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
-      },
-      {
-        "id": "wUbBdeMFpfIN744AUP1G",
-        "name": "Real Futures",
-        "company": "",
-        "amount": 484,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "Yes",
-        "notes": "P/O 70618\nQU-04136\n2 x MISCMOTREAL1"
-      },
-      {
-        "id": "71YvPkoE5bwVWQv4SQip",
-        "name": "Kevin David Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 2330.52,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "No",
-        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
-      },
-      {
-        "id": "ocu1LWCN0Fg30o0yYlMC",
-        "name": "PVC PIPE #9 150mm",
-        "company": "CAIDAN PRODUCE PTY LTD",
-        "amount": 39243.8,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
-      },
-      {
-        "id": "4ZJbHtmHzN2eYefwmh4Y",
-        "name": "PARTS",
-        "company": "SEAN GAYLARD",
-        "amount": 5940.81,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": null,
-        "notes": "QU-04129  P70543 - 07/06/26\n17 x BERMAD 100 SERIES 80mm HYD ANGLE VALVE\n17 x 100 SERIES 3\" PLASTIC FLANGE\n\n"
-      },
-      {
-        "id": "tvUW3PcysPxbPij03yBA",
-        "name": "Robert Ashley Scott",
-        "company": "SORICO PLANTATION",
-        "amount": 21858.32,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "1 x WPSX-MUEC09J-160  7.5KW Pump - ARRIVED - 12/06/26 - sold\n100 x YP09100HW   PVC Tube\n3 x YBPM90100PN12.5  Poly Pipe\n2 x INEF70640-011020  Filter Assy - sold"
-      },
-      {
-        "id": "VLnq6o0sIl99WPSD302u",
-        "name": "Des Williamson",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 1123.98,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "No",
-        "notes": "Quote #QU-04103\n4 x SS2BV080"
-      },
-      {
-        "id": "51nqbYTC9ltyNz3FyfvC",
-        "name": "Des Williamson",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 1609.64,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "No",
-        "notes": "Irrigation Job QU-04099 for Des"
-      },
-      {
-        "id": "ktXK6tFhEl46wLb1qq9W",
-        "name": "Irrigation Spares",
-        "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
-        "amount": 2606.92,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
-      },
-      {
-        "id": "07d7BFN2g8Ld8YUwcBuv",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
-      },
-      {
-        "id": "LfFkMX1JFz9bFCoJ0NRk",
-        "name": "STARLINE PUMP x 1  (Total = 3)",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 3960,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
-      },
-      {
-        "id": "JrMij5xImsKkOJKMeQ0H",
-        "name": "HONDA PUMP - GX160",
-        "company": "KINSANG FRESH PTY LTD",
-        "amount": 1876.6,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "No",
-        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
-      },
-      {
-        "id": "eC9GntEmn2EJNBKOkAgw",
-        "name": "Dennis Durmanich - Irrigation setup",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 7112,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "This is a trial. If it works prospect of another 4 units in addition."
-      }
-    ]
-  },
-  {
     "pipelineName": "FERTILIZER",
     "status": "open",
     "opps": [
@@ -384,6 +158,182 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "BULK BAG GRANULAR POTASSIUM SULPHATE\nOPORTUNITY LOST DUE TO GOING DIFFERENT DIRRECTION."
+      }
+    ]
+  },
+  {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "WaxljTLcN77jETtg4ds7",
+        "name": "Oscar Leca",
+        "company": "J & M LECA",
+        "amount": 5260.2,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "100 x YPP24150 (2 prices due to current stock of 50)"
+      },
+      {
+        "id": "TRNSvU2YlGyLip8BheQF",
+        "name": "Dennis Durmanich",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 3652,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "5 x LASP-031  Ripper Leg 30\""
+      },
+      {
+        "id": "k9dlP69p9WsScOM24bYB",
+        "name": "Warren Schmidt",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 310.53,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "WSpqKlyK8c1xIqHpJ1Kn",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 3261.5,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core"
+      },
+      {
+        "id": "XrIuVCDRryvqhOmneCcL",
+        "name": "Sean Gaylard - A/C GDO",
+        "company": "SEAN GAYLARD",
+        "amount": 2014.32,
+        "status": "open",
+        "stage": "DELIVERY ON SCHEDULE",
+        "isNew": "Yes",
+        "notes": "7 x INEF40000-012700   Command Tube 8mm\nQU-04156"
+      },
+      {
+        "id": "EqUAxQyxVePouhOPjN8B",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
+      },
+      {
+        "id": "4dlpiZTDueW0oiJ1zewH",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 1485,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "S6jInFylitJsqeBUmNn4",
+        "name": "Desmond Williamson",
+        "company": "CORAL COAST PLUMBING",
+        "amount": 5005,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
+      },
+      {
+        "id": "71YvPkoE5bwVWQv4SQip",
+        "name": "Kevin David Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 2330.52,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "No",
+        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
+      },
+      {
+        "id": "ocu1LWCN0Fg30o0yYlMC",
+        "name": "PVC PIPE #9 150mm",
+        "company": "CAIDAN PRODUCE PTY LTD",
+        "amount": 39243.8,
+        "status": "open",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
+      },
+      {
+        "id": "VLnq6o0sIl99WPSD302u",
+        "name": "Des Williamson",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 1123.98,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "No",
+        "notes": "Quote #QU-04103\n4 x SS2BV080"
+      },
+      {
+        "id": "51nqbYTC9ltyNz3FyfvC",
+        "name": "Des Williamson",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 1609.64,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "No",
+        "notes": "Irrigation Job QU-04099 for Des"
+      },
+      {
+        "id": "ktXK6tFhEl46wLb1qq9W",
+        "name": "Irrigation Spares",
+        "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
+        "amount": 2606.92,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
+      },
+      {
+        "id": "07d7BFN2g8Ld8YUwcBuv",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 2369.4,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
+      },
+      {
+        "id": "LfFkMX1JFz9bFCoJ0NRk",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
+      },
+      {
+        "id": "JrMij5xImsKkOJKMeQ0H",
+        "name": "HONDA PUMP - GX160",
+        "company": "KINSANG FRESH PTY LTD",
+        "amount": 1876.6,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "No",
+        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
+      },
+      {
+        "id": "eC9GntEmn2EJNBKOkAgw",
+        "name": "Dennis Durmanich - Irrigation setup",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 7112,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "This is a trial. If it works prospect of another 4 units in addition."
       }
     ]
   },
@@ -487,6 +437,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "1PgkwVRz10QmFRyAz0Yv",
+        "name": "CYCLONE NARELLE",
+        "company": "GLENDALE PLANTATION",
+        "amount": 5423.44,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "350 X GYRONET COMPLET KIT SPRINKLERS\n6 X 200MTR X 25MM TRICKLE TUBE\n100 X PINE POST 2.4MTR 100-125MM\n23.07.26 - QUOTED AND EMAILDE TO RICK QU-04171"
+      },
       {
         "id": "lTim1emgJZVjKrAnwUJI",
         "name": "INSURRANCE GRANT QUOTE",
@@ -972,6 +932,16 @@
         "notes": ""
       },
       {
+        "id": "VZefij3uMRUNj3yGST7Q",
+        "name": "MONARCH MOTOR & SPARES",
+        "company": "J & P CONSTANTINE",
+        "amount": 1000.12,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04158 dated 16/07/26\n"
+      },
+      {
         "id": "gn8rLp5l7OoWzcpCyA1Y",
         "name": "STARLINE PUMP x 1  (Total = 3)",
         "company": "M RASO'S CONTRACTING",
@@ -992,6 +962,16 @@
         "notes": ""
       },
       {
+        "id": "wYFe6H824qLY29G0FqK2",
+        "name": "Dean Andreoli",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 5940,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 X WPSX-MUGB12J-246 Starline Pump 15kw\nQU-04133 dated 22/06/26\nP/O 53838  14/07/26\n"
+      },
+      {
         "id": "Kjn3SQxsabb73Ti1emOs",
         "name": "Kevin David Sullivan",
         "company": "Sulli Bros Plantation",
@@ -1010,6 +990,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "1 x ECO GROWTH BIO-CALCIUM 1000L (FEBC1000)"
+      },
+      {
+        "id": "wUbBdeMFpfIN744AUP1G",
+        "name": "Real Futures",
+        "company": "",
+        "amount": 484,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "P/O 70618\nQU-04136\n2 x MISCMOTREAL1"
       },
       {
         "id": "n8CF5A4CX0skNK2TOKAh",
@@ -1082,6 +1072,16 @@
         "notes": "P70518 - 03/06/26\nSOR- ROB SCOTT\n1 x STARLINE POLE WITH BASE"
       },
       {
+        "id": "4ZJbHtmHzN2eYefwmh4Y",
+        "name": "PARTS",
+        "company": "SEAN GAYLARD",
+        "amount": 5940.81,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04129  P70543 - 07/06/26\n17 x BERMAD 100 SERIES 80mm HYD ANGLE VALVE\n17 x 100 SERIES 3\" PLASTIC FLANGE\n\n"
+      },
+      {
         "id": "M8AW3u6dOjMjMZbQyejO",
         "name": "BARE-CO PARTS",
         "company": "",
@@ -1100,6 +1100,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70519\n1 x DAVEY FIREFIGHTER 5.5HP PUMP\nBRUCE - WINNING STATION"
+      },
+      {
+        "id": "tvUW3PcysPxbPij03yBA",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 23256.2,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x WPSX-MUEC09J-160  7.5KW Pump - ARRIVED - 12/06/26 - sold\n100 x YP09100HW   PVC Tube - sold\n3 x YBPM90100PN12.5  Poly Pipe - sold\n2 x INEF70640-011020  Filter Assy - sold"
       },
       {
         "id": "7MOQVKLmAXy7X9aapr58",
