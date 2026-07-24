@@ -73,11 +73,11 @@
         "id": "CKhWWYHvLbfW3qzbduZt",
         "name": "Ray Elaine Skender",
         "company": "SKENDER PTY LTD",
-        "amount": 0,
+        "amount": 41731.6,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "22.07/2026 - QUOTE\n24 X 1050-1250-25UM BLACK MULCH\n24 X 1050-1000-30UM B/W MULCH\n24 X 1050-1000-30UM BLACK MULCH\n24 X 508-20-380 MED FLOW T-TAPE\n1 X PLT 25 KG TROFORTE WITH MICROBES\n1 X 1TONE BULKA TROFORT WITH MICROBES\n1 X PLTS YARAMILA COMPLEX\n1 X PLT ECO RED 20KG\n1 X 1/2 TONE BULKA ECO RED\n1 X 1TONE BULKA ECO RED \n\n"
+        "notes": "22.07/2026 - QUOTE\n24 X 1050-1250-25UM BLACK MULCH\n24 X 1050-1000-30UM B/W MULCH\n24 X 1050-1000-30UM BLACK MULCH\n24 X 508-20-380 MED FLOW T-TAPE\n1 X PLT 25 KG TROFORTE WITH MICROBES\n1 X 1TONE BULKA TROFORT WITH MICROBES\n1 X PLTS YARAMILA COMPLEX\n1 X PLT ECO RED 20KG\n1 X 1/2 TONE BULKA ECO RED\n1 X 1TONE BULKA ECO RED \n1 X TONE GUANNO GOLD KWIK START\n\n24.07.26- QUOTED GLEN ON QU-04169\n\n"
       },
       {
         "id": "jHMb6IEYlrp7IY6Dv9I7",
@@ -176,16 +176,6 @@
         "notes": "100 x YPP24150 (2 prices due to current stock of 50)"
       },
       {
-        "id": "TRNSvU2YlGyLip8BheQF",
-        "name": "Dennis Durmanich",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 3652,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "5 x LASP-031  Ripper Leg 30\""
-      },
-      {
         "id": "k9dlP69p9WsScOM24bYB",
         "name": "Warren Schmidt",
         "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
@@ -193,7 +183,7 @@
         "status": "open",
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
-        "notes": ""
+        "notes": "QU-04160   17/07/26"
       },
       {
         "id": "WSpqKlyK8c1xIqHpJ1Kn",
@@ -342,6 +332,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "P8Cc62ZBWQgEObT7i5z4",
+        "name": "POLY PIPE",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "2 X 32MM BLUELINE POLY PN20\n2 X 32MM LILAC POLY PN12.5\n2 X 63MM LILAC POLY PN12.5"
+      },
+      {
         "id": "2zXDxqkmApCqPdvhXJeA",
         "name": "NETAFIM DOSING SOLINOID",
         "company": "BUMBAK & SONS",
@@ -350,16 +350,6 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "NETAFIM\n5 X FIP S12 Dosing Valve 24VAC  50Hz Viton Solenoid [Burkert Replacement]\nP/N: 77540-008480\nCGA COST: 348.50+GST \nCUSTOMERCOST \\$418.20+GST 2 AVAILBE EX MELBOURNE AS OF 2/7/26 \n5 MORE ARRIVING IN TO MELBOURN ON THE 7/7/26\nSPOKE TO DAVID BUMBAK VERBALLY QUOTED AND ADVISED OF AVAILABILITIES AND ETA.\n\n\n "
-      },
-      {
-        "id": "O9ayQUX6ieVGTGo8bLai",
-        "name": "DYNAFLO 3PH PUMP PARTS",
-        "company": "MIZU",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "No",
-        "notes": "PARTS TO SUIT DYNAFLO 3PH 62303-4\n1 X IMPELLER \n1 X SEAL KIT"
       },
       {
         "id": "bakDOJ2qbvydsrYXS8MF",
@@ -920,6 +910,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04163"
+      },
+      {
+        "id": "TRNSvU2YlGyLip8BheQF",
+        "name": "Dennis Durmanich",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 3652,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "5 x LASP-031  Ripper Leg 30\""
       },
       {
         "id": "DP74nBqGJM0nPRinu1n9",
@@ -1745,6 +1745,16 @@
     "pipelineName": "IRRIGATION",
     "status": "won",
     "opps": [
+      {
+        "id": "O9ayQUX6ieVGTGo8bLai",
+        "name": "DYNAFLO 3PH PUMP PARTS",
+        "company": "MIZU",
+        "amount": 200,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "PARTS TO SUIT DYNAFLO 3PH 62303-4\n1 X IMPELLER \n1 X SEAL KIT"
+      },
       {
         "id": "JMq4XGyANxTvJ4eko2Za",
         "name": "110MM BLUELINE POLY",

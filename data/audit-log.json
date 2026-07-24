@@ -1,5 +1,57 @@
 [
   {
+    "date": "2026-07-24T22:02:56.488Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "POLY PIPE",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: POLY PIPE (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-07-24T22:02:56.488Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 41731.6,
+    "prevAmount": 0,
+    "message": "Ray Elaine Skender: value changed $0.00 -> $41731.60 (+41731.60)"
+  },
+  {
+    "date": "2026-07-24T22:02:56.488Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Dennis Durmanich",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 3652,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Dennis Durmanich: status changed open -> won"
+  },
+  {
+    "date": "2026-07-24T22:02:56.488Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "DYNAFLO 3PH PUMP PARTS",
+    "company": "MIZU",
+    "amount": 200,
+    "prevAmount": 0,
+    "message": "DYNAFLO 3PH PUMP PARTS: value changed $0.00 -> $200.00 (+200.00)"
+  },
+  {
+    "date": "2026-07-24T22:02:56.488Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "DYNAFLO 3PH PUMP PARTS",
+    "company": "MIZU",
+    "amount": 200,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "DYNAFLO 3PH PUMP PARTS: status changed open -> won"
+  },
+  {
     "date": "2026-07-23T22:02:41.554Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",
