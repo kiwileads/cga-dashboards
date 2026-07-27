@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-07-27T22:04:49.598Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "David Debbie Kearney",
+    "company": "CARNARVON ELECTRICS",
+    "amount": 16271.37,
+    "status": "won",
+    "message": "New opportunity: David Debbie Kearney (ROB's CUSTOM) - $16271.37"
+  },
+  {
+    "date": "2026-07-27T22:04:49.598Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILISER",
+    "company": "J & M LECA",
+    "amount": 5194.61,
+    "status": "won",
+    "message": "New opportunity: FERTILISER (FERTILIZER) - $5194.61"
+  },
+  {
+    "date": "2026-07-27T22:04:49.598Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 50794.78,
+    "prevAmount": 41731.6,
+    "message": "Ray Elaine Skender: value changed $41731.60 -> $50794.78 (+9063.18)"
+  },
+  {
     "date": "2026-07-24T22:02:56.488Z",
     "type": "added",
     "pipeline": "IRRIGATION",
