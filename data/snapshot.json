@@ -166,6 +166,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "fpZlNwgorlvzu6uvXd6y",
+        "name": "Luke Skender",
+        "company": "GLENDALE PLANTATION",
+        "amount": 1872.2,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "1 x ART5300  Flat Wall Tank 5300L"
+      },
+      {
+        "id": "l3v5DQRC2mQ9pADAzYxz",
+        "name": "Stephen Williamson",
+        "company": "SC & JM Williamson",
+        "amount": 3520,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "QU-04062  dated 15/04/26"
+      },
+      {
         "id": "WaxljTLcN77jETtg4ds7",
         "name": "Oscar Leca",
         "company": "J & M LECA",
@@ -194,16 +214,6 @@
         "stage": "P/O GENERATED",
         "isNew": "Yes",
         "notes": "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core"
-      },
-      {
-        "id": "XrIuVCDRryvqhOmneCcL",
-        "name": "Sean Gaylard - A/C GDO",
-        "company": "SEAN GAYLARD",
-        "amount": 2014.32,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "5 x INEF40000-012700   Command Tube 8mm + 2 for backup stock\nQU-04156"
       },
       {
         "id": "EqUAxQyxVePouhOPjN8B",
@@ -804,6 +814,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04158 dated 16/07/26\n"
+      },
+      {
+        "id": "XrIuVCDRryvqhOmneCcL",
+        "name": "Sean Gaylard - A/C GDO",
+        "company": "SEAN GAYLARD",
+        "amount": 2014.32,
+        "status": "won",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "5 x INEF40000-012700   Command Tube 8mm + 2 for backup stock\nQU-04156"
       },
       {
         "id": "gn8rLp5l7OoWzcpCyA1Y",
