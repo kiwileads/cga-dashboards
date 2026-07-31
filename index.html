@@ -178,7 +178,7 @@
           { name: "Stephen Williamson", company: "SC & JM Williamson", amount: 3520, stage: "SHIPPING CONFIRMED", isNew: "Yes", notes: "QU-04062  dated 15/04/26" },
           { name: "Oscar Leca", company: "J & M LECA", amount: 5260.2, stage: "PROCUREMENT UNDERWAY", isNew: "Yes", notes: "100 x YPP24150 (2 prices due to current stock of 50)" },
           { name: "Warren Schmidt", company: "GASCOYNE PLUMBING SOLUTIONS PTY LTD", amount: 310.53, stage: "PROCUREMENT UNDERWAY", isNew: "Yes", notes: "QU-04160   17/07/26" },
-          { name: "Robert Ashley Scott", company: "SORICO PLANTATION", amount: 3261.5, stage: "P/O GENERATED", isNew: "Yes", notes: "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core" },
+          { name: "Robert Ashley Scott", company: "SORICO PLANTATION", amount: 3261.5, stage: "DELIVERY DELAYED", isNew: "Yes", notes: "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core" },
           { name: "STARLINE PUMP x 1  (Total = 3)", company: "M RASO'S CONTRACTING", amount: 3960, stage: "STORED/SHELVED", isNew: "Yes", notes: "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit." },
           { name: "Severin Gugich", company: "A & N Gugich Plantation", amount: 1485, stage: "P/O GENERATED", isNew: "Yes", notes: "" },
           { name: "Desmond Williamson", company: "CORAL COAST PLUMBING", amount: 5005, stage: "PROCUREMENT UNDERWAY", isNew: "Yes", notes: "1 X EMY-WP30L48 TRANSFER PUMP" },
@@ -623,7 +623,7 @@
       return (
         <div>
           <h1 style={{textAlign:"center",fontSize:28,fontWeight:800,color:"#fff",marginBottom:4}}>Sales Pipeline Dashboard</h1>
-          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 30 July 2026</p>
+          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 31 July 2026</p>
           <SearchBar allData={OPEN_DATA} onSelect={handleSearchSelect} stageRef={stageRef}/>
           <div style={{display:"flex",gap:50,flexWrap:"wrap",justifyContent:"center"}}>
             <DonutChart data={WON_DATA} title="Won Opportunities" subtitle="deals closed" centerLabel="Total Won"/>
