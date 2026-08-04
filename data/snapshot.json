@@ -448,16 +448,6 @@
         "notes": "20 X PIPNE POLE 4.8M X 225-250MM\n3 X 50MTER X 70% BLACK SHADECLOTH\n1000 X BUTTERFLY CLIPS\n1 X WIRE ROLL 2.80MM X 1000MTR HIGH TENSILE\n\n22.07.26- EMAILED OWEN QU-04168"
       },
       {
-        "id": "1MfyR82OihM857XqrDUi",
-        "name": "Karyn Moore",
-        "company": "Hi-Way Plantation",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "200 X ROLLS OF MAX BIO TAPE - RYSET THROUGH NUTRIEN\n07/07/26- ORDERED THROUGH NUTRIEN ON P70675/XDM0003696"
-      },
-      {
         "id": "qmu1jCACDFUNCZElAtjd",
         "name": "LOWE PRUNERS",
         "company": "J & M LECA",
@@ -567,11 +557,11 @@
         "id": "wkYgrYt1flFlrnN2X6g6",
         "name": "CHEMICAL",
         "company": "GLENDALE PLANTATION",
-        "amount": 0,
+        "amount": 11546.03,
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": null,
-        "notes": ""
+        "isNew": "Yes",
+        "notes": "3 X DELEGATE 800GMS \n1 X TYRANEX 500 SL 20LT\n1 X PROCLAIM OPTI 5KG\n1 X PROCLAIM OPTI 600GM\n2 X INTERVINE 2.5KG\n1 X FOLPAN 800 WG 5 KG\n1 X VIVANDO 5LT\n1 X MIRAVIS PRIME 5LT\n3 X SWITCH 1KG\n1 X FLUTE 50EW 5LT\n1 X CORTEVA VERPIXO 5LT\n2 X BACCHUS WG 10KG\n"
       },
       {
         "id": "CPYZtS4YVvibyR1LFvrP",
@@ -582,26 +572,6 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "2 X 25KG BORAX DECAHYDRATE"
-      },
-      {
-        "id": "GyOGy8pC72zjv6yNFoL0",
-        "name": "DORMEX GRAPES 26",
-        "company": "J & M LECA",
-        "amount": 9461.65,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "50 X 10LT DORMEX\nON SALES ORDER ORD-478473"
-      },
-      {
-        "id": "2raTh7KXHxJTXe3dhriQ",
-        "name": "DORMEX GRAPES 26",
-        "company": "GOR",
-        "amount": 8601.5,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "No",
-        "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
       }
     ]
   },
@@ -1372,6 +1342,16 @@
         "notes": "70 X 10LT DORMEX -ORD-478470\n01/07/26 - SOLD ON INV-449262"
       },
       {
+        "id": "2raTh7KXHxJTXe3dhriQ",
+        "name": "DORMEX GRAPES 26",
+        "company": "GOR",
+        "amount": 8601.5,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "50 X 10LT DORMEX ON SALES ORDER ORD-478481"
+      },
+      {
         "id": "6ELMI9pgcNPIF0GCVRds",
         "name": "DORMEX GRAPES 26",
         "company": "GIULIANO CONDO",
@@ -1659,6 +1639,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "won",
     "opps": [
+      {
+        "id": "1MfyR82OihM857XqrDUi",
+        "name": "Karyn Moore",
+        "company": "Hi-Way Plantation",
+        "amount": 500,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "200 X ROLLS OF MAX BIO TAPE - RYSET THROUGH NUTRIEN\n07/07/26- ORDERED THROUGH NUTRIEN ON P70675/XDM0003696\n31/07-26 - SOLD AND DELIVERED ON INV-450589"
+      },
       {
         "id": "tMbrf9Fdgr5d0oyD6dvi",
         "name": "SILVAN PRODUCTS",

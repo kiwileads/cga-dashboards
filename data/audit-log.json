@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-04T22:09:39.679Z",
+    "type": "removed",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "J & M LECA",
+    "amount": 9461.65,
+    "status": "open",
+    "message": "Removed: DORMEX GRAPES 26 (CHEMICALS) - $9461.65"
+  },
+  {
+    "date": "2026-08-04T22:09:39.679Z",
+    "type": "value_change",
+    "pipeline": "CHEMICALS",
+    "name": "CHEMICAL",
+    "company": "GLENDALE PLANTATION",
+    "amount": 11546.03,
+    "prevAmount": 0,
+    "message": "CHEMICAL: value changed $0.00 -> $11546.03 (+11546.03)"
+  },
+  {
+    "date": "2026-08-04T22:09:39.679Z",
+    "type": "field_change",
+    "pipeline": "CHEMICALS",
+    "name": "CHEMICAL",
+    "company": "GLENDALE PLANTATION",
+    "amount": 11546.03,
+    "message": "CHEMICAL: \"New Business\" changed Not Set -> Yes"
+  },
+  {
+    "date": "2026-08-04T22:09:39.679Z",
+    "type": "status_change",
+    "pipeline": "CHEMICALS",
+    "name": "DORMEX GRAPES 26",
+    "company": "GOR",
+    "amount": 8601.5,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "DORMEX GRAPES 26: status changed open -> won"
+  },
+  {
+    "date": "2026-08-04T22:09:39.679Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "Karyn Moore",
+    "company": "Hi-Way Plantation",
+    "amount": 500,
+    "prevAmount": 0,
+    "message": "Karyn Moore: value changed $0.00 -> $500.00 (+500.00)"
+  },
+  {
+    "date": "2026-08-04T22:09:39.679Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "Karyn Moore",
+    "company": "Hi-Way Plantation",
+    "amount": 500,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Karyn Moore: status changed open -> won"
+  },
+  {
     "date": "2026-08-03T22:07:38.836Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
