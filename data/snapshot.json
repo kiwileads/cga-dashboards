@@ -428,6 +428,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "ljSQCMhDFHoHadRZm2e8",
+        "name": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701",
+        "company": "GIULIANO CONDO",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "1 X IDS 1701 DIAPHRAGM PUMP\n1 X ARAG WOLF FLOW METER 10-200L/MIN \n"
+      },
+      {
         "id": "1PgkwVRz10QmFRyAz0Yv",
         "name": "CYCLONE NARELLE",
         "company": "GLENDALE PLANTATION",
@@ -1639,6 +1649,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "won",
     "opps": [
+      {
+        "id": "Sdzb1mHE226XaKtQvj9y",
+        "name": "200LT DIESEL TANK - KIWI CENTURION",
+        "company": "DALUZ & SON",
+        "amount": 869,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 200LT ECONOMY DIESEL TANK"
+      },
       {
         "id": "1MfyR82OihM857XqrDUi",
         "name": "Karyn Moore",
