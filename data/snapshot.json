@@ -332,16 +332,6 @@
     "status": "open",
     "opps": [
       {
-        "id": "P8Cc62ZBWQgEObT7i5z4",
-        "name": "POLY PIPE",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "2 X 32MM BLUELINE POLY PN20\n2 X 32MM LILAC POLY PN12.5\n2 X 63MM LILAC POLY PN12.5"
-      },
-      {
         "id": "2zXDxqkmApCqPdvhXJeA",
         "name": "NETAFIM DOSING SOLINOID",
         "company": "BUMBAK & SONS",
@@ -370,16 +360,6 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "4 INCH TABLE E POLY BLANKING FLANGE."
-      },
-      {
-        "id": "451qI5RMe9ti13As5naN",
-        "name": "JOHN THOMAS IRRIGATION ",
-        "company": "MIZU",
-        "amount": 32260.64,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "12.05.26\n1x 80mm Water Meter\n1x 100mm Twin Leader Disc Filter\n104 x PVC Pipe 150mm PN9\n14x PVC pipe 100mm PN9\n10x PVC Pipe 80mm PN12\nBox of PVC Glue 500ml\nBox of Primer 500ml\n17x Bermad IR right angle Hydraulic Valve 80mm   (you have them on the shelf)\n17x flange adaptor for above bermad valve\n19x PVC Flange 80mm\n9x PVC Reducing Tee 150-80mm\n8x PVC Tee 80mm\n17x PVC 90’ Elbow 80mm\n2x PVC Reducing Tee 150-100\n2x PVC Flange 150mm\n68x Nut&Bolts 16x85mm\n150x Gal Washers 16mm\n17x RFG3 Rubber Flange Gasket 80mm\n1x V1BUT150 Butterfly Vave 150mm\n\n15.05.26- QUOTE EMAILED TO SEAN ON QU-04092\n"
       },
       {
         "id": "u6uHrxOSmkdPzp3aiIGF",
@@ -433,7 +413,7 @@
         "company": "GIULIANO CONDO",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "1 X IDS 1701 DIAPHRAGM PUMP\n1 X ARAG WOLF FLOW METER 10-200L/MIN \n"
       },
@@ -458,16 +438,6 @@
         "notes": "20 X PIPNE POLE 4.8M X 225-250MM\n3 X 50MTER X 70% BLACK SHADECLOTH\n1000 X BUTTERFLY CLIPS\n1 X WIRE ROLL 2.80MM X 1000MTR HIGH TENSILE\n\n22.07.26- EMAILED OWEN QU-04168"
       },
       {
-        "id": "qmu1jCACDFUNCZElAtjd",
-        "name": "LOWE PRUNERS",
-        "company": "J & M LECA",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "10 X ANVIL PRUNER #5\n10 PRO ANVIL PRUNER\n07/07/26- ORDERED THROUGH NUTRIEN ON P70675/XDM0003696"
-      },
-      {
         "id": "N2NygvcIiIk7Sphix2E1",
         "name": "SEA CONTAINER + FOOTING",
         "company": "GOLF",
@@ -476,16 +446,6 @@
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "QUOTE FOR \n1 X 20FT SEA CONTAINER\nCYCLONE RATED FOOTING"
-      },
-      {
-        "id": "rXQ1YaZoFHIUAkxUlVOj",
-        "name": "PINE POLES",
-        "company": "",
-        "amount": 13427,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "QUOTE ON \n400 X 2.4 METER X 100-125MM PINE POLIS\n02/07/26 - EMAILED QU-04142 TO JAMIE @ SHIRE AND MARK BUMBACK"
       },
       {
         "id": "mhHFMjOvW8YNpIMHSfXB",
@@ -538,16 +498,6 @@
         "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
       },
       {
-        "id": "dCjsEaMsMHEYcjhFLA3Z",
-        "name": "Richard B Arends - RACHEAL",
-        "company": "",
-        "amount": 2500,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "QUOTE\n1T BULK BAG WHOLE LUPINS \n1T BULK BAG CRUSHED LUPINS"
-      },
-      {
         "id": "wDf7YAn50jpybsFaW0ga",
         "name": "Al Holtham",
         "company": "Janna",
@@ -556,6 +506,22 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS.\n02/07/26- NEW QU-04141 EMAILED TO JAMIE @ SHIRE AND TO AL"
+      }
+    ]
+  },
+  {
+    "pipelineName": "MULCH FILM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "MxpMTzzTH9xsYNFW9TH0",
+        "name": "MULCH & T-TAPE",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 25740.32,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "32 X 900X2300X25UM BLACK MULCH\n24 X 508-20-500 T-TAPE\n108 X ECO RED 20KG\n\n11/08/26 - QUOTED ON QU-04185"
       }
     ]
   },
@@ -1630,18 +1596,208 @@
     ]
   },
   {
-    "pipelineName": "CUSTOM BOXES",
+    "pipelineName": "IRRIGATION",
     "status": "won",
     "opps": [
       {
-        "id": "kUOfDDbOSqBE5j5DasHr",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 45000,
+        "id": "cj9mF737g6Npjmjcd0WR",
+        "name": "GRUNDFOS SUBMERSIBLE PUMP",
+        "company": "AD BUZZARD",
+        "amount": 2750,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X SP14-8 SUBMERSIBLE PUMP\nSOLD ON INV-451058"
+      },
+      {
+        "id": "P8Cc62ZBWQgEObT7i5z4",
+        "name": "POLY PIPE",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2 X 32MM BLUELINE POLY PN20\n2 X 32MM LILAC POLY PN12.5\n2 X 63MM LILAC POLY PN12.5\n\n11/08/26-SOLD ON INV-450758"
+      },
+      {
+        "id": "O9ayQUX6ieVGTGo8bLai",
+        "name": "DYNAFLO 3PH PUMP PARTS",
+        "company": "MIZU",
+        "amount": 200,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "PARTS TO SUIT DYNAFLO 3PH 62303-4\n1 X IMPELLER \n1 X SEAL KIT"
+      },
+      {
+        "id": "JMq4XGyANxTvJ4eko2Za",
+        "name": "110MM BLUELINE POLY",
+        "company": "Janna",
+        "amount": 5238.55,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "3 X 100MTR COUL X 110MM BLUELINE POLY PN12.5\n19.05.26-ordered on p70456\n04.06.26- DELIVERD ON INV-447660"
+      },
+      {
+        "id": "dHogsBHgDVn0FCPzWtHm",
+        "name": "75MM BLUELINE POLY",
+        "company": "Janna",
+        "amount": 3072.3,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "3 X 75MM BLULINE POLY 100MTR COIL\n19.05.26- INVOICED AND DELIVERED ON INV-447434"
+      },
+      {
+        "id": "LKKcf7YGO2M3Ep1i87PG",
+        "name": "LILLAC POLY PIPE",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 359.92,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "2 X 50 METER COIL LILLAC POLY PIPE\n19.05.26- ORDERED ON P70455\n23.05.26 - SOLD ON INV-447640"
+      },
+      {
+        "id": "451qI5RMe9ti13As5naN",
+        "name": "JOHN THOMAS IRRIGATION ",
+        "company": "MIZU",
+        "amount": 39243.8,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "12.05.26\n1x 80mm Water Meter\n1x 100mm Twin Leader Disc Filter\n104 x PVC Pipe 150mm PN9\n14x PVC pipe 100mm PN9\n10x PVC Pipe 80mm PN12\nBox of PVC Glue 500ml\nBox of Primer 500ml\n17x Bermad IR right angle Hydraulic Valve 80mm   (you have them on the shelf)\n17x flange adaptor for above bermad valve\n19x PVC Flange 80mm\n9x PVC Reducing Tee 150-80mm\n8x PVC Tee 80mm\n17x PVC 90’ Elbow 80mm\n2x PVC Reducing Tee 150-100\n2x PVC Flange 150mm\n68x Nut&Bolts 16x85mm\n150x Gal Washers 16mm\n17x RFG3 Rubber Flange Gasket 80mm\n1x V1BUT150 Butterfly Vave 150mm\n\n15.05.26- QUOTE EMAILED TO SEAN ON QU-04092\n11/08/26 - SOLD AND DELIVERED ON INV-449077\n"
+      },
+      {
+        "id": "kgkUOC70WxmrbEE4qMYS",
+        "name": "GRUNDFOS - PUMP CH4-40",
+        "company": "ORP",
+        "amount": 728,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "20.04.26 - PLEASE QUOTE ON \nGRUNDFOS CH4-40 A-W-AEVBE - 3 PHASE - MODEL#44501104 (DISCONTINUED)\nUSE CM5-4\nQU-04074 dated 22/04/26\n12.05.26 - COLLECTED AND INVOICED ON INV-447067"
+      },
+      {
+        "id": "mBSLv4s3vVhkPahZeV0e",
+        "name": "SPRINKLERS/LOW DENSITY POLY",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 646.14,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
+      },
+      {
+        "id": "epFTfvBbzppAI5DLqavw",
+        "name": "COMPRESSION FITTINGS",
+        "company": "LEICHHARDT",
+        "amount": 249.48,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
+      },
+      {
+        "id": "V135bmohARR8RQUP2QBT",
+        "name": "COMPRESSION COUPLING",
+        "company": "SHIRE OF CARNARVON",
+        "amount": 552,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING\n\n15/4/26\nQUOTED ON QU-04161 EMAILED TO DEAN\n16.04.26 - ORDER PLACED WITH HR PRODUCTS ON P70320\n05.05.26 - ARRIVED TO CGA\n12.05.26- CONTACTED CLIENT AND ADVISED ITEMS HAVE ARRIVED AND READY FOR COLLECTION.\n\n"
+      },
+      {
+        "id": "1tWWv8w6Q5iSAAgDvomj",
+        "name": "REDUCING HEX NIPPLE 150 x 100",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 0,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100\n13.04.26 - EMAIL SENT TO AAP TO OBTAIN PRICE\n12.05.26 - COMPLETED AND INVOICED ON INV-438417"
+      },
+      {
+        "id": "LstDnHJSePuN51Sr6Lrk",
+        "name": "POLY ELBOWS x 20",
+        "company": "Shire of Upper Gascoyne",
+        "amount": 78.1,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "No",
+        "notes": "20 x poly elbow 15mm barb to 20mm male thread\nQUOTED ON THE 13/4/26 ON QU-04058 AND EMAILED\n13.04.26 - P/O RECEIVED #10074 - INVOICED AND READY FOR COLLECTION - INV-445847"
+      },
+      {
+        "id": "SHB5ArMjiWkTbxzO70h4",
+        "name": "PLASSON POLY TO COPPER FITTING",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 770,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "40 X POLY - COPPER 32MMX20MM COUPLING\nINVOICE ON THE 9/4/26 ON INV-445738\n"
+      },
+      {
+        "id": "zAfoEhaddbxC9HIlrHFq",
+        "name": "PVC PIPE",
+        "company": "Janna",
+        "amount": 2000,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "17 X PVC PIPE #9 80MM\n2 BOX OF 15MM COBRA CLIPS\n2 BOX OF 20MM COBRA CLIPS\nQUOTE EXCEPTED\n\nCOBRA CLIPS ON INV-445431 ON THE 2/04/26\nPVC PIPE ON INV-444933 ON THE 18/3/26\n\n"
+      },
+      {
+        "id": "3vtdDfFSBIqpwWjq1xiC",
+        "name": "Marko Borich",
+        "company": "BORICH AND SONS",
+        "amount": 5372,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1PLT OF 508-20-500 T-TAPE\nQU-04016\nSOLD ON 11/3/2026 INV-444593"
+      },
+      {
+        "id": "oTQDHHwNX398DSTDVgmN",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 5800,
         "status": "won",
         "stage": "CLOSED/COMPLETE",
         "isNew": null,
-        "notes": ""
+        "notes": "ON INVOICE 444301"
+      },
+      {
+        "id": "Rg9vk2Xe0uSspQKRo41a",
+        "name": "D5000 DRIP PIPE",
+        "company": "GLENDALE PLANTATION",
+        "amount": 6500,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "UPGRADED OF FARM IRRIGATION TO D5000 DRIP\n14000 meters 35 ROLLS\n\nSTOCK ARRIVED TO CGA ON 01/04/26\nHOLD TILL AFTER EASTER LONG WEEKEND\n\n8/4/26 INVOICED ON INV-445628 AND DELIVERED\n"
+      },
+      {
+        "id": "wMeIFgKJfmvESrK9SfWQ",
+        "name": "BANANA RETIC UPGRADE",
+        "company": "Gascoyne River plantation",
+        "amount": 2704.75,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10 X TRICKLE TUBE 25MM X20METER COIL\n3 X DURA-POL 50MM\n1 X IT10HF T-TAPE (510-20-500)\n\n31.03.26 - INVOICED AND DELIVERED ON INV-445326"
+      },
+      {
+        "id": "CGN45BhJ47Zsu75WrvPd",
+        "name": "D5000 DRIPLINE",
+        "company": "Janna",
+        "amount": 3237.52,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED"
       }
     ]
   },
@@ -1668,6 +1824,26 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "200 X ROLLS OF MAX BIO TAPE - RYSET THROUGH NUTRIEN\n07/07/26- ORDERED THROUGH NUTRIEN ON P70675/XDM0003696\n31/07-26 - SOLD AND DELIVERED ON INV-450589"
+      },
+      {
+        "id": "qmu1jCACDFUNCZElAtjd",
+        "name": "LOWE PRUNERS",
+        "company": "J & M LECA",
+        "amount": 1277.43,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10 X ANVIL PRUNER #5\n10 PRO ANVIL PRUNER\n07/07/26- ORDERED THROUGH NUTRIEN ON P70675/XDM0003696\n11/08/26 - SOLD ON INV-450903"
+      },
+      {
+        "id": "rXQ1YaZoFHIUAkxUlVOj",
+        "name": "PINE POLES",
+        "company": "",
+        "amount": 13427,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "QUOTE ON \n400 X 2.4 METER X 100-125MM PINE POLIS\n02/07/26 - EMAILED QU-04142 TO JAMIE @ SHIRE AND MARK BUMBACK\n11/08/26 - SOLD AND DELIVERED ON INV-450892"
       },
       {
         "id": "tMbrf9Fdgr5d0oyD6dvi",
@@ -1802,178 +1978,18 @@
     ]
   },
   {
-    "pipelineName": "IRRIGATION",
+    "pipelineName": "CUSTOM BOXES",
     "status": "won",
     "opps": [
       {
-        "id": "O9ayQUX6ieVGTGo8bLai",
-        "name": "DYNAFLO 3PH PUMP PARTS",
-        "company": "MIZU",
-        "amount": 200,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "PARTS TO SUIT DYNAFLO 3PH 62303-4\n1 X IMPELLER \n1 X SEAL KIT"
-      },
-      {
-        "id": "JMq4XGyANxTvJ4eko2Za",
-        "name": "110MM BLUELINE POLY",
-        "company": "Janna",
-        "amount": 5238.55,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "3 X 100MTR COUL X 110MM BLUELINE POLY PN12.5\n19.05.26-ordered on p70456\n04.06.26- DELIVERD ON INV-447660"
-      },
-      {
-        "id": "dHogsBHgDVn0FCPzWtHm",
-        "name": "75MM BLUELINE POLY",
-        "company": "Janna",
-        "amount": 3072.3,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "3 X 75MM BLULINE POLY 100MTR COIL\n19.05.26- INVOICED AND DELIVERED ON INV-447434"
-      },
-      {
-        "id": "LKKcf7YGO2M3Ep1i87PG",
-        "name": "LILLAC POLY PIPE",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 359.92,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "2 X 50 METER COIL LILLAC POLY PIPE\n19.05.26- ORDERED ON P70455\n23.05.26 - SOLD ON INV-447640"
-      },
-      {
-        "id": "kgkUOC70WxmrbEE4qMYS",
-        "name": "GRUNDFOS - PUMP CH4-40",
-        "company": "ORP",
-        "amount": 728,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "20.04.26 - PLEASE QUOTE ON \nGRUNDFOS CH4-40 A-W-AEVBE - 3 PHASE - MODEL#44501104 (DISCONTINUED)\nUSE CM5-4\nQU-04074 dated 22/04/26\n12.05.26 - COLLECTED AND INVOICED ON INV-447067"
-      },
-      {
-        "id": "mBSLv4s3vVhkPahZeV0e",
-        "name": "SPRINKLERS/LOW DENSITY POLY",
-        "company": "SHIRE OF CARNARVON",
-        "amount": 646.14,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
-      },
-      {
-        "id": "epFTfvBbzppAI5DLqavw",
-        "name": "COMPRESSION FITTINGS",
-        "company": "LEICHHARDT",
-        "amount": 249.48,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "7 X METRIC MALE ADAPTOR 63MM X2\"\n3 X METRIC FEMALE ADPTOR 63MMX2\"\n3 X 50MM NIPPLES\n\n14/4/26 QUOTED ON QU-04060\n14/4/26 PO FOR ABOVE LMC33009203 INVOICE ON INV-445944"
-      },
-      {
-        "id": "V135bmohARR8RQUP2QBT",
-        "name": "COMPRESSION COUPLING",
-        "company": "SHIRE OF CARNARVON",
-        "amount": 552,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "20 X 32MM COMPRESSION COUPLING\n20 X 25MM COMPRESSION COUPLING\n20 X 20MM COMPRESSION COUPLING\n\n15/4/26\nQUOTED ON QU-04161 EMAILED TO DEAN\n16.04.26 - ORDER PLACED WITH HR PRODUCTS ON P70320\n05.05.26 - ARRIVED TO CGA\n12.05.26- CONTACTED CLIENT AND ADVISED ITEMS HAVE ARRIVED AND READY FOR COLLECTION.\n\n"
-      },
-      {
-        "id": "1tWWv8w6Q5iSAAgDvomj",
-        "name": "REDUCING HEX NIPPLE 150 x 100",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 0,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "01.04.26 - PLEASE ORDER 1 x REDUCING HEX NIPPLE 150 x 100\n13.04.26 - EMAIL SENT TO AAP TO OBTAIN PRICE\n12.05.26 - COMPLETED AND INVOICED ON INV-438417"
-      },
-      {
-        "id": "LstDnHJSePuN51Sr6Lrk",
-        "name": "POLY ELBOWS x 20",
-        "company": "Shire of Upper Gascoyne",
-        "amount": 78.1,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "No",
-        "notes": "20 x poly elbow 15mm barb to 20mm male thread\nQUOTED ON THE 13/4/26 ON QU-04058 AND EMAILED\n13.04.26 - P/O RECEIVED #10074 - INVOICED AND READY FOR COLLECTION - INV-445847"
-      },
-      {
-        "id": "SHB5ArMjiWkTbxzO70h4",
-        "name": "PLASSON POLY TO COPPER FITTING",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 770,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "40 X POLY - COPPER 32MMX20MM COUPLING\nINVOICE ON THE 9/4/26 ON INV-445738\n"
-      },
-      {
-        "id": "zAfoEhaddbxC9HIlrHFq",
-        "name": "PVC PIPE",
-        "company": "Janna",
-        "amount": 2000,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "17 X PVC PIPE #9 80MM\n2 BOX OF 15MM COBRA CLIPS\n2 BOX OF 20MM COBRA CLIPS\nQUOTE EXCEPTED\n\nCOBRA CLIPS ON INV-445431 ON THE 2/04/26\nPVC PIPE ON INV-444933 ON THE 18/3/26\n\n"
-      },
-      {
-        "id": "3vtdDfFSBIqpwWjq1xiC",
-        "name": "Marko Borich",
-        "company": "BORICH AND SONS",
-        "amount": 5372,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "1PLT OF 508-20-500 T-TAPE\nQU-04016\nSOLD ON 11/3/2026 INV-444593"
-      },
-      {
-        "id": "oTQDHHwNX398DSTDVgmN",
-        "name": "Ray Elaine Skender",
-        "company": "SKENDER PTY LTD",
-        "amount": 5800,
+        "id": "kUOfDDbOSqBE5j5DasHr",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 45000,
         "status": "won",
         "stage": "CLOSED/COMPLETE",
         "isNew": null,
-        "notes": "ON INVOICE 444301"
-      },
-      {
-        "id": "Rg9vk2Xe0uSspQKRo41a",
-        "name": "D5000 DRIP PIPE",
-        "company": "GLENDALE PLANTATION",
-        "amount": 6500,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "UPGRADED OF FARM IRRIGATION TO D5000 DRIP\n14000 meters 35 ROLLS\n\nSTOCK ARRIVED TO CGA ON 01/04/26\nHOLD TILL AFTER EASTER LONG WEEKEND\n\n8/4/26 INVOICED ON INV-445628 AND DELIVERED\n"
-      },
-      {
-        "id": "wMeIFgKJfmvESrK9SfWQ",
-        "name": "BANANA RETIC UPGRADE",
-        "company": "Gascoyne River plantation",
-        "amount": 2704.75,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "10 X TRICKLE TUBE 25MM X20METER COIL\n3 X DURA-POL 50MM\n1 X IT10HF T-TAPE (510-20-500)\n\n31.03.26 - INVOICED AND DELIVERED ON INV-445326"
-      },
-      {
-        "id": "CGN45BhJ47Zsu75WrvPd",
-        "name": "D5000 DRIPLINE",
-        "company": "Janna",
-        "amount": 3237.52,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "DRIPLINE 5000\n\nPRODUCT ARRIVED IN TO STORE ON 01/02/26\nINVOICED ON THE 02/04/26 ON INV-445430 AND DELIVERED"
+        "notes": ""
       }
     ]
   }

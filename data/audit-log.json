@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "added",
+    "pipeline": "MULCH FILM",
+    "name": "MULCH & T-TAPE",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 25740.32,
+    "status": "open",
+    "message": "New opportunity: MULCH & T-TAPE (MULCH FILM) - $25740.32"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "GRUNDFOS SUBMERSIBLE PUMP",
+    "company": "AD BUZZARD",
+    "amount": 2750,
+    "status": "won",
+    "message": "New opportunity: GRUNDFOS SUBMERSIBLE PUMP (IRRIGATION) - $2750.00"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "removed",
+    "pipeline": "GENERAL MERCH",
+    "name": "Richard B Arends - RACHEAL",
+    "company": "",
+    "amount": 2500,
+    "status": "open",
+    "message": "Removed: Richard B Arends - RACHEAL (GENERAL MERCH) - $2500.00"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "POLY PIPE",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 0,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "POLY PIPE: status changed open -> won"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "JOHN THOMAS IRRIGATION ",
+    "company": "MIZU",
+    "amount": 39243.8,
+    "prevAmount": 32260.64,
+    "message": "JOHN THOMAS IRRIGATION : value changed $32260.64 -> $39243.80 (+6983.16)"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "JOHN THOMAS IRRIGATION ",
+    "company": "MIZU",
+    "amount": 39243.8,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "JOHN THOMAS IRRIGATION : status changed open -> won"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "LOWE PRUNERS",
+    "company": "J & M LECA",
+    "amount": 1277.43,
+    "prevAmount": 0,
+    "message": "LOWE PRUNERS: value changed $0.00 -> $1277.43 (+1277.43)"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "LOWE PRUNERS",
+    "company": "J & M LECA",
+    "amount": 1277.43,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "LOWE PRUNERS: status changed open -> won"
+  },
+  {
+    "date": "2026-08-11T21:43:13.105Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "PINE POLES",
+    "company": "",
+    "amount": 13427,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "PINE POLES: status changed open -> won"
+  },
+  {
     "date": "2026-08-10T21:39:19.919Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",
