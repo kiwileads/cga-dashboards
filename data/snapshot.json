@@ -510,22 +510,6 @@
     ]
   },
   {
-    "pipelineName": "MULCH FILM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "MxpMTzzTH9xsYNFW9TH0",
-        "name": "MULCH & T-TAPE",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 25740.32,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "32 X 900X2300X25UM BLACK MULCH\n24 X 508-20-500 T-TAPE\n108 X ECO RED 20KG\n\n11/08/26 - QUOTED ON QU-04185"
-      }
-    ]
-  },
-  {
     "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
@@ -1990,6 +1974,22 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": ""
+      }
+    ]
+  },
+  {
+    "pipelineName": "MULCH FILM",
+    "status": "won",
+    "opps": [
+      {
+        "id": "MxpMTzzTH9xsYNFW9TH0",
+        "name": "MULCH & T-TAPE",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 35114.68,
+        "status": "won",
+        "stage": "CLOSED/COMPLETED",
+        "isNew": "Yes",
+        "notes": "32 X 900X2300X25UM BLACK MULCH\n32 X 508-20-500 T-TAPE\n108 X ECO RED 20KG\n1 x 5LT VANIVA\n\n11/08/26 - QUOTED ON QU-04185"
       }
     ]
   }
