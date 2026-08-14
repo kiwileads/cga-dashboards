@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-08-14T21:22:59.085Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 659.12,
+    "status": "open",
+    "message": "New opportunity: ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC (IRRIGATION) - $659.12"
+  },
+  {
+    "date": "2026-08-14T21:22:59.085Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 12612.35,
+    "status": "won",
+    "message": "New opportunity: Robert Ashley Scott (ROB's CUSTOM) - $12612.35"
+  },
+  {
+    "date": "2026-08-14T21:22:59.085Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Stephen Williamson",
+    "company": "SC & JM Williamson",
+    "amount": 3520,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Stephen Williamson: status changed open -> won"
+  },
+  {
+    "date": "2026-08-14T21:22:59.085Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 3261.5,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Robert Ashley Scott: status changed open -> won"
+  },
+  {
     "date": "2026-08-12T21:42:25.707Z",
     "type": "value_change",
     "pipeline": "MULCH FILM",

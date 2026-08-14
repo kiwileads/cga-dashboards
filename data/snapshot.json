@@ -176,16 +176,6 @@
         "notes": "1 x ART5300  Flat Wall Tank 5300L"
       },
       {
-        "id": "l3v5DQRC2mQ9pADAzYxz",
-        "name": "Stephen Williamson",
-        "company": "SC & JM Williamson",
-        "amount": 3520,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "QU-04062  dated 15/04/26"
-      },
-      {
         "id": "WaxljTLcN77jETtg4ds7",
         "name": "Oscar Leca",
         "company": "J & M LECA",
@@ -204,16 +194,6 @@
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "QU-04160   17/07/26"
-      },
-      {
-        "id": "WSpqKlyK8c1xIqHpJ1Kn",
-        "name": "Robert Ashley Scott",
-        "company": "SORICO PLANTATION",
-        "amount": 3261.5,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "Yes",
-        "notes": "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core"
       },
       {
         "id": "4dlpiZTDueW0oiJ1zewH",
@@ -331,6 +311,16 @@
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
+      {
+        "id": "AbQMZNSE2ZXnxhmEHIov",
+        "name": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 659.12,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 24VDC ELECTRIC ACTUATOR 50MM BUTTERFLY VALVE TVC\nTHIS HAS TO BE PURCHASED IN 3 PARTS AND ASSEMBLED BY SUPPLIER\n"
+      },
       {
         "id": "2zXDxqkmApCqPdvhXJeA",
         "name": "NETAFIM DOSING SOLINOID",
@@ -676,6 +666,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "0pgjiSDCAnnHO3f0qLLA",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 12612.35,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": ""
+      },
+      {
         "id": "MlhFkXiN1gv9XxmK49Gb",
         "name": "Shantal Larman",
         "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
@@ -684,6 +684,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04003  dated 24/02/26"
+      },
+      {
+        "id": "l3v5DQRC2mQ9pADAzYxz",
+        "name": "Stephen Williamson",
+        "company": "SC & JM Williamson",
+        "amount": 3520,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04062  dated 15/04/26"
       },
       {
         "id": "HBLmrRoto57axCSMpLiq",
@@ -724,6 +734,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "5 x LASP-031  Ripper Leg 30\""
+      },
+      {
+        "id": "WSpqKlyK8c1xIqHpJ1Kn",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 3261.5,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "2 x IHRYR255002C   Multicore Cable 2.5mm x 2 Core"
       },
       {
         "id": "DP74nBqGJM0nPRinu1n9",
