@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-08-15T21:19:00.895Z",
+    "type": "removed",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Luke Skender",
+    "company": "GLENDALE PLANTATION",
+    "amount": 1872.2,
+    "status": "open",
+    "message": "Removed: Luke Skender (ROB's CUSTOM) - $1872.20"
+  },
+  {
     "date": "2026-08-14T21:22:59.085Z",
     "type": "added",
     "pipeline": "IRRIGATION",
