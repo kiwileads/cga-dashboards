@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-08-19T21:22:57.779Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "QUOC SU & THI THANH TRAN & DINH",
+    "company": "TRAN & DINH",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: QUOC SU & THI THANH TRAN & DINH (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-08-19T21:22:57.779Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "Al Holtham",
+    "company": "Janna",
+    "amount": 25975.25,
+    "prevAmount": 2575.25,
+    "message": "Al Holtham: value changed $2575.25 -> $25975.25 (+23400.00)"
+  },
+  {
+    "date": "2026-08-19T21:22:57.779Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701",
+    "company": "GIULIANO CONDO",
+    "amount": 5467.88,
+    "prevAmount": 0,
+    "message": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701: value changed $0.00 -> $5467.88 (+5467.88)"
+  },
+  {
+    "date": "2026-08-19T21:22:57.779Z",
+    "type": "status_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701",
+    "company": "GIULIANO CONDO",
+    "amount": 5467.88,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701: status changed open -> won"
+  },
+  {
     "date": "2026-08-15T21:19:00.895Z",
     "type": "removed",
     "pipeline": "ROB's CUSTOM",

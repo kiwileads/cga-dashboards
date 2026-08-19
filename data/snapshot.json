@@ -298,6 +298,112 @@
     ]
   },
   {
+    "pipelineName": "GENERAL MERCH",
+    "status": "open",
+    "opps": [
+      {
+        "id": "bkLzj2WSSgKa1CQLQI5e",
+        "name": "QUOC SU & THI THANH TRAN & DINH",
+        "company": "TRAN & DINH",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "260 X PINE POST 3.0 METER 125MM"
+      },
+      {
+        "id": "1PgkwVRz10QmFRyAz0Yv",
+        "name": "CYCLONE NARELLE",
+        "company": "GLENDALE PLANTATION",
+        "amount": 5423.44,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "350 X GYRONET COMPLET KIT SPRINKLERS\n6 X 200MTR X 25MM TRICKLE TUBE\n100 X PINE POST 2.4MTR 100-125MM\n23.07.26 - QUOTED AND EMAILDE TO RICK QU-04171"
+      },
+      {
+        "id": "lTim1emgJZVjKrAnwUJI",
+        "name": "INSURRANCE GRANT QUOTE",
+        "company": "OWEN and Romeo De Boni",
+        "amount": 9487.38,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "20 X PIPNE POLE 4.8M X 225-250MM\n3 X 50MTER X 70% BLACK SHADECLOTH\n1000 X BUTTERFLY CLIPS\n1 X WIRE ROLL 2.80MM X 1000MTR HIGH TENSILE\n\n22.07.26- EMAILED OWEN QU-04168"
+      },
+      {
+        "id": "N2NygvcIiIk7Sphix2E1",
+        "name": "SEA CONTAINER + FOOTING",
+        "company": "GOLF",
+        "amount": 7089.5,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QUOTE FOR \n1 X 20FT SEA CONTAINER\nCYCLONE RATED FOOTING"
+      },
+      {
+        "id": "mhHFMjOvW8YNpIMHSfXB",
+        "name": "FERRARI TRACTOR PARTS",
+        "company": "J PONTE HOLDINGS",
+        "amount": 1069.8,
+        "status": "open",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000\n\n10.06.26- 1 TANK AND 1 LID ARRIVED AND SOLD ON INV-448365\n1 x TANK AND 1 LID ON BACKORDER ETA TBA"
+      },
+      {
+        "id": "T6uQ2EwZKomDzUqSFLM2",
+        "name": "STONE FRUIT PLIX LINERS",
+        "company": "J & P CONSTANTINE",
+        "amount": 0,
+        "status": "open",
+        "stage": "WAITING ON SUPPLIER",
+        "isNew": "Yes",
+        "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
+      },
+      {
+        "id": "Kqjaw6ACX6TtbpKfikHs",
+        "name": "GENERAL MERCH",
+        "company": "DAVENPORT PRODUCE (LED)",
+        "amount": 0,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": "Yes",
+        "notes": "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO EMEILED TO LUKE.\n04.06.26 - CUSTOMER HAS GON IN A DIFFERENT DIRECTION."
+      },
+      {
+        "id": "SSbQzlenrNHtqiN6rVFX",
+        "name": "BLUE STRING",
+        "company": "GIANG TRAN FAMILY TRUST",
+        "amount": 1958.88,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": null,
+        "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
+      },
+      {
+        "id": "KRtgLQyPEivHB2Z64bpL",
+        "name": "TRAN2 - DARK BLUE TWINE",
+        "company": "CRNARVON GROWERS",
+        "amount": 9402.62,
+        "status": "open",
+        "stage": "LOST",
+        "isNew": null,
+        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
+      },
+      {
+        "id": "wDf7YAn50jpybsFaW0ga",
+        "name": "Al Holtham",
+        "company": "Janna",
+        "amount": 25975.25,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS.\n02/07/26- NEW QU-04141 EMAILED TO JAMIE @ SHIRE AND TO AL"
+      }
+    ]
+  },
+  {
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
@@ -380,112 +486,6 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
-      }
-    ]
-  },
-  {
-    "pipelineName": "GENERAL MERCH",
-    "status": "open",
-    "opps": [
-      {
-        "id": "ljSQCMhDFHoHadRZm2e8",
-        "name": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701",
-        "company": "GIULIANO CONDO",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X IDS 1701 DIAPHRAGM PUMP\n1 X ARAG WOLF FLOW METER 10-200L/MIN \n"
-      },
-      {
-        "id": "1PgkwVRz10QmFRyAz0Yv",
-        "name": "CYCLONE NARELLE",
-        "company": "GLENDALE PLANTATION",
-        "amount": 5423.44,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "350 X GYRONET COMPLET KIT SPRINKLERS\n6 X 200MTR X 25MM TRICKLE TUBE\n100 X PINE POST 2.4MTR 100-125MM\n23.07.26 - QUOTED AND EMAILDE TO RICK QU-04171"
-      },
-      {
-        "id": "lTim1emgJZVjKrAnwUJI",
-        "name": "INSURRANCE GRANT QUOTE",
-        "company": "OWEN and Romeo De Boni",
-        "amount": 9487.38,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "20 X PIPNE POLE 4.8M X 225-250MM\n3 X 50MTER X 70% BLACK SHADECLOTH\n1000 X BUTTERFLY CLIPS\n1 X WIRE ROLL 2.80MM X 1000MTR HIGH TENSILE\n\n22.07.26- EMAILED OWEN QU-04168"
-      },
-      {
-        "id": "N2NygvcIiIk7Sphix2E1",
-        "name": "SEA CONTAINER + FOOTING",
-        "company": "GOLF",
-        "amount": 7089.5,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "QUOTE FOR \n1 X 20FT SEA CONTAINER\nCYCLONE RATED FOOTING"
-      },
-      {
-        "id": "mhHFMjOvW8YNpIMHSfXB",
-        "name": "FERRARI TRACTOR PARTS",
-        "company": "J PONTE HOLDINGS",
-        "amount": 1069.8,
-        "status": "open",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "MIRCO BROS\nOVERFLOW TANK -P23634000000\nTANK LID - P23622000000\n\n10.06.26- 1 TANK AND 1 LID ARRIVED AND SOLD ON INV-448365\n1 x TANK AND 1 LID ON BACKORDER ETA TBA"
-      },
-      {
-        "id": "T6uQ2EwZKomDzUqSFLM2",
-        "name": "STONE FRUIT PLIX LINERS",
-        "company": "J & P CONSTANTINE",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
-      },
-      {
-        "id": "Kqjaw6ACX6TtbpKfikHs",
-        "name": "GENERAL MERCH",
-        "company": "DAVENPORT PRODUCE (LED)",
-        "amount": 0,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": "Yes",
-        "notes": "Qty 3000m of 890mm plastic\nQty 3000m of 10mm medium or high flow T tape. Please quote Rivulin and Netafim if you can. Max roll width of 400mm\nQty 100 barbed connectors for connecting T-Tape into sub-mains\nQty 50m of soft pipe to attach T-tape to sub-main\nQty 200 hose clips for the above\nQty 400m of 2\" sub-main soft retic pipe\nQty 4, 2\" 90 deg elbows\nQty 20, 2\" Stainless hose clips\nQty 4, 2\" barbed connector\nQty 50 pine end posts\nQty 3200m wire for crop support\nQty 4000 sticks for crop support\n\n11/4/26\nABOVE QUOTE ON QU-04056 ALSO EMEILED TO LUKE.\n04.06.26 - CUSTOMER HAS GON IN A DIFFERENT DIRECTION."
-      },
-      {
-        "id": "SSbQzlenrNHtqiN6rVFX",
-        "name": "BLUE STRING",
-        "company": "GIANG TRAN FAMILY TRUST",
-        "amount": 1958.88,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": null,
-        "notes": "P70240 - 40 ROLLS BLUE TWINE.\n\nLOST DUE TO CYCLONE"
-      },
-      {
-        "id": "KRtgLQyPEivHB2Z64bpL",
-        "name": "TRAN2 - DARK BLUE TWINE",
-        "company": "CRNARVON GROWERS",
-        "amount": 9402.62,
-        "status": "open",
-        "stage": "LOST",
-        "isNew": null,
-        "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
-      },
-      {
-        "id": "wDf7YAn50jpybsFaW0ga",
-        "name": "Al Holtham",
-        "company": "Janna",
-        "amount": 2575.25,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS.\n02/07/26- NEW QU-04141 EMAILED TO JAMIE @ SHIRE AND TO AL"
       }
     ]
   },
@@ -1799,6 +1799,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "won",
     "opps": [
+      {
+        "id": "ljSQCMhDFHoHadRZm2e8",
+        "name": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701",
+        "company": "GIULIANO CONDO",
+        "amount": 5467.88,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X IDS 1701 DIAPHRAGM PUMP\n1 X ARAG WOLF FLOW METER 10-200L/MIN \n"
+      },
       {
         "id": "Sdzb1mHE226XaKtQvj9y",
         "name": "200LT DIESEL TANK - KIWI CENTURION",
