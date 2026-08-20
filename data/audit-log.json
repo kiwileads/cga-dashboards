@@ -1,5 +1,46 @@
 [
   {
+    "date": "2026-08-20T21:25:33.912Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 9823.26,
+    "status": "open",
+    "message": "New opportunity: Ray Elaine Skender (ROB's CUSTOM) - $9823.26"
+  },
+  {
+    "date": "2026-08-20T21:25:33.912Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Gerry Elizabeth Guglielmana",
+    "company": "E GUGLIELMANA & G GUGLIELMANA & L GUGLIELMANA",
+    "amount": 4766.3,
+    "status": "open",
+    "message": "New opportunity: Gerry Elizabeth Guglielmana (ROB's CUSTOM) - $4766.30"
+  },
+  {
+    "date": "2026-08-20T21:25:33.912Z",
+    "type": "removed",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Oscar Leca",
+    "company": "J & M LECA",
+    "amount": 5260.2,
+    "status": "open",
+    "message": "Removed: Oscar Leca (ROB's CUSTOM) - $5260.20"
+  },
+  {
+    "date": "2026-08-20T21:25:33.912Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Severin Gugich",
+    "company": "A & N Gugich Plantation",
+    "amount": 1485,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Severin Gugich: status changed open -> won"
+  },
+  {
     "date": "2026-08-19T21:22:57.779Z",
     "type": "added",
     "pipeline": "GENERAL MERCH",

@@ -166,14 +166,24 @@
     "status": "open",
     "opps": [
       {
-        "id": "WaxljTLcN77jETtg4ds7",
-        "name": "Oscar Leca",
-        "company": "J & M LECA",
-        "amount": 5260.2,
+        "id": "GSsPnBeNRUu1kmGsC44a",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 9823.26,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "P/O GENERATED",
         "isNew": "Yes",
-        "notes": "100 x YPP24150 (2 prices due to current stock of 50)"
+        "notes": "QU-04193   Automated System for Irrigation"
+      },
+      {
+        "id": "tXZ5DTKFjIvQbjzgmfNv",
+        "name": "Gerry Elizabeth Guglielmana",
+        "company": "E GUGLIELMANA & G GUGLIELMANA & L GUGLIELMANA",
+        "amount": 4766.3,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04195 Refer Laurie   10 x ITI-D200-DV-2HS"
       },
       {
         "id": "k9dlP69p9WsScOM24bYB",
@@ -184,16 +194,6 @@
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "QU-04160   17/07/26"
-      },
-      {
-        "id": "4dlpiZTDueW0oiJ1zewH",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 1485,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": ""
       },
       {
         "id": "S6jInFylitJsqeBUmNn4",
@@ -804,6 +804,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "1 X WPSX-MUGB12J-246 Starline Pump 15kw\nQU-04133 dated 22/06/26\nP/O 53838  14/07/26\n"
+      },
+      {
+        "id": "4dlpiZTDueW0oiJ1zewH",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 1485,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": ""
       },
       {
         "id": "Kjn3SQxsabb73Ti1emOs",
