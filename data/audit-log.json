@@ -1,5 +1,72 @@
 [
   {
+    "date": "2026-08-25T21:25:44.527Z",
+    "type": "added",
+    "pipeline": "CUSTOM BOXES",
+    "name": "137MM H/E GRAPE BOX",
+    "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+    "amount": 22590,
+    "status": "open",
+    "message": "New opportunity: 137MM H/E GRAPE BOX (CUSTOM BOXES) - $22590.00"
+  },
+  {
+    "date": "2026-08-25T21:25:44.527Z",
+    "type": "value_change",
+    "pipeline": "CUSTOM BOXES",
+    "name": "137MM H/E GRAPE BOX",
+    "company": "BUMBAK & SONS",
+    "amount": 175700,
+    "prevAmount": 173600,
+    "message": "137MM H/E GRAPE BOX: value changed $173600.00 -> $175700.00 (+2100.00)"
+  },
+  {
+    "date": "2026-08-25T21:25:44.527Z",
+    "type": "renamed",
+    "pipeline": "CUSTOM BOXES",
+    "name": "137MM H/E GRAPE BOX",
+    "company": "BUMBAK & SONS",
+    "amount": 175700,
+    "message": "Renamed: \"Dennis Mark David Bumbak\" -> \"137MM H/E GRAPE BOX\""
+  },
+  {
+    "date": "2026-08-25T21:25:44.527Z",
+    "type": "value_change",
+    "pipeline": "CUSTOM BOXES",
+    "name": "137MM H/E GRAPE BOX",
+    "company": "Janna",
+    "amount": 37620,
+    "prevAmount": 37200,
+    "message": "137MM H/E GRAPE BOX: value changed $37200.00 -> $37620.00 (+420.00)"
+  },
+  {
+    "date": "2026-08-25T21:25:44.527Z",
+    "type": "renamed",
+    "pipeline": "CUSTOM BOXES",
+    "name": "137MM H/E GRAPE BOX",
+    "company": "Janna",
+    "amount": 37620,
+    "message": "Renamed: \"Al Holtham\" -> \"137MM H/E GRAPE BOX\""
+  },
+  {
+    "date": "2026-08-25T21:25:44.527Z",
+    "type": "value_change",
+    "pipeline": "CUSTOM BOXES",
+    "name": "137MM H/E GRAPE BOX",
+    "company": "GLENDALE PLANTATION",
+    "amount": 27610,
+    "prevAmount": 37200,
+    "message": "137MM H/E GRAPE BOX: value changed $37200.00 -> $27610.00 (-9590.00)"
+  },
+  {
+    "date": "2026-08-25T21:25:44.527Z",
+    "type": "renamed",
+    "pipeline": "CUSTOM BOXES",
+    "name": "137MM H/E GRAPE BOX",
+    "company": "GLENDALE PLANTATION",
+    "amount": 27610,
+    "message": "Renamed: \"LUKE SKENDER\" -> \"137MM H/E GRAPE BOX\""
+  },
+  {
     "date": "2026-08-20T21:25:33.912Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
