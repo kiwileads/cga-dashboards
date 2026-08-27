@@ -176,24 +176,44 @@
     "status": "open",
     "opps": [
       {
+        "id": "nhTavNiRXfwDrFjFKs7b",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 825,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04204 Dated 26/08/26"
+      },
+      {
+        "id": "HSsmX7S8TYxvSQ8M5N9A",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 1686.74,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04203 Dated 26/08/26"
+      },
+      {
+        "id": "l478Qt7fUBeBi3iNyu1c",
+        "name": "Ben Laura Ivey",
+        "company": "B & L IVEY",
+        "amount": 6088,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "QU-04164   1 x #SIL-SLF10000D-1"
+      },
+      {
         "id": "GSsPnBeNRUu1kmGsC44a",
         "name": "Ray Elaine Skender",
         "company": "SKENDER PTY LTD",
         "amount": 9823.26,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "DELIVERY DELAYED",
         "isNew": "Yes",
         "notes": "QU-04193   Automated System for Irrigation"
-      },
-      {
-        "id": "tXZ5DTKFjIvQbjzgmfNv",
-        "name": "Gerry Elizabeth Guglielmana",
-        "company": "E GUGLIELMANA & G GUGLIELMANA & L GUGLIELMANA",
-        "amount": 4766.3,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "QU-04195 Refer Laurie   10 x ITI-D200-DV-2HS"
       },
       {
         "id": "k9dlP69p9WsScOM24bYB",
@@ -241,7 +261,7 @@
         "company": "CORAL COAST PLUMBING PTY LTD",
         "amount": 1123.98,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "DELIVERY ON SCHEDULE",
         "isNew": "No",
         "notes": "Quote #QU-04103\n4 x SS2BV080"
       },
@@ -299,11 +319,11 @@
         "id": "eC9GntEmn2EJNBKOkAgw",
         "name": "Dennis Durmanich - Irrigation setup",
         "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 7112,
+        "amount": 8976.13,
         "status": "open",
         "stage": "STORED/SHELVED",
         "isNew": "Yes",
-        "notes": "This is a trial. If it works prospect of another 4 units in addition."
+        "notes": "This is a trial. If it works prospect of another 4 units in addition.\nQU-04202   Dated 26/08/26"
       }
     ]
   },
@@ -365,9 +385,9 @@
         "id": "T6uQ2EwZKomDzUqSFLM2",
         "name": "STONE FRUIT PLIX LINERS",
         "company": "J & P CONSTANTINE",
-        "amount": 0,
+        "amount": 3238.62,
         "status": "open",
-        "stage": "WAITING ON SUPPLIER",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "STONE FRUIT PLIX LINERS\n1 X BOX OF 40 COUNT \n4 X BOXES OF 36 COUNT\n4 X BOXES OF 32 COUNT \n1 X BOX OF 28 COUNT \n2 X BOXES OF 25 COUNT\n\n1.05.26- EMAILED QUALITY PACKEGING FOR PRICING"
       },
@@ -417,16 +437,6 @@
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
-      {
-        "id": "AbQMZNSE2ZXnxhmEHIov",
-        "name": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 659.12,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X 24VDC ELECTRIC ACTUATOR 50MM BUTTERFLY VALVE TVC\nTHIS HAS TO BE PURCHASED IN 3 PARTS AND ASSEMBLED BY SUPPLIER\n"
-      },
       {
         "id": "2zXDxqkmApCqPdvhXJeA",
         "name": "NETAFIM DOSING SOLINOID",
@@ -665,6 +675,26 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "6gpTqlwEAnUR24wJYVl2",
+        "name": "Rick Hoang",
+        "company": "G'DOO PLANTATION",
+        "amount": 2014.32,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04156"
+      },
+      {
+        "id": "tXZ5DTKFjIvQbjzgmfNv",
+        "name": "Gerry Elizabeth Guglielmana",
+        "company": "E GUGLIELMANA & G GUGLIELMANA & L GUGLIELMANA",
+        "amount": 4766.3,
+        "status": "won",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "QU-04195 Refer Laurie   10 x ITI-D200-DV-2HS"
+      },
       {
         "id": "0pgjiSDCAnnHO3f0qLLA",
         "name": "Robert Ashley Scott",
@@ -1390,16 +1420,6 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": null,
         "notes": "OPPORTUNITY PRICE BASED \\$1410+GST PER BOTTLE"
-      },
-      {
-        "id": "2oqQH5amnYj7nJSN1Ec6",
-        "name": "Denis Durmanich",
-        "company": "ACE PRODUCE",
-        "amount": 28017,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": "OPPORTUNITY VALUE BASED ON \\$1273.50+GST PER BOTTLE"
       }
     ]
   },
@@ -1588,16 +1608,6 @@
         "notes": "1 X 1000KG BULK BAGS"
       },
       {
-        "id": "2GSHymb6Fm93tDBBmo2s",
-        "name": "ECO PRIME",
-        "company": "ACE PRODUCE",
-        "amount": 3979.44,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": "Yes",
-        "notes": "2 X 1000KG BULK BAGS"
-      },
-      {
         "id": "h7O4ANrLfOxq0At7ruGV",
         "name": "Al Holtham",
         "company": "Janna",
@@ -1613,6 +1623,16 @@
     "pipelineName": "IRRIGATION",
     "status": "won",
     "opps": [
+      {
+        "id": "AbQMZNSE2ZXnxhmEHIov",
+        "name": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 681.12,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 24VDC ELECTRIC ACTUATOR 50MM BUTTERFLY VALVE TVC\nTHIS HAS TO BE PURCHASED IN 3 PARTS AND ASSEMBLED BY SUPPLIER\n"
+      },
       {
         "id": "cj9mF737g6Npjmjcd0WR",
         "name": "GRUNDFOS SUBMERSIBLE PUMP",

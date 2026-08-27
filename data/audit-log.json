@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 825,
+    "status": "open",
+    "message": "New opportunity: Ray Elaine Skender (ROB's CUSTOM) - $825.00"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Severin Gugich",
+    "company": "A & N Gugich Plantation",
+    "amount": 1686.74,
+    "status": "open",
+    "message": "New opportunity: Severin Gugich (ROB's CUSTOM) - $1686.74"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ben Laura Ivey",
+    "company": "B & L IVEY",
+    "amount": 6088,
+    "status": "open",
+    "message": "New opportunity: Ben Laura Ivey (ROB's CUSTOM) - $6088.00"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Rick Hoang",
+    "company": "G'DOO PLANTATION",
+    "amount": 2014.32,
+    "status": "won",
+    "message": "New opportunity: Rick Hoang (ROB's CUSTOM) - $2014.32"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "removed",
+    "pipeline": "CHEMICALS",
+    "name": "Denis Durmanich",
+    "company": "ACE PRODUCE",
+    "amount": 28017,
+    "status": "won",
+    "message": "Removed: Denis Durmanich (CHEMICALS) - $28017.00"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "removed",
+    "pipeline": "FERTILIZER",
+    "name": "ECO PRIME",
+    "company": "ACE PRODUCE",
+    "amount": 3979.44,
+    "status": "won",
+    "message": "Removed: ECO PRIME (FERTILIZER) - $3979.44"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Dennis Durmanich - Irrigation setup",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 8976.13,
+    "prevAmount": 7112,
+    "message": "Dennis Durmanich - Irrigation setup: value changed $7112.00 -> $8976.13 (+1864.13)"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "value_change",
+    "pipeline": "GENERAL MERCH",
+    "name": "STONE FRUIT PLIX LINERS",
+    "company": "J & P CONSTANTINE",
+    "amount": 3238.62,
+    "prevAmount": 0,
+    "message": "STONE FRUIT PLIX LINERS: value changed $0.00 -> $3238.62 (+3238.62)"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Gerry Elizabeth Guglielmana",
+    "company": "E GUGLIELMANA & G GUGLIELMANA & L GUGLIELMANA",
+    "amount": 4766.3,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Gerry Elizabeth Guglielmana: status changed open -> won"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 681.12,
+    "prevAmount": 659.12,
+    "message": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC: value changed $659.12 -> $681.12 (+22.00)"
+  },
+  {
+    "date": "2026-08-27T00:27:34.478Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC",
+    "company": "DOUBLE UP FARMS PTY LTD",
+    "amount": 681.12,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC: status changed open -> won"
+  },
+  {
     "date": "2026-08-25T21:25:44.527Z",
     "type": "added",
     "pipeline": "CUSTOM BOXES",
