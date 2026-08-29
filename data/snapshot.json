@@ -181,7 +181,7 @@
         "company": "SKENDER PTY LTD",
         "amount": 825,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "QU-04204 Dated 26/08/26"
       },
@@ -194,26 +194,6 @@
         "stage": "P/O GENERATED",
         "isNew": "Yes",
         "notes": "QU-04203 Dated 26/08/26"
-      },
-      {
-        "id": "l478Qt7fUBeBi3iNyu1c",
-        "name": "Ben Laura Ivey",
-        "company": "B & L IVEY",
-        "amount": 6088,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "QU-04164   1 x #SIL-SLF10000D-1"
-      },
-      {
-        "id": "GSsPnBeNRUu1kmGsC44a",
-        "name": "Ray Elaine Skender",
-        "company": "SKENDER PTY LTD",
-        "amount": 9823.26,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "Yes",
-        "notes": "QU-04193   Automated System for Irrigation"
       },
       {
         "id": "k9dlP69p9WsScOM24bYB",
@@ -684,6 +664,26 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04156"
+      },
+      {
+        "id": "l478Qt7fUBeBi3iNyu1c",
+        "name": "Ben Laura Ivey",
+        "company": "B & L IVEY",
+        "amount": 6088,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04164   1 x #SIL-SLF10000D-1"
+      },
+      {
+        "id": "GSsPnBeNRUu1kmGsC44a",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 9823.26,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04193   Automated System for Irrigation"
       },
       {
         "id": "tXZ5DTKFjIvQbjzgmfNv",
