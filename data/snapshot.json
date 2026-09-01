@@ -186,16 +186,6 @@
         "notes": "1 x WPG-99652350\nQU-04207"
       },
       {
-        "id": "nhTavNiRXfwDrFjFKs7b",
-        "name": "Ray Elaine Skender",
-        "company": "SKENDER PTY LTD",
-        "amount": 825,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "QU-04204 Dated 26/08/26"
-      },
-      {
         "id": "HSsmX7S8TYxvSQ8M5N9A",
         "name": "Severin Gugich",
         "company": "A & N Gugich Plantation",
@@ -304,16 +294,6 @@
         "stage": "STORED/SHELVED",
         "isNew": "No",
         "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
-      },
-      {
-        "id": "eC9GntEmn2EJNBKOkAgw",
-        "name": "Dennis Durmanich - Irrigation setup",
-        "company": "DOUBLE UP FARMS PTY LTD",
-        "amount": 8976.13,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "This is a trial. If it works prospect of another 4 units in addition.\nQU-04202   Dated 26/08/26"
       }
     ]
   },
@@ -665,6 +645,26 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "CZ4DduU3q91TfGxR14Rm",
+        "name": "Lulich Ag",
+        "company": "",
+        "amount": 737.07,
+        "status": "won",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "nhTavNiRXfwDrFjFKs7b",
+        "name": "Ray Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 275,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04204 Dated 26/08/26"
+      },
       {
         "id": "6gpTqlwEAnUR24wJYVl2",
         "name": "Rick Hoang",
@@ -1284,6 +1284,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "QUOTE #QU-04068 - ACCEPTED\nRETICULATION SPARES\nINV-446908\n"
+      },
+      {
+        "id": "eC9GntEmn2EJNBKOkAgw",
+        "name": "Dennis Durmanich - Irrigation setup",
+        "company": "DOUBLE UP FARMS PTY LTD",
+        "amount": 8886.06,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "This is a trial. If it works prospect of another 4 units in addition.\nQU-04202   Dated 26/08/26"
       }
     ]
   },
