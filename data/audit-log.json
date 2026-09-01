@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-01T00:23:08.333Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Adam Hamersley",
+    "company": "Adam Hamersley",
+    "amount": 3101.84,
+    "status": "open",
+    "message": "New opportunity: Adam Hamersley (ROB's CUSTOM) - $3101.84"
+  },
+  {
     "date": "2026-08-29T03:04:35.400Z",
     "type": "status_change",
     "pipeline": "ROB's CUSTOM",

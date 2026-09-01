@@ -176,6 +176,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "RIj9FrtDaxpCSuLRw6k0",
+        "name": "Adam Hamersley",
+        "company": "Adam Hamersley",
+        "amount": 3101.84,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "1 x WPG-99652350\nQU-04207"
+      },
+      {
         "id": "nhTavNiRXfwDrFjFKs7b",
         "name": "Ray Elaine Skender",
         "company": "SKENDER PTY LTD",
