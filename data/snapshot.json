@@ -418,6 +418,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "ZGJfFHlu2lTBb8McPLm9",
+        "name": "ROBBIE & KARREN MALLARD",
+        "company": "MALLARD CONTRACTING PTY LTD",
+        "amount": 11025.67,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "7 X 40MM BLUELINE POLY PN12.5 150MTR\n13 X 50MM BLUELINE POLY PN12.5 150MTR\n15 X METRIC COUPLING 50MM\n8 X METRIC COUPLING 40MM\n4 X METRIC MALE ADAPTOR 50 X 1.1/2\"\n4 X METRIC FEMALE ADAPTOR 40 X 1.1/2\"\n\nALL AITEMS AVAILABLE EX STOCK QUOTED ON QU-04211"
+      },
+      {
         "id": "2zXDxqkmApCqPdvhXJeA",
         "name": "NETAFIM DOSING SOLINOID",
         "company": "BUMBAK & SONS",

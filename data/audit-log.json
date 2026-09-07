@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-07T23:16:38.941Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "ROBBIE & KARREN MALLARD",
+    "company": "MALLARD CONTRACTING PTY LTD",
+    "amount": 11025.67,
+    "status": "open",
+    "message": "New opportunity: ROBBIE & KARREN MALLARD (IRRIGATION) - $11025.67"
+  },
+  {
     "date": "2026-09-03T22:58:32.102Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
