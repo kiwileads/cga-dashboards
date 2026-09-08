@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-08T23:11:21.411Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Des Williamson",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 1123.98,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Des Williamson: status changed open -> won"
+  },
+  {
+    "date": "2026-09-08T23:11:21.411Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Des Williamson",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 2104.67,
+    "prevAmount": 1609.64,
+    "message": "Des Williamson: value changed $1609.64 -> $2104.67 (+495.03)"
+  },
+  {
+    "date": "2026-09-08T23:11:21.411Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Des Williamson",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 2104.67,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Des Williamson: status changed open -> won"
+  },
+  {
     "date": "2026-09-07T23:16:38.941Z",
     "type": "added",
     "pipeline": "IRRIGATION",

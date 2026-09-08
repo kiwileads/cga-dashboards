@@ -172,142 +172,6 @@
     ]
   },
   {
-    "pipelineName": "ROB's CUSTOM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "voVXa2XHWfZ8zFb9b7JV",
-        "name": "SILVAN 55LT TROLLEY SPRAYER",
-        "company": "A & N Gugich Plantation",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": null,
-        "notes": "QUOTE ON\n1 X 55LT SILVAN TROLLEY SPRAYER \nSILVAN P/N: SP55-B2TR5\n\nPLEASE CONFIRM WITH SILVAN THAT THIS IS A PUSH TROLLEY NOT ONE YOU NEED TO TOW AND IF TROLLEY COMES WITH FLAT FREE WHEELS.\n\n"
-      },
-      {
-        "id": "RIj9FrtDaxpCSuLRw6k0",
-        "name": "Adam Hamersley",
-        "company": "Adam Hamersley",
-        "amount": 3101.84,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "1 x WPG-99652350\nQU-04207"
-      },
-      {
-        "id": "HSsmX7S8TYxvSQ8M5N9A",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 1686.74,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "QU-04203 Dated 26/08/26"
-      },
-      {
-        "id": "k9dlP69p9WsScOM24bYB",
-        "name": "Warren Schmidt",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 310.53,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "QU-04160   17/07/26"
-      },
-      {
-        "id": "S6jInFylitJsqeBUmNn4",
-        "name": "Desmond Williamson",
-        "company": "CORAL COAST PLUMBING",
-        "amount": 5005,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
-      },
-      {
-        "id": "71YvPkoE5bwVWQv4SQip",
-        "name": "Kevin David Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 2330.52,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "No",
-        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
-      },
-      {
-        "id": "ocu1LWCN0Fg30o0yYlMC",
-        "name": "PVC PIPE #9 150mm",
-        "company": "CAIDAN PRODUCE PTY LTD",
-        "amount": 39243.8,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
-      },
-      {
-        "id": "VLnq6o0sIl99WPSD302u",
-        "name": "Des Williamson",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 1123.98,
-        "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
-        "isNew": "No",
-        "notes": "Quote #QU-04103\n4 x SS2BV080"
-      },
-      {
-        "id": "51nqbYTC9ltyNz3FyfvC",
-        "name": "Des Williamson",
-        "company": "CORAL COAST PLUMBING PTY LTD",
-        "amount": 1609.64,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "No",
-        "notes": "Irrigation Job QU-04099 for Des"
-      },
-      {
-        "id": "ktXK6tFhEl46wLb1qq9W",
-        "name": "Irrigation Spares",
-        "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
-        "amount": 2606.92,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
-      },
-      {
-        "id": "07d7BFN2g8Ld8YUwcBuv",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
-      },
-      {
-        "id": "LfFkMX1JFz9bFCoJ0NRk",
-        "name": "STARLINE PUMP x 1  (Total = 3)",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 3960,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
-      },
-      {
-        "id": "JrMij5xImsKkOJKMeQ0H",
-        "name": "HONDA PUMP - GX160",
-        "company": "KINSANG FRESH PTY LTD",
-        "amount": 1876.6,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "No",
-        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
-      }
-    ]
-  },
-  {
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
@@ -410,6 +274,122 @@
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "PINE POSTS\nOPPORTUNITY BASED ON INVETORY PRICE OF 26.62+GST\n\n16/4/26\nSPOKE TO CLIENT HE IS IN BALI WILL CATCH UP WHEN HE RETURNS.\n02/07/26- NEW QU-04141 EMAILED TO JAMIE @ SHIRE AND TO AL"
+      }
+    ]
+  },
+  {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "voVXa2XHWfZ8zFb9b7JV",
+        "name": "SILVAN 55LT TROLLEY SPRAYER",
+        "company": "A & N Gugich Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": null,
+        "notes": "QUOTE ON\n1 X 55LT SILVAN TROLLEY SPRAYER \nSILVAN P/N: SP55-B2TR5\n\nPLEASE CONFIRM WITH SILVAN THAT THIS IS A PUSH TROLLEY NOT ONE YOU NEED TO TOW AND IF TROLLEY COMES WITH FLAT FREE WHEELS.\n\n"
+      },
+      {
+        "id": "RIj9FrtDaxpCSuLRw6k0",
+        "name": "Adam Hamersley",
+        "company": "Adam Hamersley",
+        "amount": 3101.84,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "1 x WPG-99652350\nQU-04207"
+      },
+      {
+        "id": "HSsmX7S8TYxvSQ8M5N9A",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 1686.74,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04203 Dated 26/08/26"
+      },
+      {
+        "id": "k9dlP69p9WsScOM24bYB",
+        "name": "Warren Schmidt",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 310.53,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QU-04160   17/07/26"
+      },
+      {
+        "id": "S6jInFylitJsqeBUmNn4",
+        "name": "Desmond Williamson",
+        "company": "GOLF",
+        "amount": 5005,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
+      },
+      {
+        "id": "71YvPkoE5bwVWQv4SQip",
+        "name": "Kevin David Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 2330.52,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "No",
+        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
+      },
+      {
+        "id": "ocu1LWCN0Fg30o0yYlMC",
+        "name": "PVC PIPE #9 150mm",
+        "company": "CAIDAN PRODUCE PTY LTD",
+        "amount": 39243.8,
+        "status": "open",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
+      },
+      {
+        "id": "ktXK6tFhEl46wLb1qq9W",
+        "name": "Irrigation Spares",
+        "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
+        "amount": 2606.92,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
+      },
+      {
+        "id": "07d7BFN2g8Ld8YUwcBuv",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 2369.4,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
+      },
+      {
+        "id": "LfFkMX1JFz9bFCoJ0NRk",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
+      },
+      {
+        "id": "JrMij5xImsKkOJKMeQ0H",
+        "name": "HONDA PUMP - GX160",
+        "company": "KINSANG FRESH PTY LTD",
+        "amount": 1876.6,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "No",
+        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
       }
     ]
   },
@@ -671,7 +651,7 @@
         "company": "",
         "amount": 737.07,
         "status": "won",
-        "stage": "STORED/SHELVED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": ""
       },
@@ -1066,6 +1046,16 @@
         "notes": "6 x TAPPING SADDLES - 2\" x 1\""
       },
       {
+        "id": "VLnq6o0sIl99WPSD302u",
+        "name": "Des Williamson",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 1123.98,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "Quote #QU-04103\n4 x SS2BV080"
+      },
+      {
         "id": "nsb3mztbLM2U2MP6dnrH",
         "name": "Sean Walker",
         "company": "Shire of Upper Gascoyne",
@@ -1084,6 +1074,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04072 Dated 22/4/2026\n1 x WPG-96160405\n1 x WPG-SQF2.5-2N \n2 x WPG-SQ2-70N"
+      },
+      {
+        "id": "51nqbYTC9ltyNz3FyfvC",
+        "name": "Des Williamson",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 2104.67,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "Irrigation Job QU-04099 for Des"
       },
       {
         "id": "8ayBcjb3omGIG0w46taD",
