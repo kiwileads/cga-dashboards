@@ -4,6 +4,36 @@
     "status": "open",
     "opps": [
       {
+        "id": "wq1UncKUzBfG3HwZZOjN",
+        "name": "ECOADVACE V1 SPECIAL BLEND",
+        "company": "A & N Gugich Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "cBWsy1VGj0VarzaRJzX3",
+        "name": "ECO GROWTH SUPER COPPER ZINK MOLLY",
+        "company": "NOBREGA PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "50X 20KG BAGS ECOGROWTH SCZM"
+      },
+      {
+        "id": "fC0jtgr223QtymBjVo6y",
+        "name": "FERTILIZER",
+        "company": "River Orchard Pty Ltd",
+        "amount": 14148.36,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "48 X HAIFA POTASSIUM NITRATE\n48 X HAIFA POLYFEED HIGH K\n40 X UREA\n48 X YARA CALCIUM NITRATE\n1 X BULK BAG CAL NITE (DELTA)\n48 CAL NITE 25KG BAGS (MUIRS)\n1 X HAIFA ABSOLUTE CAL 25KG\n1 X 20LT ECO FISH\n\n16/09/2026 - QUOTED ON QU-04219"
+      },
+      {
         "id": "jHMb6IEYlrp7IY6Dv9I7",
         "name": "ECO RED QUOTE",
         "company": "FATTY'S FARMS",
@@ -82,122 +112,6 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "BULK BAG GRANULAR POTASSIUM SULPHATE\nOPORTUNITY LOST DUE TO GOING DIFFERENT DIRRECTION."
-      }
-    ]
-  },
-  {
-    "pipelineName": "ROB's CUSTOM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "voVXa2XHWfZ8zFb9b7JV",
-        "name": "SILVAN 55LT TROLLEY SPRAYER",
-        "company": "A & N Gugich Plantation",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": null,
-        "notes": "QUOTE ON\n1 X 55LT SILVAN TROLLEY SPRAYER \nSILVAN P/N: SP55-B2TR5\n\nPLEASE CONFIRM WITH SILVAN THAT THIS IS A PUSH TROLLEY NOT ONE YOU NEED TO TOW AND IF TROLLEY COMES WITH FLAT FREE WHEELS.\n\n"
-      },
-      {
-        "id": "RIj9FrtDaxpCSuLRw6k0",
-        "name": "Adam Hamersley",
-        "company": "Adam Hamersley",
-        "amount": 3101.84,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "1 x WPG-99652350\nQU-04207"
-      },
-      {
-        "id": "HSsmX7S8TYxvSQ8M5N9A",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 1686.74,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "QU-04203 Dated 26/08/26"
-      },
-      {
-        "id": "k9dlP69p9WsScOM24bYB",
-        "name": "Warren Schmidt",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 310.53,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "QU-04160   17/07/26"
-      },
-      {
-        "id": "S6jInFylitJsqeBUmNn4",
-        "name": "Desmond Williamson",
-        "company": "GOLF",
-        "amount": 5005,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
-      },
-      {
-        "id": "71YvPkoE5bwVWQv4SQip",
-        "name": "Kevin David Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 2330.52,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "No",
-        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
-      },
-      {
-        "id": "ocu1LWCN0Fg30o0yYlMC",
-        "name": "PVC PIPE #9 150mm",
-        "company": "CAIDAN PRODUCE PTY LTD",
-        "amount": 39243.8,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
-      },
-      {
-        "id": "ktXK6tFhEl46wLb1qq9W",
-        "name": "Irrigation Spares",
-        "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
-        "amount": 2606.92,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
-      },
-      {
-        "id": "07d7BFN2g8Ld8YUwcBuv",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
-      },
-      {
-        "id": "LfFkMX1JFz9bFCoJ0NRk",
-        "name": "STARLINE PUMP x 1  (Total = 3)",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 3960,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
-      },
-      {
-        "id": "JrMij5xImsKkOJKMeQ0H",
-        "name": "HONDA PUMP - GX160",
-        "company": "KINSANG FRESH PTY LTD",
-        "amount": 1876.6,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "No",
-        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
       }
     ]
   },
@@ -284,6 +198,92 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
+      }
+    ]
+  },
+  {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "voVXa2XHWfZ8zFb9b7JV",
+        "name": "SILVAN 55LT TROLLEY SPRAYER",
+        "company": "A & N Gugich Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": null,
+        "notes": "QUOTE ON\n1 X 55LT SILVAN TROLLEY SPRAYER \nSILVAN P/N: SP55-B2TR5\n\nPLEASE CONFIRM WITH SILVAN THAT THIS IS A PUSH TROLLEY NOT ONE YOU NEED TO TOW AND IF TROLLEY COMES WITH FLAT FREE WHEELS.\n\n"
+      },
+      {
+        "id": "HSsmX7S8TYxvSQ8M5N9A",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 1686.74,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "QU-04203 Dated 26/08/26"
+      },
+      {
+        "id": "k9dlP69p9WsScOM24bYB",
+        "name": "Warren Schmidt",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 310.53,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QU-04160   17/07/26"
+      },
+      {
+        "id": "S6jInFylitJsqeBUmNn4",
+        "name": "Desmond Williamson",
+        "company": "GOLF",
+        "amount": 5005,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
+      },
+      {
+        "id": "71YvPkoE5bwVWQv4SQip",
+        "name": "Kevin David Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 2330.52,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "No",
+        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
+      },
+      {
+        "id": "ocu1LWCN0Fg30o0yYlMC",
+        "name": "PVC PIPE #9 150mm",
+        "company": "CAIDAN PRODUCE PTY LTD",
+        "amount": 39243.8,
+        "status": "open",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
+      },
+      {
+        "id": "07d7BFN2g8Ld8YUwcBuv",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 2369.4,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
+      },
+      {
+        "id": "LfFkMX1JFz9bFCoJ0NRk",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
       }
     ]
   },
@@ -413,6 +413,16 @@
     "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
+      {
+        "id": "iOA4W5U0oetm23BGsXAE",
+        "name": "TIPAN TRADER MANGO WASH",
+        "company": "HARVEST ROAD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "50 X MANGO WASH SUPREME - TIPAN TRADERS"
+      },
       {
         "id": "wkYgrYt1flFlrnN2X6g6",
         "name": "CHEMICAL",
@@ -632,6 +642,26 @@
     "status": "won",
     "opps": [
       {
+        "id": "cv05CrS004tTvvEDGaH6",
+        "name": "Suzie Kent",
+        "company": "",
+        "amount": 2431,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "fH3h2qtReLVmLKvr9v1u",
+        "name": "Sean Challis",
+        "company": "REAL FUTURES PTY LTD",
+        "amount": 4393.86,
+        "status": "won",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
         "id": "CZ4DduU3q91TfGxR14Rm",
         "name": "Lulich Ag",
         "company": "",
@@ -640,6 +670,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": ""
+      },
+      {
+        "id": "RIj9FrtDaxpCSuLRw6k0",
+        "name": "Adam Hamersley",
+        "company": "Adam Hamersley",
+        "amount": 3101.84,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x WPG-99652350\nQU-04207"
       },
       {
         "id": "nhTavNiRXfwDrFjFKs7b",
@@ -1092,6 +1132,16 @@
         "notes": "QU-04043  Dated 3/04/26\nIrrigation Renewal Project headed by Kerien.\n3\" & 4\" Irrigation gear for Mango Block\n50 x IWFGR10TH still to arrive (\\$3.05 + gst)"
       },
       {
+        "id": "ktXK6tFhEl46wLb1qq9W",
+        "name": "Irrigation Spares",
+        "company": "RIVERSIDE FAMILY ORGANICS PTY LTD",
+        "amount": 5548.9,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "refer quotation # QU-04075 \nPoly Pipe 90mm Delayed till mid June"
+      },
+      {
         "id": "Ktq0RMOyi09qD9ldIxaA",
         "name": "GRUNDFOS PUMPS",
         "company": "HILL SPRINGS PASTORAL PTY LTD",
@@ -1230,6 +1280,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70232\nOUR CODE #MISCTYCWBUM\nCOLLECTED BY CUSTOMER INV-445709"
+      },
+      {
+        "id": "JrMij5xImsKkOJKMeQ0H",
+        "name": "HONDA PUMP - GX160",
+        "company": "KINSANG FRESH PTY LTD",
+        "amount": 1876.6,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "Honda Pump GX160 with reduction box 6:1 for Crawler."
       },
       {
         "id": "YVUm0NW2vDXAWs7FNsul",
