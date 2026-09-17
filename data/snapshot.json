@@ -9,7 +9,7 @@
         "company": "A & N Gugich Plantation",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": ""
       },
@@ -32,16 +32,6 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "48 X HAIFA POTASSIUM NITRATE\n48 X HAIFA POLYFEED HIGH K\n40 X UREA\n48 X YARA CALCIUM NITRATE\n1 X BULK BAG CAL NITE (DELTA)\n48 CAL NITE 25KG BAGS (MUIRS)\n1 X HAIFA ABSOLUTE CAL 25KG\n1 X 20LT ECO FISH\n\n16/09/2026 - QUOTED ON QU-04219"
-      },
-      {
-        "id": "jHMb6IEYlrp7IY6Dv9I7",
-        "name": "ECO RED QUOTE",
-        "company": "FATTY'S FARMS",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "QUOTE\n1 X 1/2 TONE BULK BAG ECO RED\n1 X 1 TONE BULK BAG ECO RED\n1 X 900X1000X30UM BLACK MULCH\n1 X 508-20-500 T-TAPE\n1 X CALCIUM NITRATE\n1 X KRISTALON SPECIAL LK\n1 X POYFEED HIGH K\n\n18/06/26 - EMAILED TO MARCO ON QU-04126"
       },
       {
         "id": "QBOVPadrCilBmBWOeoqY",
@@ -417,11 +407,11 @@
         "id": "iOA4W5U0oetm23BGsXAE",
         "name": "TIPAN TRADER MANGO WASH",
         "company": "HARVEST ROAD",
-        "amount": 0,
+        "amount": 7191.25,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "50 X MANGO WASH SUPREME - TIPAN TRADERS"
+        "notes": "50 X MANGO WASH SUPREME - TIPAN TRADERS\nON SALES ORD-486824"
       },
       {
         "id": "wkYgrYt1flFlrnN2X6g6",

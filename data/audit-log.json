@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-09-17T23:22:23.235Z",
+    "type": "removed",
+    "pipeline": "FERTILIZER",
+    "name": "ECO RED QUOTE",
+    "company": "FATTY'S FARMS",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: ECO RED QUOTE (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-09-17T23:22:23.235Z",
+    "type": "value_change",
+    "pipeline": "CHEMICALS",
+    "name": "TIPAN TRADER MANGO WASH",
+    "company": "HARVEST ROAD",
+    "amount": 7191.25,
+    "prevAmount": 0,
+    "message": "TIPAN TRADER MANGO WASH: value changed $0.00 -> $7191.25 (+7191.25)"
+  },
+  {
     "date": "2026-09-16T23:32:15.121Z",
     "type": "added",
     "pipeline": "FERTILIZER",
