@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-18T23:00:48.003Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "REDOX PHOPHORIC ACID 85% 200LT/IBC",
+    "company": "MUNDILLYA FARM PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: REDOX PHOPHORIC ACID 85% 200LT/IBC (CHEMICALS) - $0.00"
+  },
+  {
     "date": "2026-09-17T23:22:23.235Z",
     "type": "removed",
     "pipeline": "FERTILIZER",
