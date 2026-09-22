@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-09-22T23:29:30.662Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECOGROWTH - CGA PRE PLANT V1",
+    "company": "A & N Gugich Plantation",
+    "amount": 9424.08,
+    "status": "open",
+    "message": "New opportunity: ECOGROWTH - CGA PRE PLANT V1 (FERTILIZER) - $9424.08"
+  },
+  {
+    "date": "2026-09-22T23:29:30.662Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "IVAN - CALCIUM NITRATE",
+    "company": "V & M Durmanich",
+    "amount": 9571.58,
+    "status": "open",
+    "message": "New opportunity: IVAN - CALCIUM NITRATE (FERTILIZER) - $9571.58"
+  },
+  {
+    "date": "2026-09-22T23:29:30.662Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "ACU-TECH POLY PIPE",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 4175.6,
+    "status": "open",
+    "message": "New opportunity: ACU-TECH POLY PIPE (IRRIGATION) - $4175.60"
+  },
+  {
+    "date": "2026-09-22T23:29:30.662Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "IVAN - FERTILISER + GLYPHOSATE",
+    "company": "V & M Durmanich",
+    "amount": 26769.82,
+    "status": "won",
+    "message": "New opportunity: IVAN - FERTILISER + GLYPHOSATE (FERTILIZER) - $26769.82"
+  },
+  {
+    "date": "2026-09-22T23:29:30.662Z",
+    "type": "removed",
+    "pipeline": "FERTILIZER",
+    "name": "ECOADVACE V1 SPECIAL BLEND",
+    "company": "A & N Gugich Plantation",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: ECOADVACE V1 SPECIAL BLEND (FERTILIZER) - $0.00"
+  },
+  {
     "date": "2026-09-19T22:40:23.989Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
