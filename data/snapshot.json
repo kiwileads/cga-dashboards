@@ -4,6 +4,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "dx5TlFUxtBV67634kkt9",
+        "name": "BULKA OF CALCIUM",
+        "company": "River Orchard Pty Ltd",
+        "amount": 1547.7,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X BULK BAG CALCIUM NITRATE"
+      },
+      {
+        "id": "tsb3mZiblD5DlGKP4AvM",
+        "name": "ECOGROWTH ECO VITAL",
+        "company": "Sutcliffe plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 200LT ECO VITAL"
+      },
+      {
         "id": "g7bRIoAwMzoDrhOchKfg",
         "name": "ECOGROWTH - CGA PRE PLANT V1",
         "company": "A & N Gugich Plantation",

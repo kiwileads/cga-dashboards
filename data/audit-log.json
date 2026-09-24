@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-09-24T23:45:33.214Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "BULKA OF CALCIUM",
+    "company": "River Orchard Pty Ltd",
+    "amount": 1547.7,
+    "status": "open",
+    "message": "New opportunity: BULKA OF CALCIUM (FERTILIZER) - $1547.70"
+  },
+  {
+    "date": "2026-09-24T23:45:33.214Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECOGROWTH ECO VITAL",
+    "company": "Sutcliffe plantation",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: ECOGROWTH ECO VITAL (FERTILIZER) - $0.00"
+  },
+  {
     "date": "2026-09-22T23:29:30.662Z",
     "type": "added",
     "pipeline": "FERTILIZER",
