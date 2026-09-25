@@ -34,16 +34,6 @@
         "notes": "108 X 20KG ECOGROWTH  CGA PREPLANT V1 MID JAN 27\n108 X 20KG ECOGROWTH CGA PREPLANT V1  JULY 27\n\n22/09/26 - QUOTED @ \\$43.63+GST"
       },
       {
-        "id": "EYJQF13V2L2cPIbzXelj",
-        "name": "IVAN - CALCIUM NITRATE",
-        "company": "V & M Durmanich",
-        "amount": 9571.58,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "192 X CALCIUM NITRATE\n22/09/26- CHECKING AVAILABILITY FROM MUIRS "
-      },
-      {
         "id": "cBWsy1VGj0VarzaRJzX3",
         "name": "ECO GROWTH SUPER COPPER ZINK MOLLY",
         "company": "NOBREGA PTY LTD",
@@ -132,6 +122,112 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "BULK BAG GRANULAR POTASSIUM SULPHATE\nOPORTUNITY LOST DUE TO GOING DIFFERENT DIRRECTION."
+      }
+    ]
+  },
+  {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "3wsvzh5cDit3vkG1Cfix",
+        "name": "Winning Station",
+        "company": "",
+        "amount": 577.5,
+        "status": "open",
+        "stage": "DELIVERY ON SCHEDULE",
+        "isNew": "Yes",
+        "notes": "1 x WPD-M7510 whisper Pool Pump W500"
+      },
+      {
+        "id": "D2av9L2mvv9a4dpyaRHZ",
+        "name": "Warren Hatt",
+        "company": "GOLF CLUB - Warren Hatt",
+        "amount": 5005,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "1 x EMY-WP30L48 Transfer Pump Yanmar 3\""
+      },
+      {
+        "id": "voVXa2XHWfZ8zFb9b7JV",
+        "name": "SILVAN 55LT TROLLEY SPRAYER",
+        "company": "A & N Gugich Plantation",
+        "amount": 767.04,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "QUOTE ON \n1 X 55LT SILVAN TROLLEY SPRAYER \nSILVAN P/N: SP55-B2TR5\n\nPLEASE CONFIRM WITH SILVAN THAT THIS IS A PUSH TROLLEY NOT ONE YOU NEED TO TOW AND IF TROLLEY COMES WITH FLAT FREE WHEELS.\n\n"
+      },
+      {
+        "id": "HSsmX7S8TYxvSQ8M5N9A",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 1686.74,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "QU-04203 Dated 26/08/26"
+      },
+      {
+        "id": "k9dlP69p9WsScOM24bYB",
+        "name": "Warren Schmidt",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 310.53,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QU-04160   17/07/26"
+      },
+      {
+        "id": "S6jInFylitJsqeBUmNn4",
+        "name": "Desmond Williamson",
+        "company": "GOLF CLUB - Warren Hatt",
+        "amount": 5005,
+        "status": "open",
+        "stage": "ARRIVED AT CGA",
+        "isNew": "Yes",
+        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
+      },
+      {
+        "id": "71YvPkoE5bwVWQv4SQip",
+        "name": "Kevin David Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 2330.52,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "No",
+        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
+      },
+      {
+        "id": "ocu1LWCN0Fg30o0yYlMC",
+        "name": "PVC PIPE #9 150mm",
+        "company": "CAIDAN PRODUCE PTY LTD",
+        "amount": 39243.8,
+        "status": "open",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
+      },
+      {
+        "id": "07d7BFN2g8Ld8YUwcBuv",
+        "name": "Duc Nguyen",
+        "company": "NGUYEN & HUYNH & CHIN",
+        "amount": 2369.4,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
+      },
+      {
+        "id": "LfFkMX1JFz9bFCoJ0NRk",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
       }
     ]
   },
@@ -232,92 +328,6 @@
     ]
   },
   {
-    "pipelineName": "ROB's CUSTOM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "voVXa2XHWfZ8zFb9b7JV",
-        "name": "SILVAN 55LT TROLLEY SPRAYER",
-        "company": "A & N Gugich Plantation",
-        "amount": 767.04,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "QUOTE ON \n1 X 55LT SILVAN TROLLEY SPRAYER \nSILVAN P/N: SP55-B2TR5\n\nPLEASE CONFIRM WITH SILVAN THAT THIS IS A PUSH TROLLEY NOT ONE YOU NEED TO TOW AND IF TROLLEY COMES WITH FLAT FREE WHEELS.\n\n"
-      },
-      {
-        "id": "HSsmX7S8TYxvSQ8M5N9A",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 1686.74,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "QU-04203 Dated 26/08/26"
-      },
-      {
-        "id": "k9dlP69p9WsScOM24bYB",
-        "name": "Warren Schmidt",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 310.53,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "QU-04160   17/07/26"
-      },
-      {
-        "id": "S6jInFylitJsqeBUmNn4",
-        "name": "Desmond Williamson",
-        "company": "GOLF",
-        "amount": 5005,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "1 X EMY-WP30L48 TRANSFER PUMP"
-      },
-      {
-        "id": "71YvPkoE5bwVWQv4SQip",
-        "name": "Kevin David Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 2330.52,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "No",
-        "notes": "Refer QU-04134 dated 23/06/26\n4 x V1ACTOM1-24\n2 x V1BUT100\n1 x IPF7020-68957\n1 x IPF7220-69046\n"
-      },
-      {
-        "id": "ocu1LWCN0Fg30o0yYlMC",
-        "name": "PVC PIPE #9 150mm",
-        "company": "CAIDAN PRODUCE PTY LTD",
-        "amount": 39243.8,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
-      },
-      {
-        "id": "07d7BFN2g8Ld8YUwcBuv",
-        "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
-      },
-      {
-        "id": "LfFkMX1JFz9bFCoJ0NRk",
-        "name": "STARLINE PUMP x 1  (Total = 3)",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 3960,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
-      }
-    ]
-  },
-  {
     "pipelineName": "CUSTOM BOXES",
     "status": "open",
     "opps": [
@@ -390,7 +400,7 @@
       {
         "id": "N2NygvcIiIk7Sphix2E1",
         "name": "SEA CONTAINER + FOOTING",
-        "company": "GOLF",
+        "company": "GOLF CLUB - Warren Hatt",
         "amount": 7089.5,
         "status": "open",
         "stage": "PROCUREMENT UNDERWAY",
@@ -1417,6 +1427,16 @@
     "pipelineName": "FERTILIZER",
     "status": "won",
     "opps": [
+      {
+        "id": "EYJQF13V2L2cPIbzXelj",
+        "name": "IVAN - CALCIUM NITRATE",
+        "company": "V & M Durmanich",
+        "amount": 9088.99,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "192 X CALCIUM NITRATE\n22/09/26- CHECKING AVAILABILITY FROM MUIRS "
+      },
       {
         "id": "28iuqVrnBCjcIsrQo9ZU",
         "name": "IVAN - FERTILISER + GLYPHOSATE",
