@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-01T00:21:14.490Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECOGROWTH CGA PRE-PLANT V1",
+    "company": "BEEVEE GROUP",
+    "amount": 2592.81,
+    "status": "open",
+    "message": "New opportunity: ECOGROWTH CGA PRE-PLANT V1 (FERTILIZER) - $2592.81"
+  },
+  {
+    "date": "2026-10-01T00:21:14.490Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECOGROWTH CGA PREPLANT V1",
+    "company": "KF & PD BURKETT",
+    "amount": 7778.43,
+    "status": "open",
+    "message": "New opportunity: ECOGROWTH CGA PREPLANT V1 (FERTILIZER) - $7778.43"
+  },
+  {
     "date": "2026-09-25T23:49:41.548Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

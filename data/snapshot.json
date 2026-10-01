@@ -4,6 +4,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "et0nccxxwM2G3tvhNZGi",
+        "name": "ECOGROWTH CGA PRE-PLANT V1",
+        "company": "BEEVEE GROUP",
+        "amount": 2592.81,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "PRODUCT NEEDED IN JAN 2027"
+      },
+      {
+        "id": "3jY6wVMKblZU2bBQ3JMQ",
+        "name": "ECOGROWTH CGA PREPLANT V1",
+        "company": "KF & PD BURKETT",
+        "amount": 7778.43,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "3PLTS X ECOGROWTH CGA PRE-PLANT BLEND 20KG\n54 X 20KG PER PALLET\nPRODUCT NEEDED IN JAN 2027"
+      },
+      {
         "id": "dx5TlFUxtBV67634kkt9",
         "name": "BULKA OF CALCIUM",
         "company": "River Orchard Pty Ltd",
@@ -29,7 +49,7 @@
         "company": "A & N Gugich Plantation",
         "amount": 9424.08,
         "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "108 X 20KG ECOGROWTH  CGA PREPLANT V1 MID JAN 27\n108 X 20KG ECOGROWTH CGA PREPLANT V1  JULY 27\n\n22/09/26 - QUOTED @ \\$43.63+GST"
       },
@@ -39,7 +59,7 @@
         "company": "NOBREGA PTY LTD",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "50X 20KG BAGS ECOGROWTH SCZM"
       },
