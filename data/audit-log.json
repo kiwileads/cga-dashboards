@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-02T00:30:54.415Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILIZER ORDER 2027",
+    "company": "Hi-Way Plantation",
+    "amount": 49765.22,
+    "status": "open",
+    "message": "New opportunity: FERTILIZER ORDER 2027 (FERTILIZER) - $49765.22"
+  },
+  {
     "date": "2026-10-01T00:21:14.490Z",
     "type": "added",
     "pipeline": "FERTILIZER",

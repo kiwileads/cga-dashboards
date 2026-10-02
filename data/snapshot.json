@@ -4,6 +4,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "dcy8IQ2jevoqOB3hJJEf",
+        "name": "FERTILIZER ORDER 2027",
+        "company": "Hi-Way Plantation",
+        "amount": 49765.22,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - NEED TO ORDER\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456\n1 X PLT MAP - STOCK CGA - INV-453456\n1 X PLT UREA - STOCK CGA  INV-453456\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n"
+      },
+      {
         "id": "et0nccxxwM2G3tvhNZGi",
         "name": "ECOGROWTH CGA PRE-PLANT V1",
         "company": "BEEVEE GROUP",
