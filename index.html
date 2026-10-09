@@ -202,14 +202,14 @@
 
     const OPEN_DATA = [
       { name: "FERTILIZER", fullName: "SALES - FERTILIZER", value: 173335.19999999998, color: "#f472b6", opportunities: [
-          { name: "FERTILIZER ORDER 2027", company: "Hi-Way Plantation", amount: 49765.22, stage: "NEW LEAD", isNew: "Yes", notes: "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - NEED TO ORDER\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456\n1 X PLT MAP - STOCK CGA - INV-453456\n1 X PLT UREA - STOCK CGA  INV-453456\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n" },
+          { name: "FERTILIZER ORDER 2027", company: "Hi-Way Plantation", amount: 49765.22, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - NEED TO ORDER\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456\n1 X PLT MAP - STOCK CGA - INV-453456\n1 X PLT UREA - STOCK CGA  INV-453456\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n" },
           { name: "ECOGROWTH CGA PRE-PLANT V1", company: "BEEVEE GROUP", amount: 2592.81, stage: "NEW LEAD", isNew: "Yes", notes: "PRODUCT NEEDED IN JAN 2027" },
           { name: "ECOGROWTH CGA PREPLANT V1", company: "KF & PD BURKETT", amount: 7778.43, stage: "NEW LEAD", isNew: "Yes", notes: "3PLTS X ECOGROWTH CGA PRE-PLANT BLEND 20KG\n54 X 20KG PER PALLET\nPRODUCT NEEDED IN JAN 2027" },
           { name: "BULKA OF CALCIUM", company: "River Orchard Pty Ltd", amount: 1547.7, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "1 X BULK BAG CALCIUM NITRATE" },
           { name: "ECOGROWTH ECO VITAL", company: "Sutcliffe plantation", amount: 0, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "1 X 200LT ECO VITAL" },
           { name: "ECOGROWTH - CGA PRE PLANT V1", company: "A & N Gugich Plantation", amount: 9424.08, stage: "NEW LEAD", isNew: "Yes", notes: "108 X 20KG ECOGROWTH  CGA PREPLANT V1 MID JAN 27\n108 X 20KG ECOGROWTH CGA PREPLANT V1  JULY 27\n\n22/09/26 - QUOTED @ \\$43.63+GST" },
           { name: "ECO GROWTH SUPER COPPER ZINK MOLLY", company: "NOBREGA PTY LTD", amount: 0, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "50X 20KG BAGS ECOGROWTH SCZM" },
-          { name: "FERTILIZER", company: "River Orchard Pty Ltd", amount: 14148.36, stage: "PROPOSAL SENT TO CLIENT", isNew: "Yes", notes: "48 X HAIFA POTASSIUM NITRATE\n48 X HAIFA POLYFEED HIGH K\n40 X UREA\n48 X YARA CALCIUM NITRATE\n1 X BULK BAG CAL NITE (DELTA)\n48 CAL NITE 25KG BAGS (MUIRS)\n1 X HAIFA ABSOLUTE CAL 25KG\n1 X 20LT ECO FISH\n\n16/09/2026 - QUOTED ON QU-04219" },
+          { name: "FERTILIZER", company: "River Orchard Pty Ltd", amount: 14148.36, stage: "PROPOSAL SENT TO CLIENT", isNew: "Yes", notes: "96 X HAIFA POTASSIUM NITRATE - INV-453088 / INV-453778\n48 X HAIFA POLYFEED HIGH K\n40 X UREA\n48 X YARA CALCIUM NITRATE\n1 X BULK BAG CAL NITE (DELTA)\n48 CAL NITE 25KG BAGS (MUIRS)\n1 X HAIFA ABSOLUTE CAL 25KG\n1 X 20LT ECO FISH\n\n16/09/2026 - QUOTED ON QU-04219" },
           { name: "LOW BURITE UREA", company: "BUMBAK & SONS", amount: 0, stage: "LOST", isNew: "Yes", notes: "10 BAGS LOW BURIE UREA\n\nEMAILED IVY AND NINO AT NUTRIEN. 8/4/26\n\n22/4/26- LOST DUE TO NOT BEEING ABLE TO GET STOCK FROM SUPPLIERS." },
           { name: "BACCHUS 30KG", company: "Janna", amount: 3062.2, stage: "LOST", isNew: "Yes", notes: "30 KG OF BACCHUS.\nOPPORTUNITY LOST DUE TO CLIENT GOING TO SMALLER PACK FROM STOCK." },
           { name: "YEARLY FERTILISER", company: "GIULIANO CONDO", amount: 36500, stage: "PROPOSAL SENT TO CLIENT", isNew: "Yes", notes: "192 X 25KG EPSOM SALT\n144 X 25KG HAIFA POT NITRATE- 2 PLTS (96) TAKEN ON INV-445059\n147 X 25KG POT SULPHATE - 2PLTS (98) TAKEN ON INV-445059\n5 X 1000LT FLEXI N\n144 X 25KG CACIUM NITRATE - 2PLS (96) TAKEN ON INV-445059\n10 X 25KG ZINK SULPHATE \n10 X 5KG MANGANESE SULPHATE\n96 X 25KG PEKACID\n48 X HAIFA POLYFEED L/K\nQU-04032\n" },
@@ -656,7 +656,7 @@
       return (
         <div>
           <h1 style={{textAlign:"center",fontSize:28,fontWeight:800,color:"#fff",marginBottom:4}}>Sales Pipeline Dashboard</h1>
-          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 8 October 2026</p>
+          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 9 October 2026</p>
           <SearchBar allData={OPEN_DATA} onSelect={handleSearchSelect} stageRef={stageRef}/>
           <div style={{display:"flex",gap:50,flexWrap:"wrap",justifyContent:"center"}}>
             <DonutChart data={WON_DATA} title="Won Opportunities" subtitle="deals closed" centerLabel="Total Won"/>
