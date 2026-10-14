@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-14T00:08:28.457Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Chris Collins",
+    "company": "MUNDILLYA FARM PTY LTD",
+    "amount": 1040,
+    "status": "open",
+    "message": "New opportunity: Chris Collins (ROB's CUSTOM) - $1040.00"
+  },
+  {
+    "date": "2026-10-14T00:08:28.457Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Thanh Van & T Kim Tien Nguyen",
+    "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
+    "amount": 3892.57,
+    "status": "open",
+    "message": "New opportunity: Thanh Van & T Kim Tien Nguyen (ROB's CUSTOM) - $3892.57"
+  },
+  {
     "date": "2026-10-03T00:09:38.590Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

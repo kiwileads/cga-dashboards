@@ -256,12 +256,32 @@
     "status": "open",
     "opps": [
       {
+        "id": "nvHCyxIUu5aXUDfnKsoe",
+        "name": "Chris Collins",
+        "company": "MUNDILLYA FARM PTY LTD",
+        "amount": 1040,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04242"
+      },
+      {
+        "id": "pY7EWSiVKC9Gi5Zn9eb5",
+        "name": "Thanh Van & T Kim Tien Nguyen",
+        "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
+        "amount": 3892.57,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04221  dated 17/9/2026"
+      },
+      {
         "id": "3wsvzh5cDit3vkG1Cfix",
         "name": "Winning Station",
         "company": "",
         "amount": 577.5,
         "status": "open",
-        "stage": "DELIVERY ON SCHEDULE",
+        "stage": "DELIVERY DELAYED",
         "isNew": "Yes",
         "notes": "1 x WPD-M7510 whisper Pool Pump W500"
       },
