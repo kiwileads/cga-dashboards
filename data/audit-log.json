@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-10-20T00:06:16.371Z",
+    "type": "removed",
+    "pipeline": "IRRIGATION",
+    "name": "BLUELINE POLY - DEAN WHITE",
+    "company": "CARNARVON PLUMBING SERVICES",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: BLUELINE POLY - DEAN WHITE (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-10-20T00:06:16.371Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "BULKA OF CALCIUM",
+    "company": "River Orchard Pty Ltd",
+    "amount": 1547.7,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "BULKA OF CALCIUM: status changed open -> won"
+  },
+  {
+    "date": "2026-10-20T00:06:16.371Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILIZER",
+    "company": "River Orchard Pty Ltd",
+    "amount": 17178.3,
+    "prevAmount": 14148.36,
+    "message": "FERTILIZER: value changed $14148.36 -> $17178.30 (+3029.94)"
+  },
+  {
+    "date": "2026-10-20T00:06:16.371Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILIZER",
+    "company": "River Orchard Pty Ltd",
+    "amount": 17178.3,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "FERTILIZER: status changed open -> won"
+  },
+  {
     "date": "2026-10-14T00:08:28.457Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",

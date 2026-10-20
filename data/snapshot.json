@@ -34,16 +34,6 @@
         "notes": "3PLTS X ECOGROWTH CGA PRE-PLANT BLEND 20KG\n54 X 20KG PER PALLET\nPRODUCT NEEDED IN JAN 2027"
       },
       {
-        "id": "dx5TlFUxtBV67634kkt9",
-        "name": "BULKA OF CALCIUM",
-        "company": "River Orchard Pty Ltd",
-        "amount": 1547.7,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X BULK BAG CALCIUM NITRATE"
-      },
-      {
         "id": "tsb3mZiblD5DlGKP4AvM",
         "name": "ECOGROWTH ECO VITAL",
         "company": "Sutcliffe plantation",
@@ -72,16 +62,6 @@
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "50X 20KG BAGS ECOGROWTH SCZM"
-      },
-      {
-        "id": "fC0jtgr223QtymBjVo6y",
-        "name": "FERTILIZER",
-        "company": "River Orchard Pty Ltd",
-        "amount": 14148.36,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "96 X HAIFA POTASSIUM NITRATE - INV-453088 / INV-453778\n48 X HAIFA POLYFEED HIGH K\n40 X UREA\n48 X YARA CALCIUM NITRATE\n1 X BULK BAG CAL NITE (DELTA)\n48 CAL NITE 25KG BAGS (MUIRS)\n1 X HAIFA ABSOLUTE CAL 25KG\n1 X 20LT ECO FISH\n\n16/09/2026 - QUOTED ON QU-04219"
       },
       {
         "id": "QBOVPadrCilBmBWOeoqY",
@@ -188,16 +168,6 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "NETAFIM\n5 X FIP S12 Dosing Valve 24VAC  50Hz Viton Solenoid [Burkert Replacement]\nP/N: 77540-008480\nCGA COST: 348.50+GST \nCUSTOMERCOST \\$418.20+GST 2 AVAILBE EX MELBOURNE AS OF 2/7/26 \n5 MORE ARRIVING IN TO MELBOURN ON THE 7/7/26\nSPOKE TO DAVID BUMBAK VERBALLY QUOTED AND ADVISED OF AVAILABILITIES AND ETA.\n\n\n "
-      },
-      {
-        "id": "bakDOJ2qbvydsrYXS8MF",
-        "name": "BLUELINE POLY - DEAN WHITE",
-        "company": "CARNARVON PLUMBING SERVICES",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": null,
-        "notes": "1 X 63MM X 100M COIL BLUELINE POLY PN16"
       },
       {
         "id": "XHqfoykfSEfZSXdgOe7E",
@@ -1488,6 +1458,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "dx5TlFUxtBV67634kkt9",
+        "name": "BULKA OF CALCIUM",
+        "company": "River Orchard Pty Ltd",
+        "amount": 1547.7,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X BULK BAG CALCIUM NITRATE\n\n"
+      },
+      {
         "id": "EYJQF13V2L2cPIbzXelj",
         "name": "IVAN - CALCIUM NITRATE",
         "company": "V & M Durmanich",
@@ -1506,6 +1486,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "48 X HAIFA POTASSIUM NITRATE\n192 X CAMPBELLS DIAMOND 19 CARAT LOW K \n8 X 20LT 4 FARMERS GLUPHOSATE 570\n1 X BAG UREA"
+      },
+      {
+        "id": "fC0jtgr223QtymBjVo6y",
+        "name": "FERTILIZER",
+        "company": "River Orchard Pty Ltd",
+        "amount": 17178.3,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "144 X HAIFA POTASSIUM NITRATE - INV-453088 / INV-453778 / INV-454289\n48 X HAIFA POLYFEED HIGH SOLD INV-454289\n40 X UREA SOLD INV-454289\n48 X YARA CALCIUM NITRATE\n1 X BULK BAG CAL NITE (DELTA) SOLD ON INV 454048\n4 X PLT 135MM GRAPE\n10 X STAPLES 604 MAX\n1 X PLT CAPSI CARTON\n1 X 500GM DIPEL\n4 X ROLL VENUS PREMIUM RED 1500M (1ROLL) CAPSICUM TWINE\n\n16/09/2026 - QUOTED ON QU-04219"
       },
       {
         "id": "DWa0QswsGd2pyd0qmfH7",
