@@ -226,16 +226,6 @@
     "status": "open",
     "opps": [
       {
-        "id": "nvHCyxIUu5aXUDfnKsoe",
-        "name": "Chris Collins",
-        "company": "MUNDILLYA FARM PTY LTD",
-        "amount": 1040,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "QU-04242"
-      },
-      {
         "id": "pY7EWSiVKC9Gi5Zn9eb5",
         "name": "Thanh Van & T Kim Tien Nguyen",
         "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
@@ -278,7 +268,7 @@
       {
         "id": "07d7BFN2g8Ld8YUwcBuv",
         "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
+        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
         "amount": 2369.4,
         "status": "open",
         "stage": "PROCUREMENT UNDERWAY",
@@ -648,7 +638,7 @@
       {
         "id": "kUOfDDbOSqBE5j5DasHr",
         "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
+        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
         "amount": 45000,
         "status": "won",
         "stage": "CLOSED/COMPLETE",
@@ -661,6 +651,16 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "nvHCyxIUu5aXUDfnKsoe",
+        "name": "Chris Collins",
+        "company": "MUNDILLYA FARM PTY LTD",
+        "amount": 1040,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04242"
+      },
       {
         "id": "S94rppY4iKFk5YOyiou6",
         "name": "Chris Leca",
@@ -944,7 +944,7 @@
       {
         "id": "lYuZYWQcKfqcRBhIZYBN",
         "name": "Duc Nguyen",
-        "company": "NGUYEN & HUYNH & CHIN",
+        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
         "amount": 4986.96,
         "status": "won",
         "stage": "COLLECTED BY CUSTOMER",
