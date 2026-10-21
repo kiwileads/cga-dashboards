@@ -1,5 +1,128 @@
 [
   {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: Robert Ashley Scott (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "SHUNSHINE YELLOW TISSUE PAPER",
+    "company": "JACK MOREL",
+    "amount": 1106.65,
+    "status": "open",
+    "message": "New opportunity: SHUNSHINE YELLOW TISSUE PAPER (GENERAL MERCH) - $1106.65"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "CERA TRAP 20LT ",
+    "company": "V & M Durmanich",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: CERA TRAP 20LT  (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "POTASSIUM NITRATE FROM 03/09/26 TO 19/10/26",
+    "company": "ST KUZMICICH",
+    "amount": 15547.93,
+    "status": "won",
+    "message": "New opportunity: POTASSIUM NITRATE FROM 03/09/26 TO 19/10/26 (FERTILIZER) - $15547.93"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "THANG CONG NGUYEN",
+    "company": "HUYNH & THANG",
+    "amount": 6465.54,
+    "status": "won",
+    "message": "New opportunity: THANG CONG NGUYEN (FERTILIZER) - $6465.54"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "BIG BALE BLUE STRING H/D",
+    "company": "ST KUZMICICH",
+    "amount": 7654.15,
+    "status": "won",
+    "message": "New opportunity: BIG BALE BLUE STRING H/D (GENERAL MERCH) - $7654.15"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "removed",
+    "pipeline": "IRRIGATION",
+    "name": "BLANCKING FLANGE",
+    "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: BLANCKING FLANGE (IRRIGATION) - $0.00"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO GROWTH SUPER COPPER ZINK MOLLY",
+    "company": "NOBREGA PTY LTD",
+    "amount": 3029.4,
+    "prevAmount": 0,
+    "message": "ECO GROWTH SUPER COPPER ZINK MOLLY: value changed $0.00 -> $3029.40 (+3029.40)"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECOGROWTH ECO VITAL",
+    "company": "Sutcliffe plantation",
+    "amount": 1294.48,
+    "prevAmount": 0,
+    "message": "ECOGROWTH ECO VITAL: value changed $0.00 -> $1294.48 (+1294.48)"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECOGROWTH ECO VITAL",
+    "company": "Sutcliffe plantation",
+    "amount": 1294.48,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ECOGROWTH ECO VITAL: status changed open -> won"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "ACU-TECH POLY PIPE",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 4175.6,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ACU-TECH POLY PIPE: status changed open -> won"
+  },
+  {
+    "date": "2026-10-21T23:53:56.857Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "GYPSOM IRRIGATION",
+    "company": "LEICHHARDT",
+    "amount": 7861.7,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "GYPSOM IRRIGATION: status changed open -> won"
+  },
+  {
     "date": "2026-10-20T23:37:20.949Z",
     "type": "status_change",
     "pipeline": "ROB's CUSTOM",

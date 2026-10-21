@@ -19,7 +19,7 @@
         "company": "BEEVEE GROUP",
         "amount": 2592.81,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "PRODUCT NEEDED IN JAN 2027"
       },
@@ -29,19 +29,9 @@
         "company": "KF & PD BURKETT",
         "amount": 7778.43,
         "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "3PLTS X ECOGROWTH CGA PRE-PLANT BLEND 20KG\n54 X 20KG PER PALLET\nPRODUCT NEEDED IN JAN 2027"
-      },
-      {
-        "id": "tsb3mZiblD5DlGKP4AvM",
-        "name": "ECOGROWTH ECO VITAL",
-        "company": "Sutcliffe plantation",
-        "amount": 0,
-        "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "1 X 200LT ECO VITAL"
+        "notes": "3PLTS X ECOGROWTH CGA PRE-PLANT BLEND 20KG\n54 X 20KG PER PALLET\nPRODUCT NEEDED IN JAN 2027"
       },
       {
         "id": "g7bRIoAwMzoDrhOchKfg",
@@ -49,7 +39,7 @@
         "company": "A & N Gugich Plantation",
         "amount": 9424.08,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "108 X 20KG ECOGROWTH  CGA PREPLANT V1 MID JAN 27\n108 X 20KG ECOGROWTH CGA PREPLANT V1  JULY 27\n\n22/09/26 - QUOTED @ \\$43.63+GST"
       },
@@ -57,7 +47,7 @@
         "id": "cBWsy1VGj0VarzaRJzX3",
         "name": "ECO GROWTH SUPER COPPER ZINK MOLLY",
         "company": "NOBREGA PTY LTD",
-        "amount": 0,
+        "amount": 3029.4,
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
@@ -136,92 +126,6 @@
     ]
   },
   {
-    "pipelineName": "IRRIGATION",
-    "status": "open",
-    "opps": [
-      {
-        "id": "ochTCKRZpkMhG97fSVIg",
-        "name": "ACU-TECH POLY PIPE",
-        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-        "amount": 4175.6,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "10 X 32MM X 50MT COIL RECYCLE TECH LILAC STRIPE PN12.5\n6 X 32MM X 50MT COIL BLUELINE POLY PN20\n\n"
-      },
-      {
-        "id": "ZGJfFHlu2lTBb8McPLm9",
-        "name": "ROBBIE & KARREN MALLARD",
-        "company": "MALLARD CONTRACTING PTY LTD",
-        "amount": 11025.67,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "7 X 40MM BLUELINE POLY PN12.5 150MTR\n13 X 50MM BLUELINE POLY PN12.5 150MTR\n15 X METRIC COUPLING 50MM\n8 X METRIC COUPLING 40MM\n4 X METRIC MALE ADAPTOR 50 X 1.1/2\"\n4 X METRIC FEMALE ADAPTOR 40 X 1.1/2\"\n\nALL AITEMS AVAILABLE EX STOCK QUOTED ON QU-04211"
-      },
-      {
-        "id": "2zXDxqkmApCqPdvhXJeA",
-        "name": "NETAFIM DOSING SOLINOID",
-        "company": "BUMBAK & SONS",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "NETAFIM\n5 X FIP S12 Dosing Valve 24VAC  50Hz Viton Solenoid [Burkert Replacement]\nP/N: 77540-008480\nCGA COST: 348.50+GST \nCUSTOMERCOST \\$418.20+GST 2 AVAILBE EX MELBOURNE AS OF 2/7/26 \n5 MORE ARRIVING IN TO MELBOURN ON THE 7/7/26\nSPOKE TO DAVID BUMBAK VERBALLY QUOTED AND ADVISED OF AVAILABILITIES AND ETA.\n\n\n "
-      },
-      {
-        "id": "XHqfoykfSEfZSXdgOe7E",
-        "name": "BLANCKING FLANGE",
-        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "4 INCH TABLE E POLY BLANKING FLANGE."
-      },
-      {
-        "id": "u6uHrxOSmkdPzp3aiIGF",
-        "name": "DIESEL & WATER TANK",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 12388.2,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X DDS5000- DIESEL TANK NO PUMP WITH 1.1/4 FLANGE ON THE BOTTOM\n1 X LF10500- LIQUID FERT TANK\n12.05.26- SENT QUOTE TO MIKE QU-04089\n"
-      },
-      {
-        "id": "c4ffzKHi85LhP66vRQpn",
-        "name": "GYPSOM IRRIGATION",
-        "company": "LEICHHARDT",
-        "amount": 7861.7,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "\n3 X 100m roll of heavy duty red layflat - STOCK\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp P70318\n300 X 40-60/12 W3 Norma worm drive SS hose clamp P70321\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector P70320\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler P70320\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239\n\n"
-      },
-      {
-        "id": "z5rqm3Q9bjhtUc0d1iSc",
-        "name": "Peter Arscott",
-        "company": "",
-        "amount": 12000,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
-      },
-      {
-        "id": "secRUb4E3em61JFdB7rP",
-        "name": "Kevin & Karina Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 12000,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
-      }
-    ]
-  },
-  {
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
@@ -288,6 +192,72 @@
     ]
   },
   {
+    "pipelineName": "IRRIGATION",
+    "status": "open",
+    "opps": [
+      {
+        "id": "dU0Do3GHiIdLbpfehiDg",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "WAITING ON SUPPLIER",
+        "isNew": "Yes",
+        "notes": "1 X VALPES ELECTRIC ACTUATED VALVE.\nVS150.90B.GOO\n\n21/10/26 - Emailed Braeco for quote."
+      },
+      {
+        "id": "ZGJfFHlu2lTBb8McPLm9",
+        "name": "ROBBIE & KARREN MALLARD",
+        "company": "MALLARD CONTRACTING PTY LTD",
+        "amount": 11025.67,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "7 X 40MM BLUELINE POLY PN12.5 150MTR\n13 X 50MM BLUELINE POLY PN12.5 150MTR\n15 X METRIC COUPLING 50MM\n8 X METRIC COUPLING 40MM\n4 X METRIC MALE ADAPTOR 50 X 1.1/2\"\n4 X METRIC FEMALE ADAPTOR 40 X 1.1/2\"\n\nALL AITEMS AVAILABLE EX STOCK QUOTED ON QU-04211"
+      },
+      {
+        "id": "2zXDxqkmApCqPdvhXJeA",
+        "name": "NETAFIM DOSING SOLINOID",
+        "company": "BUMBAK & SONS",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "NETAFIM\n5 X FIP S12 Dosing Valve 24VAC  50Hz Viton Solenoid [Burkert Replacement]\nP/N: 77540-008480\nCGA COST: 348.50+GST \nCUSTOMERCOST \\$418.20+GST 2 AVAILBE EX MELBOURNE AS OF 2/7/26 \n5 MORE ARRIVING IN TO MELBOURN ON THE 7/7/26\nSPOKE TO DAVID BUMBAK VERBALLY QUOTED AND ADVISED OF AVAILABILITIES AND ETA.\n\n\n "
+      },
+      {
+        "id": "u6uHrxOSmkdPzp3aiIGF",
+        "name": "DIESEL & WATER TANK",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 12388.2,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X DDS5000- DIESEL TANK NO PUMP WITH 1.1/4 FLANGE ON THE BOTTOM\n1 X LF10500- LIQUID FERT TANK\n12.05.26- SENT QUOTE TO MIKE QU-04089\n"
+      },
+      {
+        "id": "z5rqm3Q9bjhtUc0d1iSc",
+        "name": "Peter Arscott",
+        "company": "",
+        "amount": 12000,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
+      },
+      {
+        "id": "secRUb4E3em61JFdB7rP",
+        "name": "Kevin & Karina Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 12000,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
+      }
+    ]
+  },
+  {
     "pipelineName": "CUSTOM BOXES",
     "status": "open",
     "opps": [
@@ -327,6 +297,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "Oi6uUCmU0A3qYtvRaxL5",
+        "name": "SHUNSHINE YELLOW TISSUE PAPER",
+        "company": "JACK MOREL",
+        "amount": 1106.65,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X CTN SUNSHINE YELLOW TISSUE 510X760 (5 REEMS PER CARTON)"
+      },
       {
         "id": "bkLzj2WSSgKa1CQLQI5e",
         "name": "QUOC SU & THI THANH TRAN & DINH",
@@ -413,6 +393,16 @@
     "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
+      {
+        "id": "weeRCJJeebhZcayc93pr",
+        "name": "CERA TRAP 20LT ",
+        "company": "V & M Durmanich",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "3 X 20LT CERA TRAP"
+      },
       {
         "id": "iwp0F1JHmRELmjzv9D5m",
         "name": "REDOX PHOPHORIC ACID 85% 200LT/IBC",
@@ -1458,6 +1448,26 @@
     "status": "won",
     "opps": [
       {
+        "id": "qFi6z0s1bdQAaOgdW57l",
+        "name": "POTASSIUM NITRATE FROM 03/09/26 TO 19/10/26",
+        "company": "ST KUZMICICH",
+        "amount": 15547.93,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "240 X POTASSIUM NITRATE (48 PLT)\n48 SOLD ON INV-452144 -03/09/26\n48 SOLD ON INV-452853 -18/09/26\n48 SOLD ON INV-453298 - 29/09/26\n48 SOLD ON INV-453860 - 09/10/26\n48 SOLD ON INV-454305 - 19/10/26\nALL PRODUCT EX STOCK\n\n\n"
+      },
+      {
+        "id": "FQfUQ1GaIi9rNFSW0ntD",
+        "name": "THANG CONG NGUYEN",
+        "company": "HUYNH & THANG",
+        "amount": 6465.54,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "48 X POLYFEED HIGH K\n1 X 1000LT FLEXI N\n4 X 20LT ECO GROWTH LIQUID FISH\nALL ITEMS EX STOCK SOLD ON INV-454401"
+      },
+      {
         "id": "dx5TlFUxtBV67634kkt9",
         "name": "BULKA OF CALCIUM",
         "company": "River Orchard Pty Ltd",
@@ -1466,6 +1476,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "1 X BULK BAG CALCIUM NITRATE\n\n"
+      },
+      {
+        "id": "tsb3mZiblD5DlGKP4AvM",
+        "name": "ECOGROWTH ECO VITAL",
+        "company": "Sutcliffe plantation",
+        "amount": 1294.48,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X 200LT ECO VITAL\n1 X 20LT ECO GROWTH EXPRESS TRACE \nSOLD ON INV-454378"
       },
       {
         "id": "EYJQF13V2L2cPIbzXelj",
@@ -1850,6 +1870,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "GF0jqmdhCzyzc77M7d0G",
+        "name": "BIG BALE BLUE STRING H/D",
+        "company": "ST KUZMICICH",
+        "amount": 7654.15,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "96 ROLLS OF BIG BALE BLUE \n48 SOLD ON INV-453860 - 9/10/26\n48 SOLD ON INV-454305 - 19/10/26"
+      },
+      {
         "id": "ljSQCMhDFHoHadRZm2e8",
         "name": "NATHAN CONDO - DIAPHRAGM PUMP IDS1701",
         "company": "GIULIANO CONDO",
@@ -2056,6 +2086,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "ochTCKRZpkMhG97fSVIg",
+        "name": "ACU-TECH POLY PIPE",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 4175.6,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "10 X 32MM X 50MT COIL RECYCLE TECH LILAC STRIPE PN12.5\n6 X 32MM X 50MT COIL BLUELINE POLY PN20\n21/10/26 - SOLD ON INV-453493 ON THE 01/10/26\n"
+      },
+      {
         "id": "AbQMZNSE2ZXnxhmEHIov",
         "name": "ELECTRIC ACTUATOR BUTTERFLY VALVE 24VDC",
         "company": "DOUBLE UP FARMS PTY LTD",
@@ -2154,6 +2194,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "20.4.26 - PLEASE EMAIL QUOTE ON \n100 x GYRONET SPRINKLERS\n6 x ROLLS 19mm X 50m LOW DENSITY POLY\n\n22.04.26- QUOTED ON QU-04073 AND EMAILED TO DEAN"
+      },
+      {
+        "id": "c4ffzKHi85LhP66vRQpn",
+        "name": "GYPSOM IRRIGATION",
+        "company": "LEICHHARDT",
+        "amount": 7861.7,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "\n3 X 100m roll of heavy duty red layflat - STOCK\n100 X E200 2” poly camlock adaptor to hose tail\n100 X B200 2” poly camlock coupling to male bsp P70318\n300 X 40-60/12 W3 Norma worm drive SS hose clamp P70321\n100 X XWBB3 Senninger Xcel Wobbler ¾” M NPT High angle black deflector P70320\n100 X #11 Nozzle Yellow 11/64” to suit Xcel Wobbler P70320\n\n15/04/26\nQUOTED ON QU-04064 AND EMAILED TO ROB ARMSTRONG\n16/4/26\nQUOTE EXCEPTED BY CLIENT ON PO# LMC33009239\n21/10/26 - ALL ITEMS SOLD ON INV-449759 AND  INV-448647 ON THE 17/06/26 AND THE 13/07/26\n\n"
       },
       {
         "id": "epFTfvBbzppAI5DLqavw",
