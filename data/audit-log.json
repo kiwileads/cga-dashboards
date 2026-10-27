@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-10-27T00:13:54.852Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Steve Beresford And Shaun Brandenburg",
+    "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: Steve Beresford And Shaun Brandenburg (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-10-27T00:13:54.852Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray & Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 4004,
+    "status": "open",
+    "message": "New opportunity: Ray & Elaine Skender (ROB's CUSTOM) - $4004.00"
+  },
+  {
+    "date": "2026-10-27T00:13:54.852Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 2035,
+    "status": "open",
+    "message": "New opportunity: Robert Ashley Scott (ROB's CUSTOM) - $2035.00"
+  },
+  {
+    "date": "2026-10-27T00:13:54.852Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "David Babun",
+    "company": "",
+    "amount": 1705,
+    "status": "won",
+    "message": "New opportunity: David Babun (ROB's CUSTOM) - $1705.00"
+  },
+  {
     "date": "2026-10-21T23:53:56.857Z",
     "type": "added",
     "pipeline": "IRRIGATION",

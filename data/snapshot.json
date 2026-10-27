@@ -130,6 +130,36 @@
     "status": "open",
     "opps": [
       {
+        "id": "IC8bn4lezXthDgdxXnNE",
+        "name": "Steve Beresford And Shaun Brandenburg",
+        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
+        "id": "n3Ce56VKhuwP0srUS7gU",
+        "name": "Ray & Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 4004,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "1 x WPSX-MUEC09J-160"
+      },
+      {
+        "id": "XuK4CWwkF8x4HENiBCQJ",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 2035,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "1 x ITI66  \nP71312"
+      },
+      {
         "id": "pY7EWSiVKC9Gi5Zn9eb5",
         "name": "Thanh Van & T Kim Tien Nguyen",
         "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
@@ -155,7 +185,7 @@
         "company": "A & N Gugich Plantation",
         "amount": 1686.74,
         "status": "open",
-        "stage": "DELIVERY DELAYED",
+        "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04203 Dated 26/08/26"
       },
@@ -641,6 +671,16 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "pusF7hJD8dinbe1IsB32",
+        "name": "David Babun",
+        "company": "",
+        "amount": 1705,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x MISCANZBAB   Chlorinator Cell 30gm Hayward"
+      },
       {
         "id": "nvHCyxIUu5aXUDfnKsoe",
         "name": "Chris Collins",
