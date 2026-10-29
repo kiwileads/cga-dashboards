@@ -4,6 +4,56 @@
     "status": "open",
     "opps": [
       {
+        "id": "wv0H9LqCvGFVjjrmfizw",
+        "name": "LEICHHARDT - GYPSOM",
+        "company": "MUNDILLYA FARM PTY LTD",
+        "amount": 3250,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "50 TO GYPSOM"
+      },
+      {
+        "id": "ZCzgKA3hH4TrGyZ5MdhQ",
+        "name": "LEICHHARDT - GYPSOM",
+        "company": "Sunstar mangoes",
+        "amount": 3250,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "50 TONE GYPSOM"
+      },
+      {
+        "id": "u8UT5QsGuMo60AsIxvFN",
+        "name": "LEICHARDT - GYPSOM",
+        "company": "GIULIANO CONDO",
+        "amount": 9750,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "150 TONE GYPSOM"
+      },
+      {
+        "id": "v0O3nQ9QHrLLGg2hmxSx",
+        "name": "LEICHARDT - GYPSOM ",
+        "company": "199 North River Road",
+        "amount": 1625,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "25 TONE OF GYPSOM\nPRICE FOR PER TONE \\$65+GST\nBUY PRICE \\$28+GST"
+      },
+      {
+        "id": "HW8uoJgb43EsdoPDPzZ3",
+        "name": "ECO GROWTH PREPLANT BLEND",
+        "company": "199 North River Road",
+        "amount": 2172,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "1 x 1T BULKA BAG ECO GROWTH PRE PLANT"
+      },
+      {
         "id": "dcy8IQ2jevoqOB3hJJEf",
         "name": "FERTILIZER ORDER 2027",
         "company": "Hi-Way Plantation",
@@ -11,7 +61,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - NEED TO ORDER\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456\n1 X PLT MAP - STOCK CGA - INV-453456\n1 X PLT UREA - STOCK CGA  INV-453456\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n"
+        "notes": "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - INV-454737\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456\n1 X PLT MAP - STOCK CGA - INV-453456\n1 X PLT UREA - STOCK CGA  INV-453456\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n"
       },
       {
         "id": "et0nccxxwM2G3tvhNZGi",
@@ -129,6 +179,36 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
+      {
+        "id": "8gXaAmf97SY3QUaMtSLh",
+        "name": "Harvest Road",
+        "company": "Harvest Road Agribusiness",
+        "amount": 1212.75,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "1050 x IHRVY37N24R"
+      },
+      {
+        "id": "riP8tMi1niQMkJijZiYQ",
+        "name": "Jaison Joseph",
+        "company": "JAISON FAMILY PLANTATION TRUST",
+        "amount": 3048.87,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "1 x ITISDS-50 Irrigation Controller"
+      },
+      {
+        "id": "cgXcMhFo5OR9ZseF7jtk",
+        "name": "Nazrin Shah",
+        "company": "",
+        "amount": 11627,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "1 x SILD047-71    Suntuff 400L Sprayer \nDeposit paid \\$5813.50 inc tax 27/10/26"
+      },
       {
         "id": "IC8bn4lezXthDgdxXnNE",
         "name": "Steve Beresford And Shaun Brandenburg",
@@ -327,6 +407,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "v3LZCHSbT5Y38n6jbyy0",
+        "name": "VENUS PREMIUM RED - CAPSICUM STRING",
+        "company": "River Orchard Pty Ltd",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "80 X ROLLS VENUS PREMIUM RED 1500M 1(ROLL) EX STOCK\n"
+      },
       {
         "id": "Oi6uUCmU0A3qYtvRaxL5",
         "name": "SHUNSHINE YELLOW TISSUE PAPER",

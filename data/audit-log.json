@@ -1,5 +1,95 @@
 [
   {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM",
+    "company": "MUNDILLYA FARM PTY LTD",
+    "amount": 3250,
+    "status": "open",
+    "message": "New opportunity: LEICHHARDT - GYPSOM (FERTILIZER) - $3250.00"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM",
+    "company": "Sunstar mangoes",
+    "amount": 3250,
+    "status": "open",
+    "message": "New opportunity: LEICHHARDT - GYPSOM (FERTILIZER) - $3250.00"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHARDT - GYPSOM",
+    "company": "GIULIANO CONDO",
+    "amount": 9750,
+    "status": "open",
+    "message": "New opportunity: LEICHARDT - GYPSOM (FERTILIZER) - $9750.00"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHARDT - GYPSOM ",
+    "company": "199 North River Road",
+    "amount": 1625,
+    "status": "open",
+    "message": "New opportunity: LEICHARDT - GYPSOM  (FERTILIZER) - $1625.00"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECO GROWTH PREPLANT BLEND",
+    "company": "199 North River Road",
+    "amount": 2172,
+    "status": "open",
+    "message": "New opportunity: ECO GROWTH PREPLANT BLEND (FERTILIZER) - $2172.00"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Harvest Road",
+    "company": "Harvest Road Agribusiness",
+    "amount": 1212.75,
+    "status": "open",
+    "message": "New opportunity: Harvest Road (ROB's CUSTOM) - $1212.75"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Jaison Joseph",
+    "company": "JAISON FAMILY PLANTATION TRUST",
+    "amount": 3048.87,
+    "status": "open",
+    "message": "New opportunity: Jaison Joseph (ROB's CUSTOM) - $3048.87"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Nazrin Shah",
+    "company": "",
+    "amount": 11627,
+    "status": "open",
+    "message": "New opportunity: Nazrin Shah (ROB's CUSTOM) - $11627.00"
+  },
+  {
+    "date": "2026-10-29T00:35:55.475Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "VENUS PREMIUM RED - CAPSICUM STRING",
+    "company": "River Orchard Pty Ltd",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: VENUS PREMIUM RED - CAPSICUM STRING (GENERAL MERCH) - $0.00"
+  },
+  {
     "date": "2026-10-28T00:14:26.288Z",
     "type": "value_change",
     "pipeline": "IRRIGATION",
