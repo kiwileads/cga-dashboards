@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-10-30T00:36:49.214Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "T-TAPE / MULCH",
+    "company": "VC DUONG & D DAO",
+    "amount": 12121.47,
+    "status": "won",
+    "message": "New opportunity: T-TAPE / MULCH (FERTILIZER) - $12121.47"
+  },
+  {
     "date": "2026-10-29T00:35:55.475Z",
     "type": "added",
     "pipeline": "FERTILIZER",
