@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-10-31T00:22:47.494Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GUPSOM",
+    "company": "SKENDER PTY LTD",
+    "amount": 13000,
+    "status": "open",
+    "message": "New opportunity: LEICHHARDT - GUPSOM (FERTILIZER) - $13000.00"
+  },
+  {
+    "date": "2026-10-31T00:22:47.494Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "BULK FERTILISER",
+    "company": "HUYNH & THANG",
+    "amount": 15859.02,
+    "status": "open",
+    "message": "New opportunity: BULK FERTILISER (FERTILIZER) - $15859.02"
+  },
+  {
+    "date": "2026-10-31T00:22:47.494Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "SPRINKLER SHROUDS",
+    "company": "Hi-Way Plantation",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: SPRINKLER SHROUDS (IRRIGATION) - $0.00"
+  },
+  {
     "date": "2026-10-30T00:36:49.214Z",
     "type": "added",
     "pipeline": "FERTILIZER",

@@ -4,6 +4,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "2aodqU6C95gURYmCK4eW",
+        "name": "LEICHHARDT - GUPSOM",
+        "company": "SKENDER PTY LTD",
+        "amount": 13000,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "200 TONE GYPSOM BETWEEN MARCH - JUNE 2027"
+      },
+      {
+        "id": "fPJCrbCs1uFeUjHaKfrp",
+        "name": "BULK FERTILISER",
+        "company": "HUYNH & THANG",
+        "amount": 15859.02,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X PLT (48) POTASSIUM NITRATE - EX STOCK\n1 X PLT (48) YARA CALCIUM NITRATE - MID NOVEMBER\n1 X PLT (48) CAMPBELLS CALCIUM NITRATE - EX STOCK\n1 X PLT (48) POLYFEED H/K - EX STOCK\n1 X PLT (48) POLYFEED L/K - EX STOCK\n30/10/26 - EMAILED ON QU-04254"
+      },
+      {
         "id": "wv0H9LqCvGFVjjrmfizw",
         "name": "LEICHHARDT - GYPSOM",
         "company": "MUNDILLYA FARM PTY LTD",
@@ -36,7 +56,7 @@
       {
         "id": "v0O3nQ9QHrLLGg2hmxSx",
         "name": "LEICHARDT - GYPSOM ",
-        "company": "199 North River Road",
+        "company": "CHRIS LECA",
         "amount": 1625,
         "status": "open",
         "stage": "NEW LEAD",
@@ -46,7 +66,7 @@
       {
         "id": "HW8uoJgb43EsdoPDPzZ3",
         "name": "ECO GROWTH PREPLANT BLEND",
-        "company": "199 North River Road",
+        "company": "CHRIS LECA",
         "amount": 2172,
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
@@ -61,7 +81,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - INV-454737\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456\n1 X PLT MAP - STOCK CGA - INV-453456\n1 X PLT UREA - STOCK CGA  INV-453456\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n"
+        "notes": "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - INV-454737 - DELIVERED 30/10/26\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026 - DELIVERED 30/10/26\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n1 X PLT MAP - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n1 X PLT UREA - STOCK CGA INV-453456 - DELIVERED 30/10/26\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n"
       },
       {
         "id": "et0nccxxwM2G3tvhNZGi",
@@ -305,6 +325,16 @@
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
+      {
+        "id": "4nVDfSQNX4kApQchdx58",
+        "name": "SPRINKLER SHROUDS",
+        "company": "Hi-Way Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "10 X POP SPRINKLER SHROUDS - HR PRODUCTS"
+      },
       {
         "id": "dU0Do3GHiIdLbpfehiDg",
         "name": "Robert Ashley Scott",
@@ -1544,7 +1574,7 @@
       {
         "id": "RWb1RCgNzeizmUXcnXv1",
         "name": "Machinery Spares",
-        "company": "199 North River Road",
+        "company": "CHRIS LECA",
         "amount": 2369.4,
         "status": "won",
         "stage": "COLLECTED BY CUSTOMER",
