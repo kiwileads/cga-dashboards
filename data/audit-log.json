@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-11-03T02:45:44.387Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "POTATO E ",
+    "company": "CUU QUACH FAMILY TRUST",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: POTATO E  (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-11-03T02:45:44.387Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILIZER SALE",
+    "company": "CUU QUACH FAMILY TRUST",
+    "amount": 39944.61,
+    "status": "open",
+    "message": "New opportunity: FERTILIZER SALE (FERTILIZER) - $39944.61"
+  },
+  {
+    "date": "2026-11-03T02:45:44.387Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "IVAN - FERTILIZER",
+    "company": "BORICH AND SONS",
+    "amount": 9921.09,
+    "status": "open",
+    "message": "New opportunity: IVAN - FERTILIZER (FERTILIZER) - $9921.09"
+  },
+  {
+    "date": "2026-11-03T02:45:44.387Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "ELECTRIC FORKLIFT",
+    "company": "GIULIANO CONDO",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: ELECTRIC FORKLIFT (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-11-03T02:45:44.387Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Steve Beresford And Shaun Brandenburg",
+    "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+    "amount": 12135.75,
+    "prevAmount": 0,
+    "message": "Steve Beresford And Shaun Brandenburg: value changed $0.00 -> $12135.75 (+12135.75)"
+  },
+  {
     "date": "2026-10-31T00:22:47.494Z",
     "type": "added",
     "pipeline": "FERTILIZER",

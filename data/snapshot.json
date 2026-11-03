@@ -4,6 +4,36 @@
     "status": "open",
     "opps": [
       {
+        "id": "EU6WdSf2RQTTJm7XAWCL",
+        "name": "POTATO E ",
+        "company": "CUU QUACH FAMILY TRUST",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "2 X PLTS POTATO E"
+      },
+      {
+        "id": "VEa4iSS5OB3uR6mvWS1s",
+        "name": "FERTILIZER SALE",
+        "company": "CUU QUACH FAMILY TRUST",
+        "amount": 39944.61,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "1 X PLT (24) B/W MULCH 105X1000X30UM\n1 X PLT (24) T-TAPE 508-20-380\n6 X ROLLS 50MM DURA-POL\n6 X ROLLS 2MM X 4000MTRS (STEELE REEL)\n3 X PLT (144) POLYFEED HIGH K\n1 X PLT (48) POLYFEED LOW K\n10 X 25KG BAGS TECMANGAM (MANGANESE SULPHATE)\n2 X PLT (96) POTASSIUM NITRATE - WAITING ON STOCK TO ARRIVE ETA 4/11/26\nALL ITEMS SOLD ON INV-454965 ALL EX STOCK CGA."
+      },
+      {
+        "id": "Yl5eYa0LZyTy49GfmDWz",
+        "name": "IVAN - FERTILIZER",
+        "company": "BORICH AND SONS",
+        "amount": 9921.09,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "1 X PLT (48) POLYFEED H/K\n1 X PLT (48) CAMPBELLS CALCIUM NITRATE\n1 X PLTS (48) YARA CALCIUM NITRATE - ETA MID NOV 26\n1 X 1000LT FLEXI-N\nQUOTED ON QU-04256 "
+      },
+      {
         "id": "2aodqU6C95gURYmCK4eW",
         "name": "LEICHHARDT - GUPSOM",
         "company": "SKENDER PTY LTD",
@@ -21,7 +51,7 @@
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "1 X PLT (48) POTASSIUM NITRATE - EX STOCK\n1 X PLT (48) YARA CALCIUM NITRATE - MID NOVEMBER\n1 X PLT (48) CAMPBELLS CALCIUM NITRATE - EX STOCK\n1 X PLT (48) POLYFEED H/K - EX STOCK\n1 X PLT (48) POLYFEED L/K - EX STOCK\n30/10/26 - EMAILED ON QU-04254"
+        "notes": "1 X PLT (48) POTASSIUM NITRATE - EX STOCK\n1 X PLT (48) YARA CALCIUM NITRATE - MID NOVEMBER\n1 X PLT (48) CAMPBELLS CALCIUM NITRATE - EX STOCK\n1 X PLT (48) POLYFEED H/K - EX STOCK\n1 X PLT (48) POLYFEED L/K - EX STOCK\n30/10/26 - EMAILED ON QU-04254\n3/11/26 - CALLED THANG TODAY TO FOLLOW UP ON QUOTE AND HE HAS ADVISED THAT PRICE IS OK JUST WAITING FOR SOME MONEY TO COME IN FROM MARKETS "
       },
       {
         "id": "wv0H9LqCvGFVjjrmfizw",
@@ -233,11 +263,11 @@
         "id": "IC8bn4lezXthDgdxXnNE",
         "name": "Steve Beresford And Shaun Brandenburg",
         "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
-        "amount": 0,
+        "amount": 12135.75,
         "status": "open",
         "stage": "NEW ORDER/JOB",
         "isNew": "Yes",
-        "notes": ""
+        "notes": "QU-04255"
       },
       {
         "id": "n3Ce56VKhuwP0srUS7gU",
@@ -437,6 +467,16 @@
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "n89rXhiIYNrWUgrflAGW",
+        "name": "ELECTRIC FORKLIFT",
+        "company": "GIULIANO CONDO",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "PLEASE QUOTE FOR ELECTRIC PALLET TROLLEY 2000KG RATTED"
+      },
       {
         "id": "v3LZCHSbT5Y38n6jbyy0",
         "name": "VENUS PREMIUM RED - CAPSICUM STRING",
@@ -1730,7 +1770,7 @@
       {
         "id": "Yr3pJrUYPa5uP8y97P07",
         "name": "ECO FISH",
-        "company": "VG CUU, CV PHAM & TM QUACH",
+        "company": "CUU QUACH FAMILY TRUST",
         "amount": 2288,
         "status": "won",
         "stage": "CLOSED/COMPLETE",
