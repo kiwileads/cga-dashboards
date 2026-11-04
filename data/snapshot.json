@@ -4,6 +4,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "M2Bo9HRJw1YIF4HGiykt",
+        "name": "AG / BUILDERS LIME",
+        "company": "REAL FUTURES PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": null,
+        "notes": "1 25KG AG/BUILDERS LIME\n TO KILL TREE ROOTS IN WATER BORE"
+      },
+      {
         "id": "EU6WdSf2RQTTJm7XAWCL",
         "name": "POTATO E ",
         "company": "CUU QUACH FAMILY TRUST",
@@ -19,7 +29,7 @@
         "company": "CUU QUACH FAMILY TRUST",
         "amount": 39944.61,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "1 X PLT (24) B/W MULCH 105X1000X30UM\n1 X PLT (24) T-TAPE 508-20-380\n6 X ROLLS 50MM DURA-POL\n6 X ROLLS 2MM X 4000MTRS (STEELE REEL)\n3 X PLT (144) POLYFEED HIGH K\n1 X PLT (48) POLYFEED LOW K\n10 X 25KG BAGS TECMANGAM (MANGANESE SULPHATE)\n2 X PLT (96) POTASSIUM NITRATE - WAITING ON STOCK TO ARRIVE ETA 4/11/26\nALL ITEMS SOLD ON INV-454965 ALL EX STOCK CGA."
       },
@@ -29,7 +39,7 @@
         "company": "BORICH AND SONS",
         "amount": 9921.09,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "1 X PLT (48) POLYFEED H/K\n1 X PLT (48) CAMPBELLS CALCIUM NITRATE\n1 X PLTS (48) YARA CALCIUM NITRATE - ETA MID NOV 26\n1 X 1000LT FLEXI-N\nQUOTED ON QU-04256 "
       },
@@ -181,7 +191,7 @@
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "192 X 25KG EPSOM SALT\n144 X 25KG HAIFA POT NITRATE- 2 PLTS (96) TAKEN ON INV-445059\n147 X 25KG POT SULPHATE - 2PLTS (98) TAKEN ON INV-445059\n5 X 1000LT FLEXI N\n144 X 25KG CACIUM NITRATE - 2PLS (96) TAKEN ON INV-445059\n10 X 25KG ZINK SULPHATE \n10 X 5KG MANGANESE SULPHATE\n96 X 25KG PEKACID\n48 X HAIFA POLYFEED L/K\nQU-04032\n"
+        "notes": "192 X 25KG EPSOM SALT\n144 X 25KG HAIFA POT NITRATE- 2 PLTS (96) TAKEN ON INV-445059\n147 X 25KG POT SULPHATE - 2PLTS (98) TAKEN ON INV-445059\n5 X 1000LT FLEXI N\n144 X 25KG CACIUM NITRATE - 2PLS (96) TAKEN ON INV-445059\n10 X 25KG ZINK SULPHATE \n10 X 5KG MANGANESE SULPHATE\n96 X 25KG PEKACID\n48 X HAIFA POLYFEED L/K\nQU-04032\n\n3/11/26 - SPOKE TO JULIAN WAITING FOR HIM TO GET BACK TO ME ON REQUIREMENTS OF THE REST OF THIS FERTILISER.\n"
       },
       {
         "id": "7A2w0GgYJaoaWfSLH3lS",
@@ -230,12 +240,22 @@
     "status": "open",
     "opps": [
       {
+        "id": "SEBcjheFhkHqrKhHvozo",
+        "name": "STAGE 2 - LUCERNE",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": "No",
+        "notes": "60 X RURAL TAPPING SADDLES 50MM X 1\"\n100 X IHRVY37-SPRINKLERS\n100 X FRONT NOZZLES (RED)\n100 X REAR NOZZLES (PINK)\n100 X IHRPPR6025MF - POLY RISER 1500 X 25MM MALE BSP X 20MM FEMALE BSP\n4 X IPG70160006 - RURAL COUPLING"
+      },
+      {
         "id": "8gXaAmf97SY3QUaMtSLh",
         "name": "Harvest Road",
         "company": "Harvest Road Agribusiness",
         "amount": 1212.75,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "SHIPPING CONFIRMED",
         "isNew": "Yes",
         "notes": "1050 x IHRVY37N24R"
       },
@@ -255,7 +275,7 @@
         "company": "",
         "amount": 11627,
         "status": "open",
-        "stage": "SHIPPING CONFIRMED",
+        "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "1 x SILD047-71    Suntuff 400L Sprayer \nDeposit paid \\$5813.50 inc tax 27/10/26"
       },
@@ -268,26 +288,6 @@
         "stage": "NEW ORDER/JOB",
         "isNew": "Yes",
         "notes": "QU-04255"
-      },
-      {
-        "id": "n3Ce56VKhuwP0srUS7gU",
-        "name": "Ray & Elaine Skender",
-        "company": "SKENDER PTY LTD",
-        "amount": 4004,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "1 x WPSX-MUEC09J-160"
-      },
-      {
-        "id": "XuK4CWwkF8x4HENiBCQJ",
-        "name": "Robert Ashley Scott",
-        "company": "SORICO PLANTATION",
-        "amount": 2035,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "1 x ITI66  \nP71312"
       },
       {
         "id": "pY7EWSiVKC9Gi5Zn9eb5",
@@ -338,16 +338,6 @@
         "stage": "PROCUREMENT UNDERWAY",
         "isNew": "Yes",
         "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
-      },
-      {
-        "id": "LfFkMX1JFz9bFCoJ0NRk",
-        "name": "STARLINE PUMP x 1  (Total = 3)",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 3960,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
       }
     ]
   },
@@ -355,6 +345,16 @@
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
+      {
+        "id": "FMCiJDf45rby8KtAMNY3",
+        "name": "DAVEY HM160-19T ",
+        "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+        "amount": 1971.5,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X HM160-19T DAVEY PUMP"
+      },
       {
         "id": "4nVDfSQNX4kApQchdx58",
         "name": "SPRINKLER SHROUDS",
@@ -364,16 +364,6 @@
         "stage": "NEW LEAD",
         "isNew": null,
         "notes": "10 X POP SPRINKLER SHROUDS - HR PRODUCTS"
-      },
-      {
-        "id": "dU0Do3GHiIdLbpfehiDg",
-        "name": "Robert Ashley Scott",
-        "company": "SORICO PLANTATION",
-        "amount": 1730.2,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X VALPES ELECTRIC ACTUATED VALVE.\nVS150.90B.GOO\n\n21/10/26 - Emailed Braeco for quote.\n22/10/26 - QUOTED CLIENT ON THE PHONE.\nSUPPLIER: BREACO\nCGA: @1500.20 +10% = \\$1650.20+ +80 FREIGHT = \\$1730.20+GST \n27/10/26 - CLEANT CONFIRMED AND ASKED TO ORDER."
       },
       {
         "id": "ZGJfFHlu2lTBb8McPLm9",
@@ -831,6 +821,26 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "n3Ce56VKhuwP0srUS7gU",
+        "name": "Ray & Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 4004,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x WPSX-MUEC09J-160"
+      },
+      {
+        "id": "XuK4CWwkF8x4HENiBCQJ",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 3938.24,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x ITI66  \nP71312\n1 x Valpes Valve\nP71323"
+      },
       {
         "id": "pusF7hJD8dinbe1IsB32",
         "name": "David Babun",
@@ -1560,6 +1570,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": null,
         "notes": "P70232\nOUR CODE #MISCTYCWBUM\nCOLLECTED BY CUSTOMER INV-445709"
+      },
+      {
+        "id": "LfFkMX1JFz9bFCoJ0NRk",
+        "name": "STARLINE PUMP x 1  (Total = 3)",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 3960,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Mike will purchase 1 unit before the end of the financial year. The other 2 unit will be purchased around December 2026 - January 2027. (The deal with Pentair was too good to let go) Normal price Cost (CGA) @ \\$3337.75 - Sale Cost \\$2978.30 plus gst (Saving per unit of 359.45 + gst per unit."
       },
       {
         "id": "JrMij5xImsKkOJKMeQ0H",
@@ -2295,6 +2315,16 @@
     "pipelineName": "IRRIGATION",
     "status": "won",
     "opps": [
+      {
+        "id": "dU0Do3GHiIdLbpfehiDg",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 1903.24,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X VALPES ELECTRIC ACTUATED VALVE.\nVS150.90B.GOO\n\n21/10/26 - Emailed Braeco for quote.\n22/10/26 - QUOTED CLIENT ON THE PHONE.\nSUPPLIER: BREACO\nCGA: @1500.20 +10% = \\$1650.20+ +80 FREIGHT = \\$1730.20+GST \n27/10/26 - CLIENT CONFIRMED AND ASKED TO ORDER.\n03/11/26 - ARRIVED AND SOLD ON INV-454982"
+      },
       {
         "id": "ochTCKRZpkMhG97fSVIg",
         "name": "ACU-TECH POLY PIPE",

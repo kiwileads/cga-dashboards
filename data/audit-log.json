@@ -1,5 +1,99 @@
 [
   {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "AG / BUILDERS LIME",
+    "company": "REAL FUTURES PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: AG / BUILDERS LIME (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "STAGE 2 - LUCERNE",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: STAGE 2 - LUCERNE (ROB's CUSTOM) - $0.00"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "added",
+    "pipeline": "IRRIGATION",
+    "name": "DAVEY HM160-19T ",
+    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
+    "amount": 1971.5,
+    "status": "open",
+    "message": "New opportunity: DAVEY HM160-19T  (IRRIGATION) - $1971.50"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Ray & Elaine Skender",
+    "company": "SKENDER PTY LTD",
+    "amount": 4004,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Ray & Elaine Skender: status changed open -> won"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 3938.24,
+    "prevAmount": 2035,
+    "message": "Robert Ashley Scott: value changed $2035.00 -> $3938.24 (+1903.24)"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 3938.24,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Robert Ashley Scott: status changed open -> won"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "STARLINE PUMP x 1  (Total = 3)",
+    "company": "M RASO'S CONTRACTING",
+    "amount": 3960,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "STARLINE PUMP x 1  (Total = 3): status changed open -> won"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "value_change",
+    "pipeline": "IRRIGATION",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 1903.24,
+    "prevAmount": 1730.2,
+    "message": "Robert Ashley Scott: value changed $1730.20 -> $1903.24 (+173.04)"
+  },
+  {
+    "date": "2026-11-04T01:02:00.002Z",
+    "type": "status_change",
+    "pipeline": "IRRIGATION",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 1903.24,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Robert Ashley Scott: status changed open -> won"
+  },
+  {
     "date": "2026-11-03T02:45:44.387Z",
     "type": "added",
     "pipeline": "FERTILIZER",
