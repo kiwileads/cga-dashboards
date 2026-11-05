@@ -4,6 +4,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "ixok16gTudOfFwxc5UkE",
+        "name": "TROFORTE / ECO PRE PLANT",
+        "company": "VANNY DANG",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "QUOTE \n1 X BULKA BAG OF TROFORTE -SUNPALM AUSTRALIA\n1 X PLT 20KG BAGS OF TROFOTE - SUNPALM AUSTRALIA\n\n1 X BULKA OF ECO PRE PLANT\n1 X 54 BAGS OF ECO PRE PLANT\n"
+      },
+      {
         "id": "M2Bo9HRJw1YIF4HGiykt",
         "name": "AG / BUILDERS LIME",
         "company": "REAL FUTURES PTY LTD",
@@ -19,9 +29,9 @@
         "company": "CUU QUACH FAMILY TRUST",
         "amount": 0,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "2 X PLTS POTATO E"
+        "notes": "2 X PLTS POTATO E\n04/11/26 - EMAILED QU-04263 TO MR CUU - WAITING ON ORDER CONFIRMATION."
       },
       {
         "id": "VEa4iSS5OB3uR6mvWS1s",
@@ -29,7 +39,7 @@
         "company": "CUU QUACH FAMILY TRUST",
         "amount": 39944.61,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "1 X PLT (24) B/W MULCH 105X1000X30UM\n1 X PLT (24) T-TAPE 508-20-380\n6 X ROLLS 50MM DURA-POL\n6 X ROLLS 2MM X 4000MTRS (STEELE REEL)\n3 X PLT (144) POLYFEED HIGH K\n1 X PLT (48) POLYFEED LOW K\n10 X 25KG BAGS TECMANGAM (MANGANESE SULPHATE)\n2 X PLT (96) POTASSIUM NITRATE - WAITING ON STOCK TO ARRIVE ETA 4/11/26\nALL ITEMS SOLD ON INV-454965 ALL EX STOCK CGA."
       },
@@ -121,7 +131,7 @@
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
-        "notes": "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - INV-454737 - DELIVERED 30/10/26\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026 - DELIVERED 30/10/26\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n1 X PLT MAP - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n1 X PLT UREA - STOCK CGA INV-453456 - DELIVERED 30/10/26\n2 X PLTS CALCIUM NITRATE - DUE IN NOVEMBER - P70997\n"
+        "notes": "9 X 90KG STRIKE 60 - TRICAL AUSTRALIA - INV-454737 - DELIVERED 30/10/26\n7 X 1T BULKA BAG BOUNCE BACK -NUTRIEN - NEED TO ORDER\n2 X PLTS HAIFA POLYFEED L/K - STOCK CGA -INV-453456 01/10/2026 - DELIVERED 30/10/26\n2 PLTS HAIFA POTASSIUM NITRATE - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n2 X PLTS EPSOM SALT - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n1 X PLT MAP - STOCK CGA - INV-453456 - DELIVERED 30/10/26\n1 X PLT UREA - STOCK CGA INV-453456 - DELIVERED 30/10/26\n2 X PLTS CALCIUM NITRATE - DUE IN DECEMBER - P70997\n"
       },
       {
         "id": "et0nccxxwM2G3tvhNZGi",
@@ -152,16 +162,6 @@
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "108 X 20KG ECOGROWTH  CGA PREPLANT V1 MID JAN 27\n108 X 20KG ECOGROWTH CGA PREPLANT V1  JULY 27\n\n22/09/26 - QUOTED @ \\$43.63+GST"
-      },
-      {
-        "id": "cBWsy1VGj0VarzaRJzX3",
-        "name": "ECO GROWTH SUPER COPPER ZINK MOLLY",
-        "company": "NOBREGA PTY LTD",
-        "amount": 3029.4,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "50X 20KG BAGS ECOGROWTH SCZM"
       },
       {
         "id": "QBOVPadrCilBmBWOeoqY",
@@ -232,112 +232,6 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "BULK BAG GRANULAR POTASSIUM SULPHATE\nOPORTUNITY LOST DUE TO GOING DIFFERENT DIRRECTION."
-      }
-    ]
-  },
-  {
-    "pipelineName": "ROB's CUSTOM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "SEBcjheFhkHqrKhHvozo",
-        "name": "STAGE 2 - LUCERNE",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": "No",
-        "notes": "60 X RURAL TAPPING SADDLES 50MM X 1\"\n100 X IHRVY37-SPRINKLERS\n100 X FRONT NOZZLES (RED)\n100 X REAR NOZZLES (PINK)\n100 X IHRPPR6025MF - POLY RISER 1500 X 25MM MALE BSP X 20MM FEMALE BSP\n4 X IPG70160006 - RURAL COUPLING"
-      },
-      {
-        "id": "8gXaAmf97SY3QUaMtSLh",
-        "name": "Harvest Road",
-        "company": "Harvest Road Agribusiness",
-        "amount": 1212.75,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "1050 x IHRVY37N24R"
-      },
-      {
-        "id": "riP8tMi1niQMkJijZiYQ",
-        "name": "Jaison Joseph",
-        "company": "JAISON FAMILY PLANTATION TRUST",
-        "amount": 3048.87,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": null,
-        "notes": "1 x ITISDS-50 Irrigation Controller"
-      },
-      {
-        "id": "cgXcMhFo5OR9ZseF7jtk",
-        "name": "Nazrin Shah",
-        "company": "",
-        "amount": 11627,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "1 x SILD047-71    Suntuff 400L Sprayer \nDeposit paid \\$5813.50 inc tax 27/10/26"
-      },
-      {
-        "id": "IC8bn4lezXthDgdxXnNE",
-        "name": "Steve Beresford And Shaun Brandenburg",
-        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
-        "amount": 12135.75,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": "Yes",
-        "notes": "QU-04255"
-      },
-      {
-        "id": "pY7EWSiVKC9Gi5Zn9eb5",
-        "name": "Thanh Van & T Kim Tien Nguyen",
-        "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
-        "amount": 3892.57,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "QU-04221  dated 17/9/2026"
-      },
-      {
-        "id": "3wsvzh5cDit3vkG1Cfix",
-        "name": "Winning Station",
-        "company": "",
-        "amount": 577.5,
-        "status": "open",
-        "stage": "DELIVERY DELAYED",
-        "isNew": "Yes",
-        "notes": "1 x WPD-M7510 whisper Pool Pump W500"
-      },
-      {
-        "id": "HSsmX7S8TYxvSQ8M5N9A",
-        "name": "Severin Gugich",
-        "company": "A & N Gugich Plantation",
-        "amount": 1686.74,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "QU-04203 Dated 26/08/26"
-      },
-      {
-        "id": "ocu1LWCN0Fg30o0yYlMC",
-        "name": "PVC PIPE #9 150mm",
-        "company": "CAIDAN PRODUCE PTY LTD",
-        "amount": 39243.8,
-        "status": "open",
-        "stage": "COLLECTED BY CUSTOMER",
-        "isNew": "Yes",
-        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
-      },
-      {
-        "id": "07d7BFN2g8Ld8YUwcBuv",
-        "name": "Duc Nguyen",
-        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
       }
     ]
   },
@@ -418,6 +312,102 @@
     ]
   },
   {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "p6d47D9UiNzJVWHtx7AR",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 13169.2,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "Irrigation Spares\nNETAFIM"
+      },
+      {
+        "id": "SEBcjheFhkHqrKhHvozo",
+        "name": "STAGE 2 - LUCERNE",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": "No",
+        "notes": "60 X RURAL TAPPING SADDLES 50MM X 1\"\n100 X IHRVY37-SPRINKLERS\n100 X FRONT NOZZLES (RED)\n100 X REAR NOZZLES (PINK)\n100 X IHRPPR6025MF - POLY RISER 1500 X 25MM MALE BSP X 20MM FEMALE BSP\n4 X IPF7160006 - RURAL COUPLING"
+      },
+      {
+        "id": "8gXaAmf97SY3QUaMtSLh",
+        "name": "Harvest Road",
+        "company": "Harvest Road Agribusiness",
+        "amount": 1212.75,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "1050 x IHRVY37N24R"
+      },
+      {
+        "id": "riP8tMi1niQMkJijZiYQ",
+        "name": "Jaison Joseph",
+        "company": "JAISON FAMILY PLANTATION TRUST",
+        "amount": 3048.87,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": null,
+        "notes": "1 x ITISDS-50 Irrigation Controller"
+      },
+      {
+        "id": "cgXcMhFo5OR9ZseF7jtk",
+        "name": "Nazrin Shah",
+        "company": "",
+        "amount": 11627,
+        "status": "open",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "1 x SILD047-71    Suntuff 400L Sprayer \nDeposit paid \\$5813.50 inc tax 27/10/26"
+      },
+      {
+        "id": "IC8bn4lezXthDgdxXnNE",
+        "name": "Steve Beresford And Shaun Brandenburg",
+        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+        "amount": 12135.75,
+        "status": "open",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "QU-04255"
+      },
+      {
+        "id": "pY7EWSiVKC9Gi5Zn9eb5",
+        "name": "Thanh Van & T Kim Tien Nguyen",
+        "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
+        "amount": 3892.57,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "1 x WPG-99803522\nQU-04221  dated 17/9/2026"
+      },
+      {
+        "id": "3wsvzh5cDit3vkG1Cfix",
+        "name": "Winning Station",
+        "company": "",
+        "amount": 577.5,
+        "status": "open",
+        "stage": "DELIVERY DELAYED",
+        "isNew": "Yes",
+        "notes": "1 x WPD-M7510 whisper Pool Pump W500"
+      },
+      {
+        "id": "07d7BFN2g8Ld8YUwcBuv",
+        "name": "Duc Nguyen",
+        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
+        "amount": 2369.4,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
+      }
+    ]
+  },
+  {
     "pipelineName": "CUSTOM BOXES",
     "status": "open",
     "opps": [
@@ -450,6 +440,72 @@
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
         "notes": "OPPORTUNITY VALUE BASED ON \\$1.49+GST\n28.04.26 - SPOKE TO SU TRAN AND WAS ADVISED THAT HE WILL NOT BE USING THESE CHERRY'S THIS SEASON. WILL REVISIT THIS IN 2027.\n"
+      }
+    ]
+  },
+  {
+    "pipelineName": "CHEMICALS",
+    "status": "open",
+    "opps": [
+      {
+        "id": "KH2Ts8DCSKRd2humfA7v",
+        "name": "STRIKE 60 RURAL INLINE 140KG ",
+        "company": "VANNY DANG",
+        "amount": 8639.4,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "3 X STRIKE 60 RURAL INLINE 140KG\n\\$18.20KG X 140KG + \\$70( FREIGHT) = \\$2618.00\n04/11/26 - CALL VANNY TO CONFIRM\n04/11/26 - SPOKE TO VANNY AND HE WILL CALL ME IN EARLY 2027 TO GIVE NUMBERS"
+      },
+      {
+        "id": "Me5fR77TsNnogPuWIiKV",
+        "name": "STRIKE 60 RURAL INLINE 140KG",
+        "company": "VC DUONG & D DAO",
+        "amount": 8639.4,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X 140KG RIRAL INLINE\n\\$18.20kg x 140kg=\\$2548+gst\n04/11/26- SPOKE TO LINH AND GO AHEAD WITH ORDERING."
+      },
+      {
+        "id": "weeRCJJeebhZcayc93pr",
+        "name": "CERA TRAP 20LT ",
+        "company": "V & M Durmanich",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "3 X 20LT CERA TRAP"
+      },
+      {
+        "id": "iwp0F1JHmRELmjzv9D5m",
+        "name": "REDOX PHOPHORIC ACID 85% 200LT/IBC",
+        "company": "MUNDILLYA FARM PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X 200LT REDOX PHOPHORIC ACID 85% EX PERTH\n1 X IBC 1650KG PHOSPHORIC ACID 85% EX PERTH\n1 X PALLET MAP (48) BAGS EC STOCK\n\nAVAILABLE EX PERTH THROUGH NUTRIEN"
+      },
+      {
+        "id": "iOA4W5U0oetm23BGsXAE",
+        "name": "TIPAN TRADER MANGO WASH",
+        "company": "HARVEST ROAD",
+        "amount": 7191.25,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "50 X MANGO WASH SUPREME - TIPAN TRADERS\nON SALES ORD-486824"
+      },
+      {
+        "id": "wkYgrYt1flFlrnN2X6g6",
+        "name": "CHEMICAL",
+        "company": "GLENDALE PLANTATION",
+        "amount": 11546.03,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X DELEGATE 800GMS \n1 X TYRANEX 500 SL 20LT\n1 X PROCLAIM OPTI 5KG\n1 X PROCLAIM OPTI 600GM\n2 X INTERVINE 2.5KG\n1 X FOLPAN 800 WG 5 KG\n1 X VIVANDO 5LT\n1 X MIRAVIS PRIME 5LT\n3 X SWITCH 1KG\n1 X FLUTE 50EW 5LT\n1 X CORTEVA VERPIXO 5LT\n2 X BACCHUS WG 10KG\n"
       }
     ]
   },
@@ -566,62 +622,6 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
-      }
-    ]
-  },
-  {
-    "pipelineName": "CHEMICALS",
-    "status": "open",
-    "opps": [
-      {
-        "id": "weeRCJJeebhZcayc93pr",
-        "name": "CERA TRAP 20LT ",
-        "company": "V & M Durmanich",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "3 X 20LT CERA TRAP"
-      },
-      {
-        "id": "iwp0F1JHmRELmjzv9D5m",
-        "name": "REDOX PHOPHORIC ACID 85% 200LT/IBC",
-        "company": "MUNDILLYA FARM PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "3 X 200LT REDOX PHOPHORIC ACID 85% EX PERTH\n1 X IBC 1650KG PHOSPHORIC ACID 85% EX PERTH\n1 X PALLET MAP (48) BAGS EC STOCK\n\nAVAILABLE EX PERTH THROUGH NUTRIEN"
-      },
-      {
-        "id": "iOA4W5U0oetm23BGsXAE",
-        "name": "TIPAN TRADER MANGO WASH",
-        "company": "HARVEST ROAD",
-        "amount": 7191.25,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "50 X MANGO WASH SUPREME - TIPAN TRADERS\nON SALES ORD-486824"
-      },
-      {
-        "id": "wkYgrYt1flFlrnN2X6g6",
-        "name": "CHEMICAL",
-        "company": "GLENDALE PLANTATION",
-        "amount": 11546.03,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "3 X DELEGATE 800GMS \n1 X TYRANEX 500 SL 20LT\n1 X PROCLAIM OPTI 5KG\n1 X PROCLAIM OPTI 600GM\n2 X INTERVINE 2.5KG\n1 X FOLPAN 800 WG 5 KG\n1 X VIVANDO 5LT\n1 X MIRAVIS PRIME 5LT\n3 X SWITCH 1KG\n1 X FLUTE 50EW 5LT\n1 X CORTEVA VERPIXO 5LT\n2 X BACCHUS WG 10KG\n"
-      },
-      {
-        "id": "CPYZtS4YVvibyR1LFvrP",
-        "name": "KEVIN BARRET",
-        "company": "Carnarvon Accomodation Services",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "2 X 25KG BORAX DECAHYDRATE"
       }
     ]
   },
@@ -762,65 +762,29 @@
     ]
   },
   {
-    "pipelineName": "CUSTOM BOXES",
-    "status": "won",
-    "opps": [
-      {
-        "id": "HTA8Lltwyqv2sbhNwBr4",
-        "name": "137MM H/E GRAPE BOX",
-        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
-        "amount": 22590,
-        "status": "won",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "GRAPE 137MM H/E GRAPE BOX"
-      },
-      {
-        "id": "IYQhVSJMC0N6oM2TJ9pU",
-        "name": "137MM H/E GRAPE BOX",
-        "company": "BUMBAK & SONS",
-        "amount": 175700,
-        "status": "won",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.51+GST \nCGA PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
-      },
-      {
-        "id": "UFLS1MguObKgcjbiEWy3",
-        "name": "137MM H/E GRAPE BOX",
-        "company": "Janna",
-        "amount": 37650,
-        "status": "won",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.51+GST \nCGA PRICE\n\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
-      },
-      {
-        "id": "0IRRKITrDuWuPau2MTwv",
-        "name": "137MM H/E GRAPE BOX",
-        "company": "GLENDALE PLANTATION",
-        "amount": 30120,
-        "status": "won",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.51+GST \nCGA PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
-      },
-      {
-        "id": "kUOfDDbOSqBE5j5DasHr",
-        "name": "Duc Nguyen",
-        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
-        "amount": 45000,
-        "status": "won",
-        "stage": "CLOSED/COMPLETE",
-        "isNew": null,
-        "notes": ""
-      }
-    ]
-  },
-  {
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "AiZmTiENBAZ6jpp8Vj9i",
+        "name": "Dallas & Liam Gillam",
+        "company": "",
+        "amount": 968.54,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Irrigation Spares\nQU-04260"
+      },
+      {
+        "id": "uPHwhDU47jdCEkYYAbkz",
+        "name": "Troy Braun",
+        "company": "",
+        "amount": 3150.84,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x WPD-CS50160-7.5/3"
+      },
       {
         "id": "n3Ce56VKhuwP0srUS7gU",
         "name": "Ray & Elaine Skender",
@@ -960,6 +924,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04204 Dated 26/08/26"
+      },
+      {
+        "id": "HSsmX7S8TYxvSQ8M5N9A",
+        "name": "Severin Gugich",
+        "company": "A & N Gugich Plantation",
+        "amount": 1686.74,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04203 Dated 26/08/26"
       },
       {
         "id": "6gpTqlwEAnUR24wJYVl2",
@@ -1240,6 +1214,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "No",
         "notes": "Quote #QU-04115\n4 x ITI7\n8 x ITISD-DC-3B\nARRIVED - 16/06 - I HAVE NOTIFIED DAVE - STOCK ON THE PICK-UP SHELF - NOT YET BOOKED OUT"
+      },
+      {
+        "id": "ocu1LWCN0Fg30o0yYlMC",
+        "name": "PVC PIPE #9 150mm",
+        "company": "CAIDAN PRODUCE PTY LTD",
+        "amount": 39243.8,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "P70515 - 01/06/26\nGAY2 (ATTN: EDDIE SMITH)\n104 x PVC PIPE #9 150mm  - 44 taken (60 due 16/7/26 already charged out )"
       },
       {
         "id": "hORm1hODIKMawagG5SxM",
@@ -1664,6 +1648,62 @@
     ]
   },
   {
+    "pipelineName": "CUSTOM BOXES",
+    "status": "won",
+    "opps": [
+      {
+        "id": "HTA8Lltwyqv2sbhNwBr4",
+        "name": "137MM H/E GRAPE BOX",
+        "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
+        "amount": 22590,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "GRAPE 137MM H/E GRAPE BOX"
+      },
+      {
+        "id": "IYQhVSJMC0N6oM2TJ9pU",
+        "name": "137MM H/E GRAPE BOX",
+        "company": "BUMBAK & SONS",
+        "amount": 175700,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.51+GST \nCGA PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
+      },
+      {
+        "id": "UFLS1MguObKgcjbiEWy3",
+        "name": "137MM H/E GRAPE BOX",
+        "company": "Janna",
+        "amount": 37650,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.51+GST \nCGA PRICE\n\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
+      },
+      {
+        "id": "0IRRKITrDuWuPau2MTwv",
+        "name": "137MM H/E GRAPE BOX",
+        "company": "GLENDALE PLANTATION",
+        "amount": 30120,
+        "status": "won",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE CURRENTLY BASED ON \\$2.51+GST \nCGA PRICE\n\n21.05.26-MEETING WITH GRAPE GUYS TODAY. CLIENTS WERE HAPPY WITH THE BOX AND PRICE \nFEW CONCERNS AROUND EXCESS BOX STORAGE AND BOX AVAILABILITY. CLIENTS ALSO ASKED FOR CGA TO POSSIBLY COVER 50% OF THE DIE TOOLING COST.\nADVISED CLIENTS THAT ORDERS WOULD BE FORCASTED TO ARRIVE IN CARNARVON ON AGREED DATES BETWEEN CGA AND CLIENT AT THE TIME OF ORDERING. CLIENTS JUST CHECKING IF THEY WANT TO CHANGE THE DESIGN OF BOX AND THEY WILL ADVISE ON OUTCOME. FOLLOW UP."
+      },
+      {
+        "id": "kUOfDDbOSqBE5j5DasHr",
+        "name": "Duc Nguyen",
+        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
+        "amount": 45000,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": null,
+        "notes": ""
+      }
+    ]
+  },
+  {
     "pipelineName": "FERTILIZER",
     "status": "won",
     "opps": [
@@ -1736,6 +1776,16 @@
         "stage": "CLOSED/COMPLETE",
         "isNew": "Yes",
         "notes": "48 X HAIFA POTASSIUM NITRATE\n192 X CAMPBELLS DIAMOND 19 CARAT LOW K \n8 X 20LT 4 FARMERS GLUPHOSATE 570\n1 X BAG UREA"
+      },
+      {
+        "id": "cBWsy1VGj0VarzaRJzX3",
+        "name": "ECO GROWTH SUPER COPPER ZINK MOLLY",
+        "company": "NOBREGA PTY LTD",
+        "amount": 3029.4,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "50X 20KG BAGS ECOGROWTH SCZM"
       },
       {
         "id": "fC0jtgr223QtymBjVo6y",

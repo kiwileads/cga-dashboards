@@ -1,5 +1,108 @@
 [
   {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "TROFORTE / ECO PRE PLANT",
+    "company": "VANNY DANG",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: TROFORTE / ECO PRE PLANT (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 13169.2,
+    "status": "open",
+    "message": "New opportunity: Robert Ashley Scott (ROB's CUSTOM) - $13169.20"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "STRIKE 60 RURAL INLINE 140KG ",
+    "company": "VANNY DANG",
+    "amount": 8639.4,
+    "status": "open",
+    "message": "New opportunity: STRIKE 60 RURAL INLINE 140KG  (CHEMICALS) - $8639.40"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "STRIKE 60 RURAL INLINE 140KG",
+    "company": "VC DUONG & D DAO",
+    "amount": 8639.4,
+    "status": "open",
+    "message": "New opportunity: STRIKE 60 RURAL INLINE 140KG (CHEMICALS) - $8639.40"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Dallas & Liam Gillam",
+    "company": "",
+    "amount": 968.54,
+    "status": "won",
+    "message": "New opportunity: Dallas & Liam Gillam (ROB's CUSTOM) - $968.54"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Troy Braun",
+    "company": "",
+    "amount": 3150.84,
+    "status": "won",
+    "message": "New opportunity: Troy Braun (ROB's CUSTOM) - $3150.84"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "removed",
+    "pipeline": "CHEMICALS",
+    "name": "KEVIN BARRET",
+    "company": "Carnarvon Accomodation Services",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: KEVIN BARRET (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Severin Gugich",
+    "company": "A & N Gugich Plantation",
+    "amount": 1686.74,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Severin Gugich: status changed open -> won"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "PVC PIPE #9 150mm",
+    "company": "CAIDAN PRODUCE PTY LTD",
+    "amount": 39243.8,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "PVC PIPE #9 150mm: status changed open -> won"
+  },
+  {
+    "date": "2026-11-05T01:17:35.279Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "ECO GROWTH SUPER COPPER ZINK MOLLY",
+    "company": "NOBREGA PTY LTD",
+    "amount": 3029.4,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "ECO GROWTH SUPER COPPER ZINK MOLLY: status changed open -> won"
+  },
+  {
     "date": "2026-11-04T01:02:00.002Z",
     "type": "added",
     "pipeline": "FERTILIZER",
@@ -4992,57 +5095,5 @@
     "company": "GLENDALE PLANTATION",
     "amount": 4163.13,
     "message": "Renamed: \"Luke Skender - GLENDALE PLANTATION\" -> \"DORMEX GRAPES 26\""
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "value_change",
-    "pipeline": "CHEMICALS",
-    "name": "STRIKE 60 DRIP 140KG",
-    "company": "NXKD FAMILY TRUST",
-    "amount": 13183.5,
-    "prevAmount": 14000,
-    "message": "STRIKE 60 DRIP 140KG: value changed $14000.00 -> $13183.50 (-816.50)"
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "field_change",
-    "pipeline": "CHEMICALS",
-    "name": "STRIKE 60 DRIP 140KG",
-    "company": "NXKD FAMILY TRUST",
-    "amount": 13183.5,
-    "message": "STRIKE 60 DRIP 140KG: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "renamed",
-    "pipeline": "CHEMICALS",
-    "name": "STRIKE 60 DRIP 140KG",
-    "company": "NXKD FAMILY TRUST",
-    "amount": 13183.5,
-    "message": "Renamed: \"Nxkd Family Trust\" -> \"STRIKE 60 DRIP 140KG\""
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "value_change",
-    "pipeline": "IRRIGATION",
-    "name": "PLASSON POLY TO COPPER FITTING",
-    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-    "amount": 770,
-    "prevAmount": 1649.47,
-    "message": "PLASSON POLY TO COPPER FITTING: value changed $1649.47 -> $770.00 (-879.47)"
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "renamed",
-    "pipeline": "IRRIGATION",
-    "name": "PLASSON POLY TO COPPER FITTING",
-    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-    "amount": 770,
-    "message": "Renamed: \"WARREN SCHMIDT\" -> \"PLASSON POLY TO COPPER FITTING\""
-  },
-  {
-    "date": "2026-04-12T14:59:34.002Z",
-    "type": "init",
-    "message": "Dashboard initialized - first data pull"
   }
 ]
