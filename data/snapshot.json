@@ -4,6 +4,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "LefGEM73sZh6MVkA3pEk",
+        "name": "FERTILISER FEB 2027",
+        "company": "H B QUACH",
+        "amount": 21005.12,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "144 x (3PLT) POLYFEED LOW K\n1 X PLT (24 ROLLS) B/W MULCH 1050X1000X30UM\n12 X ROLLS 508-20-380 T-TAPE"
+      },
+      {
         "id": "ixok16gTudOfFwxc5UkE",
         "name": "TROFORTE / ECO PRE PLANT",
         "company": "VANNY DANG",
@@ -27,9 +37,9 @@
         "id": "EU6WdSf2RQTTJm7XAWCL",
         "name": "POTATO E ",
         "company": "CUU QUACH FAMILY TRUST",
-        "amount": 0,
+        "amount": 2890,
         "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "2 X PLTS POTATO E\n04/11/26 - EMAILED QU-04263 TO MR CUU - WAITING ON ORDER CONFIRMATION."
       },

@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-11-06T01:22:02.414Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILISER FEB 2027",
+    "company": "H B QUACH",
+    "amount": 21005.12,
+    "status": "open",
+    "message": "New opportunity: FERTILISER FEB 2027 (FERTILIZER) - $21005.12"
+  },
+  {
+    "date": "2026-11-06T01:22:02.414Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "POTATO E ",
+    "company": "CUU QUACH FAMILY TRUST",
+    "amount": 2890,
+    "prevAmount": 0,
+    "message": "POTATO E : value changed $0.00 -> $2890.00 (+2890.00)"
+  },
+  {
     "date": "2026-11-05T01:17:35.279Z",
     "type": "added",
     "pipeline": "FERTILIZER",
@@ -5077,23 +5097,5 @@
     "company": "GOR",
     "amount": 8601.5,
     "message": "Renamed: \"JUANITO GORGONIO\" -> \"DORMEX GRAPES 26\""
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "renamed",
-    "pipeline": "CHEMICALS",
-    "name": "DORMEX GRAPES 26",
-    "company": "GIULIANO CONDO",
-    "amount": 20284.66,
-    "message": "Renamed: \"Julian Condo\" -> \"DORMEX GRAPES 26\""
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "renamed",
-    "pipeline": "CHEMICALS",
-    "name": "DORMEX GRAPES 26",
-    "company": "GLENDALE PLANTATION",
-    "amount": 4163.13,
-    "message": "Renamed: \"Luke Skender - GLENDALE PLANTATION\" -> \"DORMEX GRAPES 26\""
   }
 ]
