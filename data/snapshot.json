@@ -9,7 +9,7 @@
         "company": "H B QUACH",
         "amount": 21005.12,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "144 x (3PLT) POLYFEED LOW K\n1 X PLT (24 ROLLS) B/W MULCH 1050X1000X30UM\n12 X ROLLS 508-20-380 T-TAPE"
       },
@@ -37,7 +37,7 @@
         "id": "EU6WdSf2RQTTJm7XAWCL",
         "name": "POTATO E ",
         "company": "CUU QUACH FAMILY TRUST",
-        "amount": 2890,
+        "amount": 2889,
         "status": "open",
         "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",

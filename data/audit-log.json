@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-07T00:37:12.807Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "POTATO E ",
+    "company": "CUU QUACH FAMILY TRUST",
+    "amount": 2889,
+    "prevAmount": 2890,
+    "message": "POTATO E : value changed $2890.00 -> $2889.00 (-1.00)"
+  },
+  {
     "date": "2026-11-06T01:22:02.414Z",
     "type": "added",
     "pipeline": "FERTILIZER",
@@ -5088,14 +5098,5 @@
     "company": "J & M LECA",
     "amount": 9461.65,
     "message": "Renamed: \"OSCAR LECA\" -> \"DORMEX GRAPES 26\""
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "renamed",
-    "pipeline": "CHEMICALS",
-    "name": "DORMEX GRAPES 26",
-    "company": "GOR",
-    "amount": 8601.5,
-    "message": "Renamed: \"JUANITO GORGONIO\" -> \"DORMEX GRAPES 26\""
   }
 ]
