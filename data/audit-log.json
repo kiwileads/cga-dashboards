@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-11-12T02:06:39.556Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Jaison Joseph",
+    "company": "JAISON FAMILY PLANTATION TRUST",
+    "amount": 4935.35,
+    "status": "open",
+    "message": "New opportunity: Jaison Joseph (ROB's CUSTOM) - $4935.35"
+  },
+  {
+    "date": "2026-11-12T02:06:39.556Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Al Holtham",
+    "company": "Janna",
+    "amount": 308.72,
+    "status": "open",
+    "message": "New opportunity: Al Holtham (ROB's CUSTOM) - $308.72"
+  },
+  {
     "date": "2026-11-07T00:37:12.807Z",
     "type": "value_change",
     "pipeline": "FERTILIZER",
@@ -5080,23 +5100,5 @@
     "company": "M. F PAULINO & TTF A.F PAULINO ESTATE",
     "amount": 7569.32,
     "message": "Renamed: \"FRANK PAULINO\" -> \"DORMEX GRAPES 26\""
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "renamed",
-    "pipeline": "CHEMICALS",
-    "name": "DORMEX GRAPES 26",
-    "company": "V & M Durmanich",
-    "amount": 13246.31,
-    "message": "Renamed: \"Andrew Durmanich\" -> \"DORMEX GRAPES 26\""
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "renamed",
-    "pipeline": "CHEMICALS",
-    "name": "DORMEX GRAPES 26",
-    "company": "J & M LECA",
-    "amount": 9461.65,
-    "message": "Renamed: \"OSCAR LECA\" -> \"DORMEX GRAPES 26\""
   }
 ]
