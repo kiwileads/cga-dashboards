@@ -250,6 +250,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "GKqEyFdR4o9RFMar1n2H",
+        "name": "Kevin Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 7785.14,
+        "status": "open",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "2 x WPG-99803522  Grundfos Pump NBG 80-50-250/263 4Kw"
+      },
+      {
         "id": "HqTMFuQ7kYCMmpkQ4Uca",
         "name": "Jaison Joseph",
         "company": "JAISON FAMILY PLANTATION TRUST",
@@ -310,20 +320,10 @@
         "notes": "1 x ITISDS-50 Irrigation Controller"
       },
       {
-        "id": "cgXcMhFo5OR9ZseF7jtk",
-        "name": "Nazrin Shah",
-        "company": "",
-        "amount": 11627,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "1 x SILD047-71    Suntuff 400L Sprayer \nDeposit paid \\$5813.50 inc tax 27/10/26"
-      },
-      {
         "id": "IC8bn4lezXthDgdxXnNE",
         "name": "Steve Beresford And Shaun Brandenburg",
         "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
-        "amount": 12135.75,
+        "amount": 20077.2,
         "status": "open",
         "stage": "QUOTE ACCEPTED BY CLIENT",
         "isNew": "Yes",
@@ -796,6 +796,26 @@
     "status": "won",
     "opps": [
       {
+        "id": "6utmtTQrqg1CTXNT3tFt",
+        "name": "Ray & Elaine Skender",
+        "company": "SKENDER PTY LTD",
+        "amount": 975.78,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x Silvan 200L Spotpak"
+      },
+      {
+        "id": "4KYNRZZzs4JuEst2N4Qv",
+        "name": "Paul Shain",
+        "company": "P SHAIN",
+        "amount": 540.97,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Chicken watering spares"
+      },
+      {
         "id": "AiZmTiENBAZ6jpp8Vj9i",
         "name": "Dallas & Liam Gillam",
         "company": "",
@@ -814,6 +834,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "1 x WPD-CS50160-7.5/3"
+      },
+      {
+        "id": "cgXcMhFo5OR9ZseF7jtk",
+        "name": "Nazrin Shah",
+        "company": "",
+        "amount": 11627,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x SILD047-71    Suntuff 400L Sprayer \nDeposit paid \\$5813.50 inc tax 27/10/26"
       },
       {
         "id": "n3Ce56VKhuwP0srUS7gU",
