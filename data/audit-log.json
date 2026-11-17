@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-11-17T03:24:07.363Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Sean Gaylard",
+    "company": "SEAN GAYLARD",
+    "amount": 1164.9,
+    "status": "open",
+    "message": "New opportunity: Sean Gaylard (ROB's CUSTOM) - $1164.90"
+  },
+  {
+    "date": "2026-11-17T03:24:07.363Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "BQ Luu & TNT Pham",
+    "company": "",
+    "amount": 315.7,
+    "status": "open",
+    "message": "New opportunity: BQ Luu & TNT Pham (ROB's CUSTOM) - $315.70"
+  },
+  {
+    "date": "2026-11-17T03:24:07.363Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Stephen Williamson",
+    "company": "SC & JM Williamson",
+    "amount": 3922.38,
+    "status": "open",
+    "message": "New opportunity: Stephen Williamson (ROB's CUSTOM) - $3922.38"
+  },
+  {
     "date": "2026-11-15T00:45:13.136Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
@@ -5076,33 +5106,5 @@
     "company": "Monique",
     "amount": 385,
     "message": "BERLOTTI BEANS: \"New Business\" changed No -> Yes"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "renamed",
-    "pipeline": "GENERAL MERCH",
-    "name": "BERLOTTI BEANS",
-    "company": "Monique",
-    "amount": 385,
-    "message": "Renamed: \"Ellen Arscott\" -> \"BERLOTTI BEANS\""
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "field_change",
-    "pipeline": "IRRIGATION",
-    "name": "POLY ELBOWS x 20",
-    "company": "Shire of Upper Gascoyne",
-    "amount": 0,
-    "message": "POLY ELBOWS x 20: \"New Business\" changed Not Set -> No"
-  },
-  {
-    "date": "2026-04-13T02:02:13.493Z",
-    "type": "added",
-    "pipeline": "CHEMICALS",
-    "name": "ROUNDUP",
-    "company": "Shire of Upper Gascoyne",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: ROUNDUP (CHEMICALS) - $0.00"
   }
 ]

@@ -250,6 +250,36 @@
     "status": "open",
     "opps": [
       {
+        "id": "GIcFUnMIwHsQrC9HEXuj",
+        "name": "Sean Gaylard",
+        "company": "SEAN GAYLARD",
+        "amount": 1164.9,
+        "status": "open",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "P71462"
+      },
+      {
+        "id": "0nJ8K3hSNIXQhScg7Cen",
+        "name": "BQ Luu & TNT Pham",
+        "company": "",
+        "amount": 315.7,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "7 x LASP-ARF12SVV  S Tine 32mm x 12mm"
+      },
+      {
+        "id": "iG761F47dS9jDfcqKPy4",
+        "name": "Stephen Williamson",
+        "company": "SC & JM Williamson",
+        "amount": 3922.38,
+        "status": "open",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X WPSX-MUEC08J-146 Starline Southern Cross Pump 5.5kw 3ph"
+      },
+      {
         "id": "GKqEyFdR4o9RFMar1n2H",
         "name": "Kevin Sullivan",
         "company": "Sulli Bros Plantation",
