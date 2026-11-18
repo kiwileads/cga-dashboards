@@ -4,6 +4,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "pGONhsXtcwFRU72uUJyr",
+        "name": "LEICHHARDT GYPSOM 25 TONE",
+        "company": "CAIDAN PRODUCE PTY LTD",
+        "amount": 1625,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
         "id": "LefGEM73sZh6MVkA3pEk",
         "name": "FERTILISER FEB 2027",
         "company": "H B QUACH",
@@ -250,14 +260,24 @@
     "status": "open",
     "opps": [
       {
+        "id": "xSOFnMzvsmmzXD4oVnzS",
+        "name": "David & Debbie Kearney",
+        "company": "CARNARVON ELECTRICS",
+        "amount": 9619.9,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QU-04278 DATED 17/11/2026"
+      },
+      {
         "id": "GIcFUnMIwHsQrC9HEXuj",
         "name": "Sean Gaylard",
         "company": "SEAN GAYLARD",
         "amount": 1164.9,
         "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "P71462"
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "WPF-SPM2.2 X 1 \nP71462 x 4"
       },
       {
         "id": "0nJ8K3hSNIXQhScg7Cen",
@@ -268,16 +288,6 @@
         "stage": "SHIPPING CONFIRMED",
         "isNew": "Yes",
         "notes": "7 x LASP-ARF12SVV  S Tine 32mm x 12mm"
-      },
-      {
-        "id": "iG761F47dS9jDfcqKPy4",
-        "name": "Stephen Williamson",
-        "company": "SC & JM Williamson",
-        "amount": 3922.38,
-        "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X WPSX-MUEC08J-146 Starline Southern Cross Pump 5.5kw 3ph"
       },
       {
         "id": "GKqEyFdR4o9RFMar1n2H",
@@ -295,7 +305,7 @@
         "company": "JAISON FAMILY PLANTATION TRUST",
         "amount": 4935.35,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "ARRIVED AT CGA",
         "isNew": "Yes",
         "notes": "QU-04273\n9 x ITI-H100-DV-3HS-80-T  Bermad Valves"
       },
@@ -315,7 +325,7 @@
         "company": "SORICO PLANTATION",
         "amount": 13169.2,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "Irrigation Spares\nNETAFIM\nQU-04265 dated 4/11/26"
       },
@@ -330,22 +340,12 @@
         "notes": "60 X RURAL TAPPING SADDLES 50MM X 1\"\n100 X IHRVY37-SPRINKLERS\n100 X FRONT NOZZLES (RED)\n100 X REAR NOZZLES (PINK)\n100 X IHRPPR6025MF - POLY RISER 1500 X 25MM MALE BSP X 20MM FEMALE BSP\n4 X IPF7160006 - RURAL COUPLING"
       },
       {
-        "id": "8gXaAmf97SY3QUaMtSLh",
-        "name": "Harvest Road",
-        "company": "Harvest Road Agribusiness",
-        "amount": 1212.75,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "1050 x IHRVY37N24R"
-      },
-      {
         "id": "riP8tMi1niQMkJijZiYQ",
         "name": "Jaison Joseph",
         "company": "JAISON FAMILY PLANTATION TRUST",
         "amount": 3048.87,
         "status": "open",
-        "stage": "DELIVERY DELAYED",
+        "stage": "ARRIVED AT CGA",
         "isNew": null,
         "notes": "1 x ITISDS-50 Irrigation Controller"
       },
@@ -360,22 +360,12 @@
         "notes": "QU-04255"
       },
       {
-        "id": "pY7EWSiVKC9Gi5Zn9eb5",
-        "name": "Thanh Van & T Kim Tien Nguyen",
-        "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
-        "amount": 3892.57,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "1 x WPG-99803522\nQU-04221  dated 17/9/2026"
-      },
-      {
         "id": "3wsvzh5cDit3vkG1Cfix",
         "name": "Winning Station",
         "company": "",
         "amount": 577.5,
         "status": "open",
-        "stage": "DELIVERY DELAYED",
+        "stage": "STORED/SHELVED",
         "isNew": "Yes",
         "notes": "1 x WPD-M7510 whisper Pool Pump W500"
       },
@@ -826,6 +816,46 @@
     "status": "won",
     "opps": [
       {
+        "id": "SZCYBrldK9kq4hTMGfX2",
+        "name": "Cash - James Gregory",
+        "company": "",
+        "amount": 6162.21,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Irrigation Spares\n#455514 Dated 14/11/2026\n"
+      },
+      {
+        "id": "NB3YpBVRPVx8y4py74gh",
+        "name": "Harvest Road",
+        "company": "Harvest Road Agribusiness",
+        "amount": 755.43,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": ""
+      },
+      {
+        "id": "0PuitLJrC9wylQLfEWLs",
+        "name": "Jason & Kylie Chaplin",
+        "company": "CORAL COAST PLUMBING PTY LTD",
+        "amount": 3784,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "2 x WPG-96516600  Grundfos Pump CR3-13\nQU-04243\nO/N OR029987"
+      },
+      {
+        "id": "iG761F47dS9jDfcqKPy4",
+        "name": "Stephen Williamson",
+        "company": "SC & JM Williamson",
+        "amount": 4351.77,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 X WPSX-MUEC08J-146 Starline Southern Cross Pump 5.5kw 3ph"
+      },
+      {
         "id": "6utmtTQrqg1CTXNT3tFt",
         "name": "Ray & Elaine Skender",
         "company": "SKENDER PTY LTD",
@@ -864,6 +894,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "1 x WPD-CS50160-7.5/3"
+      },
+      {
+        "id": "8gXaAmf97SY3QUaMtSLh",
+        "name": "Harvest Road",
+        "company": "Harvest Road Agribusiness",
+        "amount": 1212.75,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1050 x IHRVY37N24R"
       },
       {
         "id": "cgXcMhFo5OR9ZseF7jtk",
@@ -914,6 +954,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "QU-04242"
+      },
+      {
+        "id": "pY7EWSiVKC9Gi5Zn9eb5",
+        "name": "Thanh Van & T Kim Tien Nguyen",
+        "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
+        "amount": 3892.57,
+        "status": "won",
+        "stage": "STORED/SHELVED",
+        "isNew": "Yes",
+        "notes": "1 x WPG-99803522\nQU-04221  dated 17/9/2026"
       },
       {
         "id": "S94rppY4iKFk5YOyiou6",

@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT GYPSOM 25 TONE",
+    "company": "CAIDAN PRODUCE PTY LTD",
+    "amount": 1625,
+    "status": "open",
+    "message": "New opportunity: LEICHHARDT GYPSOM 25 TONE (FERTILIZER) - $1625.00"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "David & Debbie Kearney",
+    "company": "CARNARVON ELECTRICS",
+    "amount": 9619.9,
+    "status": "open",
+    "message": "New opportunity: David & Debbie Kearney (ROB's CUSTOM) - $9619.90"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Cash - James Gregory",
+    "company": "",
+    "amount": 6162.21,
+    "status": "won",
+    "message": "New opportunity: Cash - James Gregory (ROB's CUSTOM) - $6162.21"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Harvest Road",
+    "company": "Harvest Road Agribusiness",
+    "amount": 755.43,
+    "status": "won",
+    "message": "New opportunity: Harvest Road (ROB's CUSTOM) - $755.43"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Jason & Kylie Chaplin",
+    "company": "CORAL COAST PLUMBING PTY LTD",
+    "amount": 3784,
+    "status": "won",
+    "message": "New opportunity: Jason & Kylie Chaplin (ROB's CUSTOM) - $3784.00"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "field_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Sean Gaylard",
+    "company": "SEAN GAYLARD",
+    "amount": 1164.9,
+    "message": "Sean Gaylard: \"New Business\" changed Not Set -> Yes"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Stephen Williamson",
+    "company": "SC & JM Williamson",
+    "amount": 4351.77,
+    "prevAmount": 3922.38,
+    "message": "Stephen Williamson: value changed $3922.38 -> $4351.77 (+429.39)"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Stephen Williamson",
+    "company": "SC & JM Williamson",
+    "amount": 4351.77,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Stephen Williamson: status changed open -> won"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Harvest Road",
+    "company": "Harvest Road Agribusiness",
+    "amount": 1212.75,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Harvest Road: status changed open -> won"
+  },
+  {
+    "date": "2026-11-18T02:43:47.453Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Thanh Van & T Kim Tien Nguyen",
+    "company": "TV.TKT NGUYEN, THI K NGUYEN & CHI UT NGUYEN",
+    "amount": 3892.57,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Thanh Van & T Kim Tien Nguyen: status changed open -> won"
+  },
+  {
     "date": "2026-11-17T03:24:07.363Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
@@ -5008,103 +5110,5 @@
     "amount": 250,
     "status": "open",
     "message": "New opportunity: VITALIS (GENERAL MERCH) - $250.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "ROB's CUSTOM",
-    "name": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP",
-    "company": "",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: MHQP VARI. SPEED MULTISTAGE HORI. PUMP (ROB's CUSTOM) - $0.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "ROB's CUSTOM",
-    "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
-    "company": "MATTHEW HOLLA",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: DAVEY IMPELLER KIT, NECK RING, O-RING (ROB's CUSTOM) - $0.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "ROB's CUSTOM",
-    "name": "YELLOW SUCTION FILTER",
-    "company": "NUTRIEN AG SOLUTIONS",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: YELLOW SUCTION FILTER (ROB's CUSTOM) - $0.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "IRRIGATION",
-    "name": "GYPSOM IRRIGATION",
-    "company": "LEICHHARDT",
-    "amount": 7861.7,
-    "status": "open",
-    "message": "New opportunity: GYPSOM IRRIGATION (IRRIGATION) - $7861.70"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "IRRIGATION",
-    "name": "COMPRESSION FITTINGS",
-    "company": "LEICHHARDT",
-    "amount": 249.48,
-    "status": "open",
-    "message": "New opportunity: COMPRESSION FITTINGS (IRRIGATION) - $249.48"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "IRRIGATION",
-    "name": "COMPRESSION COUPLING",
-    "company": "SHIRE OF CARNARVON",
-    "amount": 552,
-    "status": "open",
-    "message": "New opportunity: COMPRESSION COUPLING (IRRIGATION) - $552.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "BIANCA's ORDERS",
-    "name": "PINE POSTS - PHAM",
-    "company": "NUTRIEN AG SOLUTIONS",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: PINE POSTS - PHAM (BIANCA's ORDERS) - $0.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "renamed",
-    "pipeline": "GENERAL MERCH",
-    "name": "SANDOR SEEDS",
-    "company": "DOUBLE UP FARMS PTY LTD",
-    "amount": 8500,
-    "message": "Renamed: \"Dennis Durmanich\" -> \"SANDOR SEEDS\""
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "value_change",
-    "pipeline": "GENERAL MERCH",
-    "name": "BERLOTTI BEANS",
-    "company": "Monique",
-    "amount": 385,
-    "prevAmount": 400,
-    "message": "BERLOTTI BEANS: value changed $400.00 -> $385.00 (-15.00)"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "field_change",
-    "pipeline": "GENERAL MERCH",
-    "name": "BERLOTTI BEANS",
-    "company": "Monique",
-    "amount": 385,
-    "message": "BERLOTTI BEANS: \"New Business\" changed No -> Yes"
   }
 ]
