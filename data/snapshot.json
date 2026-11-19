@@ -29,19 +29,9 @@
         "company": "VANNY DANG",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "QUOTE \n1 X BULKA BAG OF TROFORTE -SUNPALM AUSTRALIA\n1 X PLT 20KG BAGS OF TROFOTE - SUNPALM AUSTRALIA\n\n1 X BULKA OF ECO PRE PLANT\n1 X 54 BAGS OF ECO PRE PLANT\n"
-      },
-      {
-        "id": "M2Bo9HRJw1YIF4HGiykt",
-        "name": "AG / BUILDERS LIME",
-        "company": "REAL FUTURES PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": null,
-        "notes": "1 25KG AG/BUILDERS LIME\n TO KILL TREE ROOTS IN WATER BORE"
+        "notes": "QUOTE \n1 X BULKA BAG OF TROFORTE -SUNPALM AUSTRALIA\n1 X PLT 20KG BAGS OF TROFOTE - SUNPALM AUSTRALIA\n\n1 X BULKA OF ECO PRE PLANT\n1 X 54 BAGS OF ECO PRE PLANT\n18/11/26 - quoted on qu-04280\n"
       },
       {
         "id": "EU6WdSf2RQTTJm7XAWCL",
@@ -259,6 +249,16 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
+      {
+        "id": "uzBGr8iFLia8c3O0FiCS",
+        "name": "Harvest Road - Andrew",
+        "company": "Harvest Road Agribusiness",
+        "amount": 1330.56,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "168 x Richgro Potting Mix  (FPM25)\nQU-04279"
+      },
       {
         "id": "xSOFnMzvsmmzXD4oVnzS",
         "name": "David & Debbie Kearney",

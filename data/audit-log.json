@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-11-19T02:15:35.033Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Harvest Road - Andrew",
+    "company": "Harvest Road Agribusiness",
+    "amount": 1330.56,
+    "status": "open",
+    "message": "New opportunity: Harvest Road - Andrew (ROB's CUSTOM) - $1330.56"
+  },
+  {
+    "date": "2026-11-19T02:15:35.033Z",
+    "type": "removed",
+    "pipeline": "FERTILIZER",
+    "name": "AG / BUILDERS LIME",
+    "company": "REAL FUTURES PTY LTD",
+    "amount": 0,
+    "status": "open",
+    "message": "Removed: AG / BUILDERS LIME (FERTILIZER) - $0.00"
+  },
+  {
     "date": "2026-11-18T02:43:47.453Z",
     "type": "added",
     "pipeline": "FERTILIZER",
@@ -5090,25 +5110,5 @@
     "amount": 0,
     "status": "open",
     "message": "New opportunity: PINE POLES (GENERAL MERCH) - $0.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "GENERAL MERCH",
-    "name": "7000 VITALIS BEAN SEED",
-    "company": "TIPTON",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: 7000 VITALIS BEAN SEED (GENERAL MERCH) - $0.00"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "GENERAL MERCH",
-    "name": "VITALIS",
-    "company": "TIPTON",
-    "amount": 250,
-    "status": "open",
-    "message": "New opportunity: VITALIS (GENERAL MERCH) - $250.00"
   }
 ]
