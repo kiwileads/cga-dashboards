@@ -4,6 +4,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "MBrtpRnkyhUOBD1zEajm",
+        "name": "BULK FERTILIZER - MARCH 2027",
+        "company": "Janna",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "QUOTE - FOR MARCH 2027 ARRIVAL\n6 X 1200KG BULK BAG HAIFA POLYFEED H/K\n4 X 1200KG BULK BAG HAIFA POLYFEED L/K"
+      },
+      {
+        "id": "wePbjjF0e1hne3xk5TZu",
+        "name": "LEICHHARDT - GYPSOM 50T",
+        "company": "TRAN & DINH",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": " QUOTE \n50 TONE GYPSOM \n\\$65+GST PER TONE"
+      },
+      {
         "id": "pGONhsXtcwFRU72uUJyr",
         "name": "LEICHHARDT GYPSOM 25 TONE",
         "company": "CAIDAN PRODUCE PTY LTD",
@@ -61,7 +81,7 @@
         "status": "open",
         "stage": "PROPOSAL SENT TO CLIENT",
         "isNew": "Yes",
-        "notes": "1 X PLT (48) POLYFEED H/K\n1 X PLT (48) CAMPBELLS CALCIUM NITRATE\n1 X PLTS (48) YARA CALCIUM NITRATE - ETA MID NOV 26\n1 X 1000LT FLEXI-N\nQUOTED ON QU-04256 "
+        "notes": "1 X PLT (48) POLYFEED H/K\n1 X PLT (48) CAMPBELLS CALCIUM NITRATE\n1 X PLTS (48) YARA CALCIUM NITRATE - ETA MID NOV 26\n1 X 1000LT FLEXI-N\nQUOTED ON QU-04256 \n19/11/26- CALLED IVAN TO FOLLOW UP BUT NO ANSWER. LEFT A MSG."
       },
       {
         "id": "2aodqU6C95gURYmCK4eW",
@@ -246,6 +266,52 @@
     ]
   },
   {
+    "pipelineName": "CUSTOM BOXES",
+    "status": "open",
+    "opps": [
+      {
+        "id": "Q1TFWJ1twf0mLABG9t7w",
+        "name": "BLACK 160MM CITRUS TRAY",
+        "company": "SKENDER PTY LTD",
+        "amount": 53900,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "requires 2,000 cartons per week."
+      },
+      {
+        "id": "5e91bLpd0KHOPUZeoWrU",
+        "name": "THE MAD MELON BOX",
+        "company": "SKENDER PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS.\n13.05.26 - JACSON SENDING SOME SAMOLE LIDS FOR TRIAL.\n\n16.06.26 - QUOTED ON QU-04119"
+      },
+      {
+        "id": "tlga3aEUKbgGFFx5uLLm",
+        "name": "Kevin Burkett",
+        "company": "KF & PD BURKETT",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": "Keving is holding a Mango board meeting this week.\nrequesting price from opal and visy for old size mango box and liner"
+      },
+      {
+        "id": "Fq26yvTcZnuHlHiRP3BX",
+        "name": "Quoc Su Thi Thanh Tran Dinh",
+        "company": "TRAN & DINH",
+        "amount": 45000,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "OPPORTUNITY VALUE BASED ON \\$1.49+GST\n28.04.26 - SPOKE TO SU TRAN AND WAS ADVISED THAT HE WILL NOT BE USING THESE CHERRY'S THIS SEASON. WILL REVISIT THIS IN 2027.\n"
+      }
+    ]
+  },
+  {
     "pipelineName": "ROB's CUSTOM",
     "status": "open",
     "opps": [
@@ -255,7 +321,7 @@
         "company": "Harvest Road Agribusiness",
         "amount": 1330.56,
         "status": "open",
-        "stage": "P/O GENERATED",
+        "stage": "SHIPPING CONFIRMED",
         "isNew": "Yes",
         "notes": "168 x Richgro Potting Mix  (FPM25)\nQU-04279"
       },
@@ -318,16 +384,6 @@
         "stage": "P/O GENERATED",
         "isNew": "Yes",
         "notes": "QU-04272\n3 X SILGC01000001"
-      },
-      {
-        "id": "p6d47D9UiNzJVWHtx7AR",
-        "name": "Robert Ashley Scott",
-        "company": "SORICO PLANTATION",
-        "amount": 13169.2,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "Irrigation Spares\nNETAFIM\nQU-04265 dated 4/11/26"
       },
       {
         "id": "SEBcjheFhkHqrKhHvozo",
@@ -458,111 +514,39 @@
     ]
   },
   {
-    "pipelineName": "CUSTOM BOXES",
-    "status": "open",
-    "opps": [
-      {
-        "id": "5e91bLpd0KHOPUZeoWrU",
-        "name": "THE MAD MELON BOX",
-        "company": "SKENDER PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "QUOTING ON \n50,000 THE MAD MELON BOX BLACK WITH OWN DESIGN\n50,000 X 160 BLACK CITRUS\n50,000 X BLACK 187MM TRAY\n\nQUOTE ON BLACK LID WITH MAD MELON LOGO TO SUIT 187MM AND 160MM TRAYS.\n13.05.26 - JACSON SENDING SOME SAMOLE LIDS FOR TRIAL.\n\n16.06.26 - QUOTED ON QU-04119"
-      },
-      {
-        "id": "tlga3aEUKbgGFFx5uLLm",
-        "name": "Kevin Burkett",
-        "company": "KF & PD BURKETT",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": null,
-        "notes": "Keving is holding a Mango board meeting this week.\nrequesting price from opal and visy for old size mango box and liner"
-      },
-      {
-        "id": "Fq26yvTcZnuHlHiRP3BX",
-        "name": "Quoc Su Thi Thanh Tran Dinh",
-        "company": "TRAN & DINH",
-        "amount": 45000,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "OPPORTUNITY VALUE BASED ON \\$1.49+GST\n28.04.26 - SPOKE TO SU TRAN AND WAS ADVISED THAT HE WILL NOT BE USING THESE CHERRY'S THIS SEASON. WILL REVISIT THIS IN 2027.\n"
-      }
-    ]
-  },
-  {
-    "pipelineName": "CHEMICALS",
-    "status": "open",
-    "opps": [
-      {
-        "id": "KH2Ts8DCSKRd2humfA7v",
-        "name": "STRIKE 60 RURAL INLINE 140KG ",
-        "company": "VANNY DANG",
-        "amount": 8639.4,
-        "status": "open",
-        "stage": "NEW LEAD",
-        "isNew": "Yes",
-        "notes": "3 X STRIKE 60 RURAL INLINE 140KG\n\\$18.20KG X 140KG + \\$70( FREIGHT) = \\$2618.00\n04/11/26 - CALL VANNY TO CONFIRM\n04/11/26 - SPOKE TO VANNY AND HE WILL CALL ME IN EARLY 2027 TO GIVE NUMBERS"
-      },
-      {
-        "id": "Me5fR77TsNnogPuWIiKV",
-        "name": "STRIKE 60 RURAL INLINE 140KG",
-        "company": "VC DUONG & D DAO",
-        "amount": 8639.4,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "3 X 140KG RIRAL INLINE\n\\$18.20kg x 140kg=\\$2548+gst\n04/11/26- SPOKE TO LINH AND GO AHEAD WITH ORDERING."
-      },
-      {
-        "id": "weeRCJJeebhZcayc93pr",
-        "name": "CERA TRAP 20LT ",
-        "company": "V & M Durmanich",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": null,
-        "notes": "3 X 20LT CERA TRAP"
-      },
-      {
-        "id": "iwp0F1JHmRELmjzv9D5m",
-        "name": "REDOX PHOPHORIC ACID 85% 200LT/IBC",
-        "company": "MUNDILLYA FARM PTY LTD",
-        "amount": 0,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "3 X 200LT REDOX PHOPHORIC ACID 85% EX PERTH\n1 X IBC 1650KG PHOSPHORIC ACID 85% EX PERTH\n1 X PALLET MAP (48) BAGS EC STOCK\n\nAVAILABLE EX PERTH THROUGH NUTRIEN"
-      },
-      {
-        "id": "iOA4W5U0oetm23BGsXAE",
-        "name": "TIPAN TRADER MANGO WASH",
-        "company": "HARVEST ROAD",
-        "amount": 7191.25,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "50 X MANGO WASH SUPREME - TIPAN TRADERS\nON SALES ORD-486824"
-      },
-      {
-        "id": "wkYgrYt1flFlrnN2X6g6",
-        "name": "CHEMICAL",
-        "company": "GLENDALE PLANTATION",
-        "amount": 11546.03,
-        "status": "open",
-        "stage": "PROPOSAL SENT TO CLIENT",
-        "isNew": "Yes",
-        "notes": "3 X DELEGATE 800GMS \n1 X TYRANEX 500 SL 20LT\n1 X PROCLAIM OPTI 5KG\n1 X PROCLAIM OPTI 600GM\n2 X INTERVINE 2.5KG\n1 X FOLPAN 800 WG 5 KG\n1 X VIVANDO 5LT\n1 X MIRAVIS PRIME 5LT\n3 X SWITCH 1KG\n1 X FLUTE 50EW 5LT\n1 X CORTEVA VERPIXO 5LT\n2 X BACCHUS WG 10KG\n"
-      }
-    ]
-  },
-  {
     "pipelineName": "GENERAL MERCH",
     "status": "open",
     "opps": [
+      {
+        "id": "rE6vD02Kh0wCDrkm5CEL",
+        "name": "CARDBOARD PALLET STABILISE SHEET",
+        "company": "Harvest Road Agribusiness",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "540 CARDBOARD PALLET STABILISER SHEETS"
+      },
+      {
+        "id": "Dqr62Hi781djvD5jPqVQ",
+        "name": "PALLET SHEETS",
+        "company": "Sulli Bros Plantation",
+        "amount": 797.5,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "1 X PLT OF PALLET SHEETS(500)\nQUALITY PACKEGIGNG"
+      },
+      {
+        "id": "DZHNu3qoF7wbYjvK77Av",
+        "name": "ANDREW - PALLET SHEETS",
+        "company": "Harvest Road Agribusiness",
+        "amount": 2392.5,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "3 X PLT OF PALLET SHEETS (500 SHEETS PER PLT)\nQUALITY PACKEGING"
+      },
       {
         "id": "n89rXhiIYNrWUgrflAGW",
         "name": "ELECTRIC FORKLIFT",
@@ -672,6 +656,92 @@
         "stage": "LOST",
         "isNew": null,
         "notes": "P70240 - 25.03.26 - BISHOPS TRANSPORT\n40 x ROLLS FOR TRAN2 - REMAINDER FOR STOCK"
+      }
+    ]
+  },
+  {
+    "pipelineName": "CHEMICALS",
+    "status": "open",
+    "opps": [
+      {
+        "id": "yHigMprpd27yhAGkLeLf",
+        "name": "KAOLIN 1 PLT",
+        "company": "Sulli Bros Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "1 PLT (60) KAOLIN"
+      },
+      {
+        "id": "pMWNKGpQkAplAHPoUN82",
+        "name": "100LT SPRAYSEED OR GRAMOXONE",
+        "company": "JACK MOREL",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "QUOTE\n1 X 100LT SPRYASEED \n1 X 100LT GRAMOXONE"
+      },
+      {
+        "id": "KH2Ts8DCSKRd2humfA7v",
+        "name": "STRIKE 60 RURAL INLINE 140KG ",
+        "company": "VANNY DANG",
+        "amount": 8639.4,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": "Yes",
+        "notes": "3 X STRIKE 60 RURAL INLINE 140KG\n\\$18.20KG X 140KG + \\$70( FREIGHT) = \\$2618.00\n04/11/26 - CALL VANNY TO CONFIRM\n04/11/26 - SPOKE TO VANNY AND HE WILL CALL ME IN EARLY 2027 TO GIVE NUMBERS"
+      },
+      {
+        "id": "Me5fR77TsNnogPuWIiKV",
+        "name": "STRIKE 60 RURAL INLINE 140KG",
+        "company": "VC DUONG & D DAO",
+        "amount": 8639.4,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X 140KG RIRAL INLINE\n\\$18.20kg x 140kg=\\$2548+gst\n04/11/26- SPOKE TO LINH AND GO AHEAD WITH ORDERING."
+      },
+      {
+        "id": "weeRCJJeebhZcayc93pr",
+        "name": "CERA TRAP 20LT ",
+        "company": "V & M Durmanich",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": null,
+        "notes": "3 X 20LT CERA TRAP"
+      },
+      {
+        "id": "iwp0F1JHmRELmjzv9D5m",
+        "name": "REDOX PHOPHORIC ACID 85% 200LT/IBC",
+        "company": "MUNDILLYA FARM PTY LTD",
+        "amount": 0,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X 200LT REDOX PHOPHORIC ACID 85% EX PERTH\n1 X IBC 1650KG PHOSPHORIC ACID 85% EX PERTH\n1 X PALLET MAP (48) BAGS EC STOCK\n\nAVAILABLE EX PERTH THROUGH NUTRIEN"
+      },
+      {
+        "id": "iOA4W5U0oetm23BGsXAE",
+        "name": "TIPAN TRADER MANGO WASH",
+        "company": "HARVEST ROAD",
+        "amount": 7191.25,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "50 X MANGO WASH SUPREME - TIPAN TRADERS\nON SALES ORD-486824"
+      },
+      {
+        "id": "wkYgrYt1flFlrnN2X6g6",
+        "name": "CHEMICAL",
+        "company": "GLENDALE PLANTATION",
+        "amount": 11546.03,
+        "status": "open",
+        "stage": "PROPOSAL SENT TO CLIENT",
+        "isNew": "Yes",
+        "notes": "3 X DELEGATE 800GMS \n1 X TYRANEX 500 SL 20LT\n1 X PROCLAIM OPTI 5KG\n1 X PROCLAIM OPTI 600GM\n2 X INTERVINE 2.5KG\n1 X FOLPAN 800 WG 5 KG\n1 X VIVANDO 5LT\n1 X MIRAVIS PRIME 5LT\n3 X SWITCH 1KG\n1 X FLUTE 50EW 5LT\n1 X CORTEVA VERPIXO 5LT\n2 X BACCHUS WG 10KG\n"
       }
     ]
   },
@@ -816,6 +886,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "ASYw2gKMKvFwPshrP70B",
+        "name": "Harvest Road",
+        "company": "Harvest Road Agribusiness",
+        "amount": 509.47,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": ""
+      },
+      {
         "id": "SZCYBrldK9kq4hTMGfX2",
         "name": "Cash - James Gregory",
         "company": "",
@@ -874,6 +954,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "Chicken watering spares"
+      },
+      {
+        "id": "p6d47D9UiNzJVWHtx7AR",
+        "name": "Robert Ashley Scott",
+        "company": "SORICO PLANTATION",
+        "amount": 13169.2,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Irrigation Spares\nNETAFIM\nQU-04265 dated 4/11/26"
       },
       {
         "id": "AiZmTiENBAZ6jpp8Vj9i",

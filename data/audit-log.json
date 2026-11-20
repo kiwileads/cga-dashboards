@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "BULK FERTILIZER - MARCH 2027",
+    "company": "Janna",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: BULK FERTILIZER - MARCH 2027 (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 50T",
+    "company": "TRAN & DINH",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: LEICHHARDT - GYPSOM 50T (FERTILIZER) - $0.00"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "CUSTOM BOXES",
+    "name": "BLACK 160MM CITRUS TRAY",
+    "company": "SKENDER PTY LTD",
+    "amount": 53900,
+    "status": "open",
+    "message": "New opportunity: BLACK 160MM CITRUS TRAY (CUSTOM BOXES) - $53900.00"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "CARDBOARD PALLET STABILISE SHEET",
+    "company": "Harvest Road Agribusiness",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: CARDBOARD PALLET STABILISE SHEET (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "PALLET SHEETS",
+    "company": "Sulli Bros Plantation",
+    "amount": 797.5,
+    "status": "open",
+    "message": "New opportunity: PALLET SHEETS (GENERAL MERCH) - $797.50"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "ANDREW - PALLET SHEETS",
+    "company": "Harvest Road Agribusiness",
+    "amount": 2392.5,
+    "status": "open",
+    "message": "New opportunity: ANDREW - PALLET SHEETS (GENERAL MERCH) - $2392.50"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "KAOLIN 1 PLT",
+    "company": "Sulli Bros Plantation",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: KAOLIN 1 PLT (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "100LT SPRAYSEED OR GRAMOXONE",
+    "company": "JACK MOREL",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: 100LT SPRAYSEED OR GRAMOXONE (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Harvest Road",
+    "company": "Harvest Road Agribusiness",
+    "amount": 509.47,
+    "status": "won",
+    "message": "New opportunity: Harvest Road (ROB's CUSTOM) - $509.47"
+  },
+  {
+    "date": "2026-11-20T02:00:43.410Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Robert Ashley Scott",
+    "company": "SORICO PLANTATION",
+    "amount": 13169.2,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Robert Ashley Scott: status changed open -> won"
+  },
+  {
     "date": "2026-11-19T02:15:35.033Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
@@ -5011,104 +5112,5 @@
     "company": "SHIRE OF CARNARVON",
     "amount": 0,
     "message": "SPRINKLERS/LOW DENSITY POLY: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-04-20T21:45:35.588Z",
-    "type": "added",
-    "pipeline": "IRRIGATION",
-    "name": "GRUNDFOS - PUMP CH4-40",
-    "company": "",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: GRUNDFOS - PUMP CH4-40 (IRRIGATION) - $0.00"
-  },
-  {
-    "date": "2026-04-20T21:45:35.588Z",
-    "type": "added",
-    "pipeline": "IRRIGATION",
-    "name": "SPRINKLERS/LOW DENSITY POLY",
-    "company": "SHIRE OF CARNARVON",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: SPRINKLERS/LOW DENSITY POLY (IRRIGATION) - $0.00"
-  },
-  {
-    "date": "2026-04-20T21:45:35.588Z",
-    "type": "added",
-    "pipeline": "BIANCA's ORDERS",
-    "name": "50MM BLULINE x 2 / 50MM COUPLING",
-    "company": "Shire of Upper Gascoyne",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: 50MM BLULINE x 2 / 50MM COUPLING (BIANCA's ORDERS) - $0.00"
-  },
-  {
-    "date": "2026-04-20T21:45:35.588Z",
-    "type": "removed",
-    "pipeline": "GENERAL MERCH",
-    "name": "PINE POLES",
-    "company": "V & M Durmanich",
-    "amount": 16500,
-    "status": "open",
-    "message": "Removed: PINE POLES (GENERAL MERCH) - $16500.00"
-  },
-  {
-    "date": "2026-04-17T21:40:16.039Z",
-    "type": "field_change",
-    "pipeline": "GENERAL MERCH",
-    "name": "Al Holtham",
-    "company": "Janna",
-    "amount": 24000,
-    "message": "Al Holtham: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-04-17T21:40:16.039Z",
-    "type": "value_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "Warren Schmidt",
-    "company": "GASCOYNE PLUMBING SOLUTIONS PTY LTD",
-    "amount": 1396,
-    "prevAmount": 0,
-    "message": "Warren Schmidt: value changed $0.00 -> $1396.00 (+1396.00)"
-  },
-  {
-    "date": "2026-04-17T21:40:16.039Z",
-    "type": "value_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "BYRON & SARA SUTCLIFFE",
-    "company": "Sutcliffe plantation",
-    "amount": 1917.45,
-    "prevAmount": 0,
-    "message": "BYRON & SARA SUTCLIFFE: value changed $0.00 -> $1917.45 (+1917.45)"
-  },
-  {
-    "date": "2026-04-17T21:40:16.039Z",
-    "type": "field_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "BYRON & SARA SUTCLIFFE",
-    "company": "Sutcliffe plantation",
-    "amount": 1917.45,
-    "message": "BYRON & SARA SUTCLIFFE: \"New Business\" changed Yes -> No"
-  },
-  {
-    "date": "2026-04-17T21:40:16.039Z",
-    "type": "status_change",
-    "pipeline": "FERTILIZER",
-    "name": "ECO RED",
-    "company": "DOUBLE UP FARMS PTY LTD",
-    "amount": 2500,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "ECO RED: status changed open -> won"
-  },
-  {
-    "date": "2026-04-15T12:03:48.149Z",
-    "type": "added",
-    "pipeline": "GENERAL MERCH",
-    "name": "PINE POLES",
-    "company": "TRAN & DINH",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: PINE POLES (GENERAL MERCH) - $0.00"
   }
 ]
