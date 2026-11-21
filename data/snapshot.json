@@ -64,16 +64,6 @@
         "notes": "2 X PLTS POTATO E\n04/11/26 - EMAILED QU-04263 TO MR CUU - WAITING ON ORDER CONFIRMATION."
       },
       {
-        "id": "VEa4iSS5OB3uR6mvWS1s",
-        "name": "FERTILIZER SALE",
-        "company": "CUU QUACH FAMILY TRUST",
-        "amount": 39944.61,
-        "status": "open",
-        "stage": "PROPOSAL ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "1 X PLT (24) B/W MULCH 105X1000X30UM\n1 X PLT (24) T-TAPE 508-20-380\n6 X ROLLS 50MM DURA-POL\n6 X ROLLS 2MM X 4000MTRS (STEELE REEL)\n3 X PLT (144) POLYFEED HIGH K\n1 X PLT (48) POLYFEED LOW K\n10 X 25KG BAGS TECMANGAM (MANGANESE SULPHATE)\n2 X PLT (96) POTASSIUM NITRATE - WAITING ON STOCK TO ARRIVE ETA 4/11/26\nALL ITEMS SOLD ON INV-454965 ALL EX STOCK CGA."
-      },
-      {
         "id": "Yl5eYa0LZyTy49GfmDWz",
         "name": "IVAN - FERTILIZER",
         "company": "BORICH AND SONS",
@@ -316,6 +306,26 @@
     "status": "open",
     "opps": [
       {
+        "id": "58jvEHj1nbj6Gl0fahEk",
+        "name": "Marija Vrankovich",
+        "company": "Vrankovich",
+        "amount": 4314.2,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "2 x EMH-GX390QXER  Honda Pumps\nQU-04284"
+      },
+      {
+        "id": "vGpYdgtTlJjmejrHuayP",
+        "name": "Karina & Kevin Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 12779.92,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "QU-04283  dated 20/11/2026\n1 x WPG-99801297\n1 X WPG-99803258\n1 X WPG-99803536"
+      },
+      {
         "id": "uzBGr8iFLia8c3O0FiCS",
         "name": "Harvest Road - Andrew",
         "company": "Harvest Road Agribusiness",
@@ -331,19 +341,9 @@
         "company": "CARNARVON ELECTRICS",
         "amount": 9619.9,
         "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "QU-04278 DATED 17/11/2026"
-      },
-      {
-        "id": "GIcFUnMIwHsQrC9HEXuj",
-        "name": "Sean Gaylard",
-        "company": "SEAN GAYLARD",
-        "amount": 1164.9,
-        "status": "open",
         "stage": "P/O GENERATED",
         "isNew": "Yes",
-        "notes": "WPF-SPM2.2 X 1 \nP71462 x 4"
+        "notes": "QU-04278 DATED 17/11/2026"
       },
       {
         "id": "0nJ8K3hSNIXQhScg7Cen",
@@ -354,26 +354,6 @@
         "stage": "SHIPPING CONFIRMED",
         "isNew": "Yes",
         "notes": "7 x LASP-ARF12SVV  S Tine 32mm x 12mm"
-      },
-      {
-        "id": "GKqEyFdR4o9RFMar1n2H",
-        "name": "Kevin Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 7785.14,
-        "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "2 x WPG-99803522  Grundfos Pump NBG 80-50-250/263 4Kw"
-      },
-      {
-        "id": "HqTMFuQ7kYCMmpkQ4Uca",
-        "name": "Jaison Joseph",
-        "company": "JAISON FAMILY PLANTATION TRUST",
-        "amount": 4935.35,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": "Yes",
-        "notes": "QU-04273\n9 x ITI-H100-DV-3HS-80-T  Bermad Valves"
       },
       {
         "id": "tf6jKBkBGTZcZ1SShyN0",
@@ -396,16 +376,6 @@
         "notes": "60 X RURAL TAPPING SADDLES 50MM X 1\"\n100 X IHRVY37-SPRINKLERS\n100 X FRONT NOZZLES (RED)\n100 X REAR NOZZLES (PINK)\n100 X IHRPPR6025MF - POLY RISER 1500 X 25MM MALE BSP X 20MM FEMALE BSP\n4 X IPF7160006 - RURAL COUPLING"
       },
       {
-        "id": "riP8tMi1niQMkJijZiYQ",
-        "name": "Jaison Joseph",
-        "company": "JAISON FAMILY PLANTATION TRUST",
-        "amount": 3048.87,
-        "status": "open",
-        "stage": "ARRIVED AT CGA",
-        "isNew": null,
-        "notes": "1 x ITISDS-50 Irrigation Controller"
-      },
-      {
         "id": "IC8bn4lezXthDgdxXnNE",
         "name": "Steve Beresford And Shaun Brandenburg",
         "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
@@ -414,16 +384,6 @@
         "stage": "QUOTE ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "QU-04255"
-      },
-      {
-        "id": "3wsvzh5cDit3vkG1Cfix",
-        "name": "Winning Station",
-        "company": "",
-        "amount": 577.5,
-        "status": "open",
-        "stage": "STORED/SHELVED",
-        "isNew": "Yes",
-        "notes": "1 x WPD-M7510 whisper Pool Pump W500"
       },
       {
         "id": "07d7BFN2g8Ld8YUwcBuv",
@@ -518,6 +478,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "tVQdYTETahu3t8TofJ9N",
+        "name": "PALLET STABILISER SHEETS",
+        "company": "A & N Gugich Plantation",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": ""
+      },
+      {
         "id": "rE6vD02Kh0wCDrkm5CEL",
         "name": "CARDBOARD PALLET STABILISE SHEET",
         "company": "Harvest Road Agribusiness",
@@ -533,7 +503,7 @@
         "company": "Sulli Bros Plantation",
         "amount": 797.5,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "1 X PLT OF PALLET SHEETS(500)\nQUALITY PACKEGIGNG"
       },
@@ -543,7 +513,7 @@
         "company": "Harvest Road Agribusiness",
         "amount": 2392.5,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "3 X PLT OF PALLET SHEETS (500 SHEETS PER PLT)\nQUALITY PACKEGING"
       },
@@ -663,6 +633,16 @@
     "pipelineName": "CHEMICALS",
     "status": "open",
     "opps": [
+      {
+        "id": "ZzhrWgANsCvyVC5aGIXh",
+        "name": "PERACEDIC ACID 5% OR 10%",
+        "company": "ST KUZMICICH",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW LEAD",
+        "isNew": null,
+        "notes": ""
+      },
       {
         "id": "yHigMprpd27yhAGkLeLf",
         "name": "KAOLIN 1 PLT",
@@ -926,6 +906,16 @@
         "notes": "2 x WPG-96516600  Grundfos Pump CR3-13\nQU-04243\nO/N OR029987"
       },
       {
+        "id": "GIcFUnMIwHsQrC9HEXuj",
+        "name": "Sean Gaylard",
+        "company": "SEAN GAYLARD",
+        "amount": 1164.9,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "WPF-SPM2.2 X 1 \nP71462 x 4"
+      },
+      {
         "id": "iG761F47dS9jDfcqKPy4",
         "name": "Stephen Williamson",
         "company": "SC & JM Williamson",
@@ -954,6 +944,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "Chicken watering spares"
+      },
+      {
+        "id": "HqTMFuQ7kYCMmpkQ4Uca",
+        "name": "Jaison Joseph",
+        "company": "JAISON FAMILY PLANTATION TRUST",
+        "amount": 4935.35,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "QU-04273\n9 x ITI-H100-DV-3HS-80-T  Bermad Valves"
       },
       {
         "id": "p6d47D9UiNzJVWHtx7AR",
@@ -994,6 +994,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "1050 x IHRVY37N24R"
+      },
+      {
+        "id": "riP8tMi1niQMkJijZiYQ",
+        "name": "Jaison Joseph",
+        "company": "JAISON FAMILY PLANTATION TRUST",
+        "amount": 3048.87,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": null,
+        "notes": "1 x ITISDS-50 Irrigation Controller"
       },
       {
         "id": "cgXcMhFo5OR9ZseF7jtk",
@@ -1074,6 +1084,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": "8  x IPF7220002\n2  x IPF7220003"
+      },
+      {
+        "id": "3wsvzh5cDit3vkG1Cfix",
+        "name": "Winning Station",
+        "company": "",
+        "amount": 577.5,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "1 x WPD-M7510 whisper Pool Pump W500"
       },
       {
         "id": "D2av9L2mvv9a4dpyaRHZ",
@@ -1937,6 +1957,16 @@
     "pipelineName": "FERTILIZER",
     "status": "won",
     "opps": [
+      {
+        "id": "VEa4iSS5OB3uR6mvWS1s",
+        "name": "FERTILIZER SALE",
+        "company": "CUU QUACH FAMILY TRUST",
+        "amount": 39944.61,
+        "status": "won",
+        "stage": "CLOSED/COMPLETE",
+        "isNew": "Yes",
+        "notes": "1 X PLT (24) B/W MULCH 105X1000X30UM\n1 X PLT (24) T-TAPE 508-20-380\n6 X ROLLS 50MM DURA-POL\n6 X ROLLS 2MM X 4000MTRS (STEELE REEL)\n3 X PLT (144) POLYFEED HIGH K\n1 X PLT (48) POLYFEED LOW K\n10 X 25KG BAGS TECMANGAM (MANGANESE SULPHATE)\n2 X PLT (96) POTASSIUM NITRATE - DELIVERED 20/11/26\nALL ITEMS SOLD ON INV-454965 ALL EX STOCK CGA."
+      },
       {
         "id": "PogzI67wEJ47E2Leorro",
         "name": "T-TAPE / MULCH",

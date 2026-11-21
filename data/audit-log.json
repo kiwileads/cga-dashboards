@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Marija Vrankovich",
+    "company": "Vrankovich",
+    "amount": 4314.2,
+    "status": "open",
+    "message": "New opportunity: Marija Vrankovich (ROB's CUSTOM) - $4314.20"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Karina & Kevin Sullivan",
+    "company": "Sulli Bros Plantation",
+    "amount": 12779.92,
+    "status": "open",
+    "message": "New opportunity: Karina & Kevin Sullivan (ROB's CUSTOM) - $12779.92"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "added",
+    "pipeline": "GENERAL MERCH",
+    "name": "PALLET STABILISER SHEETS",
+    "company": "A & N Gugich Plantation",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PALLET STABILISER SHEETS (GENERAL MERCH) - $0.00"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "added",
+    "pipeline": "CHEMICALS",
+    "name": "PERACEDIC ACID 5% OR 10%",
+    "company": "ST KUZMICICH",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: PERACEDIC ACID 5% OR 10% (CHEMICALS) - $0.00"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "removed",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Kevin Sullivan",
+    "company": "Sulli Bros Plantation",
+    "amount": 7785.14,
+    "status": "open",
+    "message": "Removed: Kevin Sullivan (ROB's CUSTOM) - $7785.14"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Sean Gaylard",
+    "company": "SEAN GAYLARD",
+    "amount": 1164.9,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Sean Gaylard: status changed open -> won"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Jaison Joseph",
+    "company": "JAISON FAMILY PLANTATION TRUST",
+    "amount": 4935.35,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Jaison Joseph: status changed open -> won"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Jaison Joseph",
+    "company": "JAISON FAMILY PLANTATION TRUST",
+    "amount": 3048.87,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Jaison Joseph: status changed open -> won"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Winning Station",
+    "company": "",
+    "amount": 577.5,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Winning Station: status changed open -> won"
+  },
+  {
+    "date": "2026-11-21T01:58:06.722Z",
+    "type": "status_change",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILIZER SALE",
+    "company": "CUU QUACH FAMILY TRUST",
+    "amount": 39944.61,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "FERTILIZER SALE: status changed open -> won"
+  },
+  {
     "date": "2026-11-20T02:00:43.410Z",
     "type": "added",
     "pipeline": "FERTILIZER",
@@ -5014,103 +5119,5 @@
     "amount": 0,
     "status": "open",
     "message": "New opportunity: BUILDERS LIME - BULKA (FERTILIZER) - $0.00"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "added",
-    "pipeline": "CHEMICALS",
-    "name": "METALAXYL 250EC - 10L",
-    "company": "CHINNERY & CHAPMAN",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: METALAXYL 250EC - 10L (CHEMICALS) - $0.00"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "added",
-    "pipeline": "GENERAL MERCH",
-    "name": "METHAM SODIUM (KENSO) x 1000L",
-    "company": "DELTA AGRI (GRAY)",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: METHAM SODIUM (KENSO) x 1000L (GENERAL MERCH) - $0.00"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "added",
-    "pipeline": "GENERAL MERCH",
-    "name": "PINE POSTS - TRAN2",
-    "company": "NUTRIEN AG SOLUTIONS",
-    "amount": 1925,
-    "status": "open",
-    "message": "New opportunity: PINE POSTS - TRAN2 (GENERAL MERCH) - $1925.00"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "field_change",
-    "pipeline": "FERTILIZER",
-    "name": "SERGOMIL L60",
-    "company": "GLENDALE PLANTATION",
-    "amount": 606,
-    "message": "SERGOMIL L60: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "value_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP",
-    "company": "",
-    "amount": 2041.87,
-    "prevAmount": 0,
-    "message": "MHQP VARI. SPEED MULTISTAGE HORI. PUMP: value changed $0.00 -> $2041.87 (+2041.87)"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "value_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
-    "company": "MATTHEW HOLLA",
-    "amount": 103,
-    "prevAmount": 0,
-    "message": "DAVEY IMPELLER KIT, NECK RING, O-RING: value changed $0.00 -> $103.00 (+103.00)"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "value_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "YELLOW SUCTION FILTER",
-    "company": "BQ LUU & TNT PHAM",
-    "amount": 93,
-    "prevAmount": 0,
-    "message": "YELLOW SUCTION FILTER: value changed $0.00 -> $93.00 (+93.00)"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "value_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "DOSING PUMP",
-    "company": "CORAL COAST PLUMBING PTY LTD",
-    "amount": 1023,
-    "prevAmount": 0,
-    "message": "DOSING PUMP: value changed $0.00 -> $1023.00 (+1023.00)"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "value_change",
-    "pipeline": "IRRIGATION",
-    "name": "GRUNDFOS - PUMP CH4-40",
-    "company": "",
-    "amount": 728,
-    "prevAmount": 0,
-    "message": "GRUNDFOS - PUMP CH4-40: value changed $0.00 -> $728.00 (+728.00)"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "field_change",
-    "pipeline": "IRRIGATION",
-    "name": "SPRINKLERS/LOW DENSITY POLY",
-    "company": "SHIRE OF CARNARVON",
-    "amount": 0,
-    "message": "SPRINKLERS/LOW DENSITY POLY: \"New Business\" changed Not Set -> Yes"
   }
 ]
