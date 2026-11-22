@@ -291,8 +291,8 @@
           { name: "Kevin & Karina Sullivan", company: "Sulli Bros Plantation", amount: 12000, stage: "NEW LEAD", isNew: "Yes", notes: "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim" }
       ]},
       { name: "GENERAL MERCH", fullName: "SALES - GENERAL MERCH", value: 38728.270000000004, color: "#c084fc", opportunities: [
-          { name: "PALLET STABILISER SHEETS", company: "A & N Gugich Plantation", amount: 0, stage: "NEW LEAD", isNew: null, notes: "" },
-          { name: "CARDBOARD PALLET STABILISE SHEET", company: "Harvest Road Agribusiness", amount: 0, stage: "NEW LEAD", isNew: "Yes", notes: "540 CARDBOARD PALLET STABILISER SHEETS" },
+          { name: "PALLET STABILISER SHEETS", company: "A & N Gugich Plantation", amount: 0, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: null, notes: "" },
+          { name: "CARDBOARD PALLET STABILISE SHEET", company: "Harvest Road Agribusiness", amount: 0, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "540 CARDBOARD PALLET STABILISER SHEETS" },
           { name: "PALLET SHEETS", company: "Sulli Bros Plantation", amount: 797.5, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "1 X PLT OF PALLET SHEETS(500)\nQUALITY PACKEGIGNG" },
           { name: "ANDREW - PALLET SHEETS", company: "Harvest Road Agribusiness", amount: 2392.5, stage: "PROPOSAL ACCEPTED BY CLIENT", isNew: "Yes", notes: "3 X PLT OF PALLET SHEETS (500 SHEETS PER PLT)\nQUALITY PACKEGING" },
           { name: "ELECTRIC FORKLIFT", company: "GIULIANO CONDO", amount: 0, stage: "NEW LEAD", isNew: "Yes", notes: "PLEASE QUOTE FOR ELECTRIC PALLET TROLLEY 2000KG RATTED" },
@@ -717,7 +717,7 @@
       return (
         <div>
           <h1 style={{textAlign:"center",fontSize:28,fontWeight:800,color:"#fff",marginBottom:4}}>Sales Pipeline Dashboard</h1>
-          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 21 November 2026</p>
+          <p style={{textAlign:"center",fontSize:14,color:"#6e7681",marginBottom:20}}>CGA Growers Association &mdash; Updated 22 November 2026</p>
           <SearchBar allData={OPEN_DATA} onSelect={handleSearchSelect} stageRef={stageRef}/>
           <div style={{display:"flex",gap:50,flexWrap:"wrap",justifyContent:"center"}}>
             <DonutChart data={WON_DATA} title="Won Opportunities" subtitle="deals closed" centerLabel="Total Won"/>

@@ -483,7 +483,7 @@
         "company": "A & N Gugich Plantation",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": null,
         "notes": ""
       },
@@ -493,7 +493,7 @@
         "company": "Harvest Road Agribusiness",
         "amount": 0,
         "status": "open",
-        "stage": "NEW LEAD",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
         "isNew": "Yes",
         "notes": "540 CARDBOARD PALLET STABILISER SHEETS"
       },
