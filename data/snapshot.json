@@ -306,6 +306,16 @@
     "status": "open",
     "opps": [
       {
+        "id": "OAgOiSvyTRfnzDH5NAAS",
+        "name": "Sean Gaylard - Ben Whitcroft",
+        "company": "MIZU",
+        "amount": 6402.58,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Pump with Irrigation fixtures\nQU-04285  dated 20/11/26"
+      },
+      {
         "id": "58jvEHj1nbj6Gl0fahEk",
         "name": "Marija Vrankovich",
         "company": "Vrankovich",
