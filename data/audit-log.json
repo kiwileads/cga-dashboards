@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-11-24T05:07:46.479Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Van Vo",
+    "company": "TV VO, TL NGUYEN & TJ QUYNH",
+    "amount": 5372.92,
+    "status": "won",
+    "message": "New opportunity: Van Vo (ROB's CUSTOM) - $5372.92"
+  },
+  {
+    "date": "2026-11-24T05:07:46.479Z",
+    "type": "value_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Karina & Kevin Sullivan",
+    "company": "Sulli Bros Plantation",
+    "amount": 4857.55,
+    "prevAmount": 12779.92,
+    "message": "Karina & Kevin Sullivan: value changed $12779.92 -> $4857.55 (-7922.37)"
+  },
+  {
+    "date": "2026-11-24T05:07:46.479Z",
+    "type": "status_change",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Harvest Road - Andrew",
+    "company": "Harvest Road Agribusiness",
+    "amount": 1330.56,
+    "prevStatus": "open",
+    "newStatus": "won",
+    "message": "Harvest Road - Andrew: status changed open -> won"
+  },
+  {
     "date": "2026-11-23T01:23:50.483Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
@@ -5091,33 +5122,5 @@
     "amount": 0,
     "status": "open",
     "message": "New opportunity: STOCK TOP UP (FERTILIZER) - $0.00"
-  },
-  {
-    "date": "2026-04-29T21:58:21.002Z",
-    "type": "field_change",
-    "pipeline": "FERTILIZER",
-    "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
-    "company": "BORICH & SONS",
-    "amount": 0,
-    "message": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-04-29T21:58:21.002Z",
-    "type": "field_change",
-    "pipeline": "CHEMICALS",
-    "name": "METALAXYL 250EC - 10L",
-    "company": "CHINNERY & CHAPMAN",
-    "amount": 0,
-    "message": "METALAXYL 250EC - 10L: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-04-22T21:50:14.936Z",
-    "type": "added",
-    "pipeline": "FERTILIZER",
-    "name": "BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION",
-    "company": "BORICH & SONS",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: BULKA ECO PRIME - SEE NOTES FOR BREAKDOWN OF ALLOCATION (FERTILIZER) - $0.00"
   }
 ]

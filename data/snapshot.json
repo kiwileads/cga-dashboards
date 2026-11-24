@@ -302,112 +302,6 @@
     ]
   },
   {
-    "pipelineName": "ROB's CUSTOM",
-    "status": "open",
-    "opps": [
-      {
-        "id": "OAgOiSvyTRfnzDH5NAAS",
-        "name": "Sean Gaylard - Ben Whitcroft",
-        "company": "MIZU",
-        "amount": 6402.58,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Pump with Irrigation fixtures\nQU-04285  dated 20/11/26"
-      },
-      {
-        "id": "58jvEHj1nbj6Gl0fahEk",
-        "name": "Marija Vrankovich",
-        "company": "Vrankovich",
-        "amount": 4314.2,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "2 x EMH-GX390QXER  Honda Pumps\nQU-04284"
-      },
-      {
-        "id": "vGpYdgtTlJjmejrHuayP",
-        "name": "Karina & Kevin Sullivan",
-        "company": "Sulli Bros Plantation",
-        "amount": 12779.92,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "QU-04283  dated 20/11/2026\n1 x WPG-99801297\n1 X WPG-99803258\n1 X WPG-99803536"
-      },
-      {
-        "id": "uzBGr8iFLia8c3O0FiCS",
-        "name": "Harvest Road - Andrew",
-        "company": "Harvest Road Agribusiness",
-        "amount": 1330.56,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "168 x Richgro Potting Mix  (FPM25)\nQU-04279"
-      },
-      {
-        "id": "xSOFnMzvsmmzXD4oVnzS",
-        "name": "David & Debbie Kearney",
-        "company": "CARNARVON ELECTRICS",
-        "amount": 9619.9,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "QU-04278 DATED 17/11/2026"
-      },
-      {
-        "id": "0nJ8K3hSNIXQhScg7Cen",
-        "name": "BQ Luu & TNT Pham",
-        "company": "",
-        "amount": 315.7,
-        "status": "open",
-        "stage": "SHIPPING CONFIRMED",
-        "isNew": "Yes",
-        "notes": "7 x LASP-ARF12SVV  S Tine 32mm x 12mm"
-      },
-      {
-        "id": "tf6jKBkBGTZcZ1SShyN0",
-        "name": "Al Holtham",
-        "company": "Janna",
-        "amount": 308.72,
-        "status": "open",
-        "stage": "P/O GENERATED",
-        "isNew": "Yes",
-        "notes": "QU-04272\n3 X SILGC01000001"
-      },
-      {
-        "id": "SEBcjheFhkHqrKhHvozo",
-        "name": "STAGE 2 - LUCERNE",
-        "company": "M RASO'S CONTRACTING",
-        "amount": 0,
-        "status": "open",
-        "stage": "NEW ORDER/JOB",
-        "isNew": "No",
-        "notes": "60 X RURAL TAPPING SADDLES 50MM X 1\"\n100 X IHRVY37-SPRINKLERS\n100 X FRONT NOZZLES (RED)\n100 X REAR NOZZLES (PINK)\n100 X IHRPPR6025MF - POLY RISER 1500 X 25MM MALE BSP X 20MM FEMALE BSP\n4 X IPF7160006 - RURAL COUPLING"
-      },
-      {
-        "id": "IC8bn4lezXthDgdxXnNE",
-        "name": "Steve Beresford And Shaun Brandenburg",
-        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
-        "amount": 20077.2,
-        "status": "open",
-        "stage": "QUOTE ACCEPTED BY CLIENT",
-        "isNew": "Yes",
-        "notes": "QU-04255"
-      },
-      {
-        "id": "07d7BFN2g8Ld8YUwcBuv",
-        "name": "Duc Nguyen",
-        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
-        "amount": 2369.4,
-        "status": "open",
-        "stage": "PROCUREMENT UNDERWAY",
-        "isNew": "Yes",
-        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
-      }
-    ]
-  },
-  {
     "pipelineName": "IRRIGATION",
     "status": "open",
     "opps": [
@@ -480,6 +374,102 @@
         "stage": "NEW LEAD",
         "isNew": "Yes",
         "notes": "Prospect of complete Automated Watering System (RGD)\nReps will be coming up in April to visit (I have ordered stock for display stand). Cheaper version than Hunter/Galcon and Netafim"
+      }
+    ]
+  },
+  {
+    "pipelineName": "ROB's CUSTOM",
+    "status": "open",
+    "opps": [
+      {
+        "id": "OAgOiSvyTRfnzDH5NAAS",
+        "name": "Sean Gaylard - Ben Whitcroft",
+        "company": "MIZU",
+        "amount": 6402.58,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Pump with Irrigation fixtures\nQU-04285  dated 20/11/26"
+      },
+      {
+        "id": "58jvEHj1nbj6Gl0fahEk",
+        "name": "Marija Vrankovich",
+        "company": "Vrankovich",
+        "amount": 4314.2,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "2 x EMH-GX390QXER  Honda Pumps\nQU-04284"
+      },
+      {
+        "id": "vGpYdgtTlJjmejrHuayP",
+        "name": "Karina & Kevin Sullivan",
+        "company": "Sulli Bros Plantation",
+        "amount": 4857.55,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04283  dated 20/11/2026\n1 X WPG-99803536"
+      },
+      {
+        "id": "xSOFnMzvsmmzXD4oVnzS",
+        "name": "David & Debbie Kearney",
+        "company": "CARNARVON ELECTRICS",
+        "amount": 9619.9,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04278 DATED 17/11/2026"
+      },
+      {
+        "id": "0nJ8K3hSNIXQhScg7Cen",
+        "name": "BQ Luu & TNT Pham",
+        "company": "",
+        "amount": 315.7,
+        "status": "open",
+        "stage": "SHIPPING CONFIRMED",
+        "isNew": "Yes",
+        "notes": "7 x LASP-ARF12SVV  S Tine 32mm x 12mm"
+      },
+      {
+        "id": "tf6jKBkBGTZcZ1SShyN0",
+        "name": "Al Holtham",
+        "company": "Janna",
+        "amount": 308.72,
+        "status": "open",
+        "stage": "P/O GENERATED",
+        "isNew": "Yes",
+        "notes": "QU-04272\n3 X SILGC01000001"
+      },
+      {
+        "id": "SEBcjheFhkHqrKhHvozo",
+        "name": "STAGE 2 - LUCERNE",
+        "company": "M RASO'S CONTRACTING",
+        "amount": 0,
+        "status": "open",
+        "stage": "NEW ORDER/JOB",
+        "isNew": "No",
+        "notes": "60 X RURAL TAPPING SADDLES 50MM X 1\"\n100 X IHRVY37-SPRINKLERS\n100 X FRONT NOZZLES (RED)\n100 X REAR NOZZLES (PINK)\n100 X IHRPPR6025MF - POLY RISER 1500 X 25MM MALE BSP X 20MM FEMALE BSP\n4 X IPF7160006 - RURAL COUPLING"
+      },
+      {
+        "id": "IC8bn4lezXthDgdxXnNE",
+        "name": "Steve Beresford And Shaun Brandenburg",
+        "company": "DEPARTMENT OF WATER & ENVIRONMENTAL REGULATION",
+        "amount": 20077.2,
+        "status": "open",
+        "stage": "QUOTE ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "QU-04255"
+      },
+      {
+        "id": "07d7BFN2g8Ld8YUwcBuv",
+        "name": "Duc Nguyen",
+        "company": "VD NGUYEN FAMILY TRUST COMPANY PTY LTD",
+        "amount": 2369.4,
+        "status": "open",
+        "stage": "PROCUREMENT UNDERWAY",
+        "isNew": "Yes",
+        "notes": "Was informed that Duc had a Volumex unit that the motor needed replacing.\nHave spoken to Duc and he is considering buying the motor.\n"
       }
     ]
   },
@@ -876,6 +866,16 @@
     "status": "won",
     "opps": [
       {
+        "id": "Nb7R3csyO96Afu2vpOSG",
+        "name": "Van Vo",
+        "company": "TV VO, TL NGUYEN & TJ QUYNH",
+        "amount": 5372.92,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "Wire 2.8mm x 1000m  x 8\nwire 2.0mm x 4000m  x 6\nWire rope grip 8mm   x 20"
+      },
+      {
         "id": "ASYw2gKMKvFwPshrP70B",
         "name": "Harvest Road",
         "company": "Harvest Road Agribusiness",
@@ -884,6 +884,16 @@
         "stage": "COLLECTED BY CUSTOMER",
         "isNew": "Yes",
         "notes": ""
+      },
+      {
+        "id": "uzBGr8iFLia8c3O0FiCS",
+        "name": "Harvest Road - Andrew",
+        "company": "Harvest Road Agribusiness",
+        "amount": 1330.56,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "Yes",
+        "notes": "168 x Richgro Potting Mix  (FPM25)\nQU-04279"
       },
       {
         "id": "SZCYBrldK9kq4hTMGfX2",
