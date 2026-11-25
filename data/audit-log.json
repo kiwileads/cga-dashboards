@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-11-25T03:56:32.394Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Vo & Nguyen",
+    "company": "TV VO, TL NGUYEN & TJ QUYNH",
+    "amount": 2750,
+    "status": "open",
+    "message": "New opportunity: Vo & Nguyen (ROB's CUSTOM) - $2750.00"
+  },
+  {
+    "date": "2026-11-25T03:56:32.394Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Vo Nguyen",
+    "company": "TV VO, TL NGUYEN & TJ QUYNH",
+    "amount": 5527.78,
+    "status": "open",
+    "message": "New opportunity: Vo Nguyen (ROB's CUSTOM) - $5527.78"
+  },
+  {
+    "date": "2026-11-25T03:56:32.394Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Jaison Joseph",
+    "company": "JAISON FAMILY PLANTATION TRUST",
+    "amount": 1127.81,
+    "status": "won",
+    "message": "New opportunity: Jaison Joseph (ROB's CUSTOM) - $1127.81"
+  },
+  {
     "date": "2026-11-24T05:07:46.479Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
@@ -5093,34 +5123,5 @@
     "prevStatus": "open",
     "newStatus": "won",
     "message": "Machinery Spares: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "renamed",
-    "pipeline": "ROB's CUSTOM",
-    "name": "Machinery Spares",
-    "company": "199 North River Road",
-    "amount": 2369.4,
-    "message": "Renamed: \"Christopher Leca\" -> \"Machinery Spares\""
-  },
-  {
-    "date": "2026-04-30T21:55:31.141Z",
-    "type": "added",
-    "pipeline": "CUSTOM BOXES",
-    "name": "THE MAD MELON BOX",
-    "company": "SKENDER PTY LTD",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: THE MAD MELON BOX (CUSTOM BOXES) - $0.00"
-  },
-  {
-    "date": "2026-04-29T21:58:21.002Z",
-    "type": "added",
-    "pipeline": "FERTILIZER",
-    "name": "STOCK TOP UP",
-    "company": "CGA",
-    "amount": 0,
-    "status": "open",
-    "message": "New opportunity: STOCK TOP UP (FERTILIZER) - $0.00"
   }
 ]
