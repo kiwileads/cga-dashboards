@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-26T03:21:58.852Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 25T - 2/12/26",
+    "company": "BUMBAK & SONS",
+    "amount": 0,
+    "status": "open",
+    "message": "New opportunity: LEICHHARDT - GYPSOM 25T - 2/12/26 (FERTILIZER) - $0.00"
+  },
+  {
     "date": "2026-11-25T03:56:32.394Z",
     "type": "added",
     "pipeline": "ROB's CUSTOM",
@@ -5112,16 +5122,5 @@
     "prevStatus": "open",
     "newStatus": "won",
     "message": "THE PHUONG TRINH: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "Machinery Spares",
-    "company": "199 North River Road",
-    "amount": 2369.4,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "Machinery Spares: status changed open -> won"
   }
 ]
