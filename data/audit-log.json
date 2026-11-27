@@ -1,5 +1,149 @@
 [
   {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "added",
+    "pipeline": "FERTILIZER",
+    "name": "ECO GROWTH PRE PLANT 20KG - JAN 2027",
+    "company": "SKENDER PTY LTD",
+    "amount": 2476.14,
+    "status": "open",
+    "message": "New opportunity: ECO GROWTH PRE PLANT 20KG - JAN 2027 (FERTILIZER) - $2476.14"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "added",
+    "pipeline": "ROB's CUSTOM",
+    "name": "Quac Su Tran",
+    "company": "",
+    "amount": 2875.6,
+    "status": "won",
+    "message": "New opportunity: Quac Su Tran (ROB's CUSTOM) - $2875.60"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 25T - 2/12/26",
+    "company": "BUMBAK & SONS",
+    "amount": 1625,
+    "prevAmount": 0,
+    "message": "LEICHHARDT - GYPSOM 25T - 2/12/26: value changed $0.00 -> $1625.00 (+1625.00)"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 50T",
+    "company": "TRAN & DINH",
+    "amount": 3575,
+    "prevAmount": 0,
+    "message": "LEICHHARDT - GYPSOM 50T: value changed $0.00 -> $3575.00 (+3575.00)"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT GYPSOM 25 TONE",
+    "company": "CAIDAN PRODUCE PTY LTD",
+    "amount": 1786.5,
+    "prevAmount": 1625,
+    "message": "LEICHHARDT GYPSOM 25 TONE: value changed $1625.00 -> $1786.50 (+161.50)"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GUPSOM 200T MAR-JUN 2027",
+    "company": "SKENDER PTY LTD",
+    "amount": 14300,
+    "prevAmount": 13000,
+    "message": "LEICHHARDT - GUPSOM 200T MAR-JUN 2027: value changed $13000.00 -> $14300.00 (+1300.00)"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "renamed",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GUPSOM 200T MAR-JUN 2027",
+    "company": "SKENDER PTY LTD",
+    "amount": 14300,
+    "message": "Renamed: \"LEICHHARDT - GUPSOM\" -> \"LEICHHARDT - GUPSOM 200T MAR-JUN 2027\""
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 50 TONE",
+    "company": "MUNDILLYA FARM PTY LTD",
+    "amount": 3575,
+    "prevAmount": 3250,
+    "message": "LEICHHARDT - GYPSOM 50 TONE: value changed $3250.00 -> $3575.00 (+325.00)"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "renamed",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 50 TONE",
+    "company": "MUNDILLYA FARM PTY LTD",
+    "amount": 3575,
+    "message": "Renamed: \"LEICHHARDT - GYPSOM\" -> \"LEICHHARDT - GYPSOM 50 TONE\""
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 50 TONE JAN 2027",
+    "company": "Sunstar mangoes",
+    "amount": 3575,
+    "prevAmount": 3250,
+    "message": "LEICHHARDT - GYPSOM 50 TONE JAN 2027: value changed $3250.00 -> $3575.00 (+325.00)"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "renamed",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHHARDT - GYPSOM 50 TONE JAN 2027",
+    "company": "Sunstar mangoes",
+    "amount": 3575,
+    "message": "Renamed: \"LEICHHARDT - GYPSOM\" -> \"LEICHHARDT - GYPSOM 50 TONE JAN 2027\""
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "value_change",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHARDT - GYPSOM 150 TONE NOV -MAR 2027",
+    "company": "GIULIANO CONDO",
+    "amount": 10725,
+    "prevAmount": 9750,
+    "message": "LEICHARDT - GYPSOM 150 TONE NOV -MAR 2027: value changed $9750.00 -> $10725.00 (+975.00)"
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "renamed",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHARDT - GYPSOM 150 TONE NOV -MAR 2027",
+    "company": "GIULIANO CONDO",
+    "amount": 10725,
+    "message": "Renamed: \"LEICHARDT - GYPSOM\" -> \"LEICHARDT - GYPSOM 150 TONE NOV -MAR 2027\""
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "renamed",
+    "pipeline": "FERTILIZER",
+    "name": "LEICHARDT - GYPSOM 25 TONE JAN 2027",
+    "company": "CHRIS LECA",
+    "amount": 1625,
+    "message": "Renamed: \"LEICHARDT - GYPSOM \" -> \"LEICHARDT - GYPSOM 25 TONE JAN 2027\""
+  },
+  {
+    "date": "2026-11-27T03:28:44.410Z",
+    "type": "renamed",
+    "pipeline": "FERTILIZER",
+    "name": "FERTILIZER ORDER 2027 ",
+    "company": "Hi-Way Plantation",
+    "amount": 49765.22,
+    "message": "Renamed: \"FERTILIZER ORDER 2027\" -> \"FERTILIZER ORDER 2027 \""
+  },
+  {
     "date": "2026-11-26T03:21:58.852Z",
     "type": "added",
     "pipeline": "FERTILIZER",
@@ -4963,164 +5107,5 @@
     "amount": 2041.88,
     "status": "open",
     "message": "Removed: SOUG - MULTISTAGE PUMP - WPF-MHQP-MINI (ROB's CUSTOM) - $2041.88"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "removed",
-    "pipeline": "ROB's CUSTOM",
-    "name": "Sean Walker",
-    "company": "Shire of Upper Gascoyne",
-    "amount": 2042,
-    "status": "open",
-    "message": "Removed: Sean Walker (ROB's CUSTOM) - $2042.00"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "field_change",
-    "pipeline": "CUSTOM BOXES",
-    "name": "Quoc Su Thi Thanh Tran Dinh",
-    "company": "TRAN & DINH",
-    "amount": 45000,
-    "message": "Quoc Su Thi Thanh Tran Dinh: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "field_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "DOSING PUMP",
-    "company": "CORAL COAST PLUMBING PTY LTD",
-    "amount": 1023,
-    "message": "DOSING PUMP: \"New Business\" changed Not Set -> Yes"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "DAVEY IMPELLER KIT, NECK RING, O-RING",
-    "company": "MATTHEW HOLLA",
-    "amount": 103,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "DAVEY IMPELLER KIT, NECK RING, O-RING: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "YELLOW SUCTION FILTER",
-    "company": "BQ LUU & TNT PHAM",
-    "amount": 93,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "YELLOW SUCTION FILTER: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "CRI 5-12-A (MECHANICAL SEAL DOSING PUMP)",
-    "company": "SORICO PLANTATION",
-    "amount": 370,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "CRI 5-12-A (MECHANICAL SEAL DOSING PUMP): status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "FITTINGS - LAKE MCLEOD",
-    "company": "LEICHARDT",
-    "amount": 209.01,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "FITTINGS - LAKE MCLEOD: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "Leichardt Scott Medhurst",
-    "company": "LEICHARDT",
-    "amount": 962.5,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "Leichardt Scott Medhurst: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "value_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "NMC PRO - LEXAN",
-    "company": "J & P CONSTANTINE",
-    "amount": 573,
-    "prevAmount": 525.25,
-    "message": "NMC PRO - LEXAN: value changed $525.25 -> $573.00 (+47.75)"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "NMC PRO - LEXAN",
-    "company": "J & P CONSTANTINE",
-    "amount": 573,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "NMC PRO - LEXAN: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "HDPE S/S REPAIR CLAMP x 2",
-    "company": "",
-    "amount": 559.9,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "HDPE S/S REPAIR CLAMP x 2: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "Kevin & Karina Sullivan",
-    "company": "Sulli Bros Plantation",
-    "amount": 2500,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "Kevin & Karina Sullivan: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "JASON & KYLIE CHAPLIN",
-    "company": "CORAL COAST PLUMBING PTY LTD",
-    "amount": 1070,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "JASON & KYLIE CHAPLIN: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "Dennis Durmanich",
-    "company": "DOUBLE UP FARMS PTY LTD",
-    "amount": 615.12,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "Dennis Durmanich: status changed open -> won"
-  },
-  {
-    "date": "2026-05-01T21:52:30.157Z",
-    "type": "status_change",
-    "pipeline": "ROB's CUSTOM",
-    "name": "THE PHUONG TRINH",
-    "company": "PHUONG & BE BA",
-    "amount": 251.5,
-    "prevStatus": "open",
-    "newStatus": "won",
-    "message": "THE PHUONG TRINH: status changed open -> won"
   }
 ]

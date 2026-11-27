@@ -4,14 +4,24 @@
     "status": "open",
     "opps": [
       {
+        "id": "Ix0owIKDHzYcUt3Mh6cz",
+        "name": "ECO GROWTH PRE PLANT 20KG - JAN 2027",
+        "company": "SKENDER PTY LTD",
+        "amount": 2476.14,
+        "status": "open",
+        "stage": "PROPOSAL ACCEPTED BY CLIENT",
+        "isNew": "Yes",
+        "notes": "1 X 54 ECO GROWTH PRE PLANT 20KG"
+      },
+      {
         "id": "ubMMu4ahSHatm98bvU9X",
         "name": "LEICHHARDT - GYPSOM 25T - 2/12/26",
         "company": "BUMBAK & SONS",
-        "amount": 0,
+        "amount": 1625,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "25 TONE GYPSOM"
+        "notes": "25 TONE GYPSOM\n27/11/26 - SALE ORDER # ORD-490123"
       },
       {
         "id": "MBrtpRnkyhUOBD1zEajm",
@@ -27,21 +37,21 @@
         "id": "wePbjjF0e1hne3xk5TZu",
         "name": "LEICHHARDT - GYPSOM 50T",
         "company": "TRAN & DINH",
-        "amount": 0,
+        "amount": 3575,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": " QUOTE \n50 TONE GYPSOM \n\\$65+GST PER TONE"
+        "notes": " QUOTE \n50 TONE GYPSOM \n27/11/26 - SALES ORDER # ORD-490127"
       },
       {
         "id": "pGONhsXtcwFRU72uUJyr",
         "name": "LEICHHARDT GYPSOM 25 TONE",
         "company": "CAIDAN PRODUCE PTY LTD",
-        "amount": 1625,
+        "amount": 1786.5,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": ""
+        "notes": "25 TONE GYPSOM\n27/11/26 - SALES ORDER # ORD-490128"
       },
       {
         "id": "LefGEM73sZh6MVkA3pEk",
@@ -85,13 +95,13 @@
       },
       {
         "id": "2aodqU6C95gURYmCK4eW",
-        "name": "LEICHHARDT - GUPSOM",
+        "name": "LEICHHARDT - GUPSOM 200T MAR-JUN 2027",
         "company": "SKENDER PTY LTD",
-        "amount": 13000,
+        "amount": 14300,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "200 TONE GYPSOM BETWEEN MARCH - JUNE 2027"
+        "notes": "200 TONE GYPSOM BETWEEN MARCH - JUNE 2027\n27/11/26 - SALES ORDER # ORD-490129"
       },
       {
         "id": "fPJCrbCs1uFeUjHaKfrp",
@@ -105,37 +115,37 @@
       },
       {
         "id": "wv0H9LqCvGFVjjrmfizw",
-        "name": "LEICHHARDT - GYPSOM",
+        "name": "LEICHHARDT - GYPSOM 50 TONE",
         "company": "MUNDILLYA FARM PTY LTD",
-        "amount": 3250,
+        "amount": 3575,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "50 TO GYPSOM"
+        "notes": "50 TONE GYPSOM\n27/11/26 - SALES ORDER # ORD-490130"
       },
       {
         "id": "ZCzgKA3hH4TrGyZ5MdhQ",
-        "name": "LEICHHARDT - GYPSOM",
+        "name": "LEICHHARDT - GYPSOM 50 TONE JAN 2027",
         "company": "Sunstar mangoes",
-        "amount": 3250,
+        "amount": 3575,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "50 TONE GYPSOM"
+        "notes": "50 TONE GYPSOM\nSALES ORDER # ORD-490131"
       },
       {
         "id": "u8UT5QsGuMo60AsIxvFN",
-        "name": "LEICHARDT - GYPSOM",
+        "name": "LEICHARDT - GYPSOM 150 TONE NOV -MAR 2027",
         "company": "GIULIANO CONDO",
-        "amount": 9750,
+        "amount": 10725,
         "status": "open",
         "stage": "NEW LEAD",
         "isNew": "Yes",
-        "notes": "150 TONE GYPSOM"
+        "notes": "6 X 25T LOADS\n150 TONE GYPSOM\n27/11/26 - SALES ORDER # ORD-490132"
       },
       {
         "id": "v0O3nQ9QHrLLGg2hmxSx",
-        "name": "LEICHARDT - GYPSOM ",
+        "name": "LEICHARDT - GYPSOM 25 TONE JAN 2027",
         "company": "CHRIS LECA",
         "amount": 1625,
         "status": "open",
@@ -155,7 +165,7 @@
       },
       {
         "id": "dcy8IQ2jevoqOB3hJJEf",
-        "name": "FERTILIZER ORDER 2027",
+        "name": "FERTILIZER ORDER 2027 ",
         "company": "Hi-Way Plantation",
         "amount": 49765.22,
         "status": "open",
@@ -895,6 +905,16 @@
     "pipelineName": "ROB's CUSTOM",
     "status": "won",
     "opps": [
+      {
+        "id": "Ks49ERxJ6CpbdTXsk8A6",
+        "name": "Quac Su Tran",
+        "company": "",
+        "amount": 2875.6,
+        "status": "won",
+        "stage": "COLLECTED BY CUSTOMER",
+        "isNew": "No",
+        "notes": "1 x Metham Sodium 1000 ltr\n2 x Coulter Disc 22\""
+      },
       {
         "id": "AUAZ6SEQG36BdCZRg8iV",
         "name": "Jaison Joseph",
